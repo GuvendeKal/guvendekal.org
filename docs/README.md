@@ -8,14 +8,10 @@
 - [Mahremiyet](https://guvendekal.org/mahremiyet)
 - [Gizlilik](https://guvendekal.org/gizlilik)
 
----
-
 ## Yararlı Bağlantılar 
 
 🔗 [Bilinçli Teknoloji Tüketicileri](https://www.privacyguides.org/en/) <br>
 🔗 [Privacy Guides](https://www.privacyguides.org/en/)
-
----
 
 ## Kategoriler
 
