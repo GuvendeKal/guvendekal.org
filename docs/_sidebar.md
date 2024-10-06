@@ -4,6 +4,7 @@
 
 # Nedir
 * [Başlangıç](README.md)
+* [Açık Kaynak](acik-kaynak.md)
 * [Gizlilik](gizlilik.md)
 * [Mahremiyet](mahremiyet.md)
 
