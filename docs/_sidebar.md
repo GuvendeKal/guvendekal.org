@@ -1,7 +1,3 @@
-![Logo](images/logo.png)
-
----
-
 # Nedir
 * [Başlangıç](README.md)
 * [Gizlilik](gizlilik.md)
