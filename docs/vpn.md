@@ -12,12 +12,29 @@ Ayrıca, yayın platformlarında bulunan farklı ülkelerdeki içeriklere erişi
 
 Aşağıda gizlilik ve veri güvenliği konusunda kendini kanıtlamış platformları paylaşacağız.
 
-### [Mullvad VPN](https://mullvad.net)
+## [Mullvad VPN](https://mullvad.net)
+
+![mullvad](images/mullvad.png)
+
+
 Mullvad, gizliliği ön plana çıkaran bir VPN hizmetidir. Kullanıcıları tanımlamak için elektronik posta veya kullanıcı adları yerine 16 karakterli hesap numaraları kullanır, bu sayede VPN hesabınızın sizin aktivitelerinize eşleştirilmesini zorlar.
-#### Daha fazlası:
+### Daha fazlası:
 
 **Ülke:** İsveç
 
 **Sunucu sayısı:** 650'den fazla
 
-**Fiyat:** 5€
+**Fiyat:** 5€ Aylık
+
+**Açık Kaynak:** [Evet](https://github.com/mullvad/mullvadvpn-app)
+
+**Gizlilik Politikası**: [https://mullvad.net/en/help/privacy-policy](https://mullvad.net/en/help/privacy-policy)
+
+> 2023 yılında İsveç polisi tarafındna Mullvad VPN sunucularına erişilmeye çalışıldı ancak kayıt tutulmadığı için kullanıcı bilgileri İsveç polisinin eline geçmedi. [Kaynak1](https://www.pcmag.com/news/mullvad-vpn-hit-with-search-warrant-in-attempted-police-raid) [Kaynak2](https://www.theverge.com/2023/4/21/23692580/mullvad-vpn-raid-sweden-police)
+
+## [Proton VPN]([https://mullvad.net](https://protonvpn.com/))
+
+![proton](images/proton.png)
+
+
+
