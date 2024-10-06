@@ -26,6 +26,14 @@
 * [Takvim Uygulamaları](takvim.md)
 * [Kripto Cüzdanlar](kripto.md)
 
+# Dosya
+
+* [Dosya Saklama](dosya-saklama.md)
+* [Dosya Aktarma](dosya-aktarma.md)
+* [Dosya Sıkıştırma](dosya-sikistirme.md)
+* [Dosya Şifreleme](dosya-sifreleme.md)
+* [Dosya Dönüştürme](dosya-donusturme.md)
+
 # Dokümantasyon
 * [Katkıda Bulunanlar](katki.md)
 * [Ekleme Yapmak](ekleme.md)
