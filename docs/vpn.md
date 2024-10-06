@@ -31,7 +31,7 @@ Mullvad, gizliliği ön plana çıkaran bir VPN hizmetidir. Kullanıcıları tan
 
 **Gizlilik Politikası**: [https://mullvad.net/en/help/privacy-policy](https://mullvad.net/en/help/privacy-policy)
 
-> 2023 yılında İsveç polisi tarafındna Mullvad VPN sunucularına erişilmeye çalışıldı ancak kayıt tutulmadığı için kullanıcı bilgileri İsveç polisinin eline geçmedi. [Kaynak1](https://www.pcmag.com/news/mullvad-vpn-hit-with-search-warrant-in-attempted-police-raid) [Kaynak2](https://www.theverge.com/2023/4/21/23692580/mullvad-vpn-raid-sweden-police)
+> 2023 yılında İsveç polisi tarafından Mullvad VPN sunucularına erişilmeye çalışıldı ancak kayıt tutulmadığı için kullanıcı bilgileri İsveç polisinin eline geçmedi. [Kaynak1](https://www.pcmag.com/news/mullvad-vpn-hit-with-search-warrant-in-attempted-police-raid) [Kaynak2](https://www.theverge.com/2023/4/21/23692580/mullvad-vpn-raid-sweden-police)
 
 ## [Proton VPN](https://protonvpn.com/)
 
