@@ -29,9 +29,11 @@
     * [Torrent İstemcileri](https://guvendekal.org/torrent)
     * [RSS OKuyucular](https://guvendekal.org/rss)
     * [Takvim Uygulamaları](https://guvendekal.org/takvim)
-    * [Kripto Cüzdan](https://guvendekal.org/kripto)   
+    * [Kripto Cüzdan](https://guvendekal.org/kripto)
 
-
-
-
- 
+* Dosya
+   * [Dosya Saklama](https://guvendekal.org/dosya-saklama)
+   * [Dosya Aktarma](https://guvendekal.org/dosya-aktarma)
+   * [Dosya Sıkıştırma](https://guvendekal.org/dosya-sikistirma)
+   * [Dosya Şifreleme](https://guvendekal.org/dosya-sifreleme)
+   * [Dosya Dönüştürme](https://guvendekal.org/dosya-donusturme)
