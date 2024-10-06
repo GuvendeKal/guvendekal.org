@@ -8,7 +8,7 @@
 
 # Katkı
 
-Menüye kateogri, sayfa eklemek ve düzenlemek için [buraya](https://github.com/GokturkTalha/guvendekal.org/blob/main/docs/_sidebar.md) bakabilirsiniz.
+Menüye kategori, sayfa eklemek ve düzenlemek için [buraya](https://github.com/GokturkTalha/guvendekal.org/blob/main/docs/_sidebar.md) bakabilirsiniz.
 
 Sayfaları düzenlemek ve eklemek için [buraya](https://github.com/GokturkTalha/guvendekal.org/tree/main/docs) bakabilirsiniz.
 
