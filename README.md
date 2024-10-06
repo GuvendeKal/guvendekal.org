@@ -2,7 +2,7 @@
 
 # Hakkında
 
-**Güvende Kal**, bireylerin internet üzerindeki mahremiyetlerini ve veri güvenliklerini korumalarına yardımcı olmayı hedefleyen bir projeler. 
+**Güvende Kal**, bireylerin internet üzerindeki mahremiyetlerini ve veri güvenliklerini korumalarına yardımcı olmayı hedefleyen bir projedir.
 
 - *guvendekal.org üzerinde tanıtılan ve önerilen uygulamalar ile guvenkal.org'un bir bağlantısı yoktur. guvendekal.org herhangi bir kâr amacı gütmez.*
 
