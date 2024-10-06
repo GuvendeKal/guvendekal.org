@@ -30,7 +30,7 @@
 
 * [Dosya Saklama](dosya-saklama.md)
 * [Dosya Aktarma](dosya-aktarma.md)
-* [Dosya Sıkıştırma](dosya-sikistirme.md)
+* [Dosya Sıkıştırma](dosya-sikistirma.md)
 * [Dosya Şifreleme](dosya-sifreleme.md)
 * [Dosya Dönüştürme](dosya-donusturme.md)
 
