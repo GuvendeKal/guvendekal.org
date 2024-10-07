@@ -36,5 +36,6 @@
 
 # Dokümantasyon
 * [Katkıda Bulunanlar](katkida-bulunanlar.md)
+* [İçerik Kuralları](icerik-kurallari.md)
 * [Ekleme Yapmak](ekleme.md)
     * [Biçimlendirme](bicimlendirme.md)
