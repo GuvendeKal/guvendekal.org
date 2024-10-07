@@ -35,6 +35,6 @@
 * [Dosya Dönüştürme](dosya-donusturme.md)
 
 # Dokümantasyon
-* [Katkıda Bulunanlar](katki.md)
+* [Katkıda Bulunanlar](katkida-bulunanlar.md)
 * [Ekleme Yapmak](ekleme.md)
-    *[Biçimlendirme](bicimlendirme.md)
+    * [Biçimlendirme](bicimlendirme.md)
