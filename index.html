@@ -92,11 +92,23 @@
         loadSidebar: true,
         sidebar: '_sidebar.md',
         logo: 'images/logo.png',
+        pagination: {
+          previousText: 'Önceki Sayfa',
+          nextText: 'Sonraki Sayfa',
+          crossChapter: true,
+          crossChapterText: true,
+        },
         plugins: [
-          EditOnGithubPlugin.create("https://github.com/GokturkTalha/guvendekal.org/tree/main/docs/", "", "✏️ Github'da Düzenle")
+          EditOnGithubPlugin.create(
+            "https://github.com/GuvendeKal/guvendekal.org/tree/main/docs/", 
+            "",
+            "✏️ Github'da Düzenle")
         ]
       };
     </script>
-    <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+    <!-- docsify -->
+    <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+    <!-- plugins -->
+    <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
     </body>
 </html>
