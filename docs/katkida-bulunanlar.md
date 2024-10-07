@@ -1,5 +1,7 @@
 # Katkıda Bulunanlar
 
-> Eklenecek
+?> Bütün katkı yapanlara [buradan](https://github.com/GokturkTalha/guvendekal.org/graphs/contributors) bakabilirsiniz
 
-> Düzenlemek için [buraya](https://github.com/GokturkTalha/guvendekal.org/blob/main/docs/katki.md) bakabilirsiniz
+- [GokturkTalha](https://github.com/GokturkTalha)
+- [islemci](https://github.com/islemci)
+- [odest](https://github.com/odest)
