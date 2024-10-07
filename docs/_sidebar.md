@@ -12,19 +12,19 @@
 # Sağlayıcılar
 * [VPN Servisleri](vpn.md)
 * [DNS Servisleri](dns.md)
-* [Arama Motorları](arama.md)
-* [Web Tarayıcı](web.md)
-* [E-posta Servisleri](posta.md)
+* [Arama Motorları](arama-motorlari.md)
+* [Web Tarayıcı](web-tarayicilari.md)
+* [E-posta Servisleri](posta-servisleri.md)
 
 
 # Uygulamalar
-* [Mesajlaşma Uygulamaları](mesaj.md)
-* [Sosyal Ağlar](sosyal.md)
-* [Şifre Yöneticisi](sifre.md)
-* [Torrent İstemcileri](torrent.md)
-* [RSS Okuyucuları](rss.md)
-* [Takvim Uygulamaları](takvim.md)
-* [Kripto Cüzdanlar](kripto.md)
+* [Mesajlaşma Uygulamaları](mesajlasma-uygulamalari.md)
+* [Sosyal Ağlar](sosyal-aglar.md)
+* [Şifre Yöneticisi](sifre-yoneticileri.md)
+* [Torrent İstemcileri](torrent-istemcileri.md)
+* [RSS Okuyucuları](rss-istemcileri.md)
+* [Takvim Uygulamaları](takvim-uygulamalari.md)
+* [Kripto Cüzdanlar](kripto-cuzdanlari.md)
 
 # Dosya
 
@@ -35,5 +35,6 @@
 * [Dosya Dönüştürme](dosya-donusturme.md)
 
 # Dokümantasyon
-* [Katkıda Bulunanlar](katki.md)
+* [Katkıda Bulunanlar](katkida-bulunanlar.md)
 * [Ekleme Yapmak](ekleme.md)
+    * [Biçimlendirme](bicimlendirme.md)
