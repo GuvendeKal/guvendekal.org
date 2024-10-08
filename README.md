@@ -2,13 +2,16 @@
 
 # Hakkında
 
-**Güvende Kal**, bireylerin internet üzerindeki mahremiyetlerini ve veri güvenliklerini korumalarına yardımcı olmayı hedefleyen bir projedir.
+[Güvende Kal](https://guvendekal.org/#/), bireylerin internet üzerindeki mahremiyetlerini, gizliliklerini veri güvenliklerini korumalarına yardımcı olmayı hedefleyen bir projedir.
 
-- *guvendekal.org üzerinde tanıtılan ve önerilen uygulamalar ile guvenkal.org'un bir bağlantısı yoktur. guvendekal.org herhangi bir kâr amacı gütmez.*
+Bireylerin internet üzerindeki haklarını ve gizliliklerini koruma konusunda bilinçlenmelerini teşvik ederek, daha güvenli bir dijital ortam yaratmayı hedeflemektedir.
+
+Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlamak amacıyla çeşitli kaynaklar, bilgiler, araçlar ve yazılımlar sunar.
 
 # Katkı
 
-Menüye kategori, sayfa eklemek ve düzenlemek için [buraya](https://github.com/GokturkTalha/guvendekal.org/blob/main/docs/_sidebar.md) bakabilirsiniz.
+- Ekleme yapmak için [buraya](https://guvendekal.org/#/ekleme) bakabilirsiniz.
+- İçerik kurallarına bakmak için [buraya](https://guvendekal.org/#/icerik-kurallari) bakabilirsiniz
+- Katkıda bulunanlar için [buraya](https://guvendekal.org/#/katkida-bulunanlar) bakabilirsiniz
 
-Sayfaları düzenlemek ve eklemek için [buraya](https://github.com/GokturkTalha/guvendekal.org/tree/main/docs) bakabilirsiniz.
 
