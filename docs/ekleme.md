@@ -2,7 +2,11 @@
 
 Güvende Kal projesi herkesin katkı yapabileceği açık bir projedir.
 
-?> Katkıda bulunmak için [Github depomuza](https://github.com/GokturkTalha/guvendekal.org) ziyaret edebilirsin.
+?> Katkıda bulunmak için [**Github depomuza**](https://github.com/GokturkTalha/guvendekal.org) ziyaret edebilirsin.
+
+### İçerik Kuralları
+
+İçerikleri yazarken uymanız gereken kurallara [**İçerik Kuralları**](https://guvendekal.org/#/icerik-kurallari) sayfasından erişebilirsiniz.
 
 ### Biçimlendirme
 
@@ -41,28 +45,35 @@ Sol menü, Github deposunda `guvendekal.org/docs/` klasöründe bulunan `_sideba
 
 ```
 # Dokümantasyon
-* [Katkıda Bulunanlar](katki.md)
-* [Ekleme Yapmak](ekleme.md)
-    *[Biçimlendirme](bicimlendirme.md)
+# <i class="fa-solid fa-bars"></i> Dokümantasyon
+* [<i class="fas fa-user"></i> Katkıda Bulunanlar](katkida-bulunanlar.md)
+* [<i class="fas fa-file-alt"></i> İçerik Kuralları](icerik-kurallari.md)
+* [<i class="fas fa-pencil-alt"></i> Ekleme Yapmak](ekleme.md)
+    * [<i class="fas fa-text-width"></i> Biçimlendirme](bicimlendirme.md)
 ```
 
 Örneğin sizin gördüğünüz sol menü böyle. Buraya açtığınız `ornek-dosya-nasil-olusturulur.md` dosyasını eklemek isterseniz:
 
 ```
-# Dokümantasyon
-* [Katkıda Bulunanlar](katki.md)
-* [Ekleme Yapmak](ekleme.md)
-    *[Biçimlendirme](bicimlendirme.md)
+# <i class="fa-solid fa-bars"></i> Dokümantasyon
+* [<i class="fas fa-user"></i> Katkıda Bulunanlar](katkida-bulunanlar.md)
+* [<i class="fas fa-file-alt"></i> İçerik Kuralları](icerik-kurallari.md)
+* [<i class="fas fa-pencil-alt"></i> Ekleme Yapmak](ekleme.md)
+    * [<i class="fas fa-text-width"></i> Biçimlendirme](bicimlendirme.md)
 * [Dosya Oluşturma](ornek-dosya-nasil-olusturulur.md)
 ```
 
-Şeklinde ekleyebilirsiniz. 
+Şeklinde ekleyebilirsiniz. İkon eklemek için [**Font Awesome**](https://fontawesome.com/icons) sitesinden aldığınız ikonun kodunu [ ] arasına en başa yazabilirsiniz. 
 
-!> Menüde görünecek isim kısaltılabilir. Örneğin, "Örnek Dosya Nasıl Oluşturulur" yerine "Dosya Oluşturma" şeklinde ekleyebilirsiniz.
+Örnek `[<i class="fa-solid fa-gear"></i> Dosya Oluşturma]` şeklinde ekleyebilirsiniz. İkon kodunu almak için seçtiğiniz ikonun üstüne tıklayabilirsiniz.
+ 
+?> Menüde görünecek isim kısaltılabilir. Örneğin, "Örnek Dosya Nasıl Oluşturulur" yerine "Dosya Oluşturma" şeklinde ekleyebilirsiniz.
 
-### Resim nasıl eklenir?
+### Görsel nasıl eklenir?
 
-> Bu bölüm eklenecektir.
+Görseller `guvendekal.org/docs/images/` klasörüne yüklenir. Bu klasöre eklediğiniz `guvendekal.png` adlı görseli bir yazıya eklemek için `![Resim Açıklaması](images/guvendekal.png)` kodunu kullanabilirsiniz. 
+
+!> Görsel ismini, uzantısını ve dosya konumunu doğru yazdığınıza emin olunuz. [ ] kısmı, herhangi sorunda (internet-sunucu sorunlarında) resmin yüklenmemesi gibi bir sorun çıkartırsa insanlara resmin açıklamasını gösterecektir.
 
 ### Dökümantasyon yazarken dikkat edilmesi gerekenler
 
