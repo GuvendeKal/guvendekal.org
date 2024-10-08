@@ -1,3 +1,3 @@
-# 2 Faktörkü Doğrulama
+# 2 Faktörlü Doğrulama
 
 > Eklenecek
