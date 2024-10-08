@@ -2,40 +2,37 @@
 
 ---
 
-# Nedir
-* [Başlangıç](README.md)
-* [Açık Kaynak](acik-kaynak.md)
-* [Gizlilik](gizlilik.md)
-* [Mahremiyet](mahremiyet.md)
+# <i class="fa-solid fa-bars"></i> Nedir
+* [<i class="fa-solid fa-house"></i> Başlangıç](README.md)
+* [<i class="fas fa-code"></i> Açık Kaynak](acik-kaynak.md)
+* [<i class="fas fa-eye-slash"></i> Gizlilik](gizlilik.md)
+* [<i class="fa-solid fa-fingerprint"></i> Mahremiyet](mahremiyet.md)
 
+# <i class="fa-solid fa-bars"></i> Sağlayıcılar
+* [<i class="fas fa-server"></i> VPN Servisleri](vpn.md)
+* [<i class="fa-solid fa-network-wired"></i> DNS Servisleri](dns.md)
+* [<i class="fas fa-search"></i> Arama Motorları](arama-motorlari.md)
+* [<i class="fa-solid fa-globe"></i> Web Tarayıcı](web-tarayicilari.md)
+* [<i class="fas fa-envelope"></i> E-posta Servisleri](posta-servisleri.md)
 
-# Sağlayıcılar
-* [VPN Servisleri](vpn.md)
-* [DNS Servisleri](dns.md)
-* [Arama Motorları](arama-motorlari.md)
-* [Web Tarayıcı](web-tarayicilari.md)
-* [E-posta Servisleri](posta-servisleri.md)
+# <i class="fa-solid fa-bars"></i> Uygulamalar
+* [<i class="fas fa-comments"></i> Mesajlaşma Uygulamaları](mesajlasma-uygulamalari.md)
+* [<i class="fas fa-users"></i> Sosyal Ağlar](sosyal-aglar.md)
+* [<i class="fas fa-key"></i> Şifre Yöneticisi](sifre-yoneticileri.md)
+* [<i class="fas fa-download"></i> Torrent İstemcileri](torrent-istemcileri.md)
+* [<i class="fas fa-rss"></i> RSS Okuyucuları](rss-istemcileri.md)
+* [<i class="fas fa-calendar-alt"></i> Takvim Uygulamaları](takvim-uygulamalari.md)
+* [<i class="fas fa-wallet"></i> Kripto Cüzdanlar](kripto-cuzdanlari.md)
 
+# <i class="fa-solid fa-bars"></i> Dosya
+* [<i class="fa-solid fa-file"></i> Dosya Saklama](dosya-saklama.md)
+* [<i class="fas fa-file-upload"></i> Dosya Aktarma](dosya-aktarma.md)
+* [<i class="fas fa-file-archive"></i> Dosya Sıkıştırma](dosya-sikistirma.md)
+* [<i class="fa-solid fa-file-signature"></i> Dosya Şifreleme](dosya-sifreleme.md)
+* [<i class="fa-solid fa-file-export"></i> Dosya Dönüştürme](dosya-donusturme.md)
 
-# Uygulamalar
-* [Mesajlaşma Uygulamaları](mesajlasma-uygulamalari.md)
-* [Sosyal Ağlar](sosyal-aglar.md)
-* [Şifre Yöneticisi](sifre-yoneticileri.md)
-* [Torrent İstemcileri](torrent-istemcileri.md)
-* [RSS Okuyucuları](rss-istemcileri.md)
-* [Takvim Uygulamaları](takvim-uygulamalari.md)
-* [Kripto Cüzdanlar](kripto-cuzdanlari.md)
-
-# Dosya
-
-* [Dosya Saklama](dosya-saklama.md)
-* [Dosya Aktarma](dosya-aktarma.md)
-* [Dosya Sıkıştırma](dosya-sikistirma.md)
-* [Dosya Şifreleme](dosya-sifreleme.md)
-* [Dosya Dönüştürme](dosya-donusturme.md)
-
-# Dokümantasyon
-* [Katkıda Bulunanlar](katkida-bulunanlar.md)
-* [İçerik Kuralları](icerik-kurallari.md)
-* [Ekleme Yapmak](ekleme.md)
-    * [Biçimlendirme](bicimlendirme.md)
+# <i class="fa-solid fa-bars"></i> Dokümantasyon
+* [<i class="fas fa-user"></i> Katkıda Bulunanlar](katkida-bulunanlar.md)
+* [<i class="fas fa-file-alt"></i> İçerik Kuralları](icerik-kurallari.md)
+* [<i class="fas fa-pencil-alt"></i> Ekleme Yapmak](ekleme.md)
+    * [<i class="fas fa-text-width"></i> Biçimlendirme](bicimlendirme.md)
