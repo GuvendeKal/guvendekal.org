@@ -1,4 +1,4 @@
-![Logo](./docs/images/logo.png)
+![Logo](./docs/images/logo.svg)
 
 # Hakkında
 

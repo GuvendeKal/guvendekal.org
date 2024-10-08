@@ -1,4 +1,4 @@
-[![Logo](images/logo.png)](https://guvendekal.org/#/)
+[![Logo](images/logo.svg)](https://guvendekal.org/#/)
 
 ---
 
