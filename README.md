@@ -14,4 +14,9 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
 - İçerik kurallarına bakmak için [buraya](https://guvendekal.org/#/icerik-kurallari) bakabilirsiniz
 - Katkıda bulunanlar için [buraya](https://guvendekal.org/#/katkida-bulunanlar) bakabilirsiniz
 
+# Atıf
+
+- https://docsify.js.org/#/
+- https://fontawesome.com/
+
 

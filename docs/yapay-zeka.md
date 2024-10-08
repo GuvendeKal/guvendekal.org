@@ -1,3 +1,3 @@
-# Gizlilik
+# Yapay Zeka
 
 > Eklenecek

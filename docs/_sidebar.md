@@ -15,14 +15,25 @@
 * [<i class="fa-solid fa-globe"></i> Web Tarayıcı](web-tarayicilari.md)
 * [<i class="fas fa-envelope"></i> E-posta Servisleri](posta-servisleri.md)
 
+# <i class="fa-solid fa-bars"></i> Güvenlik
+* [<i class="fas fa-key"></i> Şifre Yöneticisi](sifre-yoneticileri.md)
+* [<i class="fa-solid fa-lock"></i> 2 Faktörlü Doğrulama](2-faktorlu-dogrulama.md)
+
+
 # <i class="fa-solid fa-bars"></i> Uygulamalar
 * [<i class="fas fa-comments"></i> Mesajlaşma Uygulamaları](mesajlasma-uygulamalari.md)
+* [<i class="fa-solid fa-print"></i> Ofis Uygulamaları](ofis-uygulamalari.md)
 * [<i class="fas fa-users"></i> Sosyal Ağlar](sosyal-aglar.md)
-* [<i class="fas fa-key"></i> Şifre Yöneticisi](sifre-yoneticileri.md)
+* [<i class="fa-solid fa-brain"></i> Yapay Zeka](yapay-zeka.md)
+* [<i class="fa-solid fa-clipboard"></i> Not Alma](not-alma.md)
 * [<i class="fas fa-download"></i> Torrent İstemcileri](torrent-istemcileri.md)
-* [<i class="fas fa-rss"></i> RSS Okuyucuları](rss-istemcileri.md)
+* [<i class="fa-solid fa-location-dot"></i> Haritalar](haritalar.md)
 * [<i class="fas fa-calendar-alt"></i> Takvim Uygulamaları](takvim-uygulamalari.md)
+* [<i class="fas fa-rss"></i> RSS Okuyucuları](rss-istemcileri.md)
 * [<i class="fas fa-wallet"></i> Kripto Cüzdanlar](kripto-cuzdanlari.md)
+* [<i class="fa-solid fa-rotate"></i> Senkronizasyon](senkronizasyon.md)
+* [<i class="fa-solid fa-language"></i> Çeviri Araçları](ceviri-araclari.md)
+
 
 # <i class="fa-solid fa-bars"></i> Dosya
 * [<i class="fa-solid fa-file"></i> Dosya Saklama](dosya-saklama.md)

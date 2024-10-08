@@ -1,3 +1,3 @@
-# Gizlilik
+# Haritalar
 
 > Eklenecek

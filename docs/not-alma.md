@@ -1,3 +1,3 @@
-# Gizlilik
+# Not Alma
 
 > Eklenecek
