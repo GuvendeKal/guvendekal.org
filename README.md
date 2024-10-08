@@ -16,7 +16,7 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
 
 # Atıf
 
-- https://docsify.js.org/#/
-- https://fontawesome.com/
+- Dökümantasyon sistemi: https://docsify.js.org/#/
+- İkonlar: https://fontawesome.com/
 
 
