@@ -16,13 +16,13 @@ Bu nedenlerle sizin verilerinizi işleyip kullanan, aramalarda manipülasyon yap
 | ---------------- |:----------------:| :---------------:| :------------:| :----------------:| :---------:| 
 | DuckDuckGo        | × | <span style="color: green;">×</span> | ABD          | Kendi + Bing     | ✓       |
 | Brave Search      | <span style="color: red;">×</span> | <span style="color: green;">×</span> | ABD          | Kendi indeksi    | ✓      |
-| StartPage         | <span style="color: red;">×</span> | ✓     | Hollanda     | Google           | <span style="color: green;">×</span>      |
+| StartPage         | <span style="color: red;">×</span> | ✓     | Hollanda     | Google           | ✓      |
 | Searx             | <span style="color: green;">✓</span> | <span style="color: green;">×</span> | Bağımsız | Meta Arama | <span style="color: green;">×</span>      |
 
 * StartPage anonim, tanımlanamaz kayıt tutmaktadır.
 * Searx, meta bir aramo motorudur. Farklı arama motorlarının sonuçlarını göstermektedir.
 * DuckDuckGo'nun arama motoru kapalı kaynaktır. Ancak bazı istemcileri açık kaynaktır, [**buradan**](https://duckduckgo.com/duckduckgo-help-pages/open-source/opensource-overview/) kontrol edebilirsiniz.
-* DuckDuckGo ve Brave Search'in kullanıcılarına sunduğu reklamlar, kapatılabilmektedir. Aynı zamanda kullanıcıların veri ve davranışlarını analiz edip reklam göstermez.
+* DuckDuckGo, StartPage ve Brave Search'in kullanıcılarına sunduğu reklamlar, kapatılabilmektedir. Aynı zamanda kullanıcıların arama sorgularını ve davranışlarını analiz edip reklam göstermez.
 
 ### DuckDuckGo
 
