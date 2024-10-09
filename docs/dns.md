@@ -51,12 +51,7 @@ DNS sunucusu değiştirmek genellikle kolay bir işlemdir. Aşağıda kullandı�
 | ---------- |
 | Mullvad farklı ihtiyaçlara farklı DNS sunucuları sağlıyor hepsine [**buradan**](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls) bakabilirsiniz.| 
 
-<<<<<<< HEAD
-> Eklenecek
-=======
 Mullvad DNS, sıfır kayıt tutma politikası ile kullanıcılarına reklam engellemede sunmaktadır. Aynı zamanda Mullvad DNS sunucularında sansür uygulanmaz. Mullvad DNS hakkında daha fazla bilgiye ulaşmak için [buraya](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls) bakabilirsiniz.
->>>>>>> 3f114da (Eklemeler)
-
 
 ### Quad9 DNS
 
@@ -69,11 +64,7 @@ Mullvad DNS, sıfır kayıt tutma politikası ile kullanıcılarına reklam enge
 | IPv6  | 2620:fe::fe       |
 | IPv6  | 2620:fe::9        |
 
-<<<<<<< HEAD
-> Eklenecek
-=======
 2017 yılında oluşturulan Quad9 DNS kayıt tutmaz, reklam ve kötü amaçlı phishing sitelerini de engeller. Quad9 Veri ve Gizlilik POlitikası için [buraya](https://www.quad9.net/privacy/policy/) bakabilirsiniz.
->>>>>>> 3f114da (Eklemeler)
 
 ### Adguard DNS
 
@@ -84,22 +75,15 @@ Mullvad DNS, sıfır kayıt tutma politikası ile kullanıcılarına reklam enge
 | IPv6  | 2a10:50c0::1:ff    |
 | IPv6  | 2a10:50c0::2:ff    |
 
-<<<<<<< HEAD
-> Eklenecek
-=======
 Adguard DNS kullanıcıları için reklamları, izleyicileri, kötü amaçlı siteleri engelleyen bir DNS sunucusudur. Aynı zamanda aile profili gibi kişiselleştirmeler ile çocukların dijital ortamlarda güvende kalmasını sağlar. Adguard DNS gizlilik politikası için [buraya](https://adguard.com/en/privacy/home.html) bakabilirsiniz
 
 Adguard'ın ücretsiz sürümü gibi ücretli sürümü de bulunmaktadır. Ücretli sürüm ile DNS sunucusunu kişiselleştirebilmektesiniz. Kişisel paket aylık 2.24€, Aile paketi ise aylık 5€'dur. Ücretli sürüm için [buraya](https://adguard.com/en/license.html) bakabilirsiniz.
->>>>>>> 3f114da (Eklemeler)
 
 ### NextDNS
 
 ![NextDNS](images/nextdns.png)
 
-<<<<<<< HEAD
-> Eklenecek
-=======
 NextDNS ücretli DNS sunucuları sunar, gizlilik politikalarına [buradan](https://nextdns.io/privacy) bakabilirsiniz. NextDNS kullanıcılarına farklı kişiselleştirmeler sunar. Normal paketi aylık 1.99€'dur. 
->>>>>>> 3f114da (Eklemeler)
+
 
 
