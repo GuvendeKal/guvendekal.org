@@ -12,21 +12,13 @@ Bu nedenlerle özel bir DNS sunucusu kullanmanız [**gizlilik**](https://guvende
 
 DNS sunucusu değiştirmek genellikle kolay bir işlemdir. Aşağıda kullandığınız platforma göre nasıl değiştirebileceğinizi görebilirsiniz.
 
-<<<<<<< HEAD
-#### Mac/Windows/Linux
-=======
 #### Mac/Windows/GNU-Linux
->>>>>>> 3f114da (Eklemeler)
 
 * **Windows:** Ağ ve Paylaşım Merkezi'ni açın > Bağlantınızı seçin > Ağ durumunu açın > Internet Protocol Version 4 (TCP/IPv4) seçin > DNS ayarlarını değiştirin > Ayarları kaydedin.
 
 * **Mac:** Sistem Tercihleri'ni açın > Ağ'a tıklayın > Bağlantınızı seçin > Gelişmiş'e tıklayın > DNS sekmesine geçin > Mevcut DNS sunucularını kaldırın ve yeni DNS sunucularını ekleyin > Tamam'a tıklayın > Uygula'ya tıklayın.
 
-<<<<<<< HEAD
-* **Linux:** Eklenecek
-=======
 * **GNU-Linux:** GNU-Linux'ta farklı masaüstü ortamlarında farklı yollarla DNS değiştirilebilir. Ağ ayarlarınıza girerseniz kolayca bulabilirsiniz. Terminal ile değiştirmek istiyorsanız [bu rehbere](https://www.linuxfordevices.com/tutorials/linux/change-dns-on-linux) bakabilirsiniz.
->>>>>>> 3f114da (Eklemeler)
 
 #### IOS/Android
 
