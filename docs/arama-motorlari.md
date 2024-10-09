@@ -8,15 +8,15 @@ Arama motorları kullanıcılarının arama sorgularına, IP adreslerine, konuml
 
 Ana gelir kaynağı "kişiselleştirilmiş reklam" olan arama motorları, sıralamada reklam verenler daha üst sıralara taşımaktadır. Buda kullanıcının doğru ve tarafsız bir arama sonucuna ulaşmasına engel olmaktadır.
 
-Bu nedenlerle sizin verilerinizi işleyip kullanan, aramalarda manipülasyon yapan arama motorlarunu kullanmamanız; [**gizlilik**](https://guvendekal.org/#/gizlilik) ve [**mahremiyetiniz**](https://guvendekal.org/#/mahremiyet) başta olmak üzere daha doğru arama sonuçlarına ulaşmanız için önemlidir.
+Bu nedenlerle sizin verilerinizi işleyip kullanan, aramalarda manipülasyon yapan arama motorlarunu kullanmamanız;  [**gizlilik**](https://guvendekal.org/#/gizlilik) ve [**mahremiyetiniz**](https://guvendekal.org/#/mahremiyet) başta olmak üzere daha doğru arama sonuçlarına ulaşmanız için önemlidir.
 
 ### Önerilenler Tablosu
 
 | Arama Motoru     | Açık Kaynak       |  Kayıt Tutma     | Kayıtlı Ülke | Sonuçların Kaynağı | Reklamlar  |       
 | ---------------- |:----------------:| :---------------:| :------------:| :----------------:| :---------:| 
-| StartPage         | <span style="color: red;">×</span> | ✓     | Hollanda     | Google           | <span style="color: green;">×</span>      |
 | DuckDuckGo        | × | <span style="color: green;">×</span> | ABD          | Kendi + Bing     | ✓       |
 | Brave Search      | <span style="color: red;">×</span> | <span style="color: green;">×</span> | ABD          | Kendi indeksi    | ✓      |
+| StartPage         | <span style="color: red;">×</span> | ✓     | Hollanda     | Google           | <span style="color: green;">×</span>      |
 | Searx             | <span style="color: green;">✓</span> | <span style="color: green;">×</span> | Bağımsız | Meta Arama | <span style="color: green;">×</span>      |
 
 * StartPage anonim, tanımlanamaz kayıt tutmaktadır.
@@ -24,21 +24,61 @@ Bu nedenlerle sizin verilerinizi işleyip kullanan, aramalarda manipülasyon yap
 * DuckDuckGo'nun arama motoru kapalı kaynaktır. Ancak bazı istemcileri açık kaynaktır, [**buradan**](https://duckduckgo.com/duckduckgo-help-pages/open-source/opensource-overview/) kontrol edebilirsiniz.
 * DuckDuckGo ve Brave Search'in kullanıcılarına sunduğu reklamlar, kapatılabilmektedir. Aynı zamanda kullanıcıların veri ve davranışlarını analiz edip reklam göstermez.
 
-### StartPage
-
-
 ### DuckDuckGo
 
 ![DuckDuckGo](images/duckduckgo.png)
 
+Gizlilik ve mahremiyetinize önem veren [**DuckDuckGo**](https://duckduckgo.com/) 2008 yılında piyasaya sürülmüştür. Arama bazlı reklam modeli sunan DuckDuckGo'da isteğe bağlı reklamlarıda kapatma seçeneğide sunmaktadır.
+
+DuckDuckGo, [**Bangs!**](https://duckduckgo.com/bangs?q=) gibi kullanıcı deneyimini iyileştiren özelliklerin yanında, [**DuckDuckGo Mail**](https://duckduckgo.com/email) ve [**DuckDuckGo Extension**](https://duckduckgo.com/duckduckgo-help-pages/desktop/adding-duckduckgo-to-your-browser/) ile kullanıcılarına daha gizli bir internet deneyimi yaşatan servisler sunar. 
+
+Yakın bir tarihte çıkarttığı [**Duck AI Chat**](https://duck.ai) ile giriş yapılmadan farklı AI modellerine ücretsiz erişim sunmaktadır.
+
+DuckDuckGo'nun kullanıcılarının mahremiyetine ve gizliliğine önem verdiği için Google yada Bing gibi alternatifler yerine tercih etmenizi öneririz. Daha fazla bilgi için DuckDuckGo'nun [**Gizlilik Politikasına**](https://duckduckgo.com/privacy) bakabilirsiniz.
 
 ### Brave Search
 
-<img src="docs/images/brave.png" alt="Brave Search" width="350">
+<img src="docs/images/brave.png" alt="Brave Search" width="350">,
+
+[**Brave Search**](https://search.brave.com/), kullanıcı gizliliğine ve mahremiyetine öncelik veren bir arama motorlarından biridir. Brave tarayıcısı tarafından geliştirilen Brave Search, 2021 yılında piyasaya sürülmüştür. 
+
+Brave Search kullanıcı verilerini toplamaz ve izleme yapmaz. Brave Search tamamen bağımsız bir arama dizini kullanarak sonuç sunar, yani diğer arama motorlarının sonuçlarını çekmez.
+
+Brave Search'ın reklam modeli kullanıcı gizliliğine ve mahremiyetine saygı gösterir; Brave Search, kendi dizin motorunu diğer tarayıcılardan bağımsız şekilde kullanır.
+
+Brave Search içinde bulunan reklamları kapatmak için [**Brave Premium**](https://account.brave.com/?intent=checkout&product=search) satın almanız gerekir, aylık 3$ ücreti bulunmaktadır.
+
+Brave Search kullanıcılarının mahremiyetine ve gizliliğine önem verdiği için Google yada Bing gibi alternatifler yerine tercih etmenizi öneririz. Daha fazla bilgi için Brave Search’ün [**Gizlilik Politikasına**](https://search.brave.com/help/privacy-policy) bakabilirsiniz.
+
+?> Brave Search'ün arama sonuçları, Türkçe içerikler için yeterli olmayabilir.
+
+### StartPage
+
+[**Startpage**](https://www.startpage.com/), gizliliğe önem veren bir başka arama motorudur. Kökleri 1998'e kadar dayanan Startpage, kullanıcı verilerini toplamadan ve izleme yapmadan Google arama sonuçlarını sunmasıyla dikkat çeker. 
+
+Startpage’in Anonymous View özelliği, kullanıcıların web sitelerini anonim olarak görüntülemesine olanak tanır. Bu özellik, bir web sitesini ziyaret ederken kullanıcı IP adresini gizleyerek daha fazla gizlilik sağlar. Proxy hizmeti de, sitelere doğrudan erişmeden anonim bir şekilde gezinmeyi mümkün kılar.
+
+Kişiselleştirilmiş reklamlar olmadığı için kullanıcının mahremiyetine saygı duyar. Ayrıca, kullanıcılara bu reklamları kapatma seçeneği de sunulur.
+
+StartPage kullanıcılarının mahremiyetine ve gizliliğine önem verdiği için Google yada Bing gibi alternatifler yerine tercih etmenizi öneririz. Daha fazla bilgi için StartPage'in [**Gizlilik Poltikasına**](https://www.startpage.com/en/privacy-policy) bakabilirsiniz.
 
 ### Searx
 
 <img src="docs/images/searx.png" alt="Searx" width="350">
+
+**Searx**, gizliliği koruyan ve açık kaynak kodlu bir meta arama motorudur. 2014 yılında geliştirilmeye başlanan Searx, kullanıcıların arama sonuçlarını farklı arama motorlarından toplayarak sunar ve kullanıcı verilerini izlemeyen bir yapı sunar. Searx, reklamsız bir arama deneyimi sunar.
+
+Searx’in en büyük avantajı, tamamen özelleştirilebilir ve kendi sunucunuzda barındırılabilir olmasıdır, böylece kendi arama deneyiminizi kişisel gizlilik tercihlerinize göre şekillendirebilirsiniz.
+
+Searx, izleme ve veri toplama yapmadığı için kullanıcılarına tamamen anonim bir arama deneyimi sunar. 
+
+Searx meta arama motoru olduğu için Google, Bing, DuckDuckGo gibi birçok kaynaktan sonuç alabilir. Bu sayede çeşitli arama motorlarından toplanan sonuçlarla daha geniş bir bilgiye ulaşabilirsiniz. 
+
+Searx, bağımsız bir arama motoru olduğu için herkes Searx'i kendi sunucusunda barındırabilir ve insanlara açık şekilde sunabilir. Buradan aktif [**Searx sunucularına**](https://searx.space/) bakabilirsiniz.
+
+!> Kullandığınız Searx sunucusunun sahibi kayıt tutmayı açmış olabilir. Buna dikkat etmeniz gerekir.
+
+Searx'i kullanıcılarının mahremiyetine ve gizliliğine önem verdiği için Google yada Bing gibi alternatifler yerine tercih etmenizi öneririz. Aynı zamanda Searx'in [**dökümantasyon**](https://docs.searxng.org/) sayfasına ve [**kaynak kodlarına**](https://github.com/searxng/searxng) bakabilirsiniz.
 
 
 
