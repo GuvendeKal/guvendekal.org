@@ -10,13 +10,13 @@
 
 **Ülke: İsviçre**
 
-**Fiyat:**
+**Fiyat: 4.99EUR/ay**
 
-**Gizlilik Politikası**
+**Gizlilik Politikası: [https://proton.me/legal/privacy](https://proton.me/legal/privacy)**
 
  ### Tutanota
  ---
- 
+ ![Tutanota](images/tutanota-mail.png)
 
 Ücretli planlar özel alan adlarını etkinleştirir. Hiçbir üçüncü taraf e-posta istemcisi desteklenmez; kullanıcıların çok çeşitli yerel uygulamaları kullanması gerekir. Almanya merkezli, 2011 yılında kuruldu.
 
@@ -24,36 +24,29 @@
 
 **Ülke: Almanya**
 
-**Fiyat:**
+**Fiyat: 3.60EUR/ay**
 
 **Açık Kaynak: [Evet](https://github.com/tutao/tutanota)**
 
 **Gizlilik Politikası: [https://tuta.com/privacy-policy](https://tuta.com/privacy-policy)**
 
- ### StartMail
- ---
-
-Kullanıcılar web istemcileri veya Thunderbird gibi üçüncü taraf masaüstü istemcileri arasında seçim yapabilir. StartMail ve özel alan adları ile sınırsız takma adlar. 10 GB e-posta depolama alanı. 7 günlük ücretsiz denemeyle adil ve şeffaf fiyatlandırma. Mevcut kişilerin içe aktarılmasını destekler. Ücretli planlar özel alan adlarını etkinleştirir. Hollanda merkezli
 
 
 
-**Ülke: Hollanda**
-
-**Fiyat:**
-
-**Açık Kaynak:**
-
-**Gizlilik Politikası**
-
- ### Disroot
- ---
-
- Ücretsiz planlar özel alan adlarını destekler. Kullanıcılar web istemcileri veya Thunderbird gibi üçüncü taraf masaüstü istemcileri arasında seçim yapabilir. Disroot, şifrelenmiş e-postaların OpenPGP kullanılarak web posta uygulamasından gönderilmesine olanak tanır. Merkezi Hollanda'da olup 2015 yılında kurulmuştur.
+# E-Posta İstemcileri
 
 
+### Thunderbird
+---
+![Thunderbird](images/thunderbird.png)
 
-**Ülke: Hollanda**
+**Fiyat: Ücretsiz!**
 
-**Fiyat:**
+**Ülke: ABD**
 
-**Gizlilik Politikası:**
+**Açık Kaynak: [Evet](https://github.com/thunderbird)**
+
+**Gizlilik Politikası: [https://www.mozilla.org/en-US/privacy/thunderbird/](https://www.mozilla.org/en-US/privacy/thunderbird/)**
+
+
+
