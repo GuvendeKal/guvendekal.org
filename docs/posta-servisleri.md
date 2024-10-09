@@ -1,6 +1,6 @@
 # E-posta Servisleri
 
- ### ProtonMail
+ ### [ProtonMail](https://proton.me/mail)
  ---
 ![proton-mail](images/proton-mail.png)
 
@@ -14,7 +14,11 @@
 
 **Gizlilik Politikası: [https://proton.me/legal/privacy](https://proton.me/legal/privacy)**
 
- ### Tutanota
+
+
+>**Şeffaflık Raporu için [https://proton.me/legal/transparency](https://proton.me/legal/transparency) adresine göz atabilirsiniz.**
+
+ ### [Tutanota](https://tuta.com/secure-email)
  ---
  ![Tutanota](images/tutanota-mail.png)
 
@@ -36,9 +40,11 @@
 # E-Posta İstemcileri
 
 
-### Thunderbird
+### [Thunderbird](https://www.thunderbird.net/en-US/)
 ---
 ![Thunderbird](images/thunderbird.png)
+
+Thunderbird, Mozilla tarafından geliştirilen ücretsiz ve açık kaynaklı bir e-posta istemcisidir. Kullanıcı dostu arayüzü, güçlü güvenlik özellikleri ve çoklu hesap desteğiyle e-postalarınızı yönetmeyi kolaylaştırır. IMAP, POP3 ve SMTP protokollerini destekleyen Thunderbird, e-posta filtreleme, eklenti desteği ve özelleştirilebilir temalar sunarak kişiselleştirilmiş bir deneyim sağlar.
 
 **Fiyat: Ücretsiz!**
 
