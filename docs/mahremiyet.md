@@ -4,9 +4,9 @@
 
 ### Dijital ortamda mahremiyet
 
-Dijital ortamlarda internet aramalarınızın, geçmişinizin veya arkadaşlarınızla yaptığınız sohbetlerin görünür olması, odanızın birileri tarafından izleniyor olması kadar son derece rahatsız edici olabilir.
+Dijital ortamlarda internet aramalarınızın, geçmişinizin veya arkadaşlarınızla yaptığınız sohbetlerin görünür olması, odanızın birileri tarafından izleniyor olması kadar son derece *rahatsız edici olabilir*.
 
-Şirketlerin, bireylerin izni olsun yada olmasın haddinden fazla veri toplamasını ve işlemesini etik ve doğru bulmuyoruz. Bugün çoğu büyük şirket, örneğin Google yada Meta gibi şirketlerin kullanıcılardan varsayılan olarak toplayıp işlediği bazı veriler şunlardır;
+Şirketlerin, bireylerin izni olsun yada olmasın haddinden fazla veri toplamasını ve işlemesini *etik ve doğru bulmuyoruz*. Bugün çoğu büyük şirket, örneğin Google yada Meta gibi şirketlerin kullanıcılardan varsayılan olarak toplayıp işlediği bazı veriler şunlardır;
 
 * demografik bilgiler, 
 * kullanıcıların yaşı, 
@@ -19,4 +19,4 @@ Dijital ortamlarda internet aramalarınızın, geçmişinizin veya arkadaşları
 * kullanıcının gerçek zamanlı konumunu (GPS verileri)
 * geçmiş konum verileri (check-in'ler, ziyaret edilen yerler)
 
-Dijital ortamlarda mahremiyetiniz ve gizliliğinize uygulamalar kullanmanızı öneriyoruz.
+Dijital ortamlarda **mahremiyetiniz** ve **gizliliğinize** saygı duyan uygulamalar kullanmanızı öneriyoruz.
