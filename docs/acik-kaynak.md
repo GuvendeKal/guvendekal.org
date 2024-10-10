@@ -1,83 +1,51 @@
 # Açık Kaynak
 
-> Açık Kaynak nedir?
+**Açık kaynak** terimi temel olarak bir yazılımın kaynak kodlarının herkes tarafından okunabildiği, kullanılabilir, değiştirilebilir olduğu projeler için kullanılır. Ancak her açık kaynak proje, yazılımı alıp tekrar dağıtmanıza izin vermeyebilir. 
 
-Açık kaynak Kodların herkes tarafından görülebilen ve lisans altında değiştirip yayınlamaya izin verir
+Bu noktada **Özgür Yazılım** anlayışına sahip uygulamalar ise, uygulamaların açık kaynaklı olması ve uçtan uca özgürce değiştirilebilmesini savunur.    
 
-> En çok kullanılan açık kaynak Lisanslar
+?> Her açık kaynak proje kamu yararına ve özgür yazılım anlayışına hizmet etmemektedir. Ancak kapalı kaynak uygulamalar yerine açık kaynak uygulamalar kullanmanız her zaman daha iyidir.
 
-![FSF](images/FSF.png)
+### Bazı popüler açık kaynak lisanslar ve özellikleri
 
-1- GNU Genel Kamu Lisansı (GPL)
-Free Software Foundation (Fırii softveyır foundeyşın) tarafından yazılan GPL lisansı guvendekal.org platformu dahil birçok yazılım, belge bu lisansı kullanmaktadır bu lisans dosyanın üzerinde şu haklara sahip olduğunuzu gösterir
+<br>
 
-- değiştirme hakkı:
-dosyayı değiştirip yayınlamana olanak tanır ancak bazı koşullar altında
+| Adı       | Türü     | Yeniden Paylaşma        | Değiştirme   | Ticari Kullanım     | Atıf  |
+| ----------- |:---------------:| :---------------------: | :----------------: | :------------------:| :----------------:|
+| <img src="docs/images/gpl.png" alt="GPL" style="width: 50px; height: auto;"> [**GNU/GPL**](https://www.gnu.org/licenses/gpl-3.0.en.html) | Copyleft        | ✓| <span style="color: green;">✓</span>              | <span style="color: green;">✓</span> | ✓ |
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/apache.png" alt="Apache" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;">[**Apache**](https://www.apache.org/licenses/LICENSE-2.0.html)</span> | Permissive      | <span style="color: green;">✓</span>    | <span style="color: green;">✓</span>               | <span style="color: green;">✓</span>                 | ✓ |
+| <img src="docs/images/mit.png" alt="MIT License" style="width: 50px; height: auto;"> [**MIT**](https://mit-license.org/) | Permissive      | <span style="color: green;">✓</span>    | <span style="color: green;">✓</span>               | <span style="color: green;">✓</span>                 | ✓ |
 
-koşullar:
-aynı hak ve yükümlülüklerle paylaşmak
+<br>
 
-![Apache-Logo](images/Apache.png)
+* Copyleft lisanslar, yazılımın özgürlüğünü korur ve değiştirilen yazılımların aynı lisans altında paylaşılmasını zorunlu kılar. Yani, türev yazılımlar da açık kaynak olmalıdır. 
 
-2- Apache Lisansı
-Apache Sotware Foundation (Apaçi Softveyır foundeyşın) tarafından yazılan Apache Lisansı genellikle Android Uygulamalarında kullanılan bir lisansdır
+* Permissive lisanslar ise, daha esnek bir yaklaşım sunar; yazılımı değiştirenler, bu değişiklikleri kapalı kaynak olarak dağıtabilir ve kendi lisanslarıyla paylaşabilir. Türev yazılımlar üzerinde kısıtlama yoktur. 
 
-Haklar:
-Apache Lisansı, yazılımın özgürce kullanılmasını, dağıtılmasını ve değiştirilmesini sağlar.
+* Copyleft, özgür yazılım anlayışını savunurken, permissive lisanslar daha geniş bir esneklik sağlar.
 
-Kullanıcılar, yazılımı ticari veya ticari olmayan amaçlarla kullanabilirler.
+?> Farklı lisanslara ve özelliklerine bakmak için [**buraya**](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses) bakabilirsiz.
 
-Kullanıcılar, yazılımı değiştirebilir ve değiştirilmiş sürümlerini dağıtabilirler.
+### GNU/GPL, Apache ve MIT lisanslarının bazı farkları
 
-Kullanıcılar, yazılımın kaynak kodunu erişime açabilirler.
+<br>
 
-Yükümlülükler:
-Kullanıcılar, Apache Lisansı'nın şartlarına uymak zorundadırlar.
+| Özellik                                       |    GNU/GPL   |    Apache    |    MIT       |
+| ---------------------------------------------- |:------------:|:-----------:|:-----------:|
+| Ticari Kullanım                               | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> |
+| Değiştirilmiş Sürüm Paylaşımı                 | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> |
+| Türevlerin Açık Kaynak Olma Zorunluluğu      | <span style="color: green;">✓</span> | <span style="color: red;">×</span>    | <span style="color: red;">×</span>    |
+| Değişikliklerin Belirtilmesi                   | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | <span style="color: red;">×</span>    |
+| Kullanıcı Hakları                             | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> |
+| Patent Hakkı                                  | <span style="color: red;">×</span>    | <span style="color: green;">✓</span> | <span style="color: red;">×</span>    |
 
-Kullanıcılar, yazılımın kaynak kodunu değiştirdiklerinde, değiştirilmiş sürümlerini dağıtmadan önce Apache Lisansı'nın şartlarına uymak zorundadırlar.
+### Bazı popüler açık kaynaklı uygulamalar
 
-Kullanıcılar, yazılımın dağıtımında Apache Lisansı'nın bir kopyasını eklemek zorundadırlar.
+* [Linux Kernel](https://www.kernel.org/)
+* [Firefox](https://www.mozilla.org/en-US/firefox/)
+* [Apache](https://httpd.apache.org/)
 
-Kullanıcılar, yazılımın dağıtımında Apache Lisansı'nın şartlarına uymak zorundadırlar.
+### Özgür yazılım için yararlı bağlantılar
 
-Kullanıcılar, yazılımın kaynak kodunu erişime açtıklarında, Apache Lisansı'nın şartlarına uymak zorundadırlar.
-
-Diğer Hususlar:
-Apache Lisansı, yazılımın garantisi veya sorumluluğu olmadığını belirtir.
-
-Apache Lisansı, yazılımın patent veya telif hakkı ihlali olmadığını belirtir.
-
-Apache Lisansı, yazılımın kullanımından doğan zararlardan sorumlu olmadığını belirtir.
-
-![MIT](images/MIT.png)
-
-3- MIT (Massachusetts Institute of
-Technology)
-
-MIT (Emayti) lisansı Scratch yazılımı ve başka birçok yazılımının lisansı olan MIT (Emayti) lisansının özellikleri şunlardır:
-
-> Haklar:
-MIT Lisansı, yazılımın özgürce kullanılmasını, dağıtılmasını ve değiştirilmesini sağlar.
-
-Kullanıcılar, yazılımı ticari veya ticari olmayan amaçlarla kullanabilirler.
-
-Kullanıcılar, yazılımı değiştirebilir ve değiştirilmiş sürümlerini dağıtabilirler.
-
-Kullanıcılar, yazılımın kaynak kodunu erişime açabilirler.
-
-> Yükümlülükler:
-Kullanıcılar, MIT Lisansı'nın şartlarına uymak zorundadırlar.
-
-Kullanıcılar, yazılımın dağıtımında MIT Lisansı'nın bir kopyasını eklemek zorundadırlar.
-
-Kullanıcılar, yazılımın kaynak kodunu erişime açtıklarında, MIT Lisansı'nın şartlarına uymak zorundadırlar.
-
-Kullanıcılar, yazılımın değiştirilmiş sürümlerini dağıttıklarında, değiştirilmiş sürümlerin kaynak kodunu erişime açmak zorundadırlar.
-
->Diğer Hususlar:
-
-MIT Lisansı, yazılımın garantisi veya sorumluluğu olmadığını belirtir.
-
-MIT Lisansı, yazılımın patent veya telif hakkı ihlali olmadığını belirtir.
-
-MIT Lisansı, yazılımın kullanımından doğan zararlardan sorumlu olmadığını belirtir.
+* [Free Software Foundation](https://www.fsf.org/)
+* [Richard Stallman](https://stallman.org/)
