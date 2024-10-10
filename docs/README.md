@@ -2,7 +2,7 @@
 
 # Başlangıç
 
-Güvende Kal, bireylerin internet üzerindeki **mahremiyetlerini**, **gizliliklerini** veri **güvenliklerini** korumalarına yardımcı olmayı hedefleyen bir projedir. 
+Güvende Kal, bireylerin internet üzerindeki **mahremiyetlerini**, **gizliliklerini** ve **güvenliklerini** korumalarına yardımcı olmayı hedefleyen bir projedir. 
 
 Bireylerin internet üzerindeki haklarını ve gizliliklerini koruma konusunda bilinçlenmelerini teşvik ederek, daha güvenli bir dijital ortam yaratmayı hedeflemektedir. 
 
