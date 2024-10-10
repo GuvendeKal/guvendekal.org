@@ -1,3 +1,0 @@
-# Gizlilik
-
-> Eklenecek

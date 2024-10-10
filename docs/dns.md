@@ -6,7 +6,7 @@
 
 Bazı özel DNS sunucuları ise kayıt tutmaz ve verilerinizi üçüncü taraflarla paylaşmaz. Erişim engellerine maruz kalmazsınız ve özel DNS sunucuları, size reklam engelleme özelliği gibi farklı özelliklerde sunabilir.
 
-Bu nedenlerle özel bir DNS sunucusu kullanmanız [**gizlilik**](https://guvendekal.org/#/gizlilik) ve [**mahremiyetiniz**](https://guvendekal.org/#/mahremiyet) için en sağlıklısı olacaktır.
+Bu nedenlerle özel bir DNS sunucusu kullanmanız [**güvenlik**](https://guvendekal.org/#/guvenlik) ve [**mahremiyetiniz**](https://guvendekal.org/#/mahremiyet) için en sağlıklısı olacaktır.
 
 ### DNS Sunucusu nasıl değiştirilir?
 

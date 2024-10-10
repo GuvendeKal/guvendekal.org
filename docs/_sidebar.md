@@ -5,8 +5,8 @@
 # <i class="fa-solid fa-bars"></i> Nedir
 * [<i class="fa-solid fa-house"></i> Başlangıç](README.md)
 * [<i class="fas fa-code"></i> Açık Kaynak](acik-kaynak.md)
-* [<i class="fa-solid fa-fingerprint"></i> Mahremiyet](mahremiyet.md)
-* [<i class="fas fa-eye-slash"></i> Gizlilik](gizlilik.md)
+* [<i class="fas fa-eye-slash"></i> Mahremiyet](mahremiyet.md)
+* [<i class="fa-solid fa-shield"></i> Güvenlik](guvenlik.md)
 
 # <i class="fa-solid fa-bars"></i> Sağlayıcılar
 * [<i class="fas fa-server"></i> VPN Servisleri](vpn.md)

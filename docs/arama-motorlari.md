@@ -8,7 +8,7 @@ Arama motorları kullanıcılarının arama sorgularına, IP adreslerine, konuml
 
 Ana gelir kaynağı "kişiselleştirilmiş reklam" olan arama motorları, sıralamada reklam verenler daha üst sıralara taşımaktadır. Buda kullanıcının doğru ve tarafsız bir arama sonucuna ulaşmasına engel olmaktadır.
 
-Bu nedenlerle sizin verilerinizi işleyip kullanan, aramalarda manipülasyon yapan arama motorlarunu kullanmamanız;  [**gizlilik**](https://guvendekal.org/#/gizlilik) ve [**mahremiyetiniz**](https://guvendekal.org/#/mahremiyet) başta olmak üzere daha doğru arama sonuçlarına ulaşmanız için önemlidir.
+Bu nedenlerle sizin verilerinizi işleyip kullanan, aramalarda manipülasyon yapan arama motorlarunu kullanmamanız;  [**güvenlik**](https://guvendekal.org/#/guvenlik) ve [**mahremiyetiniz**](https://guvendekal.org/#/mahremiyet) başta olmak üzere daha doğru arama sonuçlarına ulaşmanız için önemlidir.
 
 ### Önerilenler Tablosu
 

@@ -27,7 +27,7 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
 ## Yararlı Bağlantılar 
 
 - [Mahremiyet](https://guvendekal.org/mahremiyet) 
-- [Gizlilik](https://guvendekal.org/gizlilik)
+- [Güvenlik](https://guvendekal.org/guvenlik)
 - [Açık Kaynak](https://guvendekal.org/acik-kaynak)
 - [Bilinçli Teknoloji Tüketicileri](https://btt.community/) 
 - [Privacy Guides](https://www.privacyguides.org/en/)
