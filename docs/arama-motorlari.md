@@ -70,8 +70,6 @@ StartPage kullanıcılarının mahremiyetine ve gizliliğine önem verdiği içi
 
 Searx’in en büyük avantajı, tamamen özelleştirilebilir ve kendi sunucunuzda barındırılabilir olmasıdır, böylece kendi arama deneyiminizi kişisel gizlilik tercihlerinize göre şekillendirebilirsiniz.
 
-Searx, izleme ve veri toplama yapmadığı için kullanıcılarına tamamen anonim bir arama deneyimi sunar. 
-
 Searx meta arama motoru olduğu için Google, Bing, DuckDuckGo gibi birçok kaynaktan sonuç alabilir. Bu sayede çeşitli arama motorlarından toplanan sonuçlarla daha geniş bir bilgiye ulaşabilirsiniz. 
 
 Searx, bağımsız bir arama motoru olduğu için herkes Searx'i kendi sunucusunda barındırabilir ve insanlara açık şekilde sunabilir. Buradan aktif [**Searx sunucularına**](https://searx.space/) bakabilirsiniz.
