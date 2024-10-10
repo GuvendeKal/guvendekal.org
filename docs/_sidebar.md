@@ -13,7 +13,7 @@
 * [<i class="fas fa-server"></i> VPN Servisleri](vpn.md)
 * [<i class="fa-solid fa-network-wired"></i> DNS Servisleri](dns.md)
 * [<i class="fas fa-search"></i> Arama Motorları](arama-motorlari.md)
-* [<i class="fa-solid fa-globe"></i> Web Tarayıcı](web-tarayicilari.md)
+* [<i class="fa-solid fa-globe"></i> İnternet Tarayıcıları](internet-tarayicilari.md)
 * [<i class="fas fa-envelope"></i> E-posta Servisleri](posta-servisleri.md)
 
 
