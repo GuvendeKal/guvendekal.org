@@ -5,8 +5,8 @@
 # <i class="fa-solid fa-bars"></i> Nedir
 * [<i class="fa-solid fa-house"></i> Başlangıç](README.md)
 * [<i class="fas fa-code"></i> Açık Kaynak](acik-kaynak.md)
-* [<i class="fas fa-eye-slash"></i> Gizlilik](gizlilik.md)
 * [<i class="fa-solid fa-fingerprint"></i> Mahremiyet](mahremiyet.md)
+* [<i class="fas fa-eye-slash"></i> Gizlilik](gizlilik.md)
 
 # <i class="fa-solid fa-bars"></i> Sağlayıcılar
 * [<i class="fas fa-server"></i> VPN Servisleri](vpn.md)
@@ -18,7 +18,6 @@
 # <i class="fa-solid fa-bars"></i> Güvenlik
 * [<i class="fas fa-key"></i> Şifre Yöneticisi](sifre-yoneticileri.md)
 * [<i class="fa-solid fa-lock"></i> 2 Faktörlü Doğrulama](2-faktorlu-dogrulama.md)
-
 
 # <i class="fa-solid fa-bars"></i> Uygulamalar
 * [<i class="fas fa-comments"></i> Mesajlaşma Uygulamaları](mesajlasma-uygulamalari.md)
@@ -33,7 +32,6 @@
 * [<i class="fas fa-wallet"></i> Kripto Cüzdanlar](kripto-cuzdanlari.md)
 * [<i class="fa-solid fa-rotate"></i> Senkronizasyon](senkronizasyon.md)
 * [<i class="fa-solid fa-language"></i> Çeviri Araçları](ceviri-araclari.md)
-
 
 # <i class="fa-solid fa-bars"></i> Dosya
 * [<i class="fa-solid fa-file"></i> Dosya Saklama](dosya-saklama.md)
