@@ -6,15 +6,15 @@ RSS haberleri tek bir yerden almanızı sağlayan protokoldür, iptv (m3u) arka 
 
 | Adı       | Lisans Türü     | Platform        | Özellikler        |
 | ----------- |:---------------:| :---------------:| :---------------------: |
-| [**QuiteRSS**](https://quiterss.org/) | GPL-3.0 | Windows, Linux | ✔ Çevrimdışı okuma, ✔ Reklam engelleme, ✔ Etiketleme, ✔ Özelleştirilebilir arayüz |
-| [**FeedReader**](https://jangernert.github.io/FeedReader/) | LGPL-3.0 | Linux | ✔ Çevrimdışı destek, ✔ Push bildirimi, ✔ Entegre arama, ✔ Modern arayüz |
-| [**Newsboat**](https://www.newsboat.org/) | MIT | Linux, macOS | ✔ Terminal tabanlı, ✔ Çevrimdışı okuma, ✔ Podcast desteği, ✔ Kolay yapılandırılabilirlik |
-| [**Akregator**](https://apps.kde.org/tr/akregator/) | GPL-2.0 | Linux (KDE) | ✔ KDE entegrasyonu, ✔ Çevrimdışı okuma, ✔ Arşivleme, ✔ Basit ve kullanışlı arayüz |
-| [**Feeder**](https://f-droid.org/en/packages/com.nononsenseapps.feeder/) | Apache-2.0 | Android | ✔ Minimalist tasarım, ✔ Bildirim desteği, ✔ Kategori desteği, ✔ Reklam yok |
+| [**QuiteRSS**](https://quiterss.org/) | GPL-3.0 | Windows, Linux | Çevrimdışı okuma, Reklam engelleme, Etiketleme |
+| [**FeedReader**](https://jangernert.github.io/FeedReader/) | LGPL-3.0 | Linux | Çevrimdışı destek,Modern arayüz |
+| [**Newsboat**](https://www.newsboat.org/) | MIT | Linux, macOS | Terminal tabanlı, Çevrimdışı okuma, Podcast desteği, Kolay yapılandırılabilirlik |
+| [**Akregator**](https://apps.kde.org/tr/akregator/) | GPL-2.0 | Linux (KDE) | KDE entegrasyonu, Çevrimdışı okuma, Arşivleme, Basit ve kullanışlı arayüz |
+| [**Feeder**](https://f-droid.org/en/packages/com.nononsenseapps.feeder/) | Apache-2.0 | Android | Minimalist tasarım, Bildirim desteği, Kategori desteği, Reklam yok |
 
 1- QuiteRSS
 
-QuiteRSS, açık kaynaklı, platformlar arası (Windows ve Linux) bir RSS ve Atom besleme okuyucusudur. Hızlı, hafif ve kullanıcı dostu bir arayüze sahip olan QuiteRSS, haber ve blog güncellemelerini takip etmeyi kolaylaştırmaktadır. İşte temel özellikleri:
+QuiteRSS, açık kaynaklı, platformlar arası (Windows ve Linux) bir RSS ve Atom besleme okuyucusudur. İşte temel özellikleri:
 
 Başlıca Özellikler:
 
@@ -26,11 +26,11 @@ Başlıca Özellikler:
 	6.	Proxy Desteği: Eğer bir proxy sunucusu kullanıyorsanız, QuiteRSS proxy desteği sunarak çevrimiçi olmanızı sağlar.
 	7.	Bildirimler: Yeni içerikler geldiğinde anlık bildirimler alabilirsiniz.
 
-QuiteRSS, hem basit kullanıcılar hem de gelişmiş kullanıcılar için uygundur. İndirip yüklemesi kolaydır ve minimal arayüzüyle fazla yer kaplamadan hızlı bir deneyim sunar.
+QuiteRSS, hem basit kullanıcılar hem de gelişmiş kullanıcılar için uygundur.
 
 2- FeedReader
 
-FeedReader, açık kaynaklı bir RSS ve Atom besleme okuyucusudur. Modern bir arayüze sahip olan FeedReader, kullanıcıların çeşitli kaynaklardan gelen haberleri ve içerikleri kolayca takip etmelerini sağlar. İşte FeedReader’ın bazı önemli özellikleri ve detayları:
+FeedReader, açık kaynaklı bir RSS ve Atom besleme okuyucusudur.
 
 Başlıca Özellikler:
 
@@ -52,7 +52,7 @@ FeedReader, kullanıcıların içerik akışını düzenli bir şekilde yönetme
 
 3- Newsboat
 
-Newsboat, terminal tabanlı bir RSS ve Atom besleme okuyucusudur. Linux ve macOS platformlarında çalışır ve kullanıcıların RSS akışlarını basit ve verimli bir şekilde takip etmelerini sağlar. Newsboat, özellikle komut satırını seven kullanıcılar için tasarlanmıştır. İşte Newsboat’ın bazı temel özellikleri ve detayları:
+Newsboat, terminal tabanlı bir RSS ve Atom besleme okuyucusudur. Linux ve macOS platformlarında çalışır.
 
 Başlıca Özellikler:
 
@@ -97,7 +97,7 @@ Akregator, KDE kullanıcıları için güçlü ve esnek bir RSS okuyucu çözüm
 
 5- Feeder 
 
-Feeder, kullanıcıların RSS ve Atom beslemelerini takip etmelerine olanak tanıyan açık kaynaklı bir mobil uygulamadır. Özellikle Android platformunda kullanılmak üzere tasarlanmış olan Feeder, basit ve minimalist bir arayüze sahiptir. İşte Feeder’ın bazı temel özellikleri ve detayları:
+Feeder, kullanıcıların RSS ve Atom beslemelerini takip etmelerine olanak tanıyan açık kaynaklı bir mobil uygulamadır. Özellikle Android platformunda kullanılmak üzere tasarlanmıştır.
 
 Başlıca Özellikler:
 
