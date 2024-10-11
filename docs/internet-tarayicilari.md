@@ -9,13 +9,31 @@ Günümüz dünyasında en çok kullanılan tarayıcılar **Chromium** tabanlıd
 Bu gibi sebeplerden ötürü, Chromium'dan sonra en çok kullanılan tarayıcı olan **Firefox** ve Firefox tabanlı tarayıcılar kullanılmasının, daha iyi bir internet için gerekli olduğunu düşünüyoruz.
 
 ## Önerilen Tarayıcılar Listesi
-| Tarayıcı           | Tabanı          |  Açık Kaynak     | Kayıtlı Ülke | Lisans Türü       |
-| ------------------ |:---------------:| :---------------:| :-----------:| :----------------:|
-| Mozilla Firefox    | Firefox         | <span style="color: green;">✓</span>                | ABD     | MPL               |
-| LibreWolf          | Firefox         | <span style="color: green;">✓</span>                | Bağımsız     | MPL               |
-| Brave Browser      | Chromium        | <span style="color: green;">✓</span>                | ABD          | MPL               |
-| Mullvad Browser    | Firefox         | <span style="color: green;">✓</span>                | İsveç        | MPL               |
-| Tor Browser        | Firefox         | <span style="color: green;">✓</span>                | Bağımsız      | MPL              |
+
+| Tarayıcı           | Tabanı          | Açık Kaynak                | Lisans Türü | Platform Desteği                                                                 |
+| ------------------ |:---------------:| :-------------------------:| :---------: | :--------------------------------------------------------------------------------: |
+| Mozilla Firefox    | Firefox         | <span style="color: green;">✓</span> | MPL         | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> |
+| LibreWolf          | Firefox         | <span style="color: green;">✓</span> | MPL         | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> |
+| Brave Browser      | Chromium        | <span style="color: green;">✓</span> | MPL         | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> |
+| Mullvad Browser    | Firefox         | <span style="color: green;">✓</span> | MPL         | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> |
+| Tor Browser        | Firefox         | <span style="color: green;">✓</span> | MPL         | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> |
+
+
+### Mozilla Firefox
+
+### LibreWolf
+
+### Brave Browser
+
+### Mullvad Browser
+
+### Tor Browser
+
+?> Tor Browser için [**Tor Ağı**](tor-agi.md) sayfasını ziyaret edebilirsiniz.
+
+### Platform Önerileri
+
+ 
 
 
 
