@@ -4,80 +4,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <meta charset="UTF-8" />
+    <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <link rel="icon" href="docs/images/icon.png" type="image/png">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css" id="theme-style">
     <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
-    <script>
-      let isDarkMode = true; 
-
-      function toggleTheme(checkbox) {
-          const themeStyle = document.getElementById('theme-style');
-          isDarkMode = checkbox.checked;
-
-          if (isDarkMode) {
-              themeStyle.setAttribute('href', 'https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css');
-          } else {
-              themeStyle.setAttribute('href', 'https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css');
-          }
-        }
-    </script>
-    <style>
-      .switch {
-          display: block;
-          --width-of-switch: 3.5em;
-          --height-of-switch: 2em;
-          --size-of-icon: 1.4em;
-          --slider-offset: 0.3em;
-          width: var(--width-of-switch);
-          height: var(--height-of-switch);
-          position: fixed;
-          bottom: 20px;
-          right: 20px;
-          z-index: 999;
-      }
-
-      .switch input {
-          opacity: 0;
-          width: 0;
-          height: 0;
-      }
-
-      .slider {
-          position: absolute;
-          cursor: pointer;
-          top: 0;
-          left: 0;
-          right: 0;
-          bottom: 0;
-          background-color: #f4f4f5;
-          transition: .4s;
-          border-radius: 30px;
-      }
-
-      .slider:before {
-          position: absolute;
-          content: "";
-          height: var(--size-of-icon, 1.4em);
-          width: var(--size-of-icon, 1.4em);
-          border-radius: 20px;
-          left: var(--slider-offset, 0.3em);
-          top: 50%;
-          transform: translateY(-50%);
-          background: linear-gradient(40deg, #ff0080, #ff8c00 70%);
-          transition: .4s;
-      }
-
-      input:checked + .slider {
-          background-color: #303136;
-      }
-
-      input:checked + .slider:before {
-          left: calc(100% - (var(--size-of-icon, 1.4em) + var(--slider-offset, 0.3em)));
-          background: #303136;
-          box-shadow: inset -3px -2px 5px -2px #8983f7, inset -10px -4px 0 0 #a3dafb;
-      }
-    </style>
+    <script src="theme-toggle.js"></script>
   </head>
   <body>
     <div id="theme-button">
@@ -89,17 +21,17 @@
     <div id="app"></div>
     <script>
       window.$docsify = {
-        basePath: './docs/',
-        loadSidebar: true,
-        sidebar: '_sidebar.md',
-        themeColor: '#0B87DA',
-        logo: 'images/logo.svg',
-        notFoundPage: '404.md',
-        pagination: {
-          previousText: 'Önceki Sayfa',
-          nextText: 'Sonraki Sayfa',
-          crossChapter: true,
-          crossChapterText: true,
+      basePath: './docs/',
+      loadSidebar: true,
+      sidebar: '_sidebar.md',
+      themeColor: '#0B87DA',
+      logo: 'images/logo.svg',
+      notFoundPage: '404.md',
+      pagination: {
+      previousText: 'Önceki Sayfa',
+      nextText: 'Sonraki Sayfa',
+      crossChapter: true,
+      crossChapterText: true,
         },
         plugins: [
           EditOnGithubPlugin.create(
