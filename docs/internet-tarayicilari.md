@@ -49,19 +49,16 @@ Brave içinde aynı zamanda kripto cüzdan olarak kullanabileceğiniz [**Brave W
 
 **Mullvad Browser**, Mullvad VPN ile Tor Project ortaklığı ile ortaya çıkmış bir tarayıcıdır. Geliştirilmesi Tor Project tarafından sağlanırken, dağıtımını Mullvad üstlenir. 
 
-Mullvad Browser'in temel amacı Tor ağını kullanmadan, Tor'un sunduğu bütün gizlilik özelliklerinden yararlanmasıdır. Mullvad VPN ile entegre çalışır ancak kullanmak için Mullvad VPN şart değildir. 
+Mllvad Browser'in temel amacı Tor ağını kullanmadan, Tor'un sunduğu bütün gizlilik özelliklerinden yararlanmasıdır. Mullvad VPN ile entegre çalışır ancak kullanmak için Mullvad VPN şart değildir. 
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/tor.svg" alt="Tor" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;">  Tor Browser
 
 ?> Tor Browser için [**Tor Ağı**](tor-agi.md) sayfasını ziyaret edebilirsiniz.
 
-### Farklı platformlar için tarayıcı Önerileri
+### Farklı platformlar için tarayıcı önerileri
 
 * Mobil (IOS & Android) için **Firefox** yada **Brave** kullanmanızı öneririz.
 
 * Masaüstü (Windows & Max & Linux) için **Librewolf** yada **Brave**, tercihe göre **Mullvad Browser** kullanmanızı öneririz.
  
-
-
-
-
+!> Seçtiğiniz tarayıcı için mahremiyet ve güvenliğinize önem veren bir [**arama motoru**](https://guvendekal.org/#/arama-motorlari) seçmeyi unutmayın.
