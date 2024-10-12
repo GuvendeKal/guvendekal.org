@@ -6,7 +6,7 @@ Bu noktada **Özgür Yazılım** anlayışına sahip uygulamalar ise, uygulamala
 
 ?> Her açık kaynak proje kamu yararına ve özgür yazılım anlayışına hizmet etmemektedir. Ancak kapalı kaynak uygulamalar yerine açık kaynak uygulamalar kullanmanız her zaman daha iyidir.
 
-### Bazı popüler açık kaynak lisanslar ve özellikleri
+## Bazı popüler açık kaynak lisanslar ve özellikleri
 
 <br>
 
@@ -26,7 +26,7 @@ Bu noktada **Özgür Yazılım** anlayışına sahip uygulamalar ise, uygulamala
 
 ?> Farklı lisanslara ve özelliklerine bakmak için [**buraya**](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses) bakabilirsiz.
 
-### GNU/GPL, Apache ve MIT lisanslarının bazı farkları
+## GNU/GPL, Apache ve MIT lisanslarının bazı farkları
 
 <br>
 
@@ -39,13 +39,13 @@ Bu noktada **Özgür Yazılım** anlayışına sahip uygulamalar ise, uygulamala
 | Kullanıcı Hakları                             | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> |
 | Patent Hakkı                                  | <span style="color: red;">×</span>    | <span style="color: green;">✓</span> | <span style="color: red;">×</span>    |
 
-### Bazı popüler açık kaynaklı uygulamalar
+## Bazı popüler açık kaynaklı uygulamalar
 
 * [Linux Kernel](https://www.kernel.org/)
 * [Firefox](https://www.mozilla.org/en-US/firefox/)
 * [Apache](https://httpd.apache.org/)
 
-### Özgür yazılım için yararlı bağlantılar
+## Özgür yazılım için yararlı bağlantılar
 
 * [Free Software Foundation](https://www.fsf.org/)
 * [Richard Stallman](https://stallman.org/)

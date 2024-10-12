@@ -2,7 +2,7 @@
 
 **Mahremiyet** bireylerin, özel hayatlarının gizli kalması ve korunmasına denilir. Temel insan haklarından olan mahremiyet, birçok uluslararası insan hakları belgesinde ve birçok ülkenin anayasasında yer almaktadır. Bireyler, mahremiyet haklarını ihlal eden durumlara karşı yasal yollara başvurma hakkına sahiptir.
 
-### Dijital ortamda mahremiyet
+## Dijital ortamda mahremiyet
 
 Dijital ortamlarda internet aramalarınızın, geçmişinizin veya arkadaşlarınızla yaptığınız sohbetlerin görünür olması, odanızın birileri tarafından izleniyor olması kadar son derece *rahatsız edici olabilir*.
 

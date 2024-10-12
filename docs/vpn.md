@@ -17,7 +17,7 @@ VPN kullandığınızda bilmeniz gereken şey trafiğinizi (ziyaret ettiğiniz s
 
 * ProtonVPN'in ücretli sürümü aylık 9.99€'dan başlamaktadır. Ücretsiz sürümde sınırlı sayıda ülke ve sunucu sayısı olabilir.
 
-### Mullvad VPN
+## Mullvad VPN
 
 ![mullvad](images/mullvad.png)
 
@@ -82,7 +82,7 @@ Bu sayede kullanıcıların herhangi bir bilgisinin kaydıda tutulmaz. Mullvad V
 * [Gizlilik politikaları](https://mullvad.net/en/help/privacy-policy)
 
 
-### Proton VPN
+## Proton VPN
 
 ![proton](images/proton.png)
 

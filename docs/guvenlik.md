@@ -6,7 +6,7 @@ Dijital ortamda **güvenlik** kavramı bireylerin yada şirketlerin, çevrimiçi
 
 Hesaplarınızın yada kart bilgilerinizin çalınması, cihazınıza virüs bulaşması, kişisel verilerinizin internet ortamında paylaşılması gibi durumlar yaşamamak için internet üzerinde güvenliğinize önem vermeniz gerekmektedir.
 
-### Güvenlik için yararlı bağlantılar
+## Güvenlik için yararlı bağlantılar
 
 * [have i been pwned?](https://haveibeenpwned.com/)
 

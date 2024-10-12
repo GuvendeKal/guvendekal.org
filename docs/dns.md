@@ -8,7 +8,7 @@ Bazı özel DNS sunucuları ise kayıt tutmaz ve verilerinizi üçüncü tarafla
 
 Bu nedenlerle özel bir DNS sunucusu kullanmanız [**güvenlik**](https://guvendekal.org/#/guvenlik) ve [**mahremiyetiniz**](https://guvendekal.org/#/mahremiyet) için en sağlıklısı olacaktır.
 
-### DNS Sunucusu nasıl değiştirilir?
+## DNS Sunucusu nasıl değiştirilir?
 
 DNS sunucusu değiştirmek genellikle kolay bir işlemdir. Aşağıda kullandığınız platforma göre nasıl değiştirebileceğinizi görebilirsiniz.
 
@@ -37,7 +37,7 @@ DNS sunucusu değiştirmek genellikle kolay bir işlemdir. Aşağıda kullandı�
 | NextDNS        | İsteğe bağlı             | Sunuyor          |
 | Adguard DNS    | Kayıt tutuyor (tanımlanamaz) | Sunuyor      |
 
-### Mullvad DNS
+## Mullvad DNS
 
 | Dns Adresi |
 | ---------- |
@@ -45,7 +45,7 @@ DNS sunucusu değiştirmek genellikle kolay bir işlemdir. Aşağıda kullandı�
 
 Mullvad DNS, sıfır kayıt tutma politikası ile kullanıcılarına reklam engellemede sunmaktadır. Aynı zamanda Mullvad DNS sunucularında sansür uygulanmaz. Mullvad DNS hakkında daha fazla bilgiye ulaşmak için [buraya](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls) bakabilirsiniz.
 
-### Quad9 DNS
+## Quad9 DNS
 
 <img src="docs/images/quad9.png" alt="Quad9" width="350" />
 
@@ -58,7 +58,7 @@ Mullvad DNS, sıfır kayıt tutma politikası ile kullanıcılarına reklam enge
 
 2017 yılında oluşturulan Quad9 DNS kayıt tutmaz, reklam ve kötü amaçlı phishing sitelerini de engeller. Quad9 Veri ve Gizlilik Politikası için [buraya](https://www.quad9.net/privacy/policy/) bakabilirsiniz.
 
-### Adguard DNS
+## Adguard DNS
 
 | Tür   | DNS Adresi         |       
 |-------|:------------------:|
@@ -71,7 +71,7 @@ Adguard DNS kullanıcıları için reklamları, izleyicileri, kötü amaçlı si
 
 Adguard'ın ücretsiz sürümü gibi ücretli sürümü de bulunmaktadır. Ücretli sürüm ile DNS sunucusunu kişiselleştirebilmektesiniz. Kişisel paket aylık 2.24€, Aile paketi ise aylık 5€'dur. Ücretli sürüm için [buraya](https://adguard.com/en/license.html) bakabilirsiniz.
 
-### NextDNS
+## NextDNS
 
 ![NextDNS](images/nextdns.png)
 

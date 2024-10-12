@@ -13,7 +13,7 @@ Bu nedenlerle sizin verilerinizi işleyip kullanan, aramalarda manipülasyon yap
 ?> Arama motorunuzu seçtikten sonra hangi tarayıcıyı kullanacağınızı seçtiniz mi? Yada eklenti yüklemeyi düşünüyor musunuz? Önerdiğimiz tarayıcılar için [**İnternet Tarayıcıları**](https://guvendekal.org/#/internet-tarayicilari) sayfasını, eklentileri görmek için [**Tarayıcı Eklentileri**](guvendekal.org/#/tarayici-eklentileri) sayfasını ziyaret edebilirsiniz. 
 
 
-### Önerilenler Tablosu
+## Önerilenler Tablosu
 
 | Arama Motoru     | Açık Kaynak       |  Kayıt Tutma     | Kayıtlı Ülke | Sonuçların Kaynağı | Reklamlar  |       
 | ---------------- |:----------------:| :---------------:| :------------:| :----------------:| :---------:| 
@@ -27,7 +27,7 @@ Bu nedenlerle sizin verilerinizi işleyip kullanan, aramalarda manipülasyon yap
 * DuckDuckGo'nun arama motoru kapalı kaynaktır. Ancak bazı istemcileri açık kaynaktır, [**buradan**](https://duckduckgo.com/duckduckgo-help-pages/open-source/opensource-overview/) kontrol edebilirsiniz.
 * DuckDuckGo, StartPage ve Brave Search'in kullanıcılarına sunduğu reklamlar, kapatılabilmektedir. Aynı zamanda kullanıcıların arama sorgularını ve davranışlarını analiz edip reklam göstermez.
 
-### DuckDuckGo
+## DuckDuckGo
 
 ![DuckDuckGo](images/duckduckgo.png)
 
@@ -39,7 +39,7 @@ Yakın bir tarihte çıkarttığı [**Duck AI Chat**](https://duck.ai) ile giri�
 
 DuckDuckGo'nun kullanıcılarının mahremiyetine ve gizliliğine önem verdiği için Google yada Bing gibi alternatifler yerine tercih etmenizi öneririz. Daha fazla bilgi için DuckDuckGo'nun [**Gizlilik Politikasına**](https://duckduckgo.com/privacy) bakabilirsiniz.
 
-### Brave Search
+## Brave Search
 
 <img src="docs/images/brave.png" alt="Brave Search" width="350">,
 
@@ -55,7 +55,7 @@ Brave Search kullanıcılarının mahremiyetine ve gizliliğine önem verdiği i
 
 ?> Brave Search'ün arama sonuçları, Türkçe içerikler için yeterli olmayabilir.
 
-### StartPage
+## StartPage
 
 [**Startpage**](https://www.startpage.com/), gizliliğe önem veren bir başka arama motorudur. Kökleri 1998'e kadar dayanan Startpage, kullanıcı verilerini toplamadan ve izleme yapmadan Google arama sonuçlarını sunmasıyla dikkat çeker. 
 
@@ -65,7 +65,7 @@ Kişiselleştirilmiş reklamlar olmadığı için kullanıcının mahremiyetine 
 
 StartPage kullanıcılarının mahremiyetine ve gizliliğine önem verdiği için Google yada Bing gibi alternatifler yerine tercih etmenizi öneririz. Daha fazla bilgi için StartPage'in [**Gizlilik Poltikasına**](https://www.startpage.com/en/privacy-policy) bakabilirsiniz.
 
-### Searx
+## Searx
 
 <img src="docs/images/searx.png" alt="Searx" width="350">
 

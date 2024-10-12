@@ -9,10 +9,11 @@
     <link rel="icon" href="docs/images/icon.png" type="image/png">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css" id="theme-style">
     <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
+    <link rel="stylesheet" href="toc.css">
     <script src="theme-toggle.js"></script>
     <style>
     :root {
-      --content-max-width: 80em;
+      --content-max-width: 85em;
       --sidebar-nav-link-color--hover: #0b87da;
       --sidebar-nav-link-text-decoration--hover: none;
       --selection-color: rgba(11, 135, 218, 0.3); 
@@ -31,29 +32,33 @@
     <div id="app"></div>
     <script>
       window.$docsify = {
-      basePath: './docs/',
-      loadSidebar: true,
-      sidebar: '_sidebar.md',
-      themeColor: '#0B87DA',
-      logo: 'images/logo.svg',
-      notFoundPage: '404.md',
-      pagination: {
-      previousText: 'Önceki Sayfa',
-      nextText: 'Sonraki Sayfa',
-      crossChapter: true,
-      crossChapterText: true,
+        basePath: './docs/',
+        loadSidebar: true,
+        sidebar: '_sidebar.md',
+        themeColor: '#0B87DA',
+        logo: 'images/logo.svg',
+        notFoundPage: '404.md',
+        pagination: {
+        previousText: 'Önceki Sayfa',
+        nextText: 'Sonraki Sayfa',
+        crossChapter: true,
+        crossChapterText: true,
+        toc: {
+        scope: '.markdown-section',
+        headings: 'h1, h2, h3, h4,',
+        title: 'İçerik Tablosu',
+        },
         },
         plugins: [
           EditOnGithubPlugin.create(
             "https://github.com/GuvendeKal/guvendekal.org/tree/main/docs/", 
             "",
-            "✏️ Github'da Düzenle")
+            "📝 Dökümanı Düzenle")
         ]
       };
     </script>
-    <!-- docsify -->
-    <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-    <!-- plugins -->
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>    <!-- plugins -->
+    <script src="https://unpkg.com/docsify-toc@1.0.0/dist/toc.js"></script>
     <script src="footer-plugin.js"></script>
     <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
     </body>
