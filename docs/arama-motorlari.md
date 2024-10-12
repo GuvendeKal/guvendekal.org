@@ -14,10 +14,10 @@ Bu nedenlerle sizin verilerinizi işleyip kullanan, aramalarda manipülasyon yap
 
 | Arama Motoru     | Açık Kaynak       |  Kayıt Tutma     | Kayıtlı Ülke | Sonuçların Kaynağı | Reklamlar  |       
 | ---------------- |:----------------:| :---------------:| :------------:| :----------------:| :---------:| 
-| DuckDuckGo        | × | <span style="color: green;">×</span> | ABD          | Kendi + Bing     | ✓       |
-| Brave Search      | <span style="color: red;">×</span> | <span style="color: green;">×</span> | ABD          | Kendi indeksi    | ✓      |
-| StartPage         | <span style="color: red;">×</span> | ✓     | Hollanda     | Google           | ✓      |
-| Searx             | <span style="color: green;">✓</span> | <span style="color: green;">×</span> | Bağımsız | Meta Arama | <span style="color: green;">×</span>      |
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/duckduckgo-icon.png" alt="DuckDuckGo" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;">  DuckDuckGo      | × | <span style="color: green;">×</span> | ABD          | Kendi + Bing     | ✓       |
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/brave-icon.png" alt="Brave" style="width: 30px; height: ;"> </span> <span style="display: inline-block; vertical-align: middle;"> Brave Search      | <span style="color: red;">×</span> | <span style="color: green;">×</span> | ABD          | Kendi indeksi    | ✓      |
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/startpage-icon.png" alt="Startpage" style="width: 40px; height: 40px;"> </span> <span style="display: inline-block; vertical-align: middle;"> StartPage         | <span style="color: red;">×</span> | ✓     | Hollanda     | Google           | ✓      |
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/searx-icon.png" alt="Searx" style="width: 40px; height: 40px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Searx             | <span style="color: green;">✓</span> | <span style="color: green;">×</span> | Bağımsız | Meta Arama | <span style="color: green;">×</span>      |
 
 * StartPage anonim, tanımlanamaz kayıt tutmaktadır.
 * Searx, meta bir aramo motorudur. Farklı arama motorlarının sonuçlarını göstermektedir.
