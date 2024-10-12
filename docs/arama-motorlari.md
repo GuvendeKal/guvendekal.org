@@ -10,6 +10,9 @@ Ana gelir kaynağı "kişiselleştirilmiş reklam" olan arama motorları, sıral
 
 Bu nedenlerle sizin verilerinizi işleyip kullanan, aramalarda manipülasyon yapan arama motorlarunu kullanmamanız;  [**güvenlik**](https://guvendekal.org/#/guvenlik) ve [**mahremiyetiniz**](https://guvendekal.org/#/mahremiyet) başta olmak üzere daha doğru arama sonuçlarına ulaşmanız için önemlidir.
 
+?> Arama motorunuzu seçtikten sonra hangi tarayıcıyı kullanacağınızı seçtiniz mi? Yada eklenti yüklemeyi düşünüyor musunuz? Önerdiğimiz tarayıcılar için [**İnternet Tarayıcıları**](https://guvendekal.org/#/internet-tarayicilari) sayfasını, eklentileri görmek için [**Tarayıcı Eklentileri**](guvendekal.org/#/tarayici-eklentileri) sayfasını ziyaret edebilirsiniz. 
+
+
 ### Önerilenler Tablosu
 
 | Arama Motoru     | Açık Kaynak       |  Kayıt Tutma     | Kayıtlı Ülke | Sonuçların Kaynağı | Reklamlar  |       
