@@ -23,8 +23,8 @@
 
 | Mail Servisi          | Posta Adresleri                       | Depolama Alanı          | Hesap silme          |
 |:-----------------------:|---------------------------------------|:-------------------------:|---------------|
-| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/protonmail.svg" alt="Proton" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;">                  | @protonmail.com <br> @proton.me                     | 1 GB                   | 1 yıl aktif olunmazsa         |
-| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/tutamail.png" alt="Tutamail" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;">            | @tutamail.com                     | 1 GB                    | 6 ay aktif olunmazsa           |
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/protonmail.svg" alt="Proton" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;">                  | @protonmail.com ve @proton.me                     | 1 GB                   | 1 yıl aktif olunmazsa         |
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/tutamail.png" alt="Tutamail" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;">            | @tutamail.com, @tuta.io, @tutanota.com ve @keemail.me                     | 1 GB                    | 6 ay aktif olunmazsa           |
 
 ---
 
