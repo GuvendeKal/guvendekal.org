@@ -8,6 +8,8 @@ Günümüz dünyasında en çok kullanılan tarayıcılar **Chromium** tabanlıd
 
 Bu gibi sebeplerden ötürü, Chromium'dan sonra en çok kullanılan tarayıcı olan **Firefox** ve Firefox tabanlı tarayıcılar kullanılmasının, daha iyi bir internet için gerekli olduğunu düşünüyoruz.
 
+?> Tarayıcınızı seçtikten sonra hangi arama motorunu kullanacağınızı seçtiniz mi? Yada eklenti yüklemeyi düşünüyor musunuz? Önerdiğimiz arama motorları için [**Arama Motorları**](https://guvendekal.org/#/arama-motorlari) sayfasını, eklentileri görmek için [**Tarayıcı Eklentileri**](guvendekal.org/#/tarayici-eklentileri) sayfasını ziyaret edebilirsiniz. 
+
 ## Önerilen Tarayıcılar Listesi
 
 | Tarayıcı           | Tabanı          | Açık Kaynak                | Lisans Türü | Platform Desteği                                                                 |
