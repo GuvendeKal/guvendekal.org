@@ -82,7 +82,7 @@ Bu sayede kullanıcıların herhangi bir bilgisinin kaydıda tutulmaz. Mullvad V
 * [Gizlilik politikaları](https://mullvad.net/en/help/privacy-policy)
 
 
-##£ Proton VPN
+### Proton VPN
 
 ![proton](images/proton.png)
 
