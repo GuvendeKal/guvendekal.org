@@ -146,9 +146,12 @@ TutanotaMail, 2011 yılında Almanya merkezli kurulmuş bir posta servisidir. Gi
 * [**Açık kaynak deposu**](https://github.com/tutao)
 * [**Gizlilik politikası**](https://tuta.com/privacy-policy)
 
-## Tek Seferlik Mail Servisleri
+## Tek Seferlik Posta Servisleri
 
-?> Eklenecek
+Güvenmediğiniz yada tek seferlik kullanacağınız sitelere kayıt olurken kişisel e-posta adresinizi kullanmanızı önermiyoruz. Onun yerine gizlilik ve güvenliğinizi güçlendiren tek seferlik posta servislerini kullanmanızı öneririz.
+
+* [**Addy.io**](https://addy.io/)
+* [**SimpleLogin**](https://simplelogin.io/)
 
 <!-- BU BÖLÜM DAHA SONRA YENİ BİR SAYFAYA TAŞINACAKTIR -->
 
