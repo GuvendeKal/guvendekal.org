@@ -41,7 +41,7 @@ DNS sunucusu değiştirmek genellikle kolay bir işlemdir. Aşağıda kullandı�
 
 | Dns Adresi |
 | ---------- |
-| Mullvad farklı ihtiyaçlara farklı DNS sunucuları sağlıyor hepsine [**buradan**](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls) bakabilirsiniz.| 
+| Mullvad farklı ihtiyaçlara farklı DNS sunucuları sağlamaktadır. Bunların hepsine [**buradan**](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls) ulaşabilirsiniz.| 
 
 Mullvad DNS, sıfır kayıt tutma politikası ile kullanıcılarına reklam engellemede sunmaktadır. Aynı zamanda Mullvad DNS sunucularında sansür uygulanmaz. Mullvad DNS hakkında daha fazla bilgiye ulaşmak için [buraya](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls) bakabilirsiniz.
 
@@ -56,7 +56,7 @@ Mullvad DNS, sıfır kayıt tutma politikası ile kullanıcılarına reklam enge
 | IPv6  | 2620:fe::fe       |
 | IPv6  | 2620:fe::9        |
 
-2017 yılında oluşturulan Quad9 DNS kayıt tutmaz, reklam ve kötü amaçlı phishing sitelerini de engeller. Quad9 Veri ve Gizlilik POlitikası için [buraya](https://www.quad9.net/privacy/policy/) bakabilirsiniz.
+2017 yılında oluşturulan Quad9 DNS kayıt tutmaz, reklam ve kötü amaçlı phishing sitelerini de engeller. Quad9 Veri ve Gizlilik Politikası için [buraya](https://www.quad9.net/privacy/policy/) bakabilirsiniz.
 
 ## Adguard DNS
 
@@ -75,7 +75,7 @@ Adguard'ın ücretsiz sürümü gibi ücretli sürümü de bulunmaktadır. Ücre
 
 ![NextDNS](images/nextdns.png)
 
-NextDNS ücretli DNS sunucuları sunar, gizlilik politikalarına [buradan](https://nextdns.io/privacy) bakabilirsiniz. NextDNS kullanıcılarına farklı kişiselleştirmeler sunar. Normal paketi aylık 1.99€'dur. 
+NextDNS ayda 300 bin aratmaya kadar ücretsiz bir DNS servisi sunar. Kullanıcıların kolaylıkla reklam ve tracker engelleyiciler ile birlikte farklı kategorilerdeki engel listelerini kullanmasına olanak tanır. Gizlilik politikalarına [buradan](https://nextdns.io/privacy) bakabilirsiniz. Normal paketi aylık 1.99€'dur. 
 
 
 
