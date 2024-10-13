@@ -11,6 +11,48 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
 > "*Gizleyecek bir şeyiniz olmadığı için mahremiyet hakkını umursamadığınızı iddia etmek, söyleyecek bir şeyiniz olmadığı için ifade özgürlüğünü umursamadığınızı söylemekten farksızdır*"
 > <br> **Edward Snowden**
 
+## Önerilen Uygulamalar
+
+<div class="custom-box">
+    <img src="docs/images/librewolf.svg" alt="Logo">
+    <div style="flex: 1;">
+        <a href="https://guvendekal.org/#/internet-tarayicilari?id=-librewolf" class="title">Mahremiyet ve güvenlik odaklı: Librewolf </a>
+        <p class="description">Firefox tabanlı Librewolf kullanıcı mahremiyetini ve gizliliğini önemseyen en iyi arama motorlarından biridir. Firefox'un varsayılan ayarlarının en güvenlikli olacak şekilde ayarlanmıştır.</p>
+        <div class="icon-group">
+            <span><i class="fa-brands fa-windows"></i> Windows</span>
+            <span><i class="fas fa-apple-alt"></i> Mac</span>
+            <span><i class="fa-brands fa-linux"></i> Linux</span>
+        </div>
+    </div>
+</div>
+
+<div class="custom-box">
+    <img src="docs/images/ublock.png" alt="Logo">
+    <div style="flex: 1;">
+        <a href="https://guvendekal.org/#/tarayici-eklentileri?id=-ublock-origin" class="title">En iyi reklam ve izleyici engelleyici: uBlock Origin</a>
+        <p class="description">En güçlü ve gelişmiş reklam, izleyici engelleme eklentisidir. Diğer reklam engelleme eklentilerine kıyasla daha gelişmiş ve reklam engelleme yeteneği daha iyidir.</p>
+        <div class="icon-group">
+            <span><i class="fa-solid fa-globe"></i> Web</span>
+        </div>
+    </div>
+</div>
+
+<div class="custom-box">
+    <img src="docs/images/tutamail.png" alt="Logo">
+    <div style="flex: 1;">
+        <a href="http://127.0.0.1:3000/index.html#/posta-servisleri?id=-tutanotamail" class="title">Uçtan uca şifrelemeli posta: Tutanota Mail </a>
+        <p class="description">Tutanota Mail, Almanya tabanlı açık kaynaklıi uçtan uca şifrelemeli, güvenilir bir e-posta servisidir. Ücretli ve ücretsiz sürümleri mevcuttur. </p>
+        <div class="icon-group">
+            <span><i class="fa-solid fa-globe"></i> Web</span>
+            <span><i class="fa-brands fa-windows"></i> Windows</span>
+            <span><i class="fas fa-apple-alt"></i> Mac</span>
+            <span><i class="fa-brands fa-linux"></i> Linux</span>
+            <span><i class="fa-brands fa-android"></i> Android</span>
+            <span><i class="fa-brands fa-app-store-ios"></i> IOS</span>
+        </div>
+    </div>
+</div>
+
 ## Prensip & Misyon ve İşleyiş
 
 - Güvende Kal, kamu yararına hizmet eder herhangi bir şekilde kâr amacı gütmez. 
