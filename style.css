@@ -60,3 +60,74 @@ input:checked + .slider:before {
 body {
     font-family: 'Inter', sans-serif;
 }
+
+/* ------ */
+/* Uygulama kutucuğu */
+
+.custom-box {
+    border: 1px solid;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 16px 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+/* Logo */
+.custom-box img {
+    width: 70px; 
+    height: 70px;
+    margin-right: 16px;
+}
+
+/* Başlık */
+.custom-box .title {
+    font-size: 18px;
+    font-weight: bold;
+    color: #0b87da;
+    text-decoration: none;
+    margin-bottom: 8px;
+}
+
+.custom-box .title:hover {
+    text-decoration: none;
+}
+
+/* Açıklama */
+.custom-box .description {
+    font-size: 14px;
+    color: inherit;
+}
+
+/* Etiketler  */
+.custom-box .icon-group {
+    display: flex;
+    gap: 8px;
+    margin-top: 8px;
+}
+
+/* Gece/Gündüz */
+.light-mode .custom-box {
+    background-color: #f9f9f9;
+    border-color: #ccc;
+    color: #000;
+}
+
+.dark-mode .custom-box {
+    background-color: #1a1a1a;
+    border-color: #444;
+    color: #fff;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .custom-box {
+        flex-direction: column;
+        text-align: center;
+    }
+    .custom-box img {
+        margin: 0 auto 16px auto;
+    }
+}
+/* ------ */
