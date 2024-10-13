@@ -9,7 +9,6 @@
     <link rel="icon" href="docs/images/icon.png" type="image/png">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css" id="theme-style">
     <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
-    <link rel="stylesheet" href="toc.css">
     <script src="theme-toggle.js"></script>
     <style>
     :root {
@@ -43,11 +42,6 @@
         nextText: 'Sonraki Sayfa',
         crossChapter: true,
         crossChapterText: true,
-        toc: {
-        scope: '.markdown-section',
-        headings: 'h1, h2, h3, h4,',
-        title: 'İçerik Tablosu',
-        },
         },
         plugins: [
           EditOnGithubPlugin.create(
@@ -57,8 +51,7 @@
         ]
       };
     </script>
-    <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>    <!-- plugins -->
-    <script src="https://unpkg.com/docsify-toc@1.0.0/dist/toc.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script> 
     <script src="footer-plugin.js"></script>
     <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
     </body>
