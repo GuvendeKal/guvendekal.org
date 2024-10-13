@@ -1,3 +1,5 @@
+/* Gece/gündüz modu  */
+
 .switch {
     display: block;
     --width-of-switch: 3.5em;
@@ -53,3 +55,8 @@ input:checked + .slider:before {
     box-shadow: inset -3px -2px 5px -2px #8983f7, inset -10px -4px 0 0 #a3dafb;
 }
 
+/* Font */
+
+body {
+    font-family: 'Inter', sans-serif;
+}

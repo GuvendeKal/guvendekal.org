@@ -1,3 +1,5 @@
+/* Gece/gündüz modu  */
+
 let isDarkMode = true; 
 
 function toggleTheme(checkbox) {

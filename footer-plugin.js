@@ -1,3 +1,5 @@
+/* Footer bölümü */
+
 window.$docsify.plugins = [].concat(
   function(hook) {
     hook.afterEach(function(html, next) {
