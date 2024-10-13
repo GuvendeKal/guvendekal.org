@@ -41,7 +41,7 @@ DuckDuckGo'nun kullanıcılarının mahremiyetine ve gizliliğine önem verdiği
 
 ## Brave Search
 
-<img src="docs/images/brave.png" alt="Brave Search" width="350">,
+<img src="docs/images/brave.png" alt="Brave Search" width="350">
 
 [**Brave Search**](https://search.brave.com/), kullanıcı gizliliğine ve mahremiyetine öncelik veren bir arama motorlarından biridir. Brave tarayıcısı tarafından geliştirilen Brave Search, 2021 yılında piyasaya sürülmüştür. 
 

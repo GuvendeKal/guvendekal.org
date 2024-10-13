@@ -130,4 +130,11 @@ body {
         margin: 0 auto 16px auto;
     }
 }
+
+@media (min-width: 769px) {
+    .custom-box {
+        flex-direction: row; /* Masaüstünde yan yana düzen */
+        text-align: left; /* Sol hizalama */
+    }
+}
 /* ------ */
