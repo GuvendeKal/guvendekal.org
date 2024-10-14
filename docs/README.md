@@ -182,17 +182,14 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
 
 ## Yararlı Bağlantılar 
 
-- [Mahremiyet](https://guvendekal.org/#/mahremiyet) 
-- [Güvenlik](https://guvendekal.org/#/guvenlik)
-- [Açık Kaynak](https://guvendekal.org/#/acik-kaynak)
-- [Bilinçli Teknoloji Tüketicileri](https://btt.community/) 
-- [Privacy Guides](https://www.privacyguides.org/en/)
+- [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) 
+- [**Güvenlik**](https://guvendekal.org/#/guvenlik)
+- [**Açık Kaynak**](https://guvendekal.org/#/acik-kaynak)
+- [**Bilinçli Teknoloji Tüketicileri**](https://btt.community/) 
+- [**Privacy Guides**](https://www.privacyguides.org/en/)
+- [**Electronic Frontier Foundation**](https://www.eff.org/)
+- [**Free Software Foundation**](https://www.fsf.org/)
+
 
 
 !> guvendekal.org tarafından önerilen hiç bir uygulamanın guvendekal.org ile bağlantısı yoktur. guvendekal.org bu önermelerin sorumluluğunu almaz, herhangi bir çıkar yada kâr gözetmez.
-
-
-
-
-
-

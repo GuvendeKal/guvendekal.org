@@ -2,7 +2,7 @@
 
 Güvende Kal projesi herkesin katkı yapabileceği açık bir projedir.
 
-?> Katkıda bulunmak için [**Github depomuza**](https://github.com/GokturkTalha/guvendekal.org) ziyaret edebilirsin.
+?> Katkıda bulunmak için [**Github depomuzu**](https://github.com/GokturkTalha/guvendekal.org) ziyaret edebilirsin.
 
 ### İçerik Kuralları
 
