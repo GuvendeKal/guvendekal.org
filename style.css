@@ -125,16 +125,25 @@ body {
     .custom-box {
         flex-direction: column;
         text-align: center;
+        padding: 12px; 
     }
     .custom-box img {
-        margin: 0 auto 16px auto;
+        max-width: 100px; 
+        height: auto; 
+        margin: 0 auto 12px auto; 
     }
-}
-
-@media (min-width: 769px) {
-    .custom-box {
-        flex-direction: row; /* Masaüstünde yan yana düzen */
-        text-align: left; /* Sol hizalama */
+    .custom-box .title {
+        font-size: 16px; 
+    }
+    .custom-box .description {
+        font-size: 13px; 
+    }
+    .custom-box .icon-group {
+        display: flex;
+        flex-wrap: wrap; 
+        justify-content: center; 
+        gap: 8px; 
+        margin-top: 12px; 
     }
 }
 /* ------ */
