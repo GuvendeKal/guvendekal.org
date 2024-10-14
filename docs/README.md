@@ -54,9 +54,24 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
     <img src="docs/images/tutamail.png" alt="Logo">
     <div style="flex: 1;">
         <a href="http://127.0.0.1:3000/index.html#/posta-servisleri?id=-tutanotamail" class="title">Uçtan uca şifrelemeli posta: Tutanota Mail </a>
-        <p class="description">Tutanota Mail, Almanya tabanlı açık kaynaklıi uçtan uca şifrelemeli, güvenilir bir e-posta servisidir. Ücretli ve ücretsiz sürümleri mevcuttur. </p>
+        <p class="description">Tutanota Mail Almanya tabanlı, açık kaynaklı ve uçtan uca şifrelemeli güvenli bir e-posta servisidir. Ücretli ve ücretsiz sürümleri mevcuttur. </p>
         <div class="icon-group">
             <span><i class="fa-solid fa-globe"></i> Web</span>
+            <span><i class="fa-brands fa-windows"></i> Windows</span>
+            <span><i class="fas fa-apple-alt"></i> Mac</span>
+            <span><i class="fa-brands fa-linux"></i> Linux</span>
+            <span><i class="fa-brands fa-android"></i> Android</span>
+            <span><i class="fa-brands fa-app-store-ios"></i> IOS</span>
+        </div>
+    </div>
+</div>
+
+<div class="custom-box">
+    <img src="docs/images/protonvpn-icon.png" alt="Logo">
+    <div style="flex: 1;">
+        <a href="http://127.0.0.1:3000/index.html#/posta-servisleri?id=-tutanotamail" class="title">Sıfır kayıt tutma politikası olan VPN: Proton VPN </a>
+        <p class="description">Proton VPN İsviçre merkezli, açık kaynaklı bir VPN servisidir. Sıfır kayıt tutma politikası olan Proton VPN'in ücretli ve ücretsiz sürümleri mevcuttur.</p>
+        <div class="icon-group">
             <span><i class="fa-brands fa-windows"></i> Windows</span>
             <span><i class="fas fa-apple-alt"></i> Mac</span>
             <span><i class="fa-brands fa-linux"></i> Linux</span>
@@ -167,15 +182,14 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
 
 ## Yararlı Bağlantılar 
 
-- [Mahremiyet](https://guvendekal.org/#/mahremiyet) 
-- [Güvenlik](https://guvendekal.org/#/guvenlik)
-- [Açık Kaynak](https://guvendekal.org/#/acik-kaynak)
-- [Bilinçli Teknoloji Tüketicileri](https://btt.community/) 
-- [Privacy Guides](https://www.privacyguides.org/en/)
+- [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) 
+- [**Güvenlik**](https://guvendekal.org/#/guvenlik)
+- [**Açık Kaynak**](https://guvendekal.org/#/acik-kaynak)
+- [**Bilinçli Teknoloji Tüketicileri**](https://btt.community/) 
+- [**Privacy Guides**](https://www.privacyguides.org/en/)
+- [**Electronic Frontier Foundation**](https://www.eff.org/)
+- [**Free Software Foundation**](https://www.fsf.org/)
 
 
 
-
-
-
-
+!> guvendekal.org tarafından önerilen hiç bir uygulamanın guvendekal.org ile bağlantısı yoktur. guvendekal.org bu önermelerin sorumluluğunu almaz, herhangi bir çıkar yada kâr gözetmez.
