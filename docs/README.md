@@ -11,7 +11,20 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
 > "*Gizleyecek bir şeyiniz olmadığı için mahremiyet hakkını umursamadığınızı iddia etmek, söyleyecek bir şeyiniz olmadığı için ifade özgürlüğünü umursamadığınızı söylemekten farksızdır*"
 > <br> **Edward Snowden**
 
-## Önerilen Uygulamalar
+# Prensip & Misyon ve İşleyiş
+
+- Güvende Kal, kamu yararına hizmet eder herhangi bir şekilde kâr amacı gütmez. 
+
+- Proje herkese açıktır, isteyen kişiler katkıda bulunabilir.
+
+- Güvende Kal, topluluk tarafından oluşturulmuştur, gelişmesi ve devamlılığı yine topluluğa bağlıdır. Nasıl katkıda bulunabileceğiniz öğrenmek için [**Ekleme Yapmak**](https://guvendekal.org/#/ekleme) ve [**İçerik Kuralları**](https://guvendekal.org/#/icerik-kurallari) sayfalarını ziyaret edebilirsiniz.
+
+- İçeriklerin denetimini yapmakla sorumlu olan kişiler, projenin ana ekibidir (maintainer'lar). Bu grubun görevi içeriklerin kullanıcı yararına olmasını sağlamak, adil ve özgür bir bakış açısı ile yazıldığından emin olmak ve projenin sayfasında bulunan bilgilerin güncelliğini kontrol etmektir.
+
+?> Güvende Kal içinde bulunan yazılar **[Creative Commons Zero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/)** lisansına sahiptir.
+
+
+# Önerilen Uygulamalar
 
 <div class="custom-box">
     <img src="docs/images/librewolf.svg" alt="Logo">
@@ -53,18 +66,104 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
     </div>
 </div>
 
-## Prensip & Misyon ve İşleyiş
+## VPN Uygulamaları
 
-- Güvende Kal, kamu yararına hizmet eder herhangi bir şekilde kâr amacı gütmez. 
+<div class="service-container">
+    <div class="service-box">
+        <img src="docs/images/mullvadvpn-icon.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/vpn?id=mullvad-vpn" target="_blank" style="color: inherit; text-decoration: none;">Mullvad VPN</a>
+        </div>
+    </div>
+    <div class="service-box">
+        <img src="docs/images/protonvpn-icon.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/vpn?id=proton-vpn" target="_blank" style="color: inherit; text-decoration: none;">Proton VPN</a>
+        </div>
+    </div>
+</div>
 
-- Proje herkese açıktır, isteyen kişiler katkıda bulunabilir.
+## Arama Motorları
 
-- Güvende Kal, topluluk tarafından oluşturulmuştur, gelişmesi ve devamlılığı yine topluluğa bağlıdır. Nasıl katkıda bulunabileceğiniz öğrenmek için [**Ekleme Yapmak**](https://guvendekal.org/#/ekleme) ve [**İçerik Kuralları**](https://guvendekal.org/#/icerik-kurallari) sayfalarını ziyaret edebilirsiniz.
+<div class="service-container">
+    <div class="service-box">
+        <img src="docs/images/duckduckgo-icon.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/arama-motorlari?id=duckduckgo" target="_blank" style="color: inherit; text-decoration: none;">DuckDuckGo</a>
+        </div>
+    </div>
+    <div class="service-box">
+        <img src="docs/images/brave-icon.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/arama-motorlari?id=brave-search" target="_blank" style="color: inherit; text-decoration: none;">Brave Search</a>
+        </div>
+    </div>
+    <div class="service-box">
+        <img src="docs/images/startpage-icon.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/arama-motorlari?id=startpage" target="_blank" style="color: inherit; text-decoration: none;">Startpage</a>
+        </div>
+    </div>
+    <div class="service-box">
+        <img src="docs/images/searx-icon.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/arama-motorlari?id=searx" target="_blank" style="color: inherit; text-decoration: none;">Searx</a>
+        </div>
+    </div>
+</div>
 
-- İçeriklerin denetimini yapmakla sorumlu olan kişiler, projenin ana ekibidir (maintainer'lar). Bu grubun görevi içeriklerin kullanıcı yararına olmasını sağlamak, adil ve özgür bir bakış açısı ile yazıldığından emin olmak ve projenin sayfasında bulunan bilgilerin güncelliğini kontrol etmektir.
+## İnternet Tarayıcıları
 
-?> Güvende Kal içinde bulunan yazılar **[Creative Commons Zero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/)** lisansına sahiptir.
+<div class="service-container">
+    <div class="service-box">
+        <img src="docs/images/firefox.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/internet-tarayicilari?id=-mozilla-firefox" target="_blank" style="color: inherit; text-decoration: none;">Firefox</a>
+        </div>
+    </div>
+    <div class="service-box">
+        <img src="docs/images/librewolf.svg" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/internet-tarayicilari?id=-librewolf" target="_blank" style="color: inherit; text-decoration: none;">Librewolf</a>
+        </div>
+    </div>
+    <div class="service-box">
+        <img src="docs/images/brave-icon.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/internet-tarayicilari?id=-brave-browser" target="_blank" style="color: inherit; text-decoration: none;">Brave</a>
+        </div>
+    </div>
+    <div class="service-box">
+        <img src="docs/images/mullvad-icon.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/internet-tarayicilari?id=-mullvad-browser" target="_blank" style="color: inherit; text-decoration: none;">Mullvad Browser</a>
+        </div>
+    </div>
+    <div class="service-box">
+        <img src="docs/images/tor.svg" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/tor-agi" target="_blank" style="color: inherit; text-decoration: none;">Tor Browser</a>
+        </div>
+    </div>
+</div>
 
+
+## Posta Uygulamaları
+
+<div class="service-container">
+    <div class="service-box">
+        <img src="docs/images/protonmail.svg" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/posta-servisleri?id=-protonmail" target="_blank" style="color: inherit; text-decoration: none;">Proton Mail</a>
+        </div>
+    </div>
+    <div class="service-box">
+        <img src="docs/images/tutamail.png" alt="icon">
+        <div class="title">
+            <a href="e" target="_blank" style="color: inherit; text-decoration: none;">Tutanota Mail</a>
+        </div>
+    </div>
+</div>
 
 ## Yararlı Bağlantılar 
 

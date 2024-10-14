@@ -147,3 +147,66 @@ body {
     }
 }
 /* ------ */
+
+/* ------ */
+
+/* Uygulama kutucuğu 2 */
+.service-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+}
+
+/* Kutu tasarımı */
+.service-box {
+    border: 1px solid;
+    border-radius: 8px;
+    padding: 16px;
+    width: calc(50% - 16px); 
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    transition: background-color 0.3s, border-color 0.3s, color 0.3s;
+}
+
+/* İkon */
+.service-box img {
+    width: 50px;
+    height: auto;
+}
+
+/* Başlık */
+.service-box .title {
+    font-size: 18px;
+    font-weight: bold;
+    color: #0b87da;
+}
+
+/* Gece/Gündüz modu */
+.light-mode .service-boxx {
+    background-color: #f9f9f9;
+    border-color: #ccc;
+    color: #000;
+}
+
+.dark-mode .service-box {
+    background-color: #1a1a1a;
+    border-color: #444;
+    color: #fff;
+}
+
+/* Responsive ayarları */
+@media (max-width: 768px) {
+    .service-box {
+        width: 100%; 
+        flex-direction: column; 
+        text-align: center; 
+    }
+    .service-box img {
+        margin-bottom: 8px; 
+    }
+}
+
+/* ------ */
+
