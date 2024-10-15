@@ -44,8 +44,10 @@ Bu noktada **Özgür Yazılım** anlayışına sahip uygulamalar ise, uygulamala
 * [Linux Kernel](https://www.kernel.org/)
 * [Firefox](https://www.mozilla.org/en-US/firefox/)
 * [Apache](https://httpd.apache.org/)
+* [GNU](https://www.gnu.org/gnu/gnu.html)
 
 ## Özgür yazılım için yararlı bağlantılar
 
 * [Free Software Foundation](https://www.fsf.org/)
 * [Richard Stallman](https://stallman.org/)
+* [GNU: Özgür Yazılım Nedir?](https://www.gnu.org/philosophy/free-sw.html)
