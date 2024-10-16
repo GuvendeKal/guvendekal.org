@@ -1,3 +1,7 @@
+<!-- NOTLAR 
+ - Bu sayfa bilgi içerikli makaleden oluşmaktadır.
+ - Bu sayfaya ekleme yapmadan önce yetkililere danışmanız önerilir. -->
+
 # Biçimlendirme
 
 ### Notlar ve Alıntı

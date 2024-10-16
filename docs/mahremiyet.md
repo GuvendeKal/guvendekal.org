@@ -1,3 +1,8 @@
+<!-- NOTLAR 
+ - Bu sayfa bilgi içerikli makaleden oluşmaktadır.
+ - Bu içeriğe eklenmesi gereken şeyler olduğu düşünülmektedir. https://github.com/GuvendeKal/guvendekal.org/issues/28 buradan bakabilirsiniz.
+ - İçerik kuralları ve ekleme yapmak sayfalarını ziyaret edebilirsiniz -->
+
 # Mahremiyet
 
 **Mahremiyet** bireylerin, özel hayatlarının gizli kalması ve korunmasına denilir. Temel insan haklarından olan mahremiyet, birçok uluslararası insan hakları belgesinde ve birçok ülkenin anayasasında yer almaktadır. Bireyler, mahremiyet haklarını ihlal eden durumlara karşı yasal yollara başvurma hakkına sahiptir.

@@ -1,3 +1,7 @@
+<!-- NOTLAR 
+ - Bu sayfa sitenin ana sayfasıdır.
+ - Bu sayfaya ekleme yapmadan önce yetkililere danışmanız önerilir. -->
+
 [![Logo](images/logo.svg)](https://guvendekal.org/#/)
 
 # Başlangıç

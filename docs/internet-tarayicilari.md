@@ -1,3 +1,9 @@
+<!-- NOTLAR 
+ - Bu içerik halihazırda yazılmıştır. İçerik içinde ekleme yapma yada düzeltme yapma ihtiyacı yoksa değişiklik yapmanız önerilmez. Uygulama önerilerine ekleme yapmak isterseniz, eklenen diğer uygulamaların kalitesinde olmasına özen gösteriniz.
+ - Tablo eklemeyi unutmayın 
+ - Uygun görseller eklemeyi unutmayın.
+ - İçerik kuralları ve ekleme yapmak sayfalarını ziyaret edebilirsiniz -->
+
 # İnternet Tarayıcıları
 
 **Tarayıcılar**, kullanıcıların internet sitelerine erişmelerini sağlayan başlıca yazılımlardır. Tarayıcının görevi, bir internet sitesininin HTML ve CSS dosyalarını işleyerek kullanıcılara sitenin içeriğini (metin dosyaları, görseller, ses dosyaları, videolar vs) görsel ve işitsel bir şekilde sunmaktır.

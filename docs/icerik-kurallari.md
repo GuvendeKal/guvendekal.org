@@ -1,3 +1,7 @@
+<!-- NOTLAR 
+ - Bu sayfa bilgi içerikli makaleden oluşmaktadır.
+ - Bu sayfaya ekleme yapmadan önce yetkililere danışmanız önerilir. -->
+
 # İçerik Kuralları
 
 Güvende Kal, kullanıcılara sunduğu içeriklerin kalitesini artırmak amacıyla belirli **standartlar** sunar. Bu standartlara uymayan içerikler platforma kabul edilmez veya revize edilmek için bekletilir.

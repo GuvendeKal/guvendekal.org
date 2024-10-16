@@ -1,3 +1,9 @@
+<!-- NOTLAR 
+ - Bu içerik halihazırda yazılmıştır. İçerik içinde ekleme yapma yada düzeltme yapma ihtiyacı yoksa değişiklik yapmanız önerilmez. Uygulama önerilerine ekleme yapmak isterseniz, eklenen diğer uygulamaların kalitesinde olmasına özen gösteriniz.
+ - Tablo eklemeyi unutmayın 
+ - Uygun görseller eklemeyi unutmayın.
+ - İçerik kuralları ve ekleme yapmak sayfalarını ziyaret edebilirsiniz -->
+
 # Tarayıcı Eklentileri
 
 **Tarayıcı eklentileri**, internet tarayıcınızın verimliliğini arttırmak ve ek özellikler eklemeye yarayan araçlardır. Eklentiler genellikle tarayıcıların resmî mağazalarında yayınlanır ancak yinede yüklediğiniz eklentilerin güvenliğinden emin olduktan sonra yükleyin!
