@@ -50,6 +50,8 @@ Bu noktada **Özgür Yazılım** anlayışına sahip uygulamalar ise, uygulamala
 * [Firefox](https://www.mozilla.org/en-US/firefox/)
 * [Apache](https://httpd.apache.org/)
 * [GNU](https://www.gnu.org/gnu/gnu.html)
+* [Bitwarden](https://bitwarden.com/)
+* [qBittorrent](https://www.qbittorrent.org/)
 
 ## Özgür yazılım için yararlı bağlantılar
 
