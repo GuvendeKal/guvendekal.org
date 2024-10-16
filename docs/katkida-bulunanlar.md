@@ -9,3 +9,4 @@ Gücende Kal projesinin devamlılığı ve sürekliliği, topluluğun katkısın
 - [odest](https://github.com/odest)
 - [2013dogumeymen](https://github.com/2013dogumeymen)
 - [Hexecoder](https://github.com/Hexecoder)
+- [MrBaxren](https://github.com/MrBaxren)
