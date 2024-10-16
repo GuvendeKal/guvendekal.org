@@ -63,7 +63,7 @@ Mullvad Browser'in temel amacı Tor ağını kullanmadan, Tor'un sunduğu bütü
 
 ?> Tor Browser için [**Tor Ağı**](tor-agi.md) sayfasını ziyaret edebilirsiniz.
 
-### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/ug-chromium.png" alt="Ungoogled Chromium" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> Brave Browser
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/ug-chromium.png" alt="Ungoogled Chromium" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> Ungoogled Chromium
 
 **Ungoogled Chromium**, gönüllü bir ekip vasıtasıyla geliştirilen ve Chromium tabanlı bir tarayıcıdır. Diğer Chromium tabanlı tarayıcıların aksine arkadaki tüm Google işlemlerini silmeyi ve gizliliğinizi Google'dan korumaya çalışan bir yapıya sahiptir.
 
