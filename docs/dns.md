@@ -1,3 +1,9 @@
+<!-- NOTLAR 
+ - Bu içerik halihazırda yazılmıştır. İçerik içinde ekleme yapma yada düzeltme yapma ihtiyacı yoksa değişiklik yapmanız önerilmez. Uygulama önerilerine ekleme yapmak isterseniz, eklenen diğer uygulamaların kalitesinde olmasına özen gösteriniz.
+ - Tablo eklemeyi unutmayın 
+ - Uygun görseller eklemeyi unutmayın.
+ - İçerik kuralları ve ekleme yapmak sayfalarını ziyaret edebilirsiniz -->
+
 # DNS
 
 **DNS** (Domain Name System), internet üzerindeki alan adlarını IP adreslerine çeviren bir sistemdir. Örneğin bu siteye bağlanmaya çalıştığınız zaman `192.168.1.45` yerine `guvendekal.org` alan adını yazarak giriyorsunuz.

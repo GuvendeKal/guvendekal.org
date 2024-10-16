@@ -1,3 +1,9 @@
+<!-- NOTLAR 
+ - Bu içerik halihazırda yazılmıştır. İçerik içinde ekleme yapma yada düzeltme yapma ihtiyacı yoksa değişiklik yapmanız önerilmez. Uygulama önerilerine ekleme yapmak isterseniz, eklenen diğer uygulamaların kalitesinde olmasına özen gösteriniz.
+ - Tablo eklemeyi unutmayın 
+ - Uygun görseller eklemeyi unutmayın.
+ - İçerik kuralları ve ekleme yapmak sayfalarını ziyaret edebilirsiniz -->
+
 # Arama Motorları
 
 Arama motoru, internet üzerinde aramalarınıza göre size sonuçlar sunan araçlardır. Arama motoru sorgunuzu, veritabanındaki indekslediği sitelerde arar ve uygun sonuçları listeler.

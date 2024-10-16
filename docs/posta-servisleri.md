@@ -1,3 +1,10 @@
+<!-- NOTLAR 
+ - Bu içerik halihazırda yazılmıştır. İçerik içinde ekleme yapma yada düzeltme yapma ihtiyacı yoksa değişiklik yapmanız önerilmez. Uygulama önerilerine ekleme yapmak isterseniz, eklenen diğer uygulamaların kalitesinde olmasına özen gösteriniz.
+ - Bu içeriğe eklenmesi gereken şeyler olduğu düşünülmektedir. https://github.com/GuvendeKal/guvendekal.org/issues/28 buradan bakabilirsiniz.
+ - Tablo eklemeyi unutmayın 
+ - Uygun görseller eklemeyi unutmayın.
+ - İçerik kuralları ve ekleme yapmak sayfalarını ziyaret edebilirsiniz -->
+
 # E-posta Servisleri
 
 **E-posta** (Elektronik posta) geçmişi 1970'lere kadar dayanan, internet üzerinden metin ve dosyalar gibi eklerin iki adres arasında iletilmesini sağlayan araçtır. Günümüzde hâlâ kişisel, ticari ve resmî amaçlarla kullanılabilmektedir. 

@@ -1,3 +1,7 @@
+<!-- NOTLAR 
+ - Bu sayfa bilgi içerikli makaleden oluşmaktadır.
+ - Bu sayfaya ekleme yapmadan önce yetkililere danışmanız önerilir. -->
+
 # Ekleme Yap
 
 Güvende Kal projesi herkesin katkı yapabileceği açık bir projedir.

@@ -1,3 +1,8 @@
+<!-- NOTLAR 
+ - Bu sayfa bilgi içerikli makaleden oluşmaktadır.
+ - Bu içeriğe eklenmesi gereken şeyler olduğu düşünülmektedir. https://github.com/GuvendeKal/guvendekal.org/issues/28 buradan bakabilirsiniz.
+ - İçerik kuralları ve ekleme yapmak sayfalarını ziyaret edebilirsiniz -->
+
 # Güvenlik
 
 Dijital ortamda **güvenlik** kavramı bireylerin yada şirketlerin, çevrimiçi verilerini yada sistemlerini koruma amaçlı aldıkları önlemler bütününe verilen isimdir.

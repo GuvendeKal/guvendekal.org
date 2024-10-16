@@ -1,3 +1,7 @@
+<!-- NOTLAR 
+ - Bu sayfada Güvende Kol projesine destekte bulunanlar listelenir.
+ - Bu sayfaya ekleme yaparken düzene saygı gösteriniz. -->
+
 # Katkıda Bulunanlar
 
 Gücende Kal projesinin devamlılığı ve sürekliliği, topluluğun katkısına bağlıdır. Nasıl katkı yapabileceğinizi öğrenmek için [**Ekleme Yapmak**](http://127.0.0.1:3000/index.html#/ekleme) sayfasını ziyaret edebilirsiniz.

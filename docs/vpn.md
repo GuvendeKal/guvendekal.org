@@ -1,3 +1,10 @@
+<!-- NOTLAR 
+ - Bu içerik halihazırda yazılmıştır. İçerik içinde ekleme yapma yada düzeltme yapma ihtiyacı yoksa değişiklik yapmanız önerilmez. Uygulama önerilerine ekleme yapmak isterseniz, eklenen diğer uygulamaların kalitesinde olmasına özen gösteriniz.
+ - Bu içeriğe eklenmesi gereken şeyler olduğu düşünülmektedir. https://github.com/GuvendeKal/guvendekal.org/issues/28 buradan bakabilirsiniz.
+ - Tablo eklemeyi unutmayın 
+ - Uygun görseller eklemeyi unutmayın.
+ - İçerik kuralları ve ekleme yapmak sayfalarını ziyaret edebilirsiniz -->
+
 # VPN
 
 **VPN**, internet üzerinde internet bağlantınızın güvenliğini ve gizliliğinizi korumanıza yardımcı olan bir araçtır. VPN'in temel mantığı kullanıcıların internet trafiğini şifreleyerek uzakta bulunan başka bir sunucuya yönlendirmesidir.

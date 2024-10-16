@@ -1,3 +1,8 @@
+<!-- NOTLAR 
+ - Bu sayfa bilgi içerikli makaleden oluşmaktadır.
+ - Bu içeriğe eklenmesi gereken şeyler olduğu düşünülmektedir. https://github.com/GuvendeKal/guvendekal.org/issues/28 buradan bakabilirsiniz.
+ - İçerik kuralları ve ekleme yapmak sayfalarını ziyaret edebilirsiniz -->
+
 # Açık Kaynak
 
 **Açık kaynak** terimi temel olarak bir yazılımın kaynak kodlarının herkes tarafından okunabildiği, kullanılabilir, değiştirilebilir olduğu projeler için kullanılır. Ancak her açık kaynak proje, yazılımı alıp tekrar dağıtmanıza izin vermeyebilir. 
