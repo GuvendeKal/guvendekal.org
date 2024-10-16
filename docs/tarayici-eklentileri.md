@@ -28,12 +28,10 @@ Girdiğiniz sitenin yükleme çalıştığı 3. taraf istekleri (çerez, izleyic
 
 DuckDuckGo Privacy Essential eklentisi [açık kaynaktır](https://github.com/duckduckgo/duckduckgo-privacy-extension) ve Apache-2.0 lisansı kullanmaktadır.
 
-<span style="display: inline-block; vertical-align: middle;"> CanvasBlocker
+### CanvasBlocker
 
-**CanvasBlocker** eklentisi, tarayıcı parmak izini önemli ölçüde yok eden [açık kaynak](https://github.com/kkapsner/CanvasBlocker) bir eklentidir. Bir siteye istek yoladığınızda tarayıcınız aracılığı ile sizin hakkınızda bazı bilgiler gider ve bu veriler çoğaldıkça sizin tarayıcı parmak iziniz oluşur çünkü o kadar fazla bilgi gitmiştir ki bu bilgilere sahip dünya üzerinde neredeyse kimse yoktur böylece internetteki mahremiyetimiz zarar görür. Bu eklenti, kullanıcıların parmak izini toplayan Javascript API'leri engeller.
+**CanvasBlocker** eklentisi, tarayıcı parmak izini önemli ölçüde yok eden bir eklentidir. Bir siteye istek yoladığınızda tarayıcınız aracılığı ile sizin hakkınızda bazı bilgiler gider ve bu veriler çoğaldıkça sizin tarayıcı parmak iziniz oluşur çünkü o kadar fazla bilgi gitmiştir ki bu bilgilere sahip dünya üzerinde neredeyse kimse yoktur böylece internetteki mahremiyetimiz zarar görür. Bu eklenti, kullanıcıların parmak izini toplayan Javascript API'leri engeller.
 
-CanvasBlocker eklentisi, sayesinde tarayıcı parmak iziniz neredeyse yok olma noktasına gelir. 
-
-CanvasBlocker eklentisi, Mozilla Public License (MPL) 2.0 lisansını kullanmaktadır.
+CanvasBlocker eklentisi, sayesinde tarayıcı parmak iziniz neredeyse yok olma noktasına gelir. CanvasBlocker eklentisi [açık kaynak](https://github.com/kkapsner/CanvasBlocker), Mozilla Public License (MPL) 2.0 lisansını kullanmaktadır.
 
 
