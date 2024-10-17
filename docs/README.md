@@ -190,6 +190,29 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
     </div>
 </div>
 
+## Şifre Yöneticileri
+
+<div class="service-container">
+    <div class="service-box">
+        <img src="docs/images/keepassxc.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/sifre-yoneticileri?id=-keepass" target="_blank" style="color: inherit; text-decoration: none;">KeepassXC</a>
+        </div>
+    </div>
+    <div class="service-box">
+        <img src="docs/images/bitwarden.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/sifre-yoneticileri?id=-bitwarden" target="_blank" style="color: inherit; text-decoration: none;">Bitwarden</a>
+        </div>
+    </div>
+    <div class="service-box">
+        <img src="docs/images/vaultwarden.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/sifre-yoneticileri?id=-vaultwarden" target="_blank" style="color: inherit; text-decoration: none;">Vaultwarden</a>
+        </div>
+    </div>
+</div>
+
 ## Yararlı Bağlantılar 
 
 - [**Güvende Kal Searx Sunucusu**](https://searx.guvendekal.org/)
