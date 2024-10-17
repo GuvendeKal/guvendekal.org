@@ -7,3 +7,7 @@
 # Kripto Cüzdanları
 
 > Eklenecek
+
+## Önerilenler Tablosu
+
+> Eklenecek

@@ -4,6 +4,10 @@
  - Uygun görseller eklemeyi unutmayın.
  - İçerik kuralları ve ekleme yapmak sayfalarını ziyaret edebilirsiniz -->
 
-# Dosya Saklama
+# Dosya Depolama
+
+> Eklenecek
+
+## Önerilenler Tablosu
 
 > Eklenecek

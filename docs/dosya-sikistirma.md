@@ -7,3 +7,7 @@
 # Dosya Sıkıştırma
 
 > Eklenecek
+
+## Önerilenler Tablosu
+
+> Eklenecek

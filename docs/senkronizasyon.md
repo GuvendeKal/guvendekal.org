@@ -6,3 +6,7 @@
 # Senkronizasyon
 
 > Eklenecek
+
+## Önerilenler Tablosu
+
+> Eklenecek

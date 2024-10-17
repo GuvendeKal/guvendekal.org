@@ -7,3 +7,7 @@
 # Dosya Şifreleme
 
 > Eklenecek
+
+## Önerilenler Tablosu
+
+> Eklenecek

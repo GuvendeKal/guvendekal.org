@@ -6,3 +6,7 @@
 # 2 Faktörlü Doğrulama
 
 > Eklenecek
+
+## Önerilenler Tablosu
+
+> Eklenecek

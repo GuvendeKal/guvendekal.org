@@ -7,3 +7,7 @@
 # Not Alma
 
 > Eklenecek
+
+## Önerilenler Tablosu
+
+> Eklenecek
