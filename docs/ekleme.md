@@ -6,7 +6,7 @@
 
 Güvende Kal projesi herkesin katkı yapabileceği açık bir projedir.
 
-?> Katkıda bulunmak için [**Github depomuzu**](https://github.com/GokturkTalha/guvendekal.org) ziyaret edebilirsin.
+?> Katkıda bulunmak için [**Github depomuzu**](hhttps://github.com/GuvendeKal/guvendekal.org) ziyaret edebilirsin.
 
 ### İçerik Kuralları
 
@@ -85,7 +85,4 @@ Görseller `guvendekal.org/docs/images/` klasörüne yüklenir. Bu klasöre ekle
 - Görseller ve biçimlendirme kullanın.
 - Kaynaklar gösterin.
 
-?> Katkıda bulunduktan sonra "Katkıda Bulunanlar" kısmında adınızın gözükmesini isterseniz. [buradan](https://github.com/GokturkTalha/guvendekal.org/blob/main/docs/katki.md) kendinizi ekleyebilirsiniz.
-
-
-
+?> Katkıda bulunduktan sonra "Katkıda Bulunanlar" kısmında adınızın gözükmesini isterseniz. [buradan](https://github.com/GuvendeKal/guvendekal.org/blob/main/docs/katkida-bulunanlar.md) kendinizi ekleyebilirsiniz.

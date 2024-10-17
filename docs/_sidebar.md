@@ -39,7 +39,7 @@
 
 
 <i class="fa-solid fa-folder-open"></i> Dosya
-* [<i class="fa-solid fa-file"></i> Dosya Saklama](dosya-saklama.md)
+* [<i class="fa-solid fa-file"></i> Dosya Depolama](dosya-depolama.md)
 * [<i class="fas fa-file-upload"></i> Dosya Aktarma](dosya-aktarma.md)
 * [<i class="fas fa-file-archive"></i> Dosya Sıkıştırma](dosya-sikistirma.md)
 * [<i class="fa-solid fa-file-signature"></i> Dosya Şifreleme](dosya-sifreleme.md)

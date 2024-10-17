@@ -6,3 +6,7 @@
 # Sosyal Ağlar
 
 > Eklenecek
+
+## Önerilenler Tablosu
+
+> Eklenecek
