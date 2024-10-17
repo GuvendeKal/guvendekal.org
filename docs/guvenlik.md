@@ -13,6 +13,7 @@ Hesaplarınızın yada kart bilgilerinizin çalınması, cihazınıza virüs bul
 
 ## Güvenlik için yararlı bağlantılar
 
+* [Şifre Yöneticileri](https://guvendekal.org/#/sifre-yoneticileri)
 * [have i been pwned?](https://haveibeenpwned.com/)
 
 
