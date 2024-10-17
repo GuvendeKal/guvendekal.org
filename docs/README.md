@@ -196,7 +196,7 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
     <div class="service-box">
         <img src="docs/images/keepassxc.png" alt="icon">
         <div class="title">
-            <a href="https://guvendekal.org/#/sifre-yoneticileri?id=-keepass" target="_blank" style="color: inherit; text-decoration: none;">KeepassXC</a>
+            <a href="https://guvendekal.org/#/sifre-yoneticileri?id=-keepassxc" target="_blank" style="color: inherit; text-decoration: none;">KeepassXC</a>
         </div>
     </div>
     <div class="service-box">
