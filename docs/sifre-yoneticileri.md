@@ -31,7 +31,7 @@ Lokal şekilde çalışan şifre yöneticilerinde [**senkronizasyon araçları**
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/keepassxc.png" alt="KeepassXC" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> KeepassXC
 
-[**KeepassXC**](https://keepassxc.org/), açık kaynak ve ücretsiz şekilde geliştirilen şifre yöneticisidir. Lokal şekilde çalışan KeepasXC, [**Keepass**](https://keepass.info/)'ın forkudur. Keepass'ın aksine Linux ve Mac platformlarında desteklemektedir. Aynı zamanda bazı eklentilerde varsayılan olarak KeepassXC'de bulunmaktadır. KeepassXC'de ekstra olarak platformlar arasında senkronizasyon yapmanıza yarayan servisler mevcuttur.
+[**KeepassXC**](https://keepassxc.org/), açık kaynak ve ücretsiz şekilde geliştirilen şifre yöneticisidir. Lokal şekilde çalışan KeepasXC, [**Keepass**](https://keepass.info/)'ın forkudur. Keepass'ın aksine Linux ve Mac platformlarındada desteklemektedir. Aynı zamanda bazı eklentilerde varsayılan olarak KeepassXC'de bulunmaktadır. KeepassXC'de ekstra olarak platformlar arasında senkronizasyon yapmanıza yarayan servisler mevcuttur.
 
 KeepassXC tarafından Android'de kullanmak için [**KeepassDX**](https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.free) yada [**Keepass2Android**](https://play.google.com/store/apps/details?id=keepass2android.keepass2android), IOS'ta kullanmak için [**Strongbox**](https://apps.apple.com/us/app/strongbox-password-manager/id897283731) yada [**Keepassium**](https://apps.apple.com/us/app/keepassium-keepass-passwords/id1435127111) önerilir.
 
