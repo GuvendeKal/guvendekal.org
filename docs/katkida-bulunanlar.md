@@ -15,3 +15,4 @@ Güvende Kal projesinin devamlılığı ve sürekliliği, topluluğun katkısın
 - [Hexecoder](https://github.com/Hexecoder)
 - [MrBaxren](https://github.com/MrBaxren)
 - [conmecha](https://github.com/conmecha)
+- [callisto1232](https://github.com/callisto1232)
