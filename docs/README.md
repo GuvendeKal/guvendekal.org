@@ -57,7 +57,7 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
 <div class="custom-box">
     <img src="docs/images/tutamail.png" alt="Logo">
     <div style="flex: 1;">
-        <a href="http://127.0.0.1:3000/index.html#/posta-servisleri?id=-tutanotamail" class="title">Uçtan uca şifrelemeli posta: Tutanota Mail </a>
+        <a href="https://guvendekal.org/#/posta-servisleri?id=-tutanotamail" class="title">Uçtan uca şifrelemeli posta: Tutanota Mail </a>
         <p class="description">Tutanota Mail Almanya tabanlı, açık kaynaklı ve uçtan uca şifrelemeli güvenli bir e-posta servisidir. Ücretli ve ücretsiz sürümleri mevcuttur. </p>
         <div class="icon-group">
             <span><i class="fa-solid fa-globe"></i> Web</span>
@@ -73,9 +73,25 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
 <div class="custom-box">
     <img src="docs/images/protonvpn-icon.png" alt="Logo">
     <div style="flex: 1;">
-        <a href="http://127.0.0.1:3000/index.html#/posta-servisleri?id=-tutanotamail" class="title">Sıfır kayıt tutma politikası olan VPN: Proton VPN </a>
+        <a href="https://guvendekal.org/#/vpn?id=proton-vpn" class="title">Sıfır kayıt tutma politikası olan VPN: Proton VPN </a>
         <p class="description">Proton VPN İsviçre merkezli, açık kaynaklı bir VPN servisidir. Sıfır kayıt tutma politikası olan Proton VPN'in ücretli ve ücretsiz sürümleri mevcuttur.</p>
         <div class="icon-group">
+            <span><i class="fa-brands fa-windows"></i> Windows</span>
+            <span><i class="fas fa-apple-alt"></i> Mac</span>
+            <span><i class="fa-brands fa-linux"></i> Linux</span>
+            <span><i class="fa-brands fa-android"></i> Android</span>
+            <span><i class="fa-brands fa-app-store-ios"></i> IOS</span>
+        </div>
+    </div>
+</div>
+
+<div class="custom-box">
+    <img src="docs/images/bitwarden.png" alt="Logo">
+    <div style="flex: 1;">
+        <a href="https://guvendekal.org/#/sifre-yoneticileri?id=-bitwarden" class="title">Güçlü şifreler için güçlü bir kasa: Bitwarden</a>
+        <p class="description">Bitwarden bulut tabanlı, açık kaynaklı ve ücretsiz bir şifre yöneticisidir. Güçlü şifreler oluşturup güçlü şekilde saklamak için iyi bir seçenek.</p>
+        <div class="icon-group">
+            <span><i class="fa-solid fa-globe"></i> Web</span>
             <span><i class="fa-brands fa-windows"></i> Windows</span>
             <span><i class="fas fa-apple-alt"></i> Mac</span>
             <span><i class="fa-brands fa-linux"></i> Linux</span>
