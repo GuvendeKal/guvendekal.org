@@ -240,6 +240,10 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
 - [**Electronic Frontier Foundation**](https://www.eff.org/)
 - [**Free Software Foundation**](https://www.fsf.org/)
 
+## Atıf ve Hukuksal Bilgiler
 
+guvendekal.org tarafından önerilen hiç bir uygulamanın guvendekal.org ile bağlantısı yoktur. guvendekal.org bu önermelerin sorumluluğunu almaz, herhangi bir çıkar yada kâr gözetmez. guvendekal.org tarafından kullanılan logo ve marka isimleri yada tescilli isimler tamamen tanıtım amaçlı kullanılmaktadır. 
 
-!> guvendekal.org tarafından önerilen hiç bir uygulamanın guvendekal.org ile bağlantısı yoktur. guvendekal.org bu önermelerin sorumluluğunu almaz, herhangi bir çıkar yada kâr gözetmez.
+- guvendekal.org sitesinin alt yapısı [**Docsify**](https://docsify.js.org/#/) ile oluşturulmuştur. (**MIT**)
+- guvendekal.org sitesinde kullanılan ikonlar, [**Font Awesome**](https://fontawesome.com/) kütüphanesinden çekilmektedir. (**CC BY**)
+- guvendekal.org sitesinde kullanılan font [**Inter**](https://rsms.me/inter/) font ailesidir. (**OFL**)
