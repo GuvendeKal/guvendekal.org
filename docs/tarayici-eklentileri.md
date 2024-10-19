@@ -6,15 +6,15 @@
 
 # Tarayıcı Eklentileri
 
-**Tarayıcı eklentileri**, internet tarayıcınızın verimliliğini arttırmak ve ek özellikler eklemeye yarayan araçlardır. Eklentiler genellikle tarayıcıların resmî mağazalarında yayınlanır ancak yinede yüklediğiniz eklentilerin güvenliğinden emin olduktan sonra yükleyin!
+**Tarayıcı eklentileri**, internet tarayıcınızın verimliliğini arttırmak ve ek özellikler eklemeye yarayan araçlardır. Eklentiler genellikle tarayıcıların resmî mağazalarında yayınlanır ancak yine de yüklediğiniz eklentilerin güvenliğinden emin olduktan sonra yükleyin!
 
 İnternette gezinirken gizlilik, güvenlik ve deneyiminizi arttıracak bazı eklenti önerilerimize geçelim.
 
-### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/ublock.png" alt="Protonmail" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> uBlock Origin
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/ublock.png" alt="uBlock Origin" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> uBlock Origin
 
-**uBlock Origin** eklentisi, internet üzerinde karşınıza çıkacak- neredeyse- her reklamı engelleyen tarayıcı eklentisidir. Diğer reklam engelleme eklentilerine kıyasla daha gelişmiş ve reklam engelleme yeteneği daha iyidir.
+**uBlock Origin** eklentisi, internet üzerinde karşınıza çıkacak -neredeyse- her reklamı engelleyen tarayıcı eklentisidir. Diğer reklam engelleme eklentilerine kıyasla daha gelişmiştir ve reklam engelleme yeteneği daha iyidir.
 
-Engelleyemediği reklamları, manuel olarak engelleme gibi ek özellikleri mevcuttur. Aynı zamanda çerez ve izleyici gibi şeyleride engellemektedir.
+Engelleyemediği reklamları, manuel olarak engelleme gibi ek özellikleri mevcuttur. Aynı zamanda çerez ve izleyicileri de engellemektedir.
 
 uBlock Origin eklentisi [açık kaynaktır](https://github.com/gorhill/uBlock) ve GPL-3.0 lisansı <span style="color: green;"><small>(Özgür Yazılım)</small></span> kullanmaktadır.
 
@@ -22,7 +22,7 @@ uBlock Origin eklentisi [açık kaynaktır](https://github.com/gorhill/uBlock) v
 
 Youtube içerisinde, içerik üreticilerinin video içerisine yerleştirdiği sponsor bölümlerini atlamaya yarayan SponsorBlock eklentisini zamanınızı koruyacağı ve büyük ihtimalle zaten atlayacağınız yeri otomatik atlayarak sizi yormayacağı için kullanmanızı öneriyoruz.
 
-SponsorBlock içerisinde sadece sponsor değil intro & outro bölümleri ve gereksiz yerler gibi pek çok yeri atlama seçeneği mevcuttur. SponsorBlock eklentisinde sponsor, intro & outro bölümleri topluluk tarafından bildirilmekte ve sonraki kullanıcı için otomatik atlamaktadır. Sizde izlediğiniz videolarda sponsor gibi bölümleri raporlayıp eklentinin gelişmesine katkı sağlayabilirsiniz.
+SponsorBlock içerisinde sadece sponsor değil intro & outro bölümleri ve gereksiz yerler gibi pek çok yeri atlama seçeneği mevcuttur. SponsorBlock eklentisinde sponsor, intro & outro bölümleri topluluk tarafından bildirilmekte ve sonraki kullanıcı için otomatik atlamaktadır. Siz de izlediğiniz videolarda sponsor gibi bölümleri raporlayıp eklentinin gelişmesine katkı sağlayabilirsiniz.
 
 SponsorBlock eklentisi [açık kaynaktır](https://github.com/ajayyy/SponsorBlock?tab=readme-ov-file) ve GPL-3.0 lisansı <span style="color: green;"><small>(Özgür Yazılım)</small></span> kullanmaktadır.
 
@@ -30,14 +30,14 @@ SponsorBlock eklentisi [açık kaynaktır](https://github.com/ajayyy/SponsorBloc
 
 DuckDuckGo Privacy Essential eklentisi, pek çok özelliğe sahip internette gizlilik ve güvenliğinizi arttıran bir tarayıcı eklentisidir. 
 
-Girdiğiniz sitenin yükleme çalıştığı 3. taraf istekleri (çerez, izleyici) engeller ve hangi isteklerin kimler tarafından yollandığını gösterir. HTTP to HTTPS yapar, ziyaret ettiğiniz site hakkında bilgiler verebilir.
+Girdiğiniz sitenin yüklemeye çalıştığı 3. taraf istekleri (çerez, izleyici) engeller ve hangi isteklerin kimler tarafından yollandığını gösterir. HTTP to HTTPS yapar, ziyaret ettiğiniz site hakkında bilgiler verebilir.
 
 DuckDuckGo Privacy Essential eklentisi [açık kaynaktır](https://github.com/duckduckgo/duckduckgo-privacy-extension) ve Apache-2.0 lisansı kullanmaktadır.
 
 ### CanvasBlocker
 
-**CanvasBlocker** eklentisi, tarayıcı parmak izini önemli ölçüde yok eden bir eklentidir. Bir siteye istek yoladığınızda tarayıcınız aracılığı ile sizin hakkınızda bazı bilgiler gider ve bu veriler çoğaldıkça sizin tarayıcı parmak iziniz oluşur çünkü o kadar fazla bilgi gitmiştir ki bu bilgilere sahip dünya üzerinde neredeyse kimse yoktur böylece internetteki mahremiyetimiz zarar görür. Bu eklenti, kullanıcıların parmak izini toplayan Javascript API'leri engeller.
+**CanvasBlocker** eklentisi, tarayıcı parmak izini önemli ölçüde yok eden bir eklentidir. Bir siteye istek yoladığınızda tarayıcınız aracılığı ile sizin hakkınızda bazı bilgiler gider ve bu veriler çoğaldıkça sizin tarayıcı parmak iziniz oluşur çünkü o kadar fazla bilgi gitmiştir ki bu bilgilere sahip dünya üzerinde neredeyse kimse yoktur böylece internetteki mahremiyetimiz zarar görür. Bu eklenti, kullanıcıların parmak izini toplayan Javascript API'lerini engeller.
 
-CanvasBlocker eklentisi, sayesinde tarayıcı parmak iziniz neredeyse yok olma noktasına gelir. CanvasBlocker eklentisi [açık kaynak](https://github.com/kkapsner/CanvasBlocker), Mozilla Public License (MPL) 2.0 lisansını kullanmaktadır.
+CanvasBlocker eklentisi sayesinde tarayıcı parmak iziniz neredeyse yok olma noktasına gelir. CanvasBlocker eklentisi [açık kaynak](https://github.com/kkapsner/CanvasBlocker), Mozilla Public License (MPL) 2.0 lisansını kullanmaktadır.
 
 
