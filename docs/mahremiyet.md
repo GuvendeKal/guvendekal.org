@@ -11,7 +11,7 @@
 
 Dijital ortamlarda internet aramalarınızın, geçmişinizin veya arkadaşlarınızla yaptığınız sohbetlerin görünür olması, odanızın birileri tarafından izleniyor olması kadar son derece *rahatsız edici olabilir*.
 
-Şirketlerin, bireylerin izni olsun yada olmasın haddinden fazla veri toplamasını ve işlemesini *etik ve doğru bulmuyoruz*. Bugün çoğu büyük şirket, örneğin Google yada Meta gibi şirketlerin kullanıcılardan varsayılan olarak toplayıp işlediği bazı veriler şunlardır;
+Şirketlerin, bireylerin izni olsun yada olmasın haddinden fazla veri toplaması ve işlemesini *etik ve doğru bulmuyoruz*. Bugün çoğu büyük şirketin, örneğin Google yada Meta gibi şirketlerin kullanıcılardan varsayılan olarak toplayıp işlediği bazı veriler şunlardır;
 
 * demografik bilgiler, 
 * kullanıcıların yaşı, 
