@@ -20,9 +20,9 @@
 
 * ProtonMail 2021 yılında Fransız bir aktivistin IP adresini İsviçre devletine vermiştir. Bu durumdan sonra sitelerinde bulunan "anonim e-posta hesabınızla ilişkilendirilebilecek IP günlüklerini tutmuyoruz" ibaresini kaldırdı. ProtonMail, İsviçre'deki ciddi suçlar veya yasal soruşturmalar gibi belirli durumlarda yasal olarak bunu yapmaya zorlanabileceğini açıkladı. [**Kaynak1**](https://www.engadget.com/protonmail-climate-activist-ip-swiss-french-authorities-233004304.html) [**Kaynak2**](https://www.theregister.com/2021/09/07/protonmail_hands_user_ip_address_police/)
 
-* TutanotaMail kullanıcılarınınn IP adresini "anonimleştirme sürecinden geçirdikten" sonra kayıt etmektedir. 
+* TutanotaMail, kullanıcılarının IP adresini "anonimleştirme sürecinden geçirdikten" sonra kayıt etmektedir. 
 
-* İki servisinde ücretli sürümlerine bakabilirsiniz: [ProtonMail](https://proton.me/pricing), [TutanotaMail](https://tuta.com/pricing)
+* İki servisin de ücretli sürümlerine bakabilirsiniz: [ProtonMail](https://proton.me/pricing), [TutanotaMail](https://tuta.com/pricing)
 
 !> 3. taraflara güvenmeden kendi posta sunucunuzu kurmanın en güvenli yol olduğunu unutmayın.
 
