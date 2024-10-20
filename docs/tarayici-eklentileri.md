@@ -48,5 +48,12 @@ ihlallerini ortadan kaldırır.
 
 Proje tamamen [açık kaynaklı](https://github.com/hackademix/noscript) olmakla beraber GPL-3.0 <span style="color: green;"><small>(Özgür Yazılım)</small></span> lisansına sahiptir.
 
-!> NoScript eklentisini her sayfada çalıştırmak, sayfanın bozulmasına yol açabilmektedir. Eklentiyi sadece güvenmediğiniz veya az bilinen sitelere giriş giriş yaparken
-kullanmanız önerilmektedir.
+!> NoScript eklentisini her sayfada çalıştırmak, sayfanın bozulmasına yol açabilmektedir. Eklentiyi sadece güvenmediğiniz veya az bilinen sitelere giriş yaparken kullanmanız önerilmektedir.
+
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/umatrix.png" alt="uMatrix" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> uMatrix
+
+uMatrix eklentisi çoğu konumda gelişmiş kullanıcılara hitap eden ve gizlilik/güvenlik konusunda kendini kanıtlamış bir eklentidir. NoScript'in içerdiği özellikler de dahil olmak üzere birçok özelliğe sahiptir. Reklamları engelleyebilir, sitelere göndermiş olduğunuz HTTP isteklerinin ne olduğunu detaylıca inceleyebilir ve dilerseniz belirli istekleri kapatabilirsiniz.
+
+Bu eklentiyi bir çakı niyetiyle kullanabilir ve yer yer farklı özelliklerinden faydalanabilirsiniz. Listede geçen diğer eklentiler gibi uMatrix de [açık kaynaklı](https://github.com/gorhill/uMatrix) bir eklenti olmakla beraber GPL-3.0 <span style="color: green;"><small>(Özgür Yazılım)</small></span> lisansına sahiptir.
+
+?> uMatrix eklentisinin resmi desteği her ne kadar bitmiş de olsa eklentide herhangi bir güvenlik açığı veya sızıntı mevcut değildir. Çalışmayı sürdürmekte ve bütün özelliklerinden istediğiniz şekilde yararlanabilirsiniz.
