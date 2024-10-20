@@ -7,3 +7,7 @@
 # RSS İstemcileri
 
 > Eklenecek
+
+## Önerilenler Tablosu
+
+> Eklenecek

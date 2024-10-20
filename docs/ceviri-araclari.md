@@ -7,3 +7,7 @@
 # Çeviri Araçları
 
 > Eklenecek
+
+## Önerilenler Tablosu
+
+> Eklenecek

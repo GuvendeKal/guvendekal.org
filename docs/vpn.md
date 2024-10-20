@@ -9,11 +9,11 @@
 
 **VPN**, internet üzerinde internet bağlantınızın güvenliğini ve gizliliğinizi korumanıza yardımcı olan bir araçtır. VPN'in temel mantığı kullanıcıların internet trafiğini şifreleyerek uzakta bulunan başka bir sunucuya yönlendirmesidir.
 
-VPN'in kullanım amacı kullanıcıdan kullanıcıya değişsede, genel olarak kullanım amaçları: IP adresini gizleme, anonimlik sağlamak, yasaklamaları aşmak, daha güvenli bir internet bağlantısına erişmek gibi nedenler sayılabilir.
+VPN'in kullanım amacı kullanıcıdan kullanıcıya değişse de, genel kullanım amaçları olarak IP adresini gizlemek, anonimlik sağlamak, yasaklamaları aşmak, daha güvenli bir internet bağlantısına erişmek gibi nedenler sayılabilir.
 
-VPN kullandığınızda bilmeniz gereken şey trafiğinizi (ziyaret ettiğiniz siteleri) internet servis sağlayacınızdan gizlersiniz, internet sitelerine kendi IP adresini vermemiş olursunuz ancak kullandığınız VPN servisi bu bilgilere erişebilir.
+VPN kullandığınızda trafiğinizi (ziyaret ettiğiniz siteleri) internet servis sağlayıcınızdan gizlersiniz, internet sitelerine kendi IP adresinizi vermemiş olursunuz ancak kullandığınız VPN servisi bu bilgilere erişebilir.
 
-!> VPN seçerken, gizlilik ve veri güvenliği adına hizmet veren bir platformu seçtiğinizden emin olun! Ücretsiz VPN servislerinden uzak durmanızı- en azından felsefesini bilmediklerinizden - ücretsiz olma sebeplerinin arkasında duran gerçekleri bilmenizi diliyoruz.
+!> VPN seçerken, gizlilik ve veri güvenliği adına hizmet veren bir platformu seçtiğinizden emin olun! Ücretsiz VPN servislerinden uzak durmanızı- en azından felsefesini bilmediklerinizden - ve ücretsiz olma sebeplerinin arkasında duran gerçekleri bilmenizi diliyoruz.
 
 ## Önerilenler Tablosu
 
@@ -31,7 +31,7 @@ VPN kullandığınızda bilmeniz gereken şey trafiğinizi (ziyaret ettiğiniz s
 
 [**Mullvad VPN**](https://mullvad.net/en), gizliliği ile ön plana çıkaran bir VPN hizmetidir. Hesap oluşturmak için e-posta yada kullanıcı adı gerekmez. Hesap oluşturulduğu an 16 haneli bir hesap numarası verilir ve hesaba bu numara ile giriş yapılır. 
 
-Bu sayede kullanıcıların herhangi bir bilgisinin kaydıda tutulmaz. Mullvad VPN, kullanıcılarının hiç bir kaydını (IP, konum vs) tutmamaktadır. Mullvad VPN istemcileride açık kaynaklıdır. Mullvad VPN kullanıcılarına karşı şeffaf, mahremiyet ve güvenliklerini önemseyen bir VPN servisidir.
+Bu sayede kullanıcıların herhangi bir bilgisinin kaydıda tutulmaz. Mullvad VPN, kullanıcılarının hiç bir kaydını (IP, konum vs) tutmamaktadır. Mullvad VPN istemcileri de açık kaynaklıdır. Mullvad VPN kullanıcılarına karşı şeffaf, mahremiyet ve güvenliklerini önemseyen bir VPN servisidir.
 
 > 2023 yılında İsveç polisi tarafından Mullvad VPN sunucularına erişilmeye çalışıldı ancak kayıt tutulmadığı için kullanıcı bilgileri İsveç polisinin eline geçmedi. [Kaynak1](https://www.pcmag.com/news/mullvad-vpn-hit-with-search-warrant-in-attempted-police-raid) [Kaynak2](https://www.theverge.com/2023/4/21/23692580/mullvad-vpn-raid-sweden-police)
 

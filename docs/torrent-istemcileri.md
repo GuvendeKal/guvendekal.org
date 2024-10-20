@@ -6,3 +6,7 @@
 # Torrent İstemcileri
 
 > Eklenecek
+
+## Önerilenler Tablosu
+
+> Eklenecek

@@ -6,3 +6,7 @@
 # Haritalar
 
 > Eklenecek
+
+## Önerilenler Tablosu
+
+> Eklenecek

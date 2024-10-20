@@ -7,3 +7,8 @@
 # Takvim Uygulamaları
 
 > Eklenecek
+
+## Önerilenler Tablosu
+
+> Eklenecek
+

@@ -7,3 +7,7 @@
 # Dosya Aktarma
 
 > Eklenecek
+
+## Önerilenler Tablosu
+
+> Eklenecek

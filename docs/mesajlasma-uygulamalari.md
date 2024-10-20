@@ -6,3 +6,7 @@
 # Mesajlaşma Uygulamaları
 
 > Eklenecek
+
+## Önerilenler Tablosu
+
+> Eklenecek
