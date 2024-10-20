@@ -98,7 +98,7 @@
 
  ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/tutamail.png" alt="Tutanota" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> TutanotaMail
  
-TutanotaMail, 2011 yılında Almanya merkezli kurulmuş bir posta servisidir. Gizlilik ve güvenlik odaklı kurulan TutanotaMail'in ücretli ve ücretsiz sürümleri vardır.
+TutanotaMail, 2011 yılında Almanya merkezli kurulmuş bir posta servisidir. Gizlilik ve güvenlik odaklı kurulan TutanotaMail'in ücretli ve ücretsiz sürümleri bulunmaktadır.
 
 <table>
   <tr>
