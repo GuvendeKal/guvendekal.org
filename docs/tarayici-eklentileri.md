@@ -46,7 +46,7 @@ NoScript eklentisi internet üzerinde dolaşırken karşılaşabileceğiniz gizl
 veya gireceğiniz sitelerin JavaScript kodu çalıştırmasını engelleyebilir ve böylece olası bilgi toplama/çerez oluşturma/konum belirleme gibi gizlilik
 ihlallerini ortadan kaldırır.
 
-Proje tamamen açık kaynaklı[https://github.com/hackademix/noscript] olmakla beraber GNU GPL v3.0 lisansına sahiptir.
+Proje tamamen [açık kaynaklı](https://github.com/hackademix/noscript) olmakla beraber GNU GPL v3.0 lisansına sahiptir.
 
->! NoScript eklentisini her sayfada çalıştırmak, sayfanın bozulmasına yol açabilmektedir. Eklentiyi sadece güvenmediğiniz veya az bilinen sitelere giriş giriş yaparken
+!> NoScript eklentisini her sayfada çalıştırmak, sayfanın bozulmasına yol açabilmektedir. Eklentiyi sadece güvenmediğiniz veya az bilinen sitelere giriş giriş yaparken
 kullanmanız önerilmektedir.
