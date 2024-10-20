@@ -210,3 +210,90 @@ body {
 
 /* ------ */
 
+/* Kriter kutucuğu */
+
+.criteria {
+    border: 1px solid; 
+    border-radius: 8px;
+    padding: 16px;
+    margin: 16px 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+/* İkon stili */
+.criteria i {
+    color: #0b87da; 
+    font-size: 56px; 
+    margin-right: 25px;
+}
+
+/* Başlık */
+.criteria .title {
+    font-size: 18px;
+    font-weight: bold;
+    color: #0b87da;
+    text-decoration: none;
+    margin: 12px 0;
+}
+
+.criteria .title:hover {
+    text-decoration: none;
+}
+
+/* Açıklama */
+.criteria .description {
+    font-size: 14px;
+    color: inherit;
+    margin-top: 8px; 
+}
+
+/* Gece/Gündüz Modu */
+.light-mode .criteria {
+    background-color: #f9f9f9; 
+    border-color: #ccc; 
+    color: #000; 
+}
+
+.dark-mode .criteria {
+    background-color: #1a1a1a; 
+    border-color: #444; 
+    color: #fff;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .criteria {
+        flex-direction: row; 
+        justify-content: space-between; 
+        padding: 12px; 
+    }
+    .criteria i {
+        margin-right: 25px; 
+    }
+    .criteria .title {
+        font-size: 16px; 
+        margin: 0; 
+    }
+    .criteria .description {
+        font-size: 13px; 
+    }
+    .criteria img {
+        max-width: 100px; 
+        height: auto; 
+        margin: 0 auto 12px auto; 
+    }
+    .criteria .icon-group {
+        display: flex;
+        flex-wrap: wrap; 
+        justify-content: center; 
+        gap: 8px; 
+        margin-top: 12px; 
+    }
+}
+
+/* Kriter kutucuğu */
+
+/* ------ */
+

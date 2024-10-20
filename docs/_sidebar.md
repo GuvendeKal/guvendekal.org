@@ -54,6 +54,7 @@
 
 
 **Dokümantasyon**
+* [<i class="fa-solid fa-check"></i> Kriterler](kriterler.md)
 * [<i class="fas fa-user"></i> Katkıda Bulunanlar](katkida-bulunanlar.md)
 * [<i class="fas fa-file-alt"></i> İçerik Kuralları](icerik-kurallari.md)
 * [<i class="fas fa-pencil-alt"></i> Ekleme Yapmak](ekleme.md)
