@@ -106,7 +106,7 @@ TutanotaMail, 2011 yılında Almanya merkezli kurulmuş bir posta servisidir. Gi
   </tr>
   <tr>
     <td>Kayıt Tutuyor mu?</td>
-    <td><span style="color: green;">×</span></td>
+    <td>✓</td>
   </tr>
   <tr>
     <td>Açık Kaynak</td>
