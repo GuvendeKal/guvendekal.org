@@ -2,14 +2,15 @@
 
 ---
 
-<i class="fa-solid fa-thumbtack"></i> Nedir
+**Nedir**
 * [<i class="fa-solid fa-house"></i> Başlangıç](README.md)
 * [<i class="fas fa-code"></i> Açık Kaynak](acik-kaynak.md)
 * [<i class="fas fa-eye-slash"></i> Mahremiyet](mahremiyet.md)
 * [<i class="fa-solid fa-shield"></i> Güvenlik](guvenlik.md)
+* [<i class="fa-solid fa-diagram-project"></i> Tor Ağı](tor-agi.md)
 
 
-<i class="fa-solid fa-wrench"></i> Sağlayıcılar
+**Sağlayıcılar**
 * [<i class="fas fa-server"></i> VPN Servisleri](vpn.md)
 * [<i class="fa-solid fa-network-wired"></i> DNS Servisleri](dns.md)
 * [<i class="fas fa-search"></i> Arama Motorları](arama-motorlari.md)
@@ -17,13 +18,12 @@
 * [<i class="fa-solid fa-plus"></i> Tarayıcı Eklentileri](tarayici-eklentileri.md)
 * [<i class="fas fa-envelope"></i> E-posta Servisleri](posta-servisleri.md)
 
-<i class="fa-solid fa-fingerprint"></i> Güvenlik
+**Güvenlik**
 * [<i class="fas fa-key"></i> Şifre Yöneticisi](sifre-yoneticileri.md)
 * [<i class="fa-solid fa-lock"></i> 2 Faktörlü Doğrulama](2-faktorlu-dogrulama.md)
-* [<i class="fa-solid fa-diagram-project"></i> Tor Ağı](tor-agi.md)
 
 
- <i class="fa-solid fa-bars"></i> Uygulamalar
+**Uygulamalar**
 * [<i class="fa-solid fa-paper-plane"></i> Mesajlaşma Uygulamaları](mesajlasma-uygulamalari.md)
 * [<i class="fa-solid fa-print"></i> Ofis Uygulamaları](ofis-uygulamalari.md)
 * [<i class="fas fa-users"></i> Sosyal Ağlar](sosyal-aglar.md)
@@ -38,7 +38,7 @@
 * [<i class="fa-solid fa-language"></i> Çeviri Araçları](ceviri-araclari.md)
 
 
-<i class="fa-solid fa-folder-open"></i> Dosya
+**Dosya**
 * [<i class="fa-solid fa-file"></i> Dosya Depolama](dosya-depolama.md)
 * [<i class="fas fa-file-upload"></i> Dosya Aktarma](dosya-aktarma.md)
 * [<i class="fas fa-file-archive"></i> Dosya Sıkıştırma](dosya-sikistirma.md)
@@ -46,7 +46,14 @@
 * [<i class="fa-solid fa-file-export"></i> Dosya Dönüştürme](dosya-donusturme.md)
 
 
-<i class="fa-solid fa-bookmark"></i> Dokümantasyon
+**İşletim Sistemleri**
+* [<i class="fa-brands fa-linux"></i> Masaüstü/Bilgisayar](masaustu-bilgisayar.md)
+* [<i class="fa-brands fa-android"></i> Android](android.md)
+* [<i class="fa-brands fa-windows"></i> Windows Güvenliği](windows-guvenligi.md)
+* [<i class="fa-solid fa-wifi"></i> Modem Yazılımları](modem-yazilimlari.md)
+
+
+**Dokümantasyon**
 * [<i class="fas fa-user"></i> Katkıda Bulunanlar](katkida-bulunanlar.md)
 * [<i class="fas fa-file-alt"></i> İçerik Kuralları](icerik-kurallari.md)
 * [<i class="fas fa-pencil-alt"></i> Ekleme Yapmak](ekleme.md)
