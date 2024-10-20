@@ -40,4 +40,13 @@ DuckDuckGo Privacy Essential eklentisi [açık kaynaktır](https://github.com/du
 
 CanvasBlocker eklentisi sayesinde tarayıcı parmak iziniz neredeyse yok olma noktasına gelir. CanvasBlocker eklentisi [açık kaynak](https://github.com/kkapsner/CanvasBlocker), Mozilla Public License (MPL) 2.0 lisansını kullanmaktadır.
 
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/noscript.png" alt="NoScript" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> NoScript
 
+NoScript eklentisi internet üzerinde dolaşırken karşılaşabileceğiniz gizlilik ihlallerinin JavaScript tarafında çözülmesine olanak sağlar. Girdiğiniz
+veya gireceğiniz sitelerin JavaScript kodu çalıştırmasını engelleyebilir ve böylece olası bilgi toplama/çerez oluşturma/konum belirleme gibi gizlilik
+ihlallerini ortadan kaldırır.
+
+Proje tamamen açık kaynaklı[https://github.com/hackademix/noscript] olmakla beraber GNU GPL v3.0 lisansına sahiptir.
+
+>! NoScript eklentisini her sayfada çalıştırmak, sayfanın bozulmasına yol açabilmektedir. Eklentiyi sadece güvenmediğiniz veya az bilinen sitelere giriş giriş yaparken
+kullanmanız önerilmektedir.
