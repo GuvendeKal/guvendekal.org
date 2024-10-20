@@ -2,6 +2,9 @@
  - Bu sayfa sitenin ana sayfasıdır.
  - Bu sayfaya ekleme yapmadan önce yetkililere danışmanız önerilir. -->
 
+!> Güvende Kal projesi daha geliştirme aşamasındadır. İçerik kalitemizi arttırmaya ve yeni sayfalar oluşturmaya çalışıyoruz. Hâlâ bitmemiş dökümantasyon dosyalarına baktığınızı unutmayın. Herhangi bir hata bildirmek için [**buraya**](https://github.com/GuvendeKal/guvendekal.org/issues) konu açabilirsiniz yada direkt sağ üstteki "Dökümanı Düzenle" diyip herhangi bir hatayı kendiniz düzeltebilirsiniz.  Güvende Kal, topluluk tarafından oluşturulmuştur, gelişmesi ve devamlılığı yine topluluğa bağlıdır. Nasıl katkıda bulunabileceğiniz öğrenmek için [**Ekleme Yapmak**](https://guvendekal.org/#/ekleme) ve [**İçerik Kuralları**](https://guvendekal.org/#/icerik-kurallari) sayfalarını ziyaret edebilirsiniz.
+
+
 [![Logo](images/logo.svg)](https://guvendekal.org/#/)
 
 # Başlangıç
