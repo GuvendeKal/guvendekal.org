@@ -37,6 +37,8 @@ Ancak Firefox'u kullanmak istiyorsanız, indirdikten sonra [**arama motoruda**](
 
 Firefox'un varsayılan olarak gelen ayarlarını, kullanıcı gizliliği açısından doğru bulmuyoruz. Masaüstü platformlarda kullanım için mahremiyetinize daha fazla önem veren [**LibreWolf**](https://guvendekal.org/#/internet-tarayicilari?id=librewolf)'u kullanmanızı öneririz. Ancak mobil cihazlarda fazla alternatif olmadığı için ayarlarını düzelterek kullanmanızı öneririz.
 
+?> Firefox'un temel haliyle beraber getirdiği güvenlik ve gizlilik ihlallerini konu alan ve bu konu hakkında ileri okuma yapmak isteyen kişilere [bu raporu](https://spyware.neocities.org/articles/firefox) incelemesini tavsiye ediyoruz.
+
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/librewolf.svg" alt="LibreWolf" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> LibreWolf
 
 **LibreWolf**, gönüllü bir ekip tarafından geliştirilen ve 2020 yılında piyasaya sürülmüş Firefox tabanlı tarayıcıdır. Firefox'un varsayılan ayarlarının en güvenlikli olacak şekilde ayarlanmıştır.
