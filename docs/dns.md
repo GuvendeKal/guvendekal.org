@@ -14,7 +14,7 @@ Bazı özel DNS sunucuları ise kayıt tutmaz ve verilerinizi üçüncü tarafla
 
 Bu nedenlerle özel bir DNS sunucusu kullanmanız [**güvenlik**](https://guvendekal.org/#/guvenlik) ve [**mahremiyetiniz**](https://guvendekal.org/#/mahremiyet) için en sağlıklısı olacaktır.
 
-## DNS Sunucusu nasıl değiştirilir?
+## DNS sunucusu nasıl değiştirilir?
 
 DNS sunucusu değiştirmek genellikle kolay bir işlemdir. Aşağıda kullandığınız platforma göre nasıl değiştirebileceğinizi görebilirsiniz.
 
@@ -51,11 +51,13 @@ Bu şekilde, modem/router üzerinden yapılan DNS değişiklikleri ile ağa bağ
 
 !> Kullandığınız işletim sisteminin sürümüne, kullandığınız cihazın marka ve modeline göre DNS değiştirme işlemleri değişiklik gösterebilir.
 
-## DNS Sunnucusu testi
+## DNS sunucusu testi
 
-DNS değişikliklerinin düzgün çalıştığından emin olmak için [dnsleaktest.org](https://dnsleaktest.org/dns-leak-test) adresinden kontrol edebilirsiniz. Test sonucunda ISP sütununda eğer girdğini DNS sağlayıcısının adı çıkıyorsa DNS değişikliğiniz başarılı olmuştur.
+DNS değişikliklerinin düzgün çalıştığından emin olmak için [dnsleaktest.org](https://dnsleaktest.org/dns-leak-test) adresinden kontrol edebilirsiniz. Test sonucunda ISP sütununda eğer girdğiniz DNS sağlayıcısının adı çıkıyorsa DNS değişikliğiniz başarılı olmuş demektir.
 
-## Önerilenler Tablosu
+!> Bazı internet servis sağlayıcı firmaları DNS değişikliklerini engelleyebilir veya etkileyebilir. Bu durumda yaptığınız değişiklikler her zaman çalışmayabilir, internet hızınız düşebilir veya internete erişimde farklı sorunlar yaşayabilirsiniz. Eğer bu tür sorunlarla karşılaşırsanız, değişikliklerinizi geri alabilir veya alternatif bir DNS sunucusu deneyebilirsiniz.
+
+## Önerilenler tablosu
 
 | DNS Sunucusu  | Kayıt Tutma               | Reklam Engelleme |
 | -------------- |:------------------------:| ----------------:|
