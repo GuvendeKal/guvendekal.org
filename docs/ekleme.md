@@ -86,3 +86,15 @@ Görseller `guvendekal.org/docs/images/` klasörüne yüklenir. Bu klasöre ekle
 - Kaynaklar gösterin.
 
 ?> Katkıda bulunduktan sonra "Katkıda Bulunanlar" kısmında adınızın gözükmesini isterseniz. [buradan](https://github.com/GuvendeKal/guvendekal.org/blob/main/docs/katkida-bulunanlar.md) kendinizi ekleyebilirsiniz.
+
+### Docsify sunucusunu yerelde çalıştırma
+
+Makinenizde bu **[docsify](https://docsify.js.org/)** dökümantasyonunu yerel sunucu üzerinden görüntüleyebilirsiniz. Bunun için öncelikle eğer **docsify-cli** kurulu değilse `npm i docsify-cli -g` (*NPM ve NPX komutlarını çalıştırabilmeniz makinenizde [Node.js](https://nodejs.org/) kurulu olmalıdır*) komutu ile kurun. Daha sonra aşağıdaki komutu çalıştırarak dökümantasyonu yerelde çalıştırabilirsiniz. Çalıştığınız dosyaları kaydettikçe docsify otomatik olarak algılar ve sayfayı yeniler. Böylece anlık olarak markdown içeriklerinizin nasıl derlendiğini görebilirsiniz.
+
+```bash
+npx docsify serve docs --port 1000
+```
+
+Eğer VS Code kullanıyorsanız [Terminals Manager](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-terminals) eklentisini kurarak yukarıdaki komutu otomatik olarak çalıştırabilirsiniz. VC Code her açıldığında bu komutu çalıştırır ve kaldığını yerden devam edebilirsiniz.
+
+?> Bu adım zorunlu olmamakla beraber katkı verecek profesyonellerin işlerini kolaylaştırmak için eklenmiştir.
