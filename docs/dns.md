@@ -41,7 +41,7 @@ Modem veya router üzerinde DNS sunucusunu değiştirmek, evinizdeki/ofisinizdek
    * Kullanıcı adı ve şifre ile giriş yapın (*varsayılan bilgiler cihazın altındaki etikette olabilir veya internet servis sağlayıcınız tarafından verilmiştir*).
 2. **DNS Ayarlarını Bulun:**
    * Modem arayüzünde genellikle "Internet", "WAN" veya "Network" gibi seçenekler altında DNS ayarlarına erişebilirsiniz.
-   * DNS ayarları bölümünü bulun ve burada mevcut DNS sunucularını değiştirebilirsiniz.
+   * DNS ayarları bölümünü bulun (*genelde DHCP Server sekmesi/başlığı altında yer alır*) ve burada mevcut DNS sunucularını değiştirebilirsiniz.
 3. **Yeni DNS Sunucularını Girin:**
    * Tercih ettiğiniz DNS sunucularını girin.
 4. **Değişiklikleri Kaydedin:**
