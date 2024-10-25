@@ -32,7 +32,28 @@ DNS sunucusu değiştirmek genellikle kolay bir işlemdir. Aşağıda kullandı�
 
 * **Android:** Ayarlar menüsüne git > Bağlantı ve paylaşma'ya gir > Özel DNS'e gir > Belirlenen DNS ayarını seçip DNS adreslerini gir. > Kaydedip çık.
 
-!> Kullandığınız işletim sisteminin sürümüne, kullandığınız markaya göre DNS değiştirme işlemleri değişiklik gösterebilir.
+#### Modem/Router
+
+Modem veya router üzerinde DNS sunucusunu değiştirmek, evinizdeki/ofisinizdeki tüm cihazların aynı DNS sunucusunu kullanmasını sağlar. Bu işlemi yapmak için modem veya router'ın yönetim arayüzüne erişmeniz gerekir. İşte adımlar:
+
+1. **Modem/Router Arayüzüne Erişim:**
+   * Modem veya router'ın arayüzüne erişmek için bir web tarayıcısı açın ve cihazınızın IP adresini girin (*genellikle `192.168.1.1` veya `192.168.0.1` IP adresleri kullanılır*).
+   * Kullanıcı adı ve şifre ile giriş yapın (*varsayılan bilgiler cihazın altındaki etikette olabilir veya internet servis sağlayıcınız tarafından verilmiştir*).
+2. **DNS Ayarlarını Bulun:**
+   * Modem arayüzünde genellikle "Internet", "WAN" veya "Network" gibi seçenekler altında DNS ayarlarına erişebilirsiniz.
+   * DNS ayarları bölümünü bulun (*genelde DHCP Server sekmesi/başlığı altında yer alır*) ve burada mevcut DNS sunucularını değiştirebilirsiniz.
+3. **Yeni DNS Sunucularını Girin:**
+   * Tercih ettiğiniz DNS sunucularını girin.
+4. **Değişiklikleri Kaydedin:**
+   * Yaptığınız değişiklikleri kaydedin ve modemi/router'ı yeniden başlatın. Bu işlem, yeni DNS ayarlarının uygulanmasını sağlar.
+
+Bu şekilde, modem/router üzerinden yapılan DNS değişiklikleri ile ağa bağlı tüm cihazları etkiler ve tek tek değişiklik yapmak zorunda kalmazsınız.
+
+!> Kullandığınız işletim sisteminin sürümüne, kullandığınız cihazın marka ve modeline göre DNS değiştirme işlemleri değişiklik gösterebilir.
+
+## DNS Sunnucusu testi
+
+DNS değişikliklerinin düzgün çalıştığından emin olmak için [dnsleaktest.org](https://dnsleaktest.org/dns-leak-test) adresinden kontrol edebilirsiniz. Test sonucunda ISP sütununda eğer girdğini DNS sağlayıcısının adı çıkıyorsa DNS değişikliğiniz başarılı olmuştur.
 
 ## Önerilenler Tablosu
 
