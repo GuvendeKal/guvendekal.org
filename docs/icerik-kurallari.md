@@ -10,7 +10,6 @@ Güvende Kal, kullanıcılara sunduğu içeriklerin kalitesini artırmak amacıy
 
 Güvende Kal, felsefesi gereği **özgür yazılım** ve **açık kaynak** uygulama ve araçları; kapalı kaynak ve özel mülkiyet uygulama ve araçlar yerine tercih edecektir. 
 
-
 #### Genel İçerik Kurallar
 
 * İçeriğin okunabilir ve akıcı olması gerekir aynı zamanda imla kurallarına uyulmuş olması gerekir.
@@ -48,11 +47,3 @@ Güvende Kal, felsefesi gereği **özgür yazılım** ve **açık kaynak** uygul
     * Uygulamanın geliştirildiği ülke belirtilmelidir.
 
 !> Eklenmesi gereken kurallar olduğunu düşünüyorsanız [buraya](https://github.com/GokturkTalha/guvendekal.org/issues) konu açabilirsiniz.
-
-
-
-
-
-
-
-

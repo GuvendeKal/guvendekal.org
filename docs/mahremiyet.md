@@ -13,14 +13,14 @@ Dijital ortamlarda internet aramalarınızın, geçmişinizin veya arkadaşları
 
 Şirketlerin, bireylerin izni olsun yada olmasın haddinden fazla veri toplaması ve işlemesini *etik ve doğru bulmuyoruz*. Bugün çoğu büyük şirketin, örneğin Google yada Meta gibi şirketlerin kullanıcılardan varsayılan olarak toplayıp işlediği bazı veriler şunlardır;
 
-* demografik bilgiler, 
-* kullanıcıların yaşı, 
-* cinsiyet, 
-* konum (şehir, ülke), 
-* konuşulan dil, 
-* ilgi alanları ve davranışlar, 
-* sosyal medya etkileşimleri (beğeniler, paylaşımlar, yorumlar), 
-* alışveriş ve tüketim davranışları, 
+* demografik bilgiler,
+* kullanıcıların yaşı,
+* cinsiyet,
+* konum (şehir, ülke),
+* konuşulan dil,
+* ilgi alanları ve davranışlar,
+* sosyal medya etkileşimleri (beğeniler, paylaşımlar, yorumlar),
+* alışveriş ve tüketim davranışları,
 * kullanıcının gerçek zamanlı konumunu (GPS verileri)
 * geçmiş konum verileri (check-in'ler, ziyaret edilen yerler)
 

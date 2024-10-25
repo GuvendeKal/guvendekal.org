@@ -7,7 +7,7 @@
 
 # E-posta Servisleri
 
-**E-posta** (Elektronik posta) geçmişi 1970'lere kadar dayanan, internet üzerinden metin ve dosyalar gibi eklerin iki adres arasında iletilmesini sağlayan araçtır. Günümüzde hâlâ kişisel, ticari ve resmî amaçlarla kullanılabilmektedir. 
+**E-posta** (Elektronik posta) geçmişi 1970'lere kadar dayanan, internet üzerinden metin ve dosyalar gibi eklerin iki adres arasında iletilmesini sağlayan araçtır. Günümüzde hâlâ kişisel, ticari ve resmî amaçlarla kullanılabilmektedir.
 
 ## Önerilenler Tablosu
 
@@ -20,7 +20,7 @@
 
 * ProtonMail 2021 yılında Fransız bir aktivistin IP adresini İsviçre devletine vermiştir. Bu durumdan sonra sitelerinde bulunan "anonim e-posta hesabınızla ilişkilendirilebilecek IP günlüklerini tutmuyoruz" ibaresini kaldırdı. ProtonMail, İsviçre'deki ciddi suçlar veya yasal soruşturmalar gibi belirli durumlarda yasal olarak bunu yapmaya zorlanabileceğini açıkladı. [**Kaynak1**](https://www.engadget.com/protonmail-climate-activist-ip-swiss-french-authorities-233004304.html) [**Kaynak2**](https://www.theregister.com/2021/09/07/protonmail_hands_user_ip_address_police/)
 
-* TutanotaMail, kullanıcılarının IP adresini "anonimleştirme sürecinden geçirdikten" sonra kayıt etmektedir. 
+* TutanotaMail, kullanıcılarının IP adresini "anonimleştirme sürecinden geçirdikten" sonra kayıt etmektedir.
 
 * İki servisin de ücretli sürümlerine bakabilirsiniz: [ProtonMail](https://proton.me/pricing), [TutanotaMail](https://tuta.com/pricing)
 
@@ -35,8 +35,7 @@
 
 ---
 
- ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/protonmail.svg" alt="Protonmail" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> ProtonMail
-
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/protonmail.svg" alt="Protonmail" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> ProtonMail
 
 [**ProtonMail**](https://proton.me/mail) 2013 yılında, İsviçrede CERN'de çalışan bilim insanları tarafından kurulmuştur. Uçtan uca şifreleme ile gizlilik ve güvenlik odaklı bir posta servisi suan ProtonMail, ücretli ve ücretsiz sürümlere sahiptir.
 
@@ -96,8 +95,8 @@
 
 ---
 
- ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/tutamail.png" alt="Tutanota" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> TutanotaMail
- 
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/tutamail.png" alt="Tutanota" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> TutanotaMail
+
 TutanotaMail, 2011 yılında Almanya merkezli kurulmuş bir posta servisidir. Gizlilik ve güvenlik odaklı kurulan TutanotaMail'in ücretli ve ücretsiz sürümleri bulunmaktadır.
 
 <table>

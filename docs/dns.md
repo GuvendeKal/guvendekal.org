@@ -47,7 +47,7 @@ DNS sunucusu değiştirmek genellikle kolay bir işlemdir. Aşağıda kullandı�
 
 | Dns Adresi |
 | ---------- |
-| Mullvad farklı ihtiyaçlara farklı DNS sunucuları sağlamaktadır. Bunların hepsine [**buradan**](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls) ulaşabilirsiniz.| 
+| Mullvad farklı ihtiyaçlara farklı DNS sunucuları sağlamaktadır. Bunların hepsine [**buradan**](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls) ulaşabilirsiniz.|
 
 Mullvad DNS, sıfır kayıt tutma politikası ile kullanıcılarına reklam engellemede sunmaktadır. Aynı zamanda Mullvad DNS sunucularında sansür uygulanmaz. Mullvad DNS hakkında daha fazla bilgiye ulaşmak için [buraya](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls) bakabilirsiniz.
 
@@ -55,10 +55,10 @@ Mullvad DNS, sıfır kayıt tutma politikası ile kullanıcılarına reklam enge
 
 <img src="docs/images/quad9.png" alt="Quad9" width="350" />
 
-| Tür   | DNS Adresi         |       
+| Tür   | DNS Adresi         |
 |-------|:------------------:|
 | IPv4  | 9.9.9.9           |  
-| IPv4  | 149.112.112.112   |   
+| IPv4  | 149.112.112.112   |
 | IPv6  | 2620:fe::fe       |
 | IPv6  | 2620:fe::9        |
 
@@ -66,10 +66,10 @@ Mullvad DNS, sıfır kayıt tutma politikası ile kullanıcılarına reklam enge
 
 ## Adguard DNS
 
-| Tür   | DNS Adresi         |       
+| Tür   | DNS Adresi         |
 |-------|:------------------:|
 | IPv4  | 94.140.14.14       |  
-| IPv4  | 94.140.15.15       |   
+| IPv4  | 94.140.15.15       |
 | IPv6  | 2a10:50c0::1:ff    |
 | IPv6  | 2a10:50c0::2:ff    |
 
@@ -81,7 +81,4 @@ Adguard'ın ücretsiz sürümü gibi ücretli sürümü de bulunmaktadır. Ücre
 
 ![NextDNS](images/nextdns.png)
 
-NextDNS ayda 300 bin aratmaya kadar ücretsiz bir DNS servisi sunar. Kullanıcıların kolaylıkla reklam ve tracker engelleyiciler ile birlikte farklı kategorilerdeki engel listelerini kullanmasına olanak tanır. Gizlilik politikalarına [buradan](https://nextdns.io/privacy) bakabilirsiniz. Normal paketi aylık 1.99€'dur. 
-
-
-
+NextDNS ayda 300 bin aratmaya kadar ücretsiz bir DNS servisi sunar. Kullanıcıların kolaylıkla reklam ve tracker engelleyiciler ile birlikte farklı kategorilerdeki engel listelerini kullanmasına olanak tanır. Gizlilik politikalarına [buradan](https://nextdns.io/privacy) bakabilirsiniz. Normal paketi aylık 1.99€'dur.
