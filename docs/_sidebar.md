@@ -9,7 +9,6 @@
 * [<i class="fa-solid fa-shield"></i> Güvenlik](guvenlik.md)
 * [<i class="fa-solid fa-diagram-project"></i> Tor Ağı](tor-agi.md)
 
-
 **Sağlayıcılar**
 * [<i class="fas fa-server"></i> VPN Servisleri](vpn.md)
 * [<i class="fa-solid fa-network-wired"></i> DNS Servisleri](dns.md)
@@ -21,7 +20,6 @@
 **Güvenlik**
 * [<i class="fas fa-key"></i> Şifre Yöneticisi](sifre-yoneticileri.md)
 * [<i class="fa-solid fa-lock"></i> 2 Faktörlü Doğrulama](2-faktorlu-dogrulama.md)
-
 
 **Uygulamalar**
 * [<i class="fa-solid fa-paper-plane"></i> Mesajlaşma Uygulamaları](mesajlasma-uygulamalari.md)
@@ -37,7 +35,6 @@
 * [<i class="fa-solid fa-rotate"></i> Senkronizasyon](senkronizasyon.md)
 * [<i class="fa-solid fa-language"></i> Çeviri Araçları](ceviri-araclari.md)
 
-
 **Dosya**
 * [<i class="fa-solid fa-file"></i> Dosya Depolama](dosya-depolama.md)
 * [<i class="fas fa-file-upload"></i> Dosya Aktarma](dosya-aktarma.md)
@@ -45,13 +42,11 @@
 * [<i class="fa-solid fa-file-signature"></i> Dosya Şifreleme](dosya-sifreleme.md)
 * [<i class="fa-solid fa-file-export"></i> Dosya Dönüştürme](dosya-donusturme.md)
 
-
 **İşletim Sistemleri**
 * [<i class="fa-brands fa-linux"></i> Masaüstü/Bilgisayar](masaustu-bilgisayar.md)
 * [<i class="fa-brands fa-android"></i> Android](android.md)
 * [<i class="fa-brands fa-windows"></i> Windows Güvenliği](windows-guvenligi.md)
 * [<i class="fa-solid fa-wifi"></i> Modem Yazılımları](modem-yazilimlari.md)
-
 
 **Dokümantasyon**
 * [<i class="fa-solid fa-check"></i> Kriterler](kriterler.md)

@@ -32,7 +32,28 @@ DNS sunucusu değiştirmek genellikle kolay bir işlemdir. Aşağıda kullandı�
 
 * **Android:** Ayarlar menüsüne git > Bağlantı ve paylaşma'ya gir > Özel DNS'e gir > Belirlenen DNS ayarını seçip DNS adreslerini gir. > Kaydedip çık.
 
-!> Kullandığınız işletim sisteminin sürümüne, kullandığınız markaya göre DNS değiştirme işlemleri değişiklik gösterebilir.
+#### Modem/Router
+
+Modem veya router üzerinde DNS sunucusunu değiştirmek, evinizdeki/ofisinizdeki tüm cihazların aynı DNS sunucusunu kullanmasını sağlar. Bu işlemi yapmak için modem veya router'ın yönetim arayüzüne erişmeniz gerekir. İşte adımlar:
+
+1. **Modem/Router Arayüzüne Erişim:**
+   * Modem veya router'ın arayüzüne erişmek için bir web tarayıcısı açın ve cihazınızın IP adresini girin (*genellikle `192.168.1.1` veya `192.168.0.1` IP adresleri kullanılır*).
+   * Kullanıcı adı ve şifre ile giriş yapın (*varsayılan bilgiler cihazın altındaki etikette olabilir veya internet servis sağlayıcınız tarafından verilmiştir*).
+2. **DNS Ayarlarını Bulun:**
+   * Modem arayüzünde genellikle "Internet", "WAN" veya "Network" gibi seçenekler altında DNS ayarlarına erişebilirsiniz.
+   * DNS ayarları bölümünü bulun (*genelde DHCP Server sekmesi/başlığı altında yer alır*) ve burada mevcut DNS sunucularını değiştirebilirsiniz.
+3. **Yeni DNS Sunucularını Girin:**
+   * Tercih ettiğiniz DNS sunucularını girin.
+4. **Değişiklikleri Kaydedin:**
+   * Yaptığınız değişiklikleri kaydedin ve modemi/router'ı yeniden başlatın. Bu işlem, yeni DNS ayarlarının uygulanmasını sağlar.
+
+Bu şekilde, modem/router üzerinden yapılan DNS değişiklikleri ile ağa bağlı tüm cihazları etkiler ve tek tek değişiklik yapmak zorunda kalmazsınız.
+
+!> Kullandığınız işletim sisteminin sürümüne, kullandığınız cihazın marka ve modeline göre DNS değiştirme işlemleri değişiklik gösterebilir.
+
+## DNS Sunnucusu testi
+
+DNS değişikliklerinin düzgün çalıştığından emin olmak için [dnsleaktest.org](https://dnsleaktest.org/dns-leak-test) adresinden kontrol edebilirsiniz. Test sonucunda ISP sütununda eğer girdğini DNS sağlayıcısının adı çıkıyorsa DNS değişikliğiniz başarılı olmuştur.
 
 ## Önerilenler Tablosu
 
@@ -47,7 +68,7 @@ DNS sunucusu değiştirmek genellikle kolay bir işlemdir. Aşağıda kullandı�
 
 | Dns Adresi |
 | ---------- |
-| Mullvad farklı ihtiyaçlara farklı DNS sunucuları sağlamaktadır. Bunların hepsine [**buradan**](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls) ulaşabilirsiniz.| 
+| Mullvad farklı ihtiyaçlara farklı DNS sunucuları sağlamaktadır. Bunların hepsine [**buradan**](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls) ulaşabilirsiniz.|
 
 Mullvad DNS, sıfır kayıt tutma politikası ile kullanıcılarına reklam engellemede sunmaktadır. Aynı zamanda Mullvad DNS sunucularında sansür uygulanmaz. Mullvad DNS hakkında daha fazla bilgiye ulaşmak için [buraya](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls) bakabilirsiniz.
 
@@ -55,10 +76,10 @@ Mullvad DNS, sıfır kayıt tutma politikası ile kullanıcılarına reklam enge
 
 <img src="docs/images/quad9.png" alt="Quad9" width="350" />
 
-| Tür   | DNS Adresi         |       
+| Tür   | DNS Adresi         |
 |-------|:------------------:|
 | IPv4  | 9.9.9.9           |  
-| IPv4  | 149.112.112.112   |   
+| IPv4  | 149.112.112.112   |
 | IPv6  | 2620:fe::fe       |
 | IPv6  | 2620:fe::9        |
 
@@ -66,10 +87,10 @@ Mullvad DNS, sıfır kayıt tutma politikası ile kullanıcılarına reklam enge
 
 ## Adguard DNS
 
-| Tür   | DNS Adresi         |       
+| Tür   | DNS Adresi         |
 |-------|:------------------:|
 | IPv4  | 94.140.14.14       |  
-| IPv4  | 94.140.15.15       |   
+| IPv4  | 94.140.15.15       |
 | IPv6  | 2a10:50c0::1:ff    |
 | IPv6  | 2a10:50c0::2:ff    |
 
@@ -81,7 +102,4 @@ Adguard'ın ücretsiz sürümü gibi ücretli sürümü de bulunmaktadır. Ücre
 
 ![NextDNS](images/nextdns.png)
 
-NextDNS ayda 300 bin aratmaya kadar ücretsiz bir DNS servisi sunar. Kullanıcıların kolaylıkla reklam ve tracker engelleyiciler ile birlikte farklı kategorilerdeki engel listelerini kullanmasına olanak tanır. Gizlilik politikalarına [buradan](https://nextdns.io/privacy) bakabilirsiniz. Normal paketi aylık 1.99€'dur. 
-
-
-
+NextDNS ayda 300 bin aratmaya kadar ücretsiz bir DNS servisi sunar. Kullanıcıların kolaylıkla reklam ve tracker engelleyiciler ile birlikte farklı kategorilerdeki engel listelerini kullanmasına olanak tanır. Gizlilik politikalarına [buradan](https://nextdns.io/privacy) bakabilirsiniz. Normal paketi aylık 1.99€'dur.
