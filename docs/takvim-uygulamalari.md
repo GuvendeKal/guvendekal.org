@@ -11,4 +11,3 @@
 ## Önerilenler Tablosu
 
 > Eklenecek
-

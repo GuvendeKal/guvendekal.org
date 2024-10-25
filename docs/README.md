@@ -4,14 +4,13 @@
 
 !> Güvende Kal projesi daha geliştirme aşamasındadır. İçerik kalitemizi arttırmaya ve yeni sayfalar oluşturmaya çalışıyoruz. Hâlâ bitmemiş dökümantasyon dosyalarına baktığınızı unutmayın. Herhangi bir hata bildirmek için [**buraya**](https://github.com/GuvendeKal/guvendekal.org/issues) konu açabilirsiniz yada direkt sağ üstteki "Dökümanı Düzenle" diyip herhangi bir hatayı kendiniz düzeltebilirsiniz.  Güvende Kal, topluluk tarafından oluşturulmuştur, gelişmesi ve devamlılığı yine topluluğa bağlıdır. Nasıl katkıda bulunabileceğiniz öğrenmek için [**Ekleme Yapmak**](https://guvendekal.org/#/ekleme) ve [**İçerik Kuralları**](https://guvendekal.org/#/icerik-kurallari) sayfalarını ziyaret edebilirsiniz.
 
-
 [![Logo](images/logo.svg)](https://guvendekal.org/#/)
 
 # Başlangıç
 
-Güvende Kal, bireylerin internet üzerindeki **mahremiyetlerini**, **gizliliklerini** ve **güvenliklerini** korumalarına yardımcı olmayı hedefleyen bir projedir. 
+Güvende Kal, bireylerin internet üzerindeki **mahremiyetlerini**, **gizliliklerini** ve **güvenliklerini** korumalarına yardımcı olmayı hedefleyen bir projedir.
 
-Bireylerin internet üzerindeki haklarını ve gizliliklerini koruma konusunda bilinçlenmelerini teşvik ederek, daha güvenli bir dijital ortam yaratmayı hedeflemektedir. 
+Bireylerin internet üzerindeki haklarını ve gizliliklerini koruma konusunda bilinçlenmelerini teşvik ederek, daha güvenli bir dijital ortam yaratmayı hedeflemektedir.
 
 Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlamak amacıyla çeşitli **kaynaklar**, **bilgiler**, **araçlar** ve **yazılımlar** sunar.
 
@@ -20,7 +19,7 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
 
 # Prensip & Misyon ve İşleyiş
 
-- Güvende Kal, kamu yararına hizmet eder herhangi bir şekilde kâr amacı gütmez. 
+- Güvende Kal, kamu yararına hizmet eder herhangi bir şekilde kâr amacı gütmez.
 
 - Proje herkese açıktır, isteyen kişiler katkıda bulunabilir.
 
@@ -29,7 +28,6 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
 - İçeriklerin denetimini yapmakla sorumlu olan kişiler, projenin ana ekibidir (maintainer'lar). Bu grubun görevi içeriklerin kullanıcı yararına olmasını sağlamak, adil ve özgür bir bakış açısı ile yazıldığından emin olmak ve projenin sayfasında bulunan bilgilerin güncelliğini kontrol etmektir.
 
 ?> Güvende Kal içinde bulunan yazılar **[Creative Commons Zero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/)** lisansına sahiptir.
-
 
 # Önerilen Uygulamalar
 
@@ -191,7 +189,6 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
     </div>
 </div>
 
-
 ## Posta Uygulamaları
 
 <div class="service-container">
@@ -232,20 +229,20 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
     </div>
 </div>
 
-## Yararlı Bağlantılar 
+## Yararlı Bağlantılar
 
 - [**Güvende Kal Searx Sunucusu**](https://searx.guvendekal.org/)
-- [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) 
+- [**Mahremiyet**](https://guvendekal.org/#/mahremiyet)
 - [**Güvenlik**](https://guvendekal.org/#/guvenlik)
 - [**Açık Kaynak**](https://guvendekal.org/#/acik-kaynak)
-- [**Bilinçli Teknoloji Tüketicileri**](https://btt.community/) 
+- [**Bilinçli Teknoloji Tüketicileri**](https://btt.community/)
 - [**Privacy Guides**](https://www.privacyguides.org/en/)
 - [**Electronic Frontier Foundation**](https://www.eff.org/)
 - [**Free Software Foundation**](https://www.fsf.org/)
 
 ## Atıf ve Hukuksal Bilgiler
 
-guvendekal.org tarafından önerilen hiç bir uygulamanın guvendekal.org ile bağlantısı yoktur. guvendekal.org bu önermelerin sorumluluğunu almaz, herhangi bir çıkar yada kâr gözetmez. guvendekal.org tarafından kullanılan logo, marka isimleri ve tescilli isimler tamamen tanıtım amaçlı kullanılmaktadır. 
+guvendekal.org tarafından önerilen hiç bir uygulamanın guvendekal.org ile bağlantısı yoktur. guvendekal.org bu önermelerin sorumluluğunu almaz, herhangi bir çıkar yada kâr gözetmez. guvendekal.org tarafından kullanılan logo, marka isimleri ve tescilli isimler tamamen tanıtım amaçlı kullanılmaktadır.
 
 - guvendekal.org sitesinin alt yapısı [**Docsify**](https://docsify.js.org/#/) ile oluşturulmuştur. (**MIT**)
 - guvendekal.org sitesinde kullanılan ikonlar, [**Font Awesome**](https://fontawesome.com/) kütüphanesinden çekilmektedir. (**CC BY**)

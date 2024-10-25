@@ -28,7 +28,7 @@ SponsorBlock eklentisi [açık kaynaktır](https://github.com/ajayyy/SponsorBloc
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/duckduckgo-icon.png" alt="DuckDuckGo" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> DuckDuckGo Privacy Essentials
 
-DuckDuckGo Privacy Essential eklentisi, pek çok özelliğe sahip internette gizlilik ve güvenliğinizi arttıran bir tarayıcı eklentisidir. 
+DuckDuckGo Privacy Essential eklentisi, pek çok özelliğe sahip internette gizlilik ve güvenliğinizi arttıran bir tarayıcı eklentisidir.
 
 Girdiğiniz sitenin yüklemeye çalıştığı 3. taraf istekleri (çerez, izleyici) engeller ve hangi isteklerin kimler tarafından yollandığını gösterir. HTTP to HTTPS yapar, ziyaret ettiğiniz site hakkında bilgiler verebilir.
 
