@@ -7,70 +7,78 @@
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <meta charset="UTF-8" />
     <!-- Stil dosyası -->
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css" />
     <!-- İkonlar  -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+    />
     <!-- Site ikonu  -->
-    <link rel="icon" href="docs/images/icon.png" type="image/png">
+    <link rel="icon" href="docs/images/icon.png" type="image/png" />
     <!-- Tema  -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css" id="theme-style">
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css"
+      id="theme-style"
+    />
     <!-- Github'da düzenle eklentisi  -->
     <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
     <!-- Font  -->
-    <link href="https://fonts.cdnfonts.com/css/inter" rel="stylesheet">
+    <link href="https://fonts.cdnfonts.com/css/inter" rel="stylesheet" />
     <!-- Gece/gündüz modu -->
     <script src="theme-toggle.js"></script>
     <!-- Tema Özellikleri -->
     <style>
-    :root {
-      --content-max-width: 85em;
-      --sidebar-nav-link-color--hover: #0b87da;
-      --sidebar-nav-link-text-decoration--hover: none;
-      --selection-color: rgba(11, 135, 218, 0.3); 
-      --link-text-decoration-color--hover: #0b87da;
+      :root {
+        --content-max-width: 85em;
+        --sidebar-nav-link-color--hover: #0b87da;
+        --sidebar-nav-link-text-decoration--hover: none;
+        --selection-color: rgba(11, 135, 218, 0.3);
+        --link-text-decoration-color--hover: #0b87da;
       }
     </style>
     <!-- Gece/gündüz modu -->
-    </head>
-      <body>
-        <div id="theme-button">
-          <label class="switch">
-            <input type="checkbox" onchange="toggleTheme(this)">
-            <span class="slider"></span>
-        </label>
-      </div>
+  </head>
+  <body>
+    <div id="theme-button">
+      <label class="switch">
+        <input type="checkbox" onchange="toggleTheme(this)" />
+        <span class="slider"></span>
+      </label>
+    </div>
     <div id="app"></div>
     <!-- Docsify özellikleri -->
     <script>
       window.$docsify = {
-        basePath: './docs/',
+        basePath: "./docs/",
         loadSidebar: true,
-        sidebar: '_sidebar.md',
-        themeColor: '#0B87DA',
-        logo: 'images/logo.svg',
-        notFoundPage: '404.md',
+        auto2top: true,
+        sidebar: "_sidebar.md",
+        themeColor: "#0B87DA",
+        logo: "images/logo.svg",
+        notFoundPage: "404.md",
         pagination: {
-        previousText: 'Önceki Sayfa',
-        nextText: 'Sonraki Sayfa',
-        crossChapter: true,
-        crossChapterText: true,
+          previousText: "Önceki Sayfa",
+          nextText: "Sonraki Sayfa",
+          crossChapter: true,
+          crossChapterText: true
         },
         search: {
-          placeholder: "Arama yap...",
+          placeholder: "Arama yap..."
         },
         plugins: [
           EditOnGithubPlugin.create(
-            "https://github.com/GuvendeKal/guvendekal.org/tree/main/docs/", 
+            "https://github.com/GuvendeKal/guvendekal.org/tree/main/docs/",
             "",
-            "📝 Dökümanı Düzenle")
+            "📝 Dökümanı Düzenle"
+          )
         ]
       };
-      
     </script>
     <!-- Docsify eklentileri -->
-    <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script> 
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
     <script src="footer-plugin.js"></script>
     <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
-    </body>
+  </body>
 </html>
