@@ -4,6 +4,6 @@
  - Uygun görseller eklemeyi unutmayın.
  - İçerik kuralları ve ekleme yapmak sayfalarını ziyaret edebilirsiniz -->
 
-# Windows Güvenliği 
+# Windows Güvenliği
 
 > Eklenecek

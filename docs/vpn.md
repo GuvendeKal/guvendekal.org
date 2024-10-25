@@ -28,8 +28,7 @@ VPN kullandığınızda trafiğinizi (ziyaret ettiğiniz siteleri) internet serv
 
 ![mullvad](images/mullvad.png)
 
-
-[**Mullvad VPN**](https://mullvad.net/en), gizliliği ile ön plana çıkaran bir VPN hizmetidir. Hesap oluşturmak için e-posta yada kullanıcı adı gerekmez. Hesap oluşturulduğu an 16 haneli bir hesap numarası verilir ve hesaba bu numara ile giriş yapılır. 
+[**Mullvad VPN**](https://mullvad.net/en), gizliliği ile ön plana çıkaran bir VPN hizmetidir. Hesap oluşturmak için e-posta yada kullanıcı adı gerekmez. Hesap oluşturulduğu an 16 haneli bir hesap numarası verilir ve hesaba bu numara ile giriş yapılır.
 
 Bu sayede kullanıcıların herhangi bir bilgisinin kaydıda tutulmaz. Mullvad VPN, kullanıcılarının hiç bir kaydını (IP, konum vs) tutmamaktadır. Mullvad VPN istemcileri de açık kaynaklıdır. Mullvad VPN kullanıcılarına karşı şeffaf, mahremiyet ve güvenliklerini önemseyen bir VPN servisidir.
 
@@ -87,7 +86,6 @@ Bu sayede kullanıcıların herhangi bir bilgisinin kaydıda tutulmaz. Mullvad V
 
 * [Açık kaynak depoları](https://github.com/mullvad/mullvadvpn-app)
 * [Gizlilik politikaları](https://mullvad.net/en/help/privacy-policy)
-
 
 ## Proton VPN
 

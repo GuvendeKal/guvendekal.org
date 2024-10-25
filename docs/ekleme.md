@@ -25,7 +25,7 @@ Güvende Kal projesi, bireyler tarafından sayfaların daha rahat okunması ve g
 
 Sayfalar Github deposunun `guvendekal.org/docs/` klasöründe bulunur. "**Add files**" kısmına tıklayıp "**Upload files**" diyerek yerelde yaptığınız markdown dosyasını yükleyebilirsiniz yada "**Create new file**" diyerek Github üzerinden Markdown dosyası oluşturabilirsiniz ve düzenleyebilirsiniz.
 
-!> Oluşturduğunuz dosyanın ismi `ornek.md` şeklinde olmalıdır. `ornek` olursa, **Markdown** dosyası olmayacaktır. 
+!> Oluşturduğunuz dosyanın ismi `ornek.md` şeklinde olmalıdır. `ornek` olursa, **Markdown** dosyası olmayacaktır.
 
 Koyacağınız dosyanın ismini, sayfanın başlığına göre koyunuz. Örneğin oluşturacağımız döküman "**Örnek Sayfa Nasıl Oluşturulur?**" olsun. Dosyanın adını `ornek-dosya-nasil-olusturulur.md` yapmanız gerekir.
 
@@ -36,7 +36,7 @@ Koyacağınız dosyanın ismini, sayfanın başlığına göre koyunuz. Örneği
 
 #### Sayfa düzenleme
 
-Zaten ekleme yapmak istediğiniz sayfa var mı? O zaman `guvendekal.org/docs/` klasöründen düzeltmek istediğiniz **.md** uzantılı dosyayı açıp düzenleme yapabilirsiniz. 
+Zaten ekleme yapmak istediğiniz sayfa var mı? O zaman `guvendekal.org/docs/` klasöründen düzeltmek istediğiniz **.md** uzantılı dosyayı açıp düzenleme yapabilirsiniz.
 
 ### Sol menü nasıl düzeltilir- sayfa eklenir?
 
@@ -47,7 +47,7 @@ Sol menü, Github deposunda `guvendekal.org/docs/` klasöründe bulunan `_sideba
 - `#` ile menüde başlıklar oluşturabilirsiniz. Örneğin menüde gördüğünüz "Nedir, Dökümantasyon" birer başlıktır.
 - `[Menüde görünecek isim](-.md)` ile menüye sayfanızı ekleyebilirsiniz.
 
-```
+```html
 # Dokümantasyon
 # <i class="fa-solid fa-bars"></i> Dokümantasyon
 * [<i class="fas fa-user"></i> Katkıda Bulunanlar](katkida-bulunanlar.md)
@@ -58,7 +58,7 @@ Sol menü, Github deposunda `guvendekal.org/docs/` klasöründe bulunan `_sideba
 
 Örneğin sizin gördüğünüz sol menü böyle. Buraya açtığınız `ornek-dosya-nasil-olusturulur.md` dosyasını eklemek isterseniz:
 
-```
+```html
 # <i class="fa-solid fa-bars"></i> Dokümantasyon
 * [<i class="fas fa-user"></i> Katkıda Bulunanlar](katkida-bulunanlar.md)
 * [<i class="fas fa-file-alt"></i> İçerik Kuralları](icerik-kurallari.md)
@@ -67,15 +67,15 @@ Sol menü, Github deposunda `guvendekal.org/docs/` klasöründe bulunan `_sideba
 * [Dosya Oluşturma](ornek-dosya-nasil-olusturulur.md)
 ```
 
-Şeklinde ekleyebilirsiniz. İkon eklemek için [**Font Awesome**](https://fontawesome.com/icons) sitesinden aldığınız ikonun kodunu [ ] arasına en başa yazabilirsiniz. 
+Şeklinde ekleyebilirsiniz. İkon eklemek için [**Font Awesome**](https://fontawesome.com/icons) sitesinden aldığınız ikonun kodunu [ ] arasına en başa yazabilirsiniz.
 
 Örnek `[<i class="fa-solid fa-gear"></i> Dosya Oluşturma]` şeklinde ekleyebilirsiniz. İkon kodunu almak için seçtiğiniz ikonun üstüne tıklayabilirsiniz.
- 
+
 ?> Menüde görünecek isim kısaltılabilir. Örneğin, "Örnek Dosya Nasıl Oluşturulur" yerine "Dosya Oluşturma" şeklinde ekleyebilirsiniz.
 
 ### Görsel nasıl eklenir?
 
-Görseller `guvendekal.org/docs/images/` klasörüne yüklenir. Bu klasöre eklediğiniz `guvendekal.png` adlı görseli bir yazıya eklemek için `![Resim Açıklaması](images/guvendekal.png)` kodunu kullanabilirsiniz. 
+Görseller `guvendekal.org/docs/images/` klasörüne yüklenir. Bu klasöre eklediğiniz `guvendekal.png` adlı görseli bir yazıya eklemek için `![Resim Açıklaması](images/guvendekal.png)` kodunu kullanabilirsiniz.
 
 !> Görsel ismini, uzantısını ve dosya konumunu doğru yazdığınıza emin olunuz. [ ] kısmı, herhangi sorunda (internet-sunucu sorunlarında) resmin yüklenmemesi gibi bir sorun çıkartırsa insanlara resmin açıklamasını gösterecektir.
 
