@@ -32,6 +32,8 @@ DNS sunucusu değiştirmek genellikle kolay bir işlemdir. Aşağıda kullandı�
 
 * **Android:** Ayarlar menüsüne git > Bağlantı ve paylaşma'ya gir > Özel DNS'e gir > Belirlenen DNS ayarını seçip DNS adreslerini gir. > Kaydedip çık.
 
+!> Kullandığınız işletim sisteminin sürümüne, kullandığınız cihazın marka ve modeline göre DNS değiştirme işlemleri değişiklik gösterebilir.
+
 #### Modem/Router
 
 Modem veya router üzerinde DNS sunucusunu değiştirmek, evinizdeki/ofisinizdeki tüm cihazların aynı DNS sunucusunu kullanmasını sağlar. Bu işlemi yapmak için modem veya router'ın yönetim arayüzüne erişmeniz gerekir. İşte adımlar:
@@ -47,9 +49,9 @@ Modem veya router üzerinde DNS sunucusunu değiştirmek, evinizdeki/ofisinizdek
 4. **Değişiklikleri Kaydedin:**
    * Yaptığınız değişiklikleri kaydedin ve modemi/router'ı yeniden başlatın. Bu işlem, yeni DNS ayarlarının uygulanmasını sağlar.
 
-Bu şekilde, modem/router üzerinden yapılan DNS değişiklikleri ile ağa bağlı tüm cihazları etkiler ve tek tek değişiklik yapmak zorunda kalmazsınız.
+Bu şekilde, modem/router üzerinden yapılan DNS değişiklikleri ile ağa bağlı tüm cihazlara uygulayabiliriniz ve tek tek değişiklik yapmak zorunda kalmazsınız.
 
-!> Kullandığınız işletim sisteminin sürümüne, kullandığınız cihazın marka ve modeline göre DNS değiştirme işlemleri değişiklik gösterebilir.
+!> Modem arayüzündeki veya internet sağlayıcınızın size verdiği müşteri panelindeki **güvenli internet** ayarları açık ise bu DNS değişikliklerini engelleyebilir. Güvenli interneti kapatmayı deneyebilirsiniz ancak modeme bağlanan diğer kişileri de etkileyebileceğini unutmayın (*örn: çocuklar için sağlanan faydalı özellikler güvenli internete bağlı olabilir*).
 
 ## DNS sunucusu testi
 
