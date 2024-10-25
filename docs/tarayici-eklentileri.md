@@ -28,7 +28,7 @@ SponsorBlock eklentisi [açık kaynaktır](https://github.com/ajayyy/SponsorBloc
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/duckduckgo-icon.png" alt="DuckDuckGo" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> DuckDuckGo Privacy Essentials
 
-DuckDuckGo Privacy Essential eklentisi, pek çok özelliğe sahip internette gizlilik ve güvenliğinizi arttıran bir tarayıcı eklentisidir. 
+DuckDuckGo Privacy Essential eklentisi, pek çok özelliğe sahip internette gizlilik ve güvenliğinizi arttıran bir tarayıcı eklentisidir.
 
 Girdiğiniz sitenin yüklemeye çalıştığı 3. taraf istekleri (çerez, izleyici) engeller ve hangi isteklerin kimler tarafından yollandığını gösterir. HTTP to HTTPS yapar, ziyaret ettiğiniz site hakkında bilgiler verebilir.
 
@@ -57,3 +57,9 @@ uMatrix eklentisi çoğu konumda gelişmiş kullanıcılara hitap eden ve gizlil
 Bu eklentiyi bir çakı niyetiyle kullanabilir ve yer yer farklı özelliklerinden faydalanabilirsiniz. Listede geçen diğer eklentiler gibi uMatrix de [açık kaynaklı](https://github.com/gorhill/uMatrix) bir eklenti olmakla beraber GPL-3.0 <span style="color: green;"><small>(Özgür Yazılım)</small></span> lisansına sahiptir.
 
 ?> uMatrix eklentisinin resmi desteği her ne kadar bitmiş de olsa eklentide herhangi bir güvenlik açığı veya sızıntı mevcut değildir. Çalışmayı sürdürmekte ve bütün özelliklerinden istediğiniz şekilde yararlanabilirsiniz.
+
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/ghostery-icon.svg" alt="DuckDuckGo" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Ghostery
+
+**[Ghostery](https://www.ghostery.com/)**, kullanıcıların internette gizliliklerini korumasına yardımcı olan bir **reklam ve izleyici engelleyici** tarayıcı eklentisidir. Özellikle izleyici yönetiminde detaylı bilgi sunmasıyla öne çıkar; kullanıcılar web sitelerinde aktif olan izleyicileri görebilir ve bunları tek tek engelleyebilir. Kullanıcı dostu arayüzü sayesinde teknik bilgi gerektirmeden kullanılabilir ve web sayfalarındaki izleyiciler hakkında analizler sunarak bilinçli kararlar alınmasını sağlar. Ek olarak, diğer birçok reklam engelleyicinin engelleyemediği/engellemekte güçlük çektiği **arama motorlarının arama esnasında gösterdiği reklamları da** engelleyebilir. Böylece daha temiz ve yanıltıcı olmayan arama sonuçlarına ulaşabilirsiniz.
+
+Ghostery eklentisi [açık kaynaktır](https://github.com/ghostery) ve [MPL-2.0 lisansı](https://github.com/ghostery/ghostery-extension?tab=MPL-2.0-1-ov-file#readme) <span style="color: green;"><small>(Özgür Yazılım)</small></span> kullanmaktadır.
