@@ -17,3 +17,4 @@ Güvende Kal projesinin devamlılığı ve sürekliliği, topluluğun katkısın
 - [conmecha](https://github.com/conmecha)
 - [callisto1232](https://github.com/callisto1232)
 - [relliv](https://github.com/relliv)
+- [emrekircaa](https://github.com/emrekircaa)
