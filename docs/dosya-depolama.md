@@ -26,9 +26,11 @@ Bulut depolama, uzaktaki bilgisayar ile internet aracılıyla kendi bilgisayarı
 | 1 | NextCloud | ✓ | Bulut | ✓ | Sunucuya bağlı | Sunucuya bağlı | İnternete bağlanabilen herhangi bir cihaz |
 | 2 | Ente Photos | ✓ | Bulut | ❌ | Şifrelenmiş | İyi | İnternete bağlanabilen herhangi bir cihaz |
 | 3 | PhotoPrism | ✓ | Bulut | ✓ | Sunucuya bağlı | Sunucuya bağlı | İnternete bağlanabilen herhangi bir cihaz |
-| 4 | Google Fotoğraflar | ❌ | Bulut | ❌ | iyi değil | çok kötü <sup> (1) </sup> |internete bağlanabilen herhangi bir cihaz |
-| 5 | Dolphin | ✓ | Fiziksel | ❌ ||| Linux |
-| 6 | Windows Dosya Gezgini | ❌ | Fiziksel | ❌ ||| Windows |
+| 4 | Google Fotoğraflar | ❌ | Bulut | ❌ | iyi değil | çok kötü <sup> (1) </sup> |internete bağlanabilen herhangi bir cihaz,  Android 4.0 ve üstü |
+| 5 | iCloud | ❌ | Bulut | ❌ | iyi değil | kötü | internete bağlanabilen cihaz, iOS 5, iPadOS 5, macOS X Lion, tvOS 4.nesil ve üstü |
+| 6 | OneDrive/SkyDrive | ❌ | Bulut | ❌ | iyi değil | kötü | internete bağlanabilen herhangi bir cihaz, Windows XP, Windows Vista, (SkyDrive) Windows 8.1 üstü (OneDrive) |
+| 7 | Dolphin | ✓ | Fiziksel | ❌ ||| Linux |
+| 8 | Windows Dosya Gezgini | ❌ | Fiziksel | ❌ ||| Windows |
 
 ## 1- NextCloud
 
