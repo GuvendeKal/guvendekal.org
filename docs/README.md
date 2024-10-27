@@ -227,6 +227,12 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
             <a href="https://guvendekal.org/#/sifre-yoneticileri?id=-vaultwarden" target="_blank" style="color: inherit; text-decoration: none;">Vaultwarden</a>
         </div>
     </div>
+    <div class="service-box">
+        <img src="docs/images/kwalletmanager.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/sifre-yoneticileri?id=-kwalletmanager" target="_blank" style="color: inherit; text-decoration: none;">Kwalletmanager</a>
+        </div>
+    </div>
 </div>
 
 ## Yararlı Bağlantılar
