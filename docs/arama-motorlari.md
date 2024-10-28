@@ -28,11 +28,13 @@ Bu nedenlerle sizin verilerinizi işleyip kullanan, aramalarda manipülasyon yap
 | <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/brave-icon.png" alt="Brave" style="width: 30px; height: ;"> </span> <span style="display: inline-block; vertical-align: middle;"> Brave Search      | <span style="color: red;">×</span> | <span style="color: green;">×</span> | ABD          | Kendi indeksi    | ✓      |
 | <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/startpage-icon.png" alt="Startpage" style="width: 40px; height: 40px;"> </span> <span style="display: inline-block; vertical-align: middle;"> StartPage         | <span style="color: red;">×</span> | ✓     | Hollanda     | Google           | ✓      |
 | <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/searx-icon.png" alt="Searx" style="width: 40px; height: 40px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Searx             | <span style="color: green;">✓</span> | <span style="color: green;">×</span> | Bağımsız | Meta Arama | <span style="color: green;">×</span>      |
+| Whoogle             | <span style="color: green;">✓</span> | <span style="color: green;">×</span> | Bağımsız | Google | <span style="color: green;">×</span>      |
 
 - StartPage anonim, tanımlanamaz kayıt tutmaktadır.
-- Searx, meta bir aramo motorudur. Farklı arama motorlarının sonuçlarını göstermektedir.
+- Searx, meta bir arama motorudur. Farklı arama motorlarının sonuçlarını göstermektedir.
 - DuckDuckGo'nun arama motoru kapalı kaynaktır. Ancak bazı istemcileri açık kaynaktır, [**buradan**](https://duckduckgo.com/duckduckgo-help-pages/open-source/opensource-overview/) kontrol edebilirsiniz.
 - DuckDuckGo, StartPage ve Brave Search'in kullanıcılarına sunduğu reklamlar, kapatılabilmektedir. Aynı zamanda kullanıcıların arama sorgularını ve davranışlarını analiz edip reklam göstermez.
+- Whoogle, açık kaynak ve özgür yazılım olup Google sonuçlarını gösteren, ancak Google'daki gereksiz ve gizliliğe önem vermeyen servisleri çıkartıp size sunan sade ve kullanışlı bir arama motorudur.
 
 ## DuckDuckGo
 
@@ -87,3 +89,20 @@ Searx, bağımsız bir arama motoru olduğu için herkes Searx'i kendi sunucusun
 !> Kullandığınız Searx sunucusunun sahibi kayıt tutmayı açmış olabilir. Buna dikkat etmeniz gerekir.
 
 Searx'i kullanıcılarının mahremiyetine ve gizliliğine önem verdiği için Google yada Bing gibi alternatifler yerine tercih etmenizi öneririz. Aynı zamanda Searx'in [**dökümantasyon**](https://docs.searxng.org/) sayfasına ve [**kaynak kodlarına**](https://github.com/searxng/searxng) bakabilirsiniz.
+
+## Whoogle
+
+**Whoogle**, gizlilik ve kişiselleştirilebilir olarak anonim bir Google deneyimi sunar. Sonuçların kaynağı Google'dan gelir, ancak Google'daki gereksiz, gizliliği ihlal eden ve arama motorunu yavaşlatan servisleri çıkartır.
+
+Whoogle, açık kaynak ve özgür yazılım olduğu için kendi lokal sunucunuzda veya sisteminizde barındırabilirsiniz, tıpkı **Searx** gibi.
+
+Whoogle, kişiselleştirme konusunda üst düzey bir arama motorudur ve onlarca özelleştirme seçeneği sunar. Bunlardan bazıları şunlardır: Tor'u kullanma, sosyal medya verilerini göstermeme, JavaScript'i kapatma, ülke seçme, arama lokasyonu seçme vb.
+
+Whoogle, daha önce dediğimiz gibi arama sonuçlarını Google'dan aldığı için kaliteli sonuçlar gösterir ve tasarım konusunda ön plana çıkar. Son derece sade ve minimalist bir görünüme sahiptir.
+
+Kısaca, gizlilik ve mahremiyeti önemseyen Whoogle, tercih edilebilecek bir **Açık Kaynak** arama motorudur.
+
+**!> Kullandığınız Whoogle sunucusunun sahibi kayıt tutmayı açmış olabilir. Buna dikkat etmeniz gerekir.**
+
+![Whoogle Github Sayfası](https://github.com/benbusby/whoogle-search)
+
