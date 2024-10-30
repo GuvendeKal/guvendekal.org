@@ -25,7 +25,8 @@ Bu gibi sebeplerden ötürü, Chromium'dan sonra en çok kullanılan tarayıcı 
 | <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/brave-icon.png" alt="Brave" style="width: 30px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> [**Brave Browser**](https://brave.com/download/)          | Chromium | <span style="color: green;">✓</span> |     MPL      | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> |
 | <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/mullvad-icon.png" alt="Mullvad" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> [**Mullvad Browser**](https://mullvad.net/en/browser) | Firefox  | <span style="color: green;">✓</span> |     MPL      |                                         <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i>                                         |
 | <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/tor.svg" alt="Tor" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> [**Tor Browser**](https://www.torproject.org)                      | Firefox  | <span style="color: green;">✓</span> |     MPL      |                      <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i>                       |
-| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/ug-chromium.png" alt="Ungoogled Chromium" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> [**Ungoogled Chromium**](https://github.com/ungoogled-software/ungoogled-chromium)              | Chromium  | <span style="color: green;">✓</span> | BSD 3-Clause |                                         <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i>                                         |
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/ug-chromium.png" alt="Ungoogled Chromium" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> [**Ungoogled Chromium**](https://github.com/ungoogled-software/ungoogled-chromium)              | Chromium  | <span style="color: green;">✓</span> | BSD 3-Clause |                                         <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i>
+|[**Zen Browser**](https://zen-browser.app/)                      | Firefox  | <span style="color: green;">✓</span> |     MPL      |                      <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i>
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/firefox.png" alt="Firefox" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Mozilla Firefox
 
@@ -72,6 +73,18 @@ Mullvad Browser'in temel amacı Tor ağını kullanmadan, Tor'un sunduğu bütü
 Varsayılan olarak Google'a ait bütün internet servislerinden ve veri toplama mekanizmalarından arındırılmış bir şekilde gelmektedir. Her ne kadar son kullanıcıya hitap etmese de gelişmiş kullanıcılar için yepyeni özellikler sunmaktadır.
 
 ?> Ungoogled Chromium'da varsayılan olarak tarayıcı eklentilerini içeren Chrome Web Store hizmeti kapalıdır. Kapatılmış bazı özellikleri yeniden açmak için uygulamanın [**resmi GitHub reposunu**](https://github.com/ungoogled-software/ungoogled-chromium) incelemeniz önerilir.
+
+### Zen Browser
+
+**Zen Browser**, Firefox tabanlı tarayıcılar arasında hızla yükselen yeni bir tarayıcıdır. Zen, kullanımı sade ve basit bir tarayıcı olmakla beraber geliştiricilerin tabiri ile sonuna kadar kişiselleştirilebilir bir tarayıcıdır.
+
+Zen Browser, MPL lisansı ile yayınlanmış [**Açık kaynak**](https://github.com/zen-browser) bir proje olmasından ötürü hızla gelişmekte ve ilerlemektedir.
+
+Zen Browser, en başta dediğimiz gibi kolay kullanımı ile ön plana çıkmakta olup sürekli güncelleme alan bir projedir. Gizlilik ve mahremiyet konusunda da yine ön plana çıkmaktadır, gelişmiş web koruması ve neredeyse hiç veri toplamaması ile piyasadaki en güvenilir tarayıcılardan bir tanesidir.
+
+Zen Browser'ın ön plana çıkan özellikleri şunlardır: Gelişmiş ve kullanışlı konteynır sekmeler özelliği, kullanışlı ve özelleştirilebilir bir sidebar, pratik ve kullanışlı çalışma alanları, özelleştirilebilir kompakt mod vb.
+
+Zen Browser'ın büyük bir artısı da kendi [**Mod Mağazasına**](https://zen-browser.app/mods) sahip olmasıdır. Bu mağazada topluluk tarafından geliştirilmiş onlarca tarayıcı teması, ek özellikler, panel modları, ek kişiselleştirmeler vb. şeyler bulunmakta olup bu modların sayısı çok fazladır, çok çeşitli ve her tür modu bulabilirsiniz. Zen Browser daha yeni çıkmış bir tarayıcı olduğuna göre, ilerleyen zamanlarda bu mod mağazasının gelişimi gerçekten inanılmaz boyutlara ulaşacaktır.
 
 ### Farklı platformlar için tarayıcı önerileri
 
