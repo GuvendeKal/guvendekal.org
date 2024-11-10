@@ -11,7 +11,7 @@
 
 | 2 Faktörlü Doğrulama Uygulaması | Açık Kaynak | Uçtan Uca Şifreleme |
 | ------------------------------- |:-----------:| -------------------:|
-|<span style="display: inline-block; vertical-align: middle;"><img src="docs/images/protonvpn-icon.png" alt="Ente Auth" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Ente Auth  | <span style="color: green;">✓</span>    | <span style="color: green;">✓</span> |
+|<span style="display: inline-block; vertical-align: middle;"><img src="/docs/images/enteAuth.png" alt="Ente Auth" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Ente Auth  | <span style="color: green;">✓</span>    | <span style="color: green;">✓</span> |
 
 ## Ente Auth
 
