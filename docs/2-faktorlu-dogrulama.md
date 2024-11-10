@@ -15,10 +15,9 @@
 
 ## Ente Auth
 
-<img src="docs/images/enteAuth.png" alt="Ente Auth" width="350" />
+<img src="/docs/images/enteAuth.png" alt="Ente Auth" width="350" />
 
-**Ente Auth**, https://auth.ente.io/, Amerika tabanlı ente grubunun geliştirdiği açık kaynaklı bir 2 Faktörlü Kimlik Doğrulama uygulamasıdır, her platformda vardır ve kodların hepsi uçtan uca şifrelidir, sunucu kaç tane kodunuzun olduğunu görebilir ama kodlarınızın içeriğini göremez, **gizlilik politikası**: https://ente.io/privacy .
-
+**Ente Auth**, https://auth.ente.io/, Amerika tabanlı ente grubunun geliştirdiği açık kaynaklı bir 2 Faktörlü Kimlik Doğrulama uygulamasıdır, her platformda vardır ve kodların hepsi uçtan uca şifrelidir, sunucu kaç tane kodunuzun olduğunu görebilir ama kodlarınızın içeriğini göremez, **Gizlilik Politikası**: https://ente.io/privacy.
 
 <table>
 <tr>
