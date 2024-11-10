@@ -5,7 +5,7 @@
 
 # 2 Faktörlü Doğrulama
 
-2 Faktörlü Doğrulama hesabınızın adı ile şifresi yabancı birisinin eline bile geçse hesabınıza yabancının erişimini engellemek için sadece rakamlardan oluşan 6 haneli bir kod üretir ve bu kod rastgele bir kod olur, bu kod 3 şekilde verilebilir:SMS, e-mail ve authenticator uygulaması şeklinde, bunlardan en güvenlisi hem SMS hemde e-mail'de olan belli başlı problemler yüzünden (SMS'te SIM Swapping, e-mail'de phishing saldırıları ve e-mail hesabınızın çalınması gibi) authenticator uygulamasıdır.
+2 Faktörlü Doğrulama hesabınızın adı ile şifresi yabancı birisinin eline geçse bile hesabınıza yabancının erişimini engellemek için sadece rakamlardan oluşan 6 haneli bir kod üretir ve bu kod rastgele bir kod olur, bu kod 3 şekilde verilebilir:SMS, e-mail ve authenticator uygulaması şeklinde, bunlardan en güvenlisi hem SMS hemde e-mail'de olan belli başlı problemler yüzünden (SMS'te SIM Swapping, e-mail'de phishing saldırıları ve e-mail hesabınızın çalınması gibi) authenticator uygulamasıdır.
 
 ## Önerilenler Tablosu
 
