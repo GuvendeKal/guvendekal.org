@@ -17,7 +17,7 @@
 
 ![ente](/docs/images/enteAuth.png)
 
-[**Ente Auth**], https://auth.ente.io/, Amerika tabanlı ente grubunun geliştirdiği açık kaynaklı bir 2 Faktörlü Doğrulama uygulamasıdır, her platformda vardır nerede ve kodların hepsi uçtan uca şifrelenir, sunucu sadece kaç tane kodunuzun olduğunu görebilir ama kodlarınızın ne olduğunu göremez, **gizlilik politikası**: https://ente.io/privacy .
+**Ente Auth**, https://auth.ente.io/, Amerika tabanlı ente grubunun geliştirdiği açık kaynaklı bir 2 Faktörlü Doğrulama uygulamasıdır, her platformda vardır nerede ve kodların hepsi uçtan uca şifrelenir, sunucu sadece kaç tane kodunuzun olduğunu görebilir ama kodlarınızın ne olduğunu göremez, **gizlilik politikası**: https://ente.io/privacy .
 
 
 <table>
