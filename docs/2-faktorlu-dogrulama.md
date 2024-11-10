@@ -37,7 +37,7 @@
 <td>Bölüm Bölüm Ayırabilme (iş için, şunlar için vb.)</td>
 </tr>
 <tr>
-<td>Kod Pinleme</td>
+<td>Kod Sabitleme</td>
 </tr>
 <tr>
 <td>Kod Paylaşma</td>
