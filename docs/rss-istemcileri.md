@@ -6,7 +6,11 @@
 
 # RSS İstemcileri
 
-> Eklenecek
+RSS İstemcisi|Açık Kaynak;
+|-|-|
+|[<img src="docs/images/freshrss.png" alt="KeePassXC" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> FreshRSS](https://freshrss.org)|<span style="color: green;">✓</span>|
+|[<img src="docs/images/miniflux.png" alt="KeePassXC" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> Miniflux](https://miniflux.app)|<span style="color: green;">✓</span>|
+
 
 ## Önerilenler Tablosu
 
