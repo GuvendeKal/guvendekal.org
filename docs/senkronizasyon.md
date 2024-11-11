@@ -13,10 +13,10 @@ Senkronizasyon araçları dosyalarınızı senkronize etmenizi sağlar, mesela K
 | -------------------- |:-----------:| -------------------:| ---------: |
 |<span style="display: inline-block; vertical-align: middle;"><img src="/docs/images/syncthing.png" alt="Syncthing" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Syncthing  | <span style="color: green;">✓</span>    | <span style="color: green;">✓</span> | <span style="color: green;">×</span> |
 
-!> Syncthing'in android desteği kesilmiştir Syncthing yerine Syncthing-Fork adlı uygulamayı kullanabilirsiniz.
-
 ## Syncthing
 
 <img src="/docs/images/syncthing.png" alt="Syncthing" width="350" />
 
 Syncthing hiç kimseye güvenmeden dosyalarınızı senkronize etmek için kullanabileceğiniz tamamen açık kaynak bir senkronizasyon aracıdır, dosyalarınızı tamamen uçtan uca şifreleyerek diğer cihazınıza aktarır ve bunu sizin bizim gibi insanların çalıştırdığı relaylar sayesinde yapar, eğer ki dosyalarınızın başka bir kişiye gideceğini ya da cihazınızı taklit ederek dosyalarınızı çalabileceklerini düşünüyorsanız düşünmeyin çünkü bunu önlemek için public ve private keyler kullanıyorlar, daha detaylı bilgi için:https://advancedweb.hu/how-syncthing-provides-secure-file-syncing-without-sharing-your-files-with-a-third-party/, yani dosyalarınızı kimse çalamaz ve dosyalarınız uçtan uca şifrelemeli olduğu için relay sahibi bile sizin dosyalarınızı göremez ve çalamaz.
+
+!> Syncthing'in android desteği kesilmiştir Syncthing yerine Syncthing-Fork adlı uygulamayı kullanabilirsiniz.
