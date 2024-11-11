@@ -10,7 +10,7 @@ Senkronizasyon araçları dosyalarınızı senkronize etmenizi sağlar, mesela K
 ## Önerilenler Tablosu
 
 | Senkronizasyon Aracı | Açık Kaynak | Uçtan Uca Şifreleme | Veri Kaybı |
-| ------------------------------- |:-----------:| -------------------:|
+| -------------------- |:-----------:| -------------------:| ---------: |
 |<span style="display: inline-block; vertical-align: middle;"><img src="/docs/images/syncthing.png" alt="Syncthing" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Syncthing  | <span style="color: green;">✓</span>    | <span style="color: green;">✓</span> | <span style="color: green;">×</span> |
 
 !> Syncthing'in android desteği kesilmiştir Syncthing yerine Syncthing-Fork adlı uygulamayı kullanabilirsiniz.
