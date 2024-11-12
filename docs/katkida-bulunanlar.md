@@ -6,7 +6,7 @@
 
 Güvende Kal projesinin devamlılığı ve sürekliliği, topluluğun katkısına bağlıdır. Nasıl katkı yapabileceğinizi öğrenmek için [**Ekleme Yapmak**](https://guvendekal.org/#/ekleme) sayfasını ziyaret edebilirsiniz.
 
-?> Bütün katkı yapanlara [buradan](https://github.com/GuvendeKal/guvendekal.org) bakabilirsiniz
+?> Bütün katkı yapanlara [buradan](https://github.com/GuvendeKal/guvendekal.org/graphs/contributors) bakabilirsiniz
 
 - [GokturkTalha](https://github.com/GokturkTalha)
 - [islemci](https://github.com/islemci)
@@ -18,3 +18,5 @@ Güvende Kal projesinin devamlılığı ve sürekliliği, topluluğun katkısın
 - [callisto1232](https://github.com/callisto1232)
 - [relliv](https://github.com/relliv)
 - [emrekircaa](https://github.com/emrekircaa)
+- [Unchanged4352](https://github.com/Unchanged4352)
+- [r00tww](https://github.com/r00tww)
