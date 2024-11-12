@@ -6,10 +6,11 @@
 
 # RSS İstemcileri
 
-RSS İstemcisi|Açık Kaynak;
-|-|-|
-|[<img src="docs/images/freshrss.png" alt="FreshRSS" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> FreshRSS](https://freshrss.org)|<span style="color: green;">✓</span>|
-|[<img src="docs/images/miniflux.png" alt="Miniflux" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> Miniflux](https://miniflux.app)|<span style="color: green;">✓</span>|
+| RSS İstemcisi  | Açık Kaynak | Çalışma Şekli | Fiyat      | Platformlar  |
+|----------------|:-------------:|:---------------:|:------------:|:--------------:|
+| <img src="docs/images/freshrss.png" alt="FreshRSS" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> [**FreshRSS**](https://freshrss.org)</span> | <span style="color: green;">✓</span> | Bulut ve Self-host | Ücretsiz   | <i class="fa-solid fa-globe"></i> |
+| <img src="docs/images/miniflux.png" alt="Miniflux" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> [**Miniflux**](https://miniflux.app)</span> | <span style="color: green;">✓</span> | Bulut ve Self-host | Ücretsiz/Ücretli | <i class="fa-solid fa-globe"></i> |
+
 
 
 ## Önerilenler Tablosu
