@@ -5,7 +5,14 @@
 
 # Senkronizasyon
 
-Senkronizasyon araçları dosyalarınızı senkronize etmenizi sağlar, mesela KeePassXC ve KeePassDX gibi şifrelerinizi lokalde tutan şifre yöneticileri kullanıyorsanız şifrelerinizi bir senkronizasyon aracıyla senkronize etmeniz lazım, tabii ki de kullandığınız senkronizasyon aracının güvenilir, uçtan uca şifrelemeli ve veri kaybının **hiç** olmaması lazım aksi takdirde dosyalarınız çalınabilir, verileriniz gidebilir.
+**Senkronizasyon** kavramı, farklı işlemler ve sistemler belirli düzene yada zamana göre uyumlu ve sistematik çalışmasına denir. Örneğin bir senkronizasyon uygulaması;
+
+Laptop cihazında bulunan `guvendekal.org/ornek.txt` dosyasına eklediğiniz `ornek yazı` metnini, iPhone cihazında bulunan `guvendekal.org/ornek.txt` dosyasına otomatik şekilde işler. Bu şekilde dosyalar eşitlenir yani, senkronize edilmiş olur.
+
+Senkronizasyon uygulamaları genellikle, lokalde çalışan uygulamaların bulutta depolanmadan senkronize edilmesini sağlar, bu yönüyle güvenli bir yöntemdir. Örneğin lokal çalışan [**şifre yöneticileri**](https://guvendekal.org/#/sifre-yoneticileri), bu yöntemle farklı cihazlarda da şifrelerin senkronize olmasını sağlar.
+
+!> Yinede senkronizasyon uygulamaları kullanırken, verilerinizi kaybetmeyeceğiniz şekilde yapılandırmak, güvenli uygulamalar ve araçlar kullanmak önemlidir.
+
 
 ## Önerilenler Tablosu
 
