@@ -90,7 +90,9 @@ Searx, bağımsız bir arama motoru olduğu için herkes Searx'i kendi sunucusun
 
 Searx'i kullanıcılarının mahremiyetine ve gizliliğine önem verdiği için Google yada Bing gibi alternatifler yerine tercih etmenizi öneririz. Aynı zamanda Searx'in [**dökümantasyon**](https://docs.searxng.org/) sayfasına ve [**kaynak kodlarına**](https://github.com/searxng/searxng) bakabilirsiniz.
 
-## Whoogle
+<!-- WHOOGLE son zamanlarda fazla hata alıyor gibi ondan şimdilik not içine alındı.
+
+## Whoogle 
 
 **Whoogle**, gizlilik ve kişiselleştirilebilir olarak anonim bir Google deneyimi sunar. Sonuçların kaynağı Google'dan gelir, ancak Google'daki gereksiz, gizliliği ihlal eden ve arama motorunu yavaşlatan servisleri çıkartır.
 
@@ -104,5 +106,4 @@ Kısaca, gizlilik ve mahremiyeti önemseyen Whoogle, tercih edilebilecek bir **A
 
 **!> Kullandığınız Whoogle sunucusunun sahibi kayıt tutmayı açmış olabilir. Buna dikkat etmeniz gerekir.**
 
-![Whoogle Github Sayfası](https://github.com/benbusby/whoogle-search)
-
+![Whoogle Github Sayfası](https://github.com/benbusby/whoogle-search) -->
