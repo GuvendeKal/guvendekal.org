@@ -5,40 +5,38 @@
 
 # 2 Faktörlü Doğrulama
 
-2 Faktörlü Doğrulama hesabınızın adı ile şifresi yabancı birisinin eline geçse bile hesabınıza yabancının erişimini engellemek için sadece rakamlardan oluşan 6 haneli bir kod üretir ve bu kod rastgele bir kod olur, bu kod 3 şekilde verilebilir:SMS, e-mail ve authenticator uygulaması şeklinde, bunlardan en güvenlisi hem SMS hemde e-mail'de olan belli başlı problemler yüzünden (SMS'te SIM Swapping, e-mail'de phishing saldırıları ve e-mail hesabınızın çalınması gibi) authenticator uygulamasıdır.
+**2 faktörlü doğrulama**, bir hesabı yada sistemi daha güvenli bir hâle getirmek için kullanılan birgüvenlik katmanıdır. Bu yöntem ile kullanıcı sadece şifre ile hesaba yada sisteme giremez, ikinci bir doğrulamayıda tamamlaması gerekir. Bu doğrulama genelde SMS, e-posta, biyometrik veri yada doğrulama uygulamaları ile olur.
+
+Günümüzde güvenlik amacıyla sıkça kullanılan 2 faktörlü doğrulama sistemlerini doğru şekilde kullanmak gerekir. SMS yolu yada e-posta yoluyla yapılan 2 faktörlü doğrulama, bu prosödürlerde herhangi bir şifreleme olmadığı için kolayca aşılabilir.
 
 ## Önerilenler Tablosu
 
-| 2 Faktörlü Doğrulama Uygulaması | Açık Kaynak | Uçtan Uca Şifreleme |
-| ------------------------------- |:-----------:| -------------------:|
-|<span style="display: inline-block; vertical-align: middle;"><img src="/docs/images/enteAuth.png" alt="Ente Auth" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Ente Auth  | <span style="color: green;">✓</span>    | <span style="color: green;">✓</span> |
+| Uygulama                                                                                                                          | Açık Kaynak        | Uçtan Uca Şifreleme | Fiyat                       | Platformlar                                                                                                                                                     |
+|-----------------------------------------------------------------------------------------------------------------------------------|:-------------------:|:--------------------:|:---------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| <span style="display: inline-block; vertical-align: middle;"><img src="/docs/images/enteauth.png" alt="Ente Auth" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Ente Auth         | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | Ücretsiz | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> |
+| <span style="display: inline-block; vertical-align: middle;"><img src="/docs/images/aegis.png" alt="Aegis" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Aegis Authenticator  | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | Ücretsiz                   | <i class="fa-brands fa-android"></i>                                                                                                                                            |
 
-## Ente Auth
+## <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/enteauth.png" alt="Ente" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> Ente Auth
 
-<img src="/docs/images/enteAuth.png" alt="Ente Auth" width="350" />
-
-**Ente Auth**, https://auth.ente.io/, Amerika tabanlı ente grubunun geliştirdiği açık kaynaklı bir 2 Faktörlü Kimlik Doğrulama uygulamasıdır, her platformda vardır ve kodların hepsi uçtan uca şifrelidir, sunucu kaç tane kodunuzun olduğunu görebilir ama kodlarınızın içeriğini göremez, **Gizlilik Politikası**: https://ente.io/privacy.
+**[Ente Auth](https://ente.io/auth/)**, uçtan uca şifreleme sunan açık kaynaklı bir kimlik doğrulama uygulamasıdır. Ente Auth sunucuları uçtan uca şifrelenmiştir ve harici kaynaklarca test edilmiştir. Çapraz platform desteği sunan Ente Auth, neredeyse bütün platformlarda bulunmaktadır. 
 
 <table>
 <tr>
-<th colspan="2">Ekstra Özellikler</th>
+<th>Ekstra özellikler</th>
 </tr>
 <tr>
-<td>Sonraki Kodu Gösterme</td>
+<td>Sonraki kodu gösterme</td>
 </tr>
 <tr>
-<td>Not Ekleme</td>
+<td>Not ekleme</td>
 </tr>
 <tr>
-<td>Çöp Kutusu</td>
+<td>Kod sabitleme</td>
 </tr>
 <tr>
-<td>Bölüm Bölüm Ayırabilme (iş için, şunlar için vb.)</td>
-</tr>
-<tr>
-<td>Kod Sabitleme</td>
-</tr>
-<tr>
-<td>Kod Paylaşma</td>
+<td>Kod paylaşma</td>
 </tr>
 </table>
+
+## <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/aegis.png" alt="Aegis" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> Aegis Authenticator
+

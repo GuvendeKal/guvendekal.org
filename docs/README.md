@@ -235,6 +235,23 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
     </div>
 </div>
 
+## 2 Faktörlü Doğrulama
+
+<div class="service-container">
+    <div class="service-box">
+        <img src="docs/images/enteauth.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/2-faktorlu-dogrulama?id=-ente-auth" target="_blank" style="color: inherit; text-decoration: none;">Ente Auth</a>
+        </div>
+    </div>
+    <div class="service-box">
+        <img src="docs/images/aegis.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/2-faktorlu-dogrulama?id=-aegis-authenticator" target="_blank" style="color: inherit; text-decoration: none;">Aegis Authenticator</a>
+        </div>
+    </div>
+</div>
+
 ## Yararlı Bağlantılar
 
 - [**Güvende Kal Searx Sunucusu**](https://searx.guvendekal.org/)
