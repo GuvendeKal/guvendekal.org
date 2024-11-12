@@ -27,7 +27,7 @@ Senkronizasyon uygulamaları genellikle, lokalde çalışan uygulamaların bulut
 
 ## <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/syncthing.png" alt="Syncthing" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> Syncthing
 
-Eklenecek
+> Eklenecek
 
 ?> Syncthing'i Android'de edinmek için [**F-droid**](https://f-droid.org/packages/com.nutomic.syncthingandroid/) kullanabilirsiniz.
 
@@ -36,7 +36,7 @@ Eklenecek
 
 ## <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/rclone.png" alt="Rclone" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> Rclone
 
-Eklenecek
+> Eklenecek
 
 ?> Rclone'ı Android'de kullanmak için [**RCX - Rclone for Android**](https://play.google.com/store/apps/details?id=io.github.x0b.rcx&hl=en) çatalına bakabilirsiniz.
 
