@@ -16,14 +16,29 @@ Senkronizasyon uygulamaları genellikle, lokalde çalışan uygulamaların bulut
 
 ## Önerilenler Tablosu
 
-| Senkronizasyon Aracı | Açık Kaynak | Uçtan Uca Şifreleme | Veri Kaybı |
-| -------------------- |:-----------:| -------------------:| ---------: |
-|<span style="display: inline-block; vertical-align: middle;"><img src="/docs/images/syncthing.png" alt="Syncthing" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Syncthing  | <span style="color: green;">✓</span>    | <span style="color: green;">✓</span> | <span style="color: green;">×</span> |
+| Uygulama | Açık Kaynak | Uçtan Uca Şifreleme | Fiyat    | Platform                                |
+| -------------------- |:-----------:| :-------------------:| -------- | --------------------------------------- |
+| <span style="display: inline-block; vertical-align: middle;"><img src="/docs/images/syncthing.png" alt="Syncthing" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Syncthing  | <span style="color: green;">✓</span>    | <span style="color: green;">✓</span> | Ücretsiz | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-freebsd"></i> |
+| <span style="display: inline-block; vertical-align: middle;"><img src="/docs/images/rclone.png" alt="Rclone" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Rclone  | <span style="color: green;">✓</span>    | <span style="color: green;">✓</span> | Ücretsiz | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-freebsd"></i> |
 
-!> Syncthing'in android desteği kesilmiştir Syncthing yerine Syncthing-Fork adlı uygulamayı kullanabilirsiniz.
+?> Rclone'un resmî Ios ve Android uygulamaları yok, ancak farklı çatalları vardır. İlgili başlıklar altında bahsedilmiştir.
 
-## Syncthing
+?> Syncthing Play Store'da artık yayınlanmamaktadır. Aynı zamanda Ios'da resmî uygulaması yok ancak farklı çatalları vardır. İlgili başlıklar altında bahsedilmiştir
 
-<img src="/docs/images/syncthing.png" alt="Syncthing" width="350" />
+## <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/syncthing.png" alt="Syncthing" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> Syncthing
 
-Syncthing hiç kimseye güvenmeden dosyalarınızı senkronize etmek için kullanabileceğiniz tamamen açık kaynak bir senkronizasyon aracıdır, dosyalarınızı tamamen uçtan uca şifreleyerek diğer cihazınıza aktarır ve bunu sizin bizim gibi insanların çalıştırdığı relaylar sayesinde yapar, eğer ki dosyalarınızın başka bir kişiye gideceğini ya da cihazınızı taklit ederek dosyalarınızı çalabileceklerini düşünüyorsanız düşünmeyin çünkü bunu önlemek için public ve private keyler kullanıyorlar, daha detaylı bilgi için:https://advancedweb.hu/how-syncthing-provides-secure-file-syncing-without-sharing-your-files-with-a-third-party/, yani dosyalarınızı kimse çalamaz ve dosyalarınız uçtan uca şifrelemeli olduğu için relay sahibi bile sizin dosyalarınızı göremez ve çalamaz.
+Eklenecek
+
+?> Syncthing'i Android'de edinmek için [**F-droid**](https://f-droid.org/packages/com.nutomic.syncthingandroid/) kullanabilirsiniz.
+
+- [Açık kaynak depo](https://github.com/syncthing/syncthing)
+- [Gizlilik politikası](https://docs.syncthing.net/users/security.html)
+
+## <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/rclone.png" alt="Rclone" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> Rclone
+
+Eklenecek
+
+?> Rclone'ı Android'de kullanmak için [**RCX - Rclone for Android**](https://play.google.com/store/apps/details?id=io.github.x0b.rcx&hl=en) çatalına bakabilirsiniz.
+
+- [Açık kaynak depo](https://github.com/rclone/rclone)
+- [Gizlilik politikası](https://rclone.org/privacy/)
