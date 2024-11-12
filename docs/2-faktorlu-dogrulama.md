@@ -38,5 +38,12 @@ Günümüzde güvenlik amacıyla sıkça kullanılan 2 faktörlü doğrulama sis
 </tr>
 </table>
 
+- [Açık kaynak deposu](https://github.com/ente-io/ente/tree/main/auth#readme)
+- [Gizlilik Politikası](https://ente.io/privacy/)
+  
 ## <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/aegis.png" alt="Aegis" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> Aegis Authenticator
 
+[**Aegis Authenticator**](https://getaegis.app/), ücretsiz ve açık kaynaklı bir kimlik doğrulama uygulamasıdır. Android için geliştirilen Aegis, uçtan uca şifreleme sunmaktadır.
+
+- [Açık kaynak deposu](https://github.com/beemdevelopment/Aegis)
+- [Gizlilik Politikası](https://getaegis.app/privacy/)
