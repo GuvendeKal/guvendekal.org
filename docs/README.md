@@ -235,6 +235,57 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
     </div>
 </div>
 
+## 2 Faktörlü Doğrulama
+
+<div class="service-container">
+    <div class="service-box">
+        <img src="docs/images/enteauth.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/2-faktorlu-dogrulama?id=-ente-auth" target="_blank" style="color: inherit; text-decoration: none;">Ente Auth</a>
+        </div>
+    </div>
+    <div class="service-box">
+        <img src="docs/images/aegis.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/2-faktorlu-dogrulama?id=-aegis-authenticator" target="_blank" style="color: inherit; text-decoration: none;">Aegis Authenticator</a>
+        </div>
+    </div>
+</div>
+
+## RSS İstemcileri
+
+<div class="service-container">
+    <div class="service-box">
+        <img src="docs/images/freshrss.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/rss-istemcileri?id=-freshrss" target="_blank" style="color: inherit; text-decoration: none;">Fresh RSS</a>
+        </div>
+    </div>
+    <div class="service-box">
+        <img src="docs/images/miniflux.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/rss-istemcileri?id=-miniflux" target="_blank" style="color: inherit; text-decoration: none;">Miniflux</a>
+        </div>
+    </div>
+</div>
+
+## Senkronizasyon
+
+<div class="service-container">
+    <div class="service-box">
+        <img src="docs/images/syncthing.png" alt="icon">
+        <div class="title">
+            <a href="http://guvendekal.org/#/senkronizasyon?id=-syncthing" target="_blank" style="color: inherit; text-decoration: none;">Syncthing</a>
+        </div>
+    </div>
+    <div class="service-box">
+        <img src="docs/images/rclone.png" alt="icon">
+        <div class="title">
+            <a href="http://guvendekal.org/#/senkronizasyon?id=-rclone" target="_blank" style="color: inherit; text-decoration: none;">Rclone</a>
+        </div>
+    </div>
+</div>
+
 ## Yararlı Bağlantılar
 
 - [**Güvende Kal Searx Sunucusu**](https://searx.guvendekal.org/)
