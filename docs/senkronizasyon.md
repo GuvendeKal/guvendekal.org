@@ -27,7 +27,7 @@ Senkronizasyon uygulamaları genellikle, lokalde çalışan uygulamaların bulut
 
 ## <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/syncthing.png" alt="Syncthing" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> Syncthing
 
-> Eklenecek
+Syncthing açık kaynak, ücretsiz bir senkronizasyon aracıdır. Syncthing, eşten-eşe (peer-to-peer) dosya aktarımı yapan ve merkezi bir sunucuya gerek duymaz. Aynı zamanda dosya aktarımı sırasında dosyaları şifreler. Syncthing'in nasıl çalıştığını öğrenmek için [buraya](https://advancedweb.hu/how-syncthing-provides-secure-file-syncing-without-sharing-your-files-with-a-third-party/) bakabilirsiniz.
 
 ?> Syncthing'i Android'de edinmek için [**F-droid**](https://f-droid.org/packages/com.nutomic.syncthingandroid/) kullanabilirsiniz.
 
@@ -36,7 +36,7 @@ Senkronizasyon uygulamaları genellikle, lokalde çalışan uygulamaların bulut
 
 ## <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/rclone.png" alt="Rclone" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> Rclone
 
-> Eklenecek
+Rclone, açık kaynaklı bir senkronizasyon aracıdır. Senkronizasyon dışında, yedekleme ve veri transferi içinde kullanılır. Rclone farklı bulut depolama sistemleri ile uyumlu bir şekilde çalışır. Bunları yaparken dosyaları şifreler.
 
 ?> Rclone'ı Android'de kullanmak için [**RCX - Rclone for Android**](https://play.google.com/store/apps/details?id=io.github.x0b.rcx&hl=en) çatalına bakabilirsiniz.
 
