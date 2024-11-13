@@ -48,6 +48,9 @@ Burada siber güvenlik ve mahremiyet konularında kullanılan terimlerin anlamla
 
 ## S
 ## Ş
+
+- **Şifreleme**: Şifreleme, bir dosya yada bilgiyi daha güvenli hâle getirmek için uygulanan sistemdir. Şifrelenen veri, veriyi belirli bir algoritma ve anahtar kullanarak, yalnızca yetkili kişilerin çözebileceği bir formata dönüştürmeyi amaçlar. Bu süreçte, verinin anlamı gizlenmiş olur ve "şifreli" metin veya "kriptogram" haline gelir.
+
 ## T
 ## U
 ## Ü
