@@ -13,7 +13,7 @@
 
 Bu durum, lokal şifre yöneticilerinin farklı cihazlarda senkronize bir şekilde çalışmamasına neden olur. Örneğin lokal çalışan bir şifre yöneticisine kaydettiğiniz şifre, telefonunuzda bulunan şifre yöneticisine gelmez. Senkronize çalışan bir şifre yöneticisi için bulut tabanlı çalışan alternatiflere yönelmeniz önerilir.
 
-?> Örneğin MD5 algoritması ile şifrelenen `şifre123` şeklinde ki şifrenin çıktısı `8c8e8f3c1c1c1c1c1c1c1c1c1c1c1c1c` şeklinde gözükür. Bu şifre yalnızca şifre yöneticinize giriş yaptığınız zaman çözümlenir. Bu nedenle şifre yöneticisine koyduğunuz ana şifreye
+?> Örneğin AES-256 algoritması ile şifrelenen `şifre123` şeklinde ki şifrenin çıktısı `sdS9SfWqKNu8=` şeklinde gözükür. Bu şifre yalnızca şifre yöneticinize giriş yaptığınız zaman çözümlenir. Bu nedenle şifre yöneticisine koyduğunuz ana şifreye
 güçlü bir şifre koymanız önemlidir.
 
 Lokal şekilde çalışan şifre yöneticilerinde [**senkronizasyon araçları**](https://guvendekal.org/#/senkronizasyon) sayesinde şifrelerinizi diğer cihazlarda senkronize edebilirsiniz ancak bu ekstra yapılandırmalar kurmanıza neden olacaktır.
