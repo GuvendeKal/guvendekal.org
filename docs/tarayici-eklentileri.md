@@ -55,7 +55,7 @@ DuckDuckGo Privacy Essential eklentisi [açık kaynaktır](https://github.com/du
 
 [Firefox tabanlı tarayıcılar için](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/)
 
-[Chrome tabanlı tarayıcılar için](https://chromewebstore.google.com/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg)-->
+[Chrome tabanlı tarayıcılar için](https://chromewebstore.google.com/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg) -->
 
 ### CanvasBlocker
 
