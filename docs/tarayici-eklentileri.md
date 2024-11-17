@@ -79,6 +79,6 @@ Bu eklentiyi bir çakı niyetiyle kullanabilir ve yer yer farklı özelliklerind
 
 [Firefox tabanlı tarayıcılar için](https://addons.mozilla.org/en-US/firefox/addon/umatrix/)
 
-[Chrome tabanlı tarayıcılar için]([https://chromewebstore.google.com/detail/noscript/doojmbjmlfjjnbmnoijecmcbfeoakpjm](https://chromewebstore.google.com/detail/umatrix/ogfcmafjalglgifnmanfmnieipoejdcf))
+[Chrome tabanlı tarayıcılar için](https://chromewebstore.google.com/detail/umatrix/ogfcmafjalglgifnmanfmnieipoejdcf))
 
 ?> uMatrix eklentisinin resmi desteği her ne kadar bitmiş de olsa eklentide herhangi bir güvenlik açığı veya sızıntı mevcut değildir. Çalışmayı sürdürmekte ve bütün özelliklerinden istediğiniz şekilde yararlanabilirsiniz.
