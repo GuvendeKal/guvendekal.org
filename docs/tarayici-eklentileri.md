@@ -18,13 +18,32 @@ Engelleyemediği reklamları, manuel olarak engelleme gibi ek özellikleri mevcu
 
 uBlock Origin eklentisi [açık kaynaktır](https://github.com/gorhill/uBlock) ve GPL-3.0 lisansı <span style="color: green;"><small>(Özgür Yazılım)</small></span> kullanmaktadır.
 
-### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/sponsorblock.png" alt="Sponsorblock" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> SponsorBlock for Youtube
+<div class="web-store-container">
+    <div class="web-store-box">
+        <i class="fab fa-firefox"></i>
+        <div class="title">
+            <a href="https://addons.mozilla.org/tr/firefox/addon/ublock-origin/" target="_blank" style="color: inherit; text-decoration: none;">Firefox Mağazası</a>
+        </div>
+    </div>
+    <div class="web-store-box">
+        <i class="fab fa-google"></i>
+        <div class="title">
+            <a href="https://chromewebstore.google.com/detail/ublock/epcnnfbjfcgphgdmggkamkmgojdagdnn" target="_blank" style="color: inherit; text-decoration: none;">Google Mağazası</a>
+        </div>
+    </div>
+</div>
+
+<!-- ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/sponsorblock.png" alt="Sponsorblock" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> SponsorBlock for Youtube
 
 Youtube içerisinde, içerik üreticilerinin video içerisine yerleştirdiği sponsor bölümlerini atlamaya yarayan SponsorBlock eklentisini zamanınızı koruyacağı ve büyük ihtimalle zaten atlayacağınız yeri otomatik atlayarak sizi yormayacağı için kullanmanızı öneriyoruz.
 
 SponsorBlock içerisinde sadece sponsor değil intro & outro bölümleri ve gereksiz yerler gibi pek çok yeri atlama seçeneği mevcuttur. SponsorBlock eklentisinde sponsor, intro & outro bölümleri topluluk tarafından bildirilmekte ve sonraki kullanıcı için otomatik atlamaktadır. Siz de izlediğiniz videolarda sponsor gibi bölümleri raporlayıp eklentinin gelişmesine katkı sağlayabilirsiniz.
 
 SponsorBlock eklentisi [açık kaynaktır](https://github.com/ajayyy/SponsorBlock?tab=readme-ov-file) ve GPL-3.0 lisansı <span style="color: green;"><small>(Özgür Yazılım)</small></span> kullanmaktadır.
+
+[Firefox tabanlı tarayıcılar için](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/)
+
+[Chrome tabanlı tarayıcılar için](https://chromewebstore.google.com/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone) 
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/duckduckgo-icon.png" alt="DuckDuckGo" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> DuckDuckGo Privacy Essentials
 
@@ -34,19 +53,42 @@ Girdiğiniz sitenin yüklemeye çalıştığı 3. taraf istekleri (çerez, izley
 
 DuckDuckGo Privacy Essential eklentisi [açık kaynaktır](https://github.com/duckduckgo/duckduckgo-privacy-extension) ve Apache-2.0 lisansı kullanmaktadır.
 
+[Firefox tabanlı tarayıcılar için](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/)
+
+[Chrome tabanlı tarayıcılar için](https://chromewebstore.google.com/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg) -->
+
 ### CanvasBlocker
 
 **CanvasBlocker** eklentisi, tarayıcı parmak izini önemli ölçüde yok eden bir eklentidir. Bir siteye istek yoladığınızda tarayıcınız aracılığı ile sizin hakkınızda bazı bilgiler gider ve bu veriler çoğaldıkça sizin tarayıcı parmak iziniz oluşur çünkü o kadar fazla bilgi gitmiştir ki bu bilgilere sahip dünya üzerinde neredeyse kimse yoktur böylece internetteki mahremiyetimiz zarar görür. Bu eklenti, kullanıcıların parmak izini toplayan Javascript API'lerini engeller.
 
 CanvasBlocker eklentisi sayesinde tarayıcı parmak iziniz neredeyse yok olma noktasına gelir. CanvasBlocker eklentisi [açık kaynak](https://github.com/kkapsner/CanvasBlocker), Mozilla Public License (MPL) 2.0 lisansını kullanmaktadır.
 
-### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/noscript.png" alt="NoScript" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> NoScript
+<div class="web-store-container">
+    <div class="web-store-box">
+        <i class="fab fa-firefox"></i>
+        <div class="title">
+            <a href="https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/" target="_blank" style="color: inherit; text-decoration: none;">Firefox Mağazası</a>
+        </div>
+    </div>
+    <div class="web-store-box">
+        <i class="fab fa-google"></i>
+        <div class="title">
+            <a href="https://chromewebstore.google.com/detail/canvas-blocker-fingerprin/nomnklagbgmgghhjidfhnoelnjfndfpd" target="_blank" style="color: inherit; text-decoration: none;">Google Mağazası</a>
+        </div>
+    </div>
+</div>
+
+<!-- ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/noscript.png" alt="NoScript" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> NoScript
 
 NoScript eklentisi internet üzerinde dolaşırken karşılaşabileceğiniz gizlilik ihlallerinin JavaScript tarafında çözülmesine olanak sağlar. Girdiğiniz
 veya gireceğiniz sitelerin JavaScript kodu çalıştırmasını engelleyebilir ve böylece olası bilgi toplama/çerez oluşturma/konum belirleme gibi gizlilik
 ihlallerini ortadan kaldırır.
 
 Proje tamamen [açık kaynaklı](https://github.com/hackademix/noscript) olmakla beraber GPL-3.0 <span style="color: green;"><small>(Özgür Yazılım)</small></span> lisansına sahiptir.
+
+[Firefox tabanlı tarayıcılar için](https://addons.mozilla.org/en-US/firefox/addon/noscript/)
+
+[Chrome tabanlı tarayıcılar için](https://chromewebstore.google.com/detail/noscript/doojmbjmlfjjnbmnoijecmcbfeoakpjm)
 
 !> NoScript eklentisini her sayfada çalıştırmak, sayfanın bozulmasına yol açabilmektedir. Eklentiyi sadece güvenmediğiniz veya az bilinen sitelere giriş yaparken kullanmanız önerilmektedir.
 
@@ -56,4 +98,9 @@ uMatrix eklentisi çoğu konumda gelişmiş kullanıcılara hitap eden ve gizlil
 
 Bu eklentiyi bir çakı niyetiyle kullanabilir ve yer yer farklı özelliklerinden faydalanabilirsiniz. Listede geçen diğer eklentiler gibi uMatrix de [açık kaynaklı](https://github.com/gorhill/uMatrix) bir eklenti olmakla beraber GPL-3.0 <span style="color: green;"><small>(Özgür Yazılım)</small></span> lisansına sahiptir.
 
-?> uMatrix eklentisinin resmi desteği her ne kadar bitmiş de olsa eklentide herhangi bir güvenlik açığı veya sızıntı mevcut değildir. Çalışmayı sürdürmekte ve bütün özelliklerinden istediğiniz şekilde yararlanabilirsiniz.
+
+[Firefox tabanlı tarayıcılar için](https://addons.mozilla.org/en-US/firefox/addon/umatrix/)
+
+[Chrome tabanlı tarayıcılar için](https://chromewebstore.google.com/detail/umatrix/ogfcmafjalglgifnmanfmnieipoejdcf))
+
+?> uMatrix eklentisinin resmi desteği her ne kadar bitmiş de olsa eklentide herhangi bir güvenlik açığı veya sızıntı mevcut değildir. Çalışmayı sürdürmekte ve bütün özelliklerinden istediğiniz şekilde yararlanabilirsiniz. -->
