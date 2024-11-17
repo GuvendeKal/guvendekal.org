@@ -18,11 +18,22 @@ Engelleyemediği reklamları, manuel olarak engelleme gibi ek özellikleri mevcu
 
 uBlock Origin eklentisi [açık kaynaktır](https://github.com/gorhill/uBlock) ve GPL-3.0 lisansı <span style="color: green;"><small>(Özgür Yazılım)</small></span> kullanmaktadır.
 
-[Firefox tabanlı tarayıcılar için](https://addons.mozilla.org/tr/firefox/addon/ublock-origin/)
+<div class="web-store-container">
+    <div class="web-store-box">
+        <i class="fab fa-firefox"></i>
+        <div class="title">
+            <a href="https://addons.mozilla.org/tr/firefox/addon/ublock-origin/" target="_blank" style="color: inherit; text-decoration: none;">Firefox Mağazası</a>
+        </div>
+    </div>
+    <div class="web-store-box">
+        <i class="fab fa-google"></i>
+        <div class="title">
+            <a href="https://chromewebstore.google.com/detail/ublock/epcnnfbjfcgphgdmggkamkmgojdagdnn" target="_blank" style="color: inherit; text-decoration: none;">Google Mağazası</a>
+        </div>
+    </div>
+</div>
 
-[Chrome tabanlı tarayıcılar için](https://chromewebstore.google.com/detail/ublock/epcnnfbjfcgphgdmggkamkmgojdagdnn)
-
-### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/sponsorblock.png" alt="Sponsorblock" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> SponsorBlock for Youtube
+<!-- ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/sponsorblock.png" alt="Sponsorblock" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> SponsorBlock for Youtube
 
 Youtube içerisinde, içerik üreticilerinin video içerisine yerleştirdiği sponsor bölümlerini atlamaya yarayan SponsorBlock eklentisini zamanınızı koruyacağı ve büyük ihtimalle zaten atlayacağınız yeri otomatik atlayarak sizi yormayacağı için kullanmanızı öneriyoruz.
 
@@ -32,7 +43,7 @@ SponsorBlock eklentisi [açık kaynaktır](https://github.com/ajayyy/SponsorBloc
 
 [Firefox tabanlı tarayıcılar için](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/)
 
-[Chrome tabanlı tarayıcılar için](https://chromewebstore.google.com/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone)
+[Chrome tabanlı tarayıcılar için](https://chromewebstore.google.com/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone) 
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/duckduckgo-icon.png" alt="DuckDuckGo" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> DuckDuckGo Privacy Essentials
 
@@ -44,7 +55,7 @@ DuckDuckGo Privacy Essential eklentisi [açık kaynaktır](https://github.com/du
 
 [Firefox tabanlı tarayıcılar için](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/)
 
-[Chrome tabanlı tarayıcılar için](https://chromewebstore.google.com/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg)
+[Chrome tabanlı tarayıcılar için](https://chromewebstore.google.com/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg)-->
 
 ### CanvasBlocker
 
@@ -52,11 +63,22 @@ DuckDuckGo Privacy Essential eklentisi [açık kaynaktır](https://github.com/du
 
 CanvasBlocker eklentisi sayesinde tarayıcı parmak iziniz neredeyse yok olma noktasına gelir. CanvasBlocker eklentisi [açık kaynak](https://github.com/kkapsner/CanvasBlocker), Mozilla Public License (MPL) 2.0 lisansını kullanmaktadır.
 
-[Firefox tabanlı tarayıcılar için](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/)
+<div class="web-store-container">
+    <div class="web-store-box">
+        <i class="fab fa-firefox"></i>
+        <div class="title">
+            <a href="https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/" target="_blank" style="color: inherit; text-decoration: none;">Firefox Mağazası</a>
+        </div>
+    </div>
+    <div class="web-store-box">
+        <i class="fab fa-google"></i>
+        <div class="title">
+            <a href="https://chromewebstore.google.com/detail/canvas-blocker-fingerprin/nomnklagbgmgghhjidfhnoelnjfndfpd" target="_blank" style="color: inherit; text-decoration: none;">Google Mağazası</a>
+        </div>
+    </div>
+</div>
 
-[Chrome tabanlı tarayıcılar için](https://chromewebstore.google.com/detail/canvas-blocker-fingerprin/nomnklagbgmgghhjidfhnoelnjfndfpd)
-
-### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/noscript.png" alt="NoScript" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> NoScript
+<!-- ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/noscript.png" alt="NoScript" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> NoScript
 
 NoScript eklentisi internet üzerinde dolaşırken karşılaşabileceğiniz gizlilik ihlallerinin JavaScript tarafında çözülmesine olanak sağlar. Girdiğiniz
 veya gireceğiniz sitelerin JavaScript kodu çalıştırmasını engelleyebilir ve böylece olası bilgi toplama/çerez oluşturma/konum belirleme gibi gizlilik
@@ -81,4 +103,4 @@ Bu eklentiyi bir çakı niyetiyle kullanabilir ve yer yer farklı özelliklerind
 
 [Chrome tabanlı tarayıcılar için](https://chromewebstore.google.com/detail/umatrix/ogfcmafjalglgifnmanfmnieipoejdcf))
 
-?> uMatrix eklentisinin resmi desteği her ne kadar bitmiş de olsa eklentide herhangi bir güvenlik açığı veya sızıntı mevcut değildir. Çalışmayı sürdürmekte ve bütün özelliklerinden istediğiniz şekilde yararlanabilirsiniz.
+?> uMatrix eklentisinin resmi desteği her ne kadar bitmiş de olsa eklentide herhangi bir güvenlik açığı veya sızıntı mevcut değildir. Çalışmayı sürdürmekte ve bütün özelliklerinden istediğiniz şekilde yararlanabilirsiniz. -->
