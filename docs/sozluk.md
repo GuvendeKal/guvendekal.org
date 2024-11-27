@@ -7,7 +7,7 @@
 
 # Sözlük
 
-Burada siber güvenlik ve mahremiyet konularında kullanılan terimlerin anlamlarını öğrenebilirsiniz. Şuan sözlükte toplam **47** kelime bulunmaktadır.
+Burada siber güvenlik ve mahremiyet konularında kullanılan terimlerin anlamlarını öğrenebilirsiniz. Şuan sözlükte toplam **48** kelime bulunmaktadır.
 
 ## A
 
