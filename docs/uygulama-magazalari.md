@@ -10,8 +10,8 @@
 ## Önerilenler Tablosu
 
 | Uygulama Mağazası | Açık Kaynak | Lisans Türü | Platform Desteği       |
-|--------------------|:-----------:|:-----------:|-------------------------|
-| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/f-droid.png" alt="F-droid" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> **F-Droid**       | ✓           | GPL v3      | <i class="fa-brands fa-android"></i>               |
+|--------------------|:-----------:|:-----------:|:-------------------------:|
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/f-droid.png" alt="F-droid" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> **[F-Droid](https://f-droid.org/)**       | <span style="color: green;">✓</span>           | GPL      | <i class="fa-brands fa-android"></i>               |:
 
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/f-droid.png" alt="F-droid" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> F-droid
