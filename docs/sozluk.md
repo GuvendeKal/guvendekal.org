@@ -38,6 +38,9 @@ Burada siber güvenlik ve mahremiyet konularında kullanılan terimlerin anlamla
 
 ## E
 ## F
+
+- **Filesystem:** Verilerin depolanması ve düzenlenmesi için kullanılan yapıdır. Dosya sistemleri, veri okuma, yazma ve dosya yönetimi gibi işlemleri kolaylaştırır. Örnekler; BTRFS, EXT4, NTFS, FAT32 vb.
+
 ## G
 
 - **Güvenlik Duvarı**: Bir bilgisayar ağına gelen ve giden trafiği kontrol eden bir güvenlik sistemidir. Amaç, yetkisiz erişimleri engelleyerek sistemi korumaktır.
@@ -45,6 +48,9 @@ Burada siber güvenlik ve mahremiyet konularında kullanılan terimlerin anlamla
 ## Ğ
 ## H
 ## I
+
+- **ISO Image:** Bir işletim sisteminin veya yazılımın tam bir kopyasını içeren disk görüntüsü dosyasıdır. ISO dosyaları genellikle işletim sistemi kurulumları için kullanılır.
+
 ## İ
 ## J
 ## K
@@ -56,6 +62,9 @@ Burada siber güvenlik ve mahremiyet konularında kullanılan terimlerin anlamla
 - **Multi-Factor Authentication *(MFA)*** <small>(çok faktörlü kimlik doğrulama)</small>: Bir kullanıcının kimliğini doğrulamak için birden fazla *(genellikle iki veya daha fazla)* bağımsız doğrulama yöntemi kullanılan güvenlik yaklaşımıdır. Faktörler, bilgiye dayalı *(parola)*, fiziksel bir öğeye dayalı *(güvenlik anahtarı)* veya biyometrik bir özelliğe dayalı *(parmak izi, yüz tanıma)* olabilir. MFA, yalnızca iki faktörle sınırlı olmayan ve daha fazla güvenlik katmanı sunan bir kimlik doğrulama mekanizmasıdır.
 
 ## N
+
+- **Network Interface Card (NIC):** Bilgisayarın ağ bağlantısını sağlayan donanım kartıdır. Ağ üzerinden veri iletimi ve alımı yapar.
+
 ## O
 
 - **Operations Security** <small>(operasyon güvenliği)</small>: Kısaca OpSec hassas bilgilerin, yanlışlıkla veya istem dışı yollarla yetkisiz kişilerin eline geçmesini önlemek için kullanılan bir güvenlik yöntemidir. OpSec, güvenlik açıklarını tespit ederek, bu açıklardan yararlanılmasını önlemek amacıyla belirli önlemler almayı kapsar.
@@ -93,6 +102,8 @@ Burada siber güvenlik ve mahremiyet konularında kullanılan terimlerin anlamla
 ## U
 ## Ü
 ## V
+
+- **Virtual Machine (VM):** Fiziksel bir bilgisayar üzerinde sanal bir ortam yaratan yazılımdır. Linux sistemlerinde sanal makineler oluşturmak için genellikle `KVM` veya `VirtualBox` gibi araçlar kullanılır.
 
 - **Virtual Private Network** <small>(VPN)</small>: VPN, "Sanal Özel Ağ" anlamına gelir ve internet bağlantınızı güvenli, gizli ve anonim hale getiren bir teknolojidir. VPN, cihazınız (telefon, bilgisayar, tablet) ile internete erişim sağladığınız hedef sunucu (örneğin bir web sitesi) arasında şifreli bir bağlantı oluşturur. Bu süreç, verilerinizin üçüncü taraflar tarafından izlenmesini veya çalınmasını önler ve çevrimiçi etkinliklerinizi gizler.
  
