@@ -2,6 +2,7 @@
  - Bu içerik bilgi içerikli makaledir.
  - Sözlüğe eklediğiniz kelimeleri alfabetik sıraya göre yerleştiriniz.
  - Siber güvenlik, mahremiyet gibi konular hakkında kelimeler eklenmelidir.
+ - Lütfen aktif bir sözlük pr'ı bulunuyorsa, ona ekleme yapınız! Senkronizasyon hataları çıkmaması için dikkat edilmesi gerekiyor.
  - İçerik kuralları ve ekleme yapmak sayfalarını ziyaret edebilirsiniz -->
 
 # Sözlük
@@ -12,7 +13,7 @@ Burada siber güvenlik ve mahremiyet konularında kullanılan terimlerin anlamla
 
 - **Authentication** <small>(kimlik doğrulama)</small>: Bir kullanıcının, cihazın veya sistemin kimliğini doğrulama sürecidir. Bu, bir şifre, biyometrik veri (parmak izi, yüz tanıma) gibi yöntemlerle yapılır. Amaç, erişim izni olan kişileri doğrulamak ve yetkisiz erişimi engellemektir.
   
-- **Ağ**: Birden fazla cihazın (bilgisayar, telefon, sunucu, vs.) birbirine bağlanarak veri paylaşımı yapabileceği bir yapıdır. Bu cihazlar, kablolu (ethernet) veya kablosuz (Wi-Fi) bağlantılarla birbirine bağlanabilir. Ağlar, cihazların birbirleriyle iletişim kurmasını, veri ve kaynakları paylaşmasını sağlar. En yaygın ağ türleri yerel ağ (LAN) ve geniş alan ağı (WAN) dır.
+- **Ağ** <small>(network)</small>: Birden fazla cihazın (bilgisayar, telefon, sunucu, vs.) birbirine bağlanarak veri paylaşımı yapabileceği bir yapıdır. Bu cihazlar, kablolu (ethernet) veya kablosuz (Wi-Fi) bağlantılarla birbirine bağlanabilir. Ağlar, cihazların birbirleriyle iletişim kurmasını, veri ve kaynakları paylaşmasını sağlar. En yaygın ağ türleri yerel ağ (LAN) ve geniş alan ağı (WAN) dır.
 
 ## B
 
@@ -46,7 +47,7 @@ Burada siber güvenlik ve mahremiyet konularında kullanılan terimlerin anlamla
 
 ## F
 
-- **Filesystem:** Verilerin depolanması ve düzenlenmesi için kullanılan yapıdır. Dosya sistemleri, veri okuma, yazma ve dosya yönetimi gibi işlemleri kolaylaştırır. Örnekler; BTRFS, EXT4, NTFS, FAT32 vb.
+- **Filesystem**: Verilerin depolanması ve düzenlenmesi için kullanılan yapıdır. Dosya sistemleri, veri okuma, yazma ve dosya yönetimi gibi işlemleri kolaylaştırır. Örnekler; BTRFS, EXT4, NTFS, FAT32 vb.
 
 ## G
 
@@ -60,7 +61,7 @@ Burada siber güvenlik ve mahremiyet konularında kullanılan terimlerin anlamla
 
 ## I
 
-- **ISO Image:** Bir işletim sisteminin veya yazılımın tam bir kopyasını içeren disk görüntüsü dosyasıdır. ISO dosyaları genellikle işletim sistemi kurulumları için kullanılır.
+- **ISO Image**: Bir işletim sisteminin veya yazılımın tam bir kopyasını içeren disk görüntüsü dosyasıdır. ISO dosyaları genellikle işletim sistemi kurulumları için kullanılır.
 
 ## İ
 ## J
@@ -85,7 +86,7 @@ Burada siber güvenlik ve mahremiyet konularında kullanılan terimlerin anlamla
 
 ## N
 
-- **Network Interface Card (NIC):** Bilgisayarın ağ bağlantısını sağlayan donanım kartıdır. Ağ üzerinden veri iletimi ve alımı yapar.
+- **Network Interface Card (NIC)**: Bilgisayarın ağ bağlantısını sağlayan donanım kartıdır. Ağ üzerinden veri iletimi ve alımı yapar.
 
 ## O
 
@@ -136,7 +137,7 @@ Burada siber güvenlik ve mahremiyet konularında kullanılan terimlerin anlamla
 
 - **Virtual Dedicated Server** <small>(VDS)</small>: Fiziksel bir sunucunun tamamen ayrılmış sanallaştırma teknolojisiyle bölünmesiyle oluşturulan bir yapıdır. Her bir VDS, diğerlerinden tamamen izole edilmiş ve kendine özel fiziksel kaynaklarla donatılmıştır
 
-- **Virtual Machine (VM):** Fiziksel bir bilgisayar üzerinde sanal bir ortam yaratan yazılımdır. Linux sistemlerinde sanal makineler oluşturmak için genellikle `KVM` veya `VirtualBox` gibi araçlar kullanılır.
+- **Virtual Machine (VM):** Fiziksel bir bilgisayar üzerinde sanal bir ortam yaratan yazılımdır. Linux sistemlerinde sanal makineler oluşturmak için genellikle KVM veya VirtualBox gibi araçlar kullanılır.
 
 - **Virtual Private Network** <small>(VPN)</small>: VPN, "Sanal Özel Ağ" anlamına gelir ve internet bağlantınızı güvenli, gizli ve anonim hale getiren bir teknolojidir. VPN, cihazınız (telefon, bilgisayar, tablet) ile internete erişim sağladığınız hedef sunucu (örneğin bir web sitesi) arasında şifreli bir bağlantı oluşturur. Bu süreç, verilerinizin üçüncü taraflar tarafından izlenmesini veya çalınmasını önler ve çevrimiçi etkinliklerinizi gizler.
 
