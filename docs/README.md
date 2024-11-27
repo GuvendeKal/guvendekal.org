@@ -102,6 +102,18 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
     </div>
 </div>
 
+
+<div class="custom-box">
+    <img src="docs/images/f-droid.png" alt="Logo">
+    <div style="flex: 1;">
+        <a href="https://guvendekal.org/#/uygulama-magazalari?id=-f-droid" class="title">Özgür yazılımlar için özgür bir mağaza: F-droid</a>
+        <p class="description">F-Droid, açık kaynaklı ve ücretsiz bir uygulama mağazasıdır. Özgür yazılımlar keşfetmek ve güvenilir bir şekilde yüklemek için harika bir seçenek sunar. Reklamsız bir deneyim ve veri gizliliğe önem verir.</p>
+        <div class="icon-group">
+            <span><i class="fa-brands fa-android"></i> Android</span>
+        </div>
+    </div>
+</div>
+
 ## VPN Uygulamaları
 
 <div class="service-container">
@@ -202,6 +214,17 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
         <img src="docs/images/tutamail.png" alt="icon">
         <div class="title">
             <a href="https://guvendekal.org/#/posta-servisleri?id=-tutanotamail" target="_blank" style="color: inherit; text-decoration: none;">Tutanota Mail</a>
+        </div>
+    </div>
+</div>
+
+## Uygulama Mağazaları
+
+<div class="service-container">
+    <div class="service-box">
+        <img src="docs/images/f-droid.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/uygulama-magazalari?id=-f-droid" target="_blank" style="color: inherit; text-decoration: none;">F-droid</a>
         </div>
     </div>
 </div>

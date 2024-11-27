@@ -17,6 +17,7 @@
 * [<i class="fa-solid fa-globe"></i> İnternet Tarayıcıları](internet-tarayicilari.md)
 * [<i class="fa-solid fa-plus"></i> Tarayıcı Eklentileri](tarayici-eklentileri.md)
 * [<i class="fas fa-envelope"></i> E-posta Servisleri](posta-servisleri.md)
+* [<i class="fa-solid fa-shop"></i> Uygulama Mağazaları](uygulama-magazalari.md)
 
 **Güvenlik**
 * [<i class="fas fa-key"></i> Şifre Yöneticisi](sifre-yoneticileri.md)
