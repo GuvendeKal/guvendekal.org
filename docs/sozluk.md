@@ -7,11 +7,13 @@
 
 # Sözlük
 
-Burada siber güvenlik ve mahremiyet konularında kullanılan terimlerin anlamlarını öğrenebilirsiniz. Şuan sözlükte toplam **43** kelime bulunmaktadır.
+Burada siber güvenlik ve mahremiyet konularında kullanılan terimlerin anlamlarını öğrenebilirsiniz. Şuan sözlükte toplam **47** kelime bulunmaktadır.
 
 ## A
 
 - **Authentication** <small>(kimlik doğrulama)</small>: Bir kullanıcının, cihazın veya sistemin kimliğini doğrulama sürecidir. Bu, bir şifre, biyometrik veri (parmak izi, yüz tanıma) gibi yöntemlerle yapılır. Amaç, erişim izni olan kişileri doğrulamak ve yetkisiz erişimi engellemektir.
+
+- **Anonimlik**: Kişinin kimliğinin veya kişisel bilgilerinin tespit edilemez ve izlenemez durumda olmasıdır. Anonimlik, bir bireyin dijital dünyada gizliliğini korumak için kimliğini gizlemesini ifade eder.
   
 - **Ağ** <small>(network)</small>: Birden fazla cihazın (bilgisayar, telefon, sunucu, vs.) birbirine bağlanarak veri paylaşımı yapabileceği bir yapıdır. Bu cihazlar, kablolu (ethernet) veya kablosuz (Wi-Fi) bağlantılarla birbirine bağlanabilir. Ağlar, cihazların birbirleriyle iletişim kurmasını, veri ve kaynakları paylaşmasını sağlar. En yaygın ağ türleri yerel ağ (LAN) ve geniş alan ağı (WAN) dır.
 
@@ -114,6 +116,8 @@ Burada siber güvenlik ve mahremiyet konularında kullanılan terimlerin anlamla
 
 - **Secure Sockets Layer** <small>(SSL)</small>: SSL, internet üzerindeki veri alışverişini şifreleyerek kullanıcıların bilgilerini güvence altına alan bir güvenlik protokolüdür. Özellikle web siteleri ile kullanıcılar arasında yapılan iletişimde, hassas bilgilerin (örneğin, kredi kartı bilgileri, şifreler veya kişisel veriler) üçüncü taraflarca ele geçirilmesini önlemek için kullanılır.
 
+- **Spyware** <small>(casus yazılım)</small>: Kullanıcıların izinsiz olarak bilgilerini toplayan ve gönderen kötü amaçlı yazılımdır. Spyware, genellikle kullanıcının onayı olmadan arka planda çalışır ve zarar verme amacı gütmeyebilir, ancak gizlilik ihlali ve kişisel bilgilerin çalınması gibi ciddi sonuçlara yol açabilir.
+
 - **SQL Injection** <small>(sql enjeksiyonu)</small>: Bir uygulamanın veri tabanı sorgularını manipüle etmek için kötü niyetli SQL kodlarının bir giriş alanı aracılığıyla enjekte edildiği bir siber saldırı türüdür. Bu saldırılar, saldırganların yetkisiz veri erişimi sağlamasına, veri değiştirmesine veya silmesine yol açabilir. Web uygulamaları ve API'ler, uygun giriş doğrulama kontrolleriyle bu saldırıya karşı korunabilir.
 
 ## Ş
@@ -122,7 +126,11 @@ Burada siber güvenlik ve mahremiyet konularında kullanılan terimlerin anlamla
 
 ## T
 
+- **Threat Hunting** <small>(tehdit avcılığı)</small>: Bir ağda veya sistemde, mevcut güvenlik araçlarının algılamadığı siber tehditlerin aktif olarak aranması sürecidir. Bu, saldırganların izlerini bulmak, bilinmeyen kötü amaçlı yazılımları tespit etmek veya güvenlik açıklarını belirlemek için yapılır.
+
  - **Time-Based One-Time Password *(TOTP)*** <small>(zamana dayalı tek kullanımlık parola)</small>: Kullanıcıların belirli bir süre *(genellikle 30-60 saniye*) için geçerli olan tek seferlik bir doğrulama kodu kullanmasına olanak tanıyan bir kimlik doğrulama yöntemi. TOTP kodları genellikle bir mobil uygulama *(Google Authenticator, Authy vb.)* tarafından üretilir ve 2FA veya MFA süreçlerinde yaygın olarak kullanılır. Zamana dayalı yapısı, bu kodların tahmin edilmesini veya tekrar kullanılmasını zorlaştırır.
+
+- **Trojan** <small>(truva atı)</small>: Bilgisayar sistemlerine zararlı yazılım yerleştiren bir tür kötü amaçlı yazılımdır. Adını, antik Yunan'daki Truva Atı'ndan alır çünkü saldırganlar, bu yazılımı genellikle kullanıcıyı kandırarak bilgisayarlarına gizlice yüklerler. Trojan, genellikle faydalı bir program veya dosya gibi görünüp, kurulduktan sonra kötü amaçlı aktiviteler gerçekleştirir.
 
 - **Two-Factor Authentication *(2FA)*** <small>(iki faktörlü kimlik doğrulama)</small>: Bir kullanıcı hesabına veya sisteme erişimi daha güvenli hale getirmek için iki farklı doğrulama yönteminin kullanıldığı bir güvenlik mekanizmasıdır. Genellikle birinci faktör, kullanıcı adı ve parola gibi bir bilgi olurken, ikinci faktör bir SMS kodu, biyometrik veri *(parmak izi, yüz tanıma)* veya fiziksel bir güvenlik anahtarıdır. 2FA, hesap ele geçirme girişimlerini önemli ölçüde zorlaştırır ve bireyler ile kurumlar için güçlü bir güvenlik katmanı sağlar.
 
@@ -144,6 +152,9 @@ Burada siber güvenlik ve mahremiyet konularında kullanılan terimlerin anlamla
 - **Virtual Private Server** <small>(VPS)</small>: Fiziksel bir sunucunun paylaşımlı sanallaştırma teknolojisiyle bölünmesiyle oluşturulan bir yapıdır. Bu tür sunucular, aynı fiziksel kaynakları paylaşan birden fazla sanal makineden oluşur.
  
 ## Y
+
+- **Yedekleme**: Verilerin bir kopyasını oluşturup güvenli bir ortamda saklama işlemidir. Bu, veri kaybına neden olabilecek durumlar (siber saldırı, donanım arızası, insan hatası veya doğal afetler) karşısında bilgilerin geri yüklenmesini sağlar.
+
 ## Z
 
 - **Zero Day** <small>(sıfırıncı gün)</small>: Bir yazılım, donanım veya sistemde bulunan ve geliştiriciler veya güvenlik ekipleri tarafından henüz tespit edilmemiş bir güvenlik açığını ifade eder. Saldırganlar bu açığı, herhangi bir yama veya çözüm üretilmeden önce kullanarak sisteme zarar verebilir veya yetkisiz erişim sağlayabilir. "Zero Day" ifadesi, açığın keşfedildiği andan itibaren savunma ekiplerinin harekete geçmek için **"sıfır gün"** süresine sahip olduğunu vurgular. Bu açıklar genellikle yüksek risk taşır ve genellikle gelişmiş kalıcı tehdit *(APT)* saldırılarında veya özel olarak hazırlanmış "Zero Day Exploit" kodlarıyla kullanılır. Kapatılana kadar sistemleri korumak için proaktif güvenlik yöntemleri gereklidir.
