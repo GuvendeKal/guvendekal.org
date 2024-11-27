@@ -109,3 +109,5 @@ Burada siber güvenlik ve mahremiyet konularında kullanılan terimlerin anlamla
  
 ## Y
 ## Z
+
+- **Zero Day** <small>(sıfırıncı gün)</small>: Bir yazılım, donanım veya sistemde bulunan ve geliştiriciler veya güvenlik ekipleri tarafından henüz tespit edilmemiş bir güvenlik açığını ifade eder. Saldırganlar bu açığı, herhangi bir yama veya çözüm üretilmeden önce kullanarak sisteme zarar verebilir veya yetkisiz erişim sağlayabilir. "Zero Day" ifadesi, açığın keşfedildiği andan itibaren savunma ekiplerinin harekete geçmek için **"sıfır gün"** süresine sahip olduğunu vurgular. Bu açıklar genellikle yüksek risk taşır ve genellikle gelişmiş kalıcı tehdit *(APT)* saldırılarında veya özel olarak hazırlanmış "Zero Day Exploit" kodlarıyla kullanılır. Kapatılana kadar sistemleri korumak için proaktif güvenlik yöntemleri gereklidir.
