@@ -21,3 +21,4 @@ Güvende Kal projesinin devamlılığı ve sürekliliği, topluluğun katkısın
 - [Unchanged4352](https://github.com/Unchanged4352)
 - [r00tww](https://github.com/r00tww)
 - [cosmos-emissary](https://github.com/cosmos-emissary)
+- [56denklemli](https://github.com/56denklemli)
