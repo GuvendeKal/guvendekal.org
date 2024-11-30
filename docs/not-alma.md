@@ -11,7 +11,7 @@
 ## Önerilenler Tablosu
 
 | Uygulama | Açık Kaynak | Lisans      | Platform Desteği                                                        | Lokal/Bulut |
-|----------|-------------|-------------|-------------------------------------------------------------------------|-------------|
+|----------|:-------------:|:-------------:|:-------------------------------------------------------------------------:|:-------------:|
 | <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/anytype.png" alt="Anytype" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> [**Anytype**](https://anytype.io/) | <span style="color: green;">✓</span> | Özel Lisans | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> | Lokal |
 
 
