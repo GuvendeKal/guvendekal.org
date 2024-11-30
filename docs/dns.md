@@ -59,7 +59,7 @@ DNS değişikliklerinin düzgün çalıştığından emin olmak için [dnsleakte
 
 !> Bazı internet servis sağlayıcı firmaları DNS değişikliklerini engelleyebilir veya etkileyebilir. Bu durumda yaptığınız değişiklikler her zaman çalışmayabilir, internet hızınız düşebilir veya internete erişimde farklı sorunlar yaşayabilirsiniz. Eğer bu tür sorunlarla karşılaşırsanız, değişikliklerinizi geri alabilir veya alternatif bir DNS sunucusu deneyebilirsiniz.
 ## Hangi DNS Sunucusunu Kullanmalıyım?
-DNS sunucusu seçerken ilk dikkat edilecek şey hız olacaktır. DNS sunucusunun hızı değişebilir. [DNSBench](https://www.grc.com/dns/benchmark.htm) aracı bu konuda size yardımcı olacaktır. Ayrıca Windows,Mac OS veya Linux'ta komut satırına **ping dnssunucusununadresi** şeklinde yazabilirsiniz.
+DNS sunucusu seçerken ilk dikkat edilecek şey hız olacaktır. DNS sunucusunun hızı değişebilir. [DNSBench](https://www.grc.com/dns/benchmark.htm) aracı bu konuda size yardımcı olacaktır. Ayrıca Windows, Mac OS veya Linux'ta komut satırına `ping dnssunucusununadresi` şeklinde yazabilirsiniz.
 DNS sunucusu seçerken dikkat edilecek ikinci şey güvenlik ve reklam engelleme gibi ek özellikler olacaktır. Aşağıda güvenlik olarak tavsiye ettiğimiz DNS sunucuları bulunmaktadır.
 ## Önerilenler tablosu
 
