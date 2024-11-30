@@ -12,6 +12,6 @@
 
 | Uygulama     | Açık Kaynak       |  Lisans     |   Platform Desteği    |
 | ---------- |:------------:| -----------:| 
-|<span style="display: inline-block; vertical-align: middle;"><img src="docs/images/anytype.png" alt="Anytype" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> [**Anytype**](https://anytype.io/)          | <span style="color: green;">✓</span>           | A<i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i>3          |  
+|<span style="display: inline-block; vertical-align: middle;"><img src="docs/images/anytype.png" alt="Anytype" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> [**Anytype**](https://anytype.io/)          | <span style="color: green;">✓</span>           | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i>         |  
 | B1         | B2           | B3          |  
 | C1         | C2           | C3          | 
