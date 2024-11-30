@@ -15,7 +15,6 @@
 | <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/gog.png" alt="GOG" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> **[GOG.com](https://www.gog.com/)**       |   <span style="color: red;">×</span>| Özel Mülkiyet      | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i>               |
 | <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/aurorastore.png" alt="Aurora Store" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> **[Aurora Store]([https://aurorastore.org)**       | <span style="color: green;">✓</span>           | GPL      | <i class="fa-brands fa-android"></i>               |
 
-
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/f-droid.png" alt="F-droid" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> F-droid
 
 [**F-droid**](https://f-droid.org/), Android cihazlar için açık kaynaklı ve özgür yazılımların yer aldığı kâr amacı gütmeyen bir uygulama mağazasıdır. 2010 yılında hayatımıza giren F-droid, kullanıcıların tamamen ücretsiz ve açık kaynak lisansı taşıyan uygulamalara kolayca erişmesini sağlar. F-Droid, gizliliğe önem verir ve kullanıcı verilerini toplamaz, reklam göstermez.
@@ -31,7 +30,7 @@
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/aurorastore.png" alt="Aurora Store" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Aurora Store
 
-**[Aurora Store]([https://aurorastore.org)**, Android işletim sistemi için hazırlanmış özgür bir yazılım mağazasıdır. Aurora Store aslında bağımsız bir mağaza değildir, Play Store içindeki paketleri indirmenizi sağlar, bir nevi farklı bir istemcidir. Play Store'a kıyasla Aurora Store, hesap açma gereksinimi olmadan Play Store içinde bulunan uygulamaları indirmeyi sağlar. 
+[**Aurora Store**]([https://aurorastore.org), Android işletim sistemi için hazırlanmış özgür bir yazılım mağazasıdır. Aurora Store aslında bağımsız bir mağaza değildir, Play Store içindeki paketleri indirmenizi sağlar, bir nevi farklı bir istemcidir. Play Store'a kıyasla Aurora Store, hesap açma gereksinimi olmadan Play Store içinde bulunan uygulamaları indirmeyi sağlar.
 
-- [Açık kaynak depo](https://github.com/whyorean/AuroraStore)
-- [Gizlilik politikası]([https://f-droid.org/about/](https://aurorastore.org/privacy-policy/))
+- [Açık kaynak depo](https://gitlab.com/AuroraOSS/AuroraStore)
+- [Gizlilik politikası](https://gitlab.com/AuroraOSS/AuroraStore/-/blob/master/POLICY.md?ref_type=heads)
