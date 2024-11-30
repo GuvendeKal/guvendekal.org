@@ -35,7 +35,7 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
     <img src="docs/images/librewolf.svg" alt="Logo">
     <div style="flex: 1;">
         <a href="https://guvendekal.org/#/internet-tarayicilari?id=-librewolf" class="title">Mahremiyet ve güvenlik odaklı: Librewolf </a>
-        <p class="description">Firefox tabanlı Librewolf kullanıcı mahremiyetini ve gizliliğini önemseyen en iyi arama motorlarından biridir. Firefox'un varsayılan ayarlarının en güvenlikli olacak şekilde ayarlanmıştır.</p>
+        <p class="description">Firefox tabanlı Librewolf kullanıcı mahremiyetini ve gizliliğini önemseyen en iyi tarayıcılardan biridir. Firefox'un varsayılan ayarlarının en güvenlikli olacak şekilde ayarlanmıştır.</p>
         <div class="icon-group">
             <span><i class="fa-brands fa-windows"></i> Windows</span>
             <span><i class="fas fa-apple-alt"></i> Mac</span>
@@ -98,6 +98,18 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
             <span><i class="fa-brands fa-linux"></i> Linux</span>
             <span><i class="fa-brands fa-android"></i> Android</span>
             <span><i class="fa-brands fa-app-store-ios"></i> IOS</span>
+        </div>
+    </div>
+</div>
+
+
+<div class="custom-box">
+    <img src="docs/images/f-droid.png" alt="Logo">
+    <div style="flex: 1;">
+        <a href="https://guvendekal.org/#/uygulama-magazalari?id=-f-droid" class="title">Özgür yazılımlar için özgür bir mağaza: F-droid</a>
+        <p class="description">F-Droid, açık kaynaklı ve ücretsiz bir uygulama mağazasıdır. Özgür yazılımlar keşfetmek ve güvenilir bir şekilde yüklemek için harika bir seçenek sunar. Reklamsız bir deneyim ve veri gizliliğe önem verir.</p>
+        <div class="icon-group">
+            <span><i class="fa-brands fa-android"></i> Android</span>
         </div>
     </div>
 </div>
@@ -202,6 +214,17 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
         <img src="docs/images/tutamail.png" alt="icon">
         <div class="title">
             <a href="https://guvendekal.org/#/posta-servisleri?id=-tutanotamail" target="_blank" style="color: inherit; text-decoration: none;">Tutanota Mail</a>
+        </div>
+    </div>
+</div>
+
+## Uygulama Mağazaları
+
+<div class="service-container">
+    <div class="service-box">
+        <img src="docs/images/f-droid.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/uygulama-magazalari?id=-f-droid" target="_blank" style="color: inherit; text-decoration: none;">F-droid</a>
         </div>
     </div>
 </div>
