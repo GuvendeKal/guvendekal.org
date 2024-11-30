@@ -5,8 +5,15 @@
 
 # Torrent İstemcileri
 
-> Eklenecek
+> qBittorrent
+> uTorrent
+> Transmission
+> Deluge
+> Tixati
+> PicoTorrent
+> Free Download Manager
 
 ## Önerilenler Tablosu
 
-> Eklenecek
+> qBittorrent
+> Free Download Manager
