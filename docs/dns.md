@@ -58,7 +58,9 @@ Bu şekilde, modem/router üzerinden yapılan DNS değişiklikleri ile ağa bağ
 DNS değişikliklerinin düzgün çalıştığından emin olmak için [dnsleaktest.org](https://dnsleaktest.org/dns-leak-test) adresinden kontrol edebilirsiniz. Test sonucunda ISP sütununda eğer girdğiniz DNS sağlayıcısının adı çıkıyorsa DNS değişikliğiniz başarılı olmuş demektir.
 
 !> Bazı internet servis sağlayıcı firmaları DNS değişikliklerini engelleyebilir veya etkileyebilir. Bu durumda yaptığınız değişiklikler her zaman çalışmayabilir, internet hızınız düşebilir veya internete erişimde farklı sorunlar yaşayabilirsiniz. Eğer bu tür sorunlarla karşılaşırsanız, değişikliklerinizi geri alabilir veya alternatif bir DNS sunucusu deneyebilirsiniz.
-
+## Hangi DNS Sunucusunu Kullanmalıyım?
+DNS sunucusu seçerken ilk dikkat edilecek şey hız olacaktır. DNS sunucusunun hızı değişebilir. [DNSBench](https://www.grc.com/dns/benchmark.htm) aracı bu konuda size yardımcı olacaktır. Ayrıca Windows, Mac OS veya Linux'ta komut satırına `ping dnssunucusununadresi` şeklinde yazabilirsiniz.
+DNS sunucusu seçerken dikkat edilecek ikinci şey güvenlik ve reklam engelleme gibi ek özellikler olacaktır. Aşağıda güvenlik olarak tavsiye ettiğimiz DNS sunucuları bulunmaktadır.
 ## Önerilenler tablosu
 
 | DNS Sunucusu  | Kayıt Tutma               | Reklam Engelleme |
