@@ -6,8 +6,18 @@
 
 # Dosya Depolama
 
-> Eklenecek
+> Google Drive
+> Mega.nz
+> Dropbox
+> Mediafire
+> Onedrive
+> Yandex disk
 
 ## Önerilenler Tablosu
 
-> Eklenecek
+> Google Drive
+> Mega.nz
+> Dropbox
+> Mediafire
+> Onedrive
+> Yandex disk
