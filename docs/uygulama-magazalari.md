@@ -13,7 +13,7 @@
 |--------------------|:-----------:|:-----------:|:-------------------------:|
 | <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/f-droid.png" alt="F-droid" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> **[F-Droid](https://f-droid.org/)**       | <span style="color: green;">✓</span>           | GPL      | <i class="fa-brands fa-android"></i>               |
 | <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/gog.png" alt="GOG" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> **[GOG.com](https://www.gog.com/)**       |   <span style="color: red;">×</span>| Özel Mülkiyet      | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i>               |
-| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/aurorastore.png" alt="Aurora Store" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> **[Aurora Store]([https://aurorastore.org)/)**       | <span style="color: green;">✓</span>           | GPL      | <i class="fa-brands fa-android"></i>               |
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/aurorastore.png" alt="Aurora Store" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> **[Aurora Store]([https://aurorastore.org)**       | <span style="color: green;">✓</span>           | GPL      | <i class="fa-brands fa-android"></i>               |
 
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/f-droid.png" alt="F-droid" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> F-droid
@@ -31,4 +31,7 @@
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/aurorastore.png" alt="Aurora Store" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Aurora Store
 
-**[Aurora Store]([https://aurorastore.org)**, Android işletim sistemleri için hazırlanmış bir yazılım mağazasıdır ve tamamen özgür yazılımdır. Aurora Store aslında bağımsız bir mağaza değildir, Google Play içindeki paketleri indirmenizi sağlar, bir nevi istemcidir. Maksadı **güvenliktir**, çünkü bildiğiniz üzere Google Servislerine karşıyız, çünkü gizliliğinizi **ihlal eden** bir sürü yazılımla geliyorlar. Google Play mağazası da bunlara dahildir. Aurora Store ise anonim olarak, isterseniz Google hesabınızla, Google Play'daki apk uygulamaları güvenli bir şekilde indirmenizi sağlar. Dediğim gibi, tamamen *Açık Kaynak ve Özgür* Yazılımdır. *GPL* lisansını kullanmaktadır.
+**[Aurora Store]([https://aurorastore.org)**, Android işletim sistemi için hazırlanmış özgür bir yazılım mağazasıdır. Aurora Store aslında bağımsız bir mağaza değildir, Play Store içindeki paketleri indirmenizi sağlar, bir nevi farklı bir istemcidir. Play Store'a kıyasla Aurora Store, hesap açma gereksinimi olmadan Play Store içinde bulunan uygulamaları indirmeyi sağlar. 
+
+- [Açık kaynak depo](https://github.com/whyorean/AuroraStore)
+- [Gizlilik politikası]([https://f-droid.org/about/](https://aurorastore.org/privacy-policy/))
