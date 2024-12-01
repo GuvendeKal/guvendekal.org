@@ -9,9 +9,9 @@
 
 ## Önerilenler Tablosu
 
-| Platform | Tabanı | Açık Kaynak | Lisans Türü | Website | Kendine Kendine Barındırılabilir | Desteklenen Platformlar |
-|-----------|----------------|-------------|---------------|------------------| -----------------
-| **Lemmy** | Lemmy (Merkeziyetsiz) | ✓ | AGPLv3 | [  join-lemmy.org](https://join-lemmy.org/) | ✓ | Web, iPhone, iPad, Android |
+| Platform | Tabanı             | Açık Kaynak | Lisans Türü | Website                         | Kendine Kendine Barındırılabilir | Desteklenen Platformlar           |
+|----------|--------------------|-------------|-------------|---------------------------------|---------------------------------|-----------------------------------|
+| **Lemmy** | Lemmy (Merkeziyetsiz) | ✓           | AGPLv3      | [join-lemmy.org](https://join-lemmy.org/) | ✓                               | Web, iPhone, iPad, Android       |
 
 ### Lemmy
 
