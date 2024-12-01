@@ -29,7 +29,7 @@ Bu nedenlerle sizin verilerinizi işleyip kullanan, aramalarda manipülasyon yap
 | <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/startpage-icon.png" alt="Startpage" style="width: 40px; height: 40px;"> </span> <span style="display: inline-block; vertical-align: middle;"> StartPage         | <span style="color: red;">×</span> | ✓     | Hollanda     | Google           | ✓      |
 | <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/searx-icon.png" alt="Searx" style="width: 40px; height: 40px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Searx             | <span style="color: green;">✓</span> | <span style="color: green;">×</span> | Bağımsız | Meta Arama | <span style="color: green;">×</span>      |
 | Whoogle             | <span style="color: green;">✓</span> | <span style="color: green;">×</span> | Bağımsız | Google | <span style="color: green;">×</span>      |
-
+| Ecosia              | <span style="color: red;">×</span> | Germany | YaHoo! | ✓ |
 - StartPage anonim, tanımlanamaz kayıt tutmaktadır.
 - Searx, meta bir arama motorudur. Farklı arama motorlarının sonuçlarını göstermektedir.
 - DuckDuckGo'nun arama motoru kapalı kaynaktır. Ancak bazı istemcileri açık kaynaktır, [**buradan**](https://duckduckgo.com/duckduckgo-help-pages/open-source/opensource-overview/) kontrol edebilirsiniz.
@@ -89,7 +89,11 @@ Searx, bağımsız bir arama motoru olduğu için herkes Searx'i kendi sunucusun
 !> Kullandığınız Searx sunucusunun sahibi kayıt tutmayı açmış olabilir. Buna dikkat etmeniz gerekir.
 
 Searx'i kullanıcılarının mahremiyetine ve gizliliğine önem verdiği için Google yada Bing gibi alternatifler yerine tercih etmenizi öneririz. Aynı zamanda Searx'in [**dökümantasyon**](https://docs.searxng.org/) sayfasına ve [**kaynak kodlarına**](https://github.com/searxng/searxng) bakabilirsiniz.
+## Ecosia
 
+**Ecosia**, Ecosia, Almanya'nın Berlin kentinde kurulmuş olan ve elde ettiği kârın % 80'ini veya daha fazlasını ağaçlandırmaya odaklanan kâr amacı gütmeyen kuruluşlara bağışlayan bir arama motorudur . Ecosia 2018 yılında gizlilik dostu bir arama motoru olmayı taahhüt etmiştir. Bu amaçla kullanıcıların yaptıkları aramalar şifrelenirken, kullanıcı bilgileri saklanmamakta, üçüncü kişilere satılmamaktadır. Kullanıcıyı takip eden Google Analytics gibi harici izleme araçları kullanmadığını belirtmektedir.
+
+Ecosia kullanıcıların mahremiyetine ve gizliliğine önem verdiği için Google yada Bing gibi alternatifler yerine tercih etmenizi öneririz. Daha fazla bilgi için Ecosia'nın [gizlilik sayfasına](https://www.ecosia.org/privacy) göz atabilirsiniz.
 <!-- WHOOGLE son zamanlarda fazla hata alıyor gibi ondan şimdilik not içine alındı.
 
 ## Whoogle 
