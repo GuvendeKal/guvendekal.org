@@ -25,13 +25,14 @@
 | <img src="docs/images/freshrss.png" alt="FreshRSS" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> [**FreshRSS**](https://freshrss.org)</span> | <span style="color: green;">✓</span> | Bulut ve Self-host | Ücretsiz   | <i class="fa-solid fa-globe"></i> |
 | <img src="docs/images/miniflux.png" alt="Miniflux" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> [**Miniflux**](https://miniflux.app)</span> | <span style="color: green;">✓</span> | Bulut ve Self-host | Ücretsiz/Ücretli | <i class="fa-solid fa-globe"></i> |
 
-
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/freshrss.png" alt="FreshRSS" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> FreshRSS
 
 [**FreshRSS**](https://freshrss.org), 2014 yılında kurulmuş web tabanlı bir RSS istemcisidir. Özgür yazılım ve **Açık Kaynak** kodlu, hem kendi sunucunuza kurabileceğiniz hem de **FreshRSS Cloud** sayesinde bulut servisi biçiminde kullanabileceğiniz bir istemcidir. FreshRSS içerisinde birden fazla tema ile gelir, ama en sevilen özelliği çok geniş bir eklenti desteğine sahiptir, böylece kişiselleştirebilirsiniz.
 
-- [Açık kaynak depo](https://github.com/FreshRSS/FreshRSS)
+**- [Açık kaynak depo](https://github.com/FreshRSS)**
 
-## Miniflux
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/miniflux.png" alt="Miniflux" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Miniflux
 
-> Eklenecek
+[**Miniflux**](https://miniflux.app), ücretsiz ve ücretli versiyonu bulunan ve **Açık Kaynak** bir RSS istemcisidir. Miniflux'u ücretsiz bir şekilde kullanmak istiyorsanız istemcisiyi kendi sunucunuza kurabilirsiniz. Miniflux, çok *sade ve basit* bir arayüzle gelir, ancak eski gözüktüğüne yönelik şikayetler sebebiyle son zamanlarda görünüşü modernleştirildi ve gayet hoş bir tarza sahip oldu. Miniflux, çok fazla dil seçeneği ile ön plana çıkar ve az sayıda mobil arayüz uyumuna sahip istemcilerdendir.
+
+**- [Açık kaynak depo](https://github.com/miniflux/v2)**
