@@ -227,6 +227,18 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
             <a href="https://guvendekal.org/#/uygulama-magazalari?id=-f-droid" target="_blank" style="color: inherit; text-decoration: none;">F-droid</a>
         </div>
     </div>
+    <div class="service-box">
+        <img src="docs/images/gog.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/uygulama-magazalari?id=-gogcom" target="_blank" style="color: inherit; text-decoration: none;">Gog.com</a>
+        </div>
+    </div>
+    <div class="service-box">
+        <img src="docs/images/aurorastore.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/uygulama-magazalari?id=-aurora-store" target="_blank" style="color: inherit; text-decoration: none;">Aurora Store</a>
+        </div>
+    </div>
 </div>
 
 ## Şifre Yöneticileri
@@ -271,6 +283,51 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
         <img src="docs/images/aegis.png" alt="icon">
         <div class="title">
             <a href="https://guvendekal.org/#/2-faktorlu-dogrulama?id=-aegis-authenticator" target="_blank" style="color: inherit; text-decoration: none;">Aegis Authenticator</a>
+        </div>
+    </div>
+</div>
+
+## Ofis Uygulamaları
+
+<div class="service-container">
+    <div class="service-box">
+        <img src="docs/images/libreOfficeLogo.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/ofis-uygulamalari?id=-libreoffice" target="_blank" style="color: inherit; text-decoration: none;">LibreOffice</a>
+        </div>
+    </div>
+    <div class="service-box">
+        <img src="docs/images/onlyoffice.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/ofis-uygulamalari?id=-only-office" target="_blank" style="color: inherit; text-decoration: none;">Only Office</a>
+        </div>
+    </div>
+</div>
+
+## Sosyal Ağlar
+
+<div class="service-container">
+    <div class="service-box">
+        <img src="docs/images/mastodon-icon.svg" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/sosyal-aglar?id=-mastodon" target="_blank" style="color: inherit; text-decoration: none;">Mastodon</a>
+        </div>
+    </div>
+    <div class="service-box">
+        <img src="docs/images/lemmy_icon.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/sosyal-aglar?id=-lemmy" target="_blank" style="color: inherit; text-decoration: none;">Lemmy</a>
+        </div>
+    </div>
+</div>
+
+## Not Alma
+
+<div class="service-container">
+    <div class="service-box">
+        <img src="docs/images/anytype.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/not-alma?id=-anytype" target="_blank" style="color: inherit; text-decoration: none;">Anytype</a>
         </div>
     </div>
 </div>
