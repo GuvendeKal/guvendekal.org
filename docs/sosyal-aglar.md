@@ -4,8 +4,11 @@
  - İçerik kuralları ve ekleme yapmak sayfalarını ziyaret edebilirsiniz -->
 
 # Sosyal Ağlar
-
-> Eklenecek
+**Sosyal ağlar**, ortak ilgi alanları ve amaçları olan kişilerin bilgi ve enformasyon paylaşımında bulunabildiği çevrimiçi platformlardır. Bu topluluklar aynı zamanda önemli bir enformasyon desteği olarak da değerlendirilmektedir.
+İnternet, zengin ve geniş kapsamlı bilgi yapısıyla sosyal ağların temelini oluşturmaktadır. Paylaşılan bilgiler sağlık, finans, eğitim, ulaşım ve bakım hizmetleri gibi çok çeşitli alanlara yayılmaktadır.
+Sosyal ağlar, bireylere içerikle ve diğer kullanıcılarla etkileşime girme olanağı sağlar. Kullanıcılar anlık mesajlaşma, e-posta, chat odaları, görüntülü sohbet ve diğer internet uygulamaları aracılığıyla iletişim kurabilmektedirler.
+Kullanıcıların sosyal ağları kullanma amaçları çeşitlidir. Bunlar arasında ortak hedefler için iş birliği yapmak, bilgi edinmek, öğrenmek, diğer insanlarla ilişkiler kurmak gibi niyetler bulunmaktadır.
+Bu platformlar, modern iletişim ve bilgi paylaşımının vazgeçilmez araçları haline gelmiştir.
 
 ## Önerilenler Tablosu
 
@@ -26,7 +29,7 @@ Lemmy, birbirleriyle iletişim kurabilen ve etkileşimde bulunabilen bağımsız
 | Açık Kaynak                     | Teknik bilgi gerektiren kurulum süreci |
 | Kendi Kendine Barındıralabilir  |                                  |
 
-### Kaynaklar ve Dökümanlar
+#### Kaynaklar ve Dökümanlar
 - [Lemmy vs Reddit - SourceForge Karşılaştırması](https://sourceforge.net/software/compare/Lemmy-vs-Reddit/)
 - [Lemmy (sosyal ağ) - Wikipedia](https://en.wikipedia.org/wiki/Lemmy_(social_network))
 - [Lemmy Kullanıcı Başlangıç Rehberi](https://join-lemmy.org/docs/users/01-getting-started.html)
