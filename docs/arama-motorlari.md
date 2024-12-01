@@ -16,8 +16,6 @@ Ana gelir kaynağı "kişiselleştirilmiş reklam" olan arama motorları, sıral
 
 Bu nedenlerle sizin verilerinizi işleyip kullanan, aramalarda manipülasyon yapan arama motorlarunu kullanmamanız;  [**güvenlik**](https://guvendekal.org/#/guvenlik) ve [**mahremiyetiniz**](https://guvendekal.org/#/mahremiyet) başta olmak üzere daha doğru arama sonuçlarına ulaşmanız için önemlidir.
 
-- [**Güvende Kal Searx Sunucusu**](https://searx.guvendekal.org/)
-
 ?> Arama motorunuzu seçtikten sonra hangi tarayıcıyı kullanacağınızı seçtiniz mi? Yada eklenti yüklemeyi düşünüyor musunuz? Önerdiğimiz tarayıcılar için [**İnternet Tarayıcıları**](https://guvendekal.org/#/internet-tarayicilari) sayfasını, eklentileri görmek için [**Tarayıcı Eklentileri**](guvendekal.org/#/tarayici-eklentileri) sayfasını ziyaret edebilirsiniz.
 
 ## Önerilenler Tablosu
@@ -28,7 +26,6 @@ Bu nedenlerle sizin verilerinizi işleyip kullanan, aramalarda manipülasyon yap
 | <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/brave-icon.png" alt="Brave" style="width: 30px; height: ;"> </span> <span style="display: inline-block; vertical-align: middle;"> Brave Search      | <span style="color: red;">×</span> | <span style="color: green;">×</span> | ABD          | Kendi indeksi    | ✓      |
 | <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/startpage-icon.png" alt="Startpage" style="width: 40px; height: 40px;"> </span> <span style="display: inline-block; vertical-align: middle;"> StartPage         | <span style="color: red;">×</span> | ✓     | Hollanda     | Google           | ✓      |
 | <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/searx-icon.png" alt="Searx" style="width: 40px; height: 40px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Searx             | <span style="color: green;">✓</span> | <span style="color: green;">×</span> | Bağımsız | Meta Arama | <span style="color: green;">×</span>      |
-| Whoogle             | <span style="color: green;">✓</span> | <span style="color: green;">×</span> | Bağımsız | Google | <span style="color: green;">×</span>      |
 
 - StartPage anonim, tanımlanamaz kayıt tutmaktadır.
 - Searx, meta bir arama motorudur. Farklı arama motorlarının sonuçlarını göstermektedir.
@@ -89,6 +86,8 @@ Searx, bağımsız bir arama motoru olduğu için herkes Searx'i kendi sunucusun
 !> Kullandığınız Searx sunucusunun sahibi kayıt tutmayı açmış olabilir. Buna dikkat etmeniz gerekir.
 
 Searx'i kullanıcılarının mahremiyetine ve gizliliğine önem verdiği için Google yada Bing gibi alternatifler yerine tercih etmenizi öneririz. Aynı zamanda Searx'in [**dökümantasyon**](https://docs.searxng.org/) sayfasına ve [**kaynak kodlarına**](https://github.com/searxng/searxng) bakabilirsiniz.
+
+- [**Güvende Kal Searx Sunucusu**](https://searx.guvendekal.org/)
 
 <!-- WHOOGLE son zamanlarda fazla hata alıyor gibi ondan şimdilik not içine alındı.
 
