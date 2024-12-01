@@ -58,26 +58,6 @@ DuckDuckGo Privacy Essential eklentisi [açık kaynaktır](https://github.com/du
 
 [Chrome tabanlı tarayıcılar için](https://chromewebstore.google.com/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg) -->
 
-### CanvasBlocker
-
-**CanvasBlocker** eklentisi, tarayıcı parmak izini önemli ölçüde yok eden bir eklentidir. Bir siteye istek yoladığınızda tarayıcınız aracılığı ile sizin hakkınızda bazı bilgiler gider ve bu veriler çoğaldıkça sizin tarayıcı parmak iziniz oluşur çünkü o kadar fazla bilgi gitmiştir ki bu bilgilere sahip dünya üzerinde neredeyse kimse yoktur böylece internetteki mahremiyetimiz zarar görür. Bu eklenti, kullanıcıların parmak izini toplayan Javascript API'lerini engeller.
-
-CanvasBlocker eklentisi sayesinde tarayıcı parmak iziniz neredeyse yok olma noktasına gelir. CanvasBlocker eklentisi [açık kaynak](https://github.com/kkapsner/CanvasBlocker), Mozilla Public License (MPL) 2.0 lisansını kullanmaktadır.
-
-<div class="web-store-container">
-    <div class="web-store-box">
-        <i class="fab fa-firefox"></i>
-        <div class="title">
-            <a href="https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/" target="_blank" style="color: inherit; text-decoration: none;">Firefox Mağazası</a>
-        </div>
-    </div>
-    <div class="web-store-box">
-        <i class="fab fa-google"></i>
-        <div class="title">
-            <a href="https://chromewebstore.google.com/detail/canvas-blocker-fingerprin/nomnklagbgmgghhjidfhnoelnjfndfpd" target="_blank" style="color: inherit; text-decoration: none;">Google Mağazası</a>
-        </div>
-    </div>
-</div>
 
 <!-- ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/noscript.png" alt="NoScript" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> NoScript
 
