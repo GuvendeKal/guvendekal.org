@@ -11,7 +11,7 @@
 
 | Platform | Tabanı             | Açık Kaynak | Lisans Türü | Website                         | Kendine Kendine Barındırılabilir | Desteklenen Platformlar           |
 |----------|--------------------|-------------|-------------|---------------------------------|---------------------------------|-----------------------------------|
-| **Lemmy** | Lemmy (Merkeziyetsiz) | ✓           | AGPLv3      | [join-lemmy.org](https://join-lemmy.org/) | ✓                               | Web, iPhone, iPad, Android       |
+| **Lemmy** | Lemmy (Merkeziyetsiz) | ✓           | AGPLv3      | [join-lemmy.org](https://join-lemmy.org/) | ✓                               | <i class="fa-brands fa-globe"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i>       |
 
 ### Lemmy
 
