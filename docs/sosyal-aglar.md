@@ -11,9 +11,9 @@
 
 | Platform | Tabanı             | Açık Kaynak | Lisans Türü | Website                         | Kendine Kendine Barındırılabilir | Desteklenen Platformlar           |
 |----------|--------------------|-------------|-------------|---------------------------------|---------------------------------|-----------------------------------|
-| **Lemmy** | Lemmy (Merkeziyetsiz) | ✓           | AGPLv3      | [join-lemmy.org](https://join-lemmy.org/) | ✓                               | <i class="fa-brands fa-globe"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i>       |
+| <img src="docs/images/lemmy_icon.png" alt="Lemmy" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> [Lemmy](https://join-lemmy.org/) </span>  | Lemmy (Merkeziyetsiz) | ✓           | AGPLv3      | [join-lemmy.org](https://join-lemmy.org/) | ✓                               | <i class="fa-brands fa-globe"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i>       |
 
-### Lemmy
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/lemmy_icon.png" alt="Lemmy" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> Lemmy
 
 **Lemmy**, Şubat 2019'da GitHub'da "Dessalines" kullanıcısı tarafından oluşturulmuş ve başlangıçta Affero Genel Kamu Lisansı (AGPL) altında lisanslanmıştır. Lemmy, merkeziyetsiz bir yapıya sahip olup, topluluk tarafından yönetilmektedir.
 
