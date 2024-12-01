@@ -7,7 +7,7 @@
 
 # Sözlük
 
-Burada siber güvenlik ve mahremiyet konularında kullanılan terimlerin anlamlarını öğrenebilirsiniz. Şuan sözlükte toplam **48** kelime bulunmaktadır.
+Burada siber güvenlik ve mahremiyet konularında kullanılan terimlerin anlamlarını öğrenebilirsiniz. Şuan sözlükte toplam **53** kelime bulunmaktadır.
 
 ## A
 
@@ -26,6 +26,8 @@ Burada siber güvenlik ve mahremiyet konularında kullanılan terimlerin anlamla
 - **Botnet**: Kötü niyetli yazılımlarla ele geçirilmiş ve uzaktan kontrol edilen bir grup bilgisayardan oluşan bir ağdır. Bu tür sistemler genellikle kullanıcıların bilgisi olmadan kötü amaçlarla kullanılır. Saldırgan, tüm botnet’i bir araya getirerek büyük çaplı DDoS (Dağıtık Hizmet Engelleme) saldırıları gerçekleştirebilir veya diğer zararlı aktiviteleri otomatik olarak yürütebilir. 
 
 - **Brute Force Attack** <small>(kaba kuvvet saldırısı)</small>: Bir parola veya şifreleme anahtarını çözmek amacıyla sistematik olarak tüm olasılıkların denendiği bir siber saldırı yöntemidir. Saldırgan, hedefteki sistemdeki parola veya anahtarın uzunluğuna ve karmaşıklığına bağlı olarak farklı kombinasyonları deneyerek doğru olanı bulmaya çalışır. Bu tür saldırılar özellikle zayıf veya kısa parolalar için etkilidir, ancak güçlü parolalarda deneme süresi ve işlem gücü gereksinimi çok arttığından başarı olasılığı düşer.
+
+- **Bluejacking**: Bluetooth ve İngilizce Hijacking <small>(Ele geçirme, söküp alma)</small> terimlerinin birleşiminden oluşmuş bir terim ifadedir. Bluetooth teknolojisini kullanarak yakın mesafedeki bir cihazın kullanıcılarına istenmeyen mesajlar veya içerikler göndermeyi ifade eder.
 
 ## C
 
@@ -47,6 +49,8 @@ Burada siber güvenlik ve mahremiyet konularında kullanılan terimlerin anlamla
 
 - **Exploit**: Bir yazılımın veya sistemin güvenlik açığının, saldırganlar tarafından kötüye kullanılmasıdır. Exploit, bu zafiyetin bir aracı ya da kodu olabilir ve genellikle bir sisteme izinsiz erişim sağlamak, veri çalmak veya sistemin kontrolünü ele geçirmek için kullanılır.
 
+- **Enumeration**: bilgi toplama sürecinde bir hedef sistem veya ağ hakkında daha fazla veri elde etmek amacıyla kullanılan bir tekniktir. Bu süreçte, hedef sistemin yapısı, aktif hizmetler, kullanıcılar, paylaşımlar ve diğer hassas bilgilerin belirlenmesi amaçlanır.
+
 ## F
 
 - **Filesystem**: Verilerin depolanması ve düzenlenmesi için kullanılan yapıdır. Dosya sistemleri, veri okuma, yazma ve dosya yönetimi gibi işlemleri kolaylaştırır. Örnekler; BTRFS, EXT4, NTFS, FAT32 vb.
@@ -64,6 +68,8 @@ Burada siber güvenlik ve mahremiyet konularında kullanılan terimlerin anlamla
 ## I
 
 - **ISO Image**: Bir işletim sisteminin veya yazılımın tam bir kopyasını içeren disk görüntüsü dosyasıdır. ISO dosyaları genellikle işletim sistemi kurulumları için kullanılır.
+
+- **IPS**: Intrusion Prevention System anlamında gelir. Bir sisteme ya da makineye bir arka kapı ya da açık aracılığı ile sızılmasını engelleyen sistem ve sistemler bütününe verilen addır.
 
 ## İ
 ## J
@@ -150,7 +156,13 @@ Burada siber güvenlik ve mahremiyet konularında kullanılan terimlerin anlamla
 - **Virtual Private Network** <small>(VPN)</small>: VPN, "Sanal Özel Ağ" anlamına gelir ve internet bağlantınızı güvenli, gizli ve anonim hale getiren bir teknolojidir. VPN, cihazınız (telefon, bilgisayar, tablet) ile internete erişim sağladığınız hedef sunucu (örneğin bir web sitesi) arasında şifreli bir bağlantı oluşturur. Bu süreç, verilerinizin üçüncü taraflar tarafından izlenmesini veya çalınmasını önler ve çevrimiçi etkinliklerinizi gizler.
 
 - **Virtual Private Server** <small>(VPS)</small>: Fiziksel bir sunucunun paylaşımlı sanallaştırma teknolojisiyle bölünmesiyle oluşturulan bir yapıdır. Bu tür sunucular, aynı fiziksel kaynakları paylaşan birden fazla sanal makineden oluşur.
- 
+
+## W
+
+- **Warwalking, Warbiking. Wardriving ve Warflying**: Başlıktaki sırası ile yaya, bisiklet, araba veyahut uçak yoluyla bir dizüstü bilgisayar veya akıllı telefon kullanarak Wi-Fi kablosuz ağlarını ve baz istasyonlarını arama eylemidir. 
+
+- **War Chalking**: Halka açık alanlarda açık bir Wi-Fi ağına dikkat çekmek için semboller çizme eylemidir. Hobo sembollerinden esinlenen bu işaretler, Haziran 2002'de bir grup arkadaş tarafından tasarlanmış ve Matt Jones tarafından kamuoyuna tanıtılmıştır.
+
 ## Y
 
 - **Yedekleme**: Verilerin bir kopyasını oluşturup güvenli bir ortamda saklama işlemidir. Bu, veri kaybına neden olabilecek durumlar (siber saldırı, donanım arızası, insan hatası veya doğal afetler) karşısında bilgilerin geri yüklenmesini sağlar.
