@@ -6,7 +6,17 @@
 
 # RSS İstemcileri
 
-**RSS İstemcileri**, web sitelerinden gelen RSS beslemelerini okuyabilen, kategorilendiren ve kullanıcılara sunan yazılımlardır. Bu yazılımlar, RSS beslemelerini toplar, kategorilere ayırır ve kullanıcılara kolayca erişebilecekleri bir şekilde sunar. Her RSS istemcisinin ufak tefek farklılıkları olsa da, mantık olarak ve kullanım olarak birbirlerine benzerler. RSS istemcilerinin bazıları hem self-host hem de bulut tabanlı olarak kullanılabilirken, bazıları sadece bulut tabanlıdır. RSS istemcileri kullanarak internette zaman geçirirseniz, sitelerin algoritmalarının manipülasyonuna düşmezsiniz ve sadece sizin seçtiğiniz içerikler önünüze çıkar, bu da büyük bir rahatlık ve özgürlük sağlar. Ancak, her RSS istemcisi aynı klasmanda değil; bazıları sahipleri olan şirketlerin algoritmasını size dayatır ya da sizin verilerinizi toplar. Bu yüzden, iyi bir istemci seçmek önemlidir.
+**RSS** (Really Simple Syndication veya Rich Site Summary), internet kullanıcılarının güncel içeriklere kolayca ulaşmasını sağlayan bir web besleme teknolojisidir. RSS, genellikle bloglar, haber siteleri, podcastler ve diğer içerik güncellemelerine sahip web siteleri tarafından kullanılır. RSS, kullanıcıların bir web sitesini sürekli ziyaret etmeye gerek kalmadan yeni içeriklerden haberdar olmasını sağlar. RSS beslemeleri, XML formatında yayınlanır ve genellikle şu tür bilgileri içerir:
+
+- Yeni makalelerin başlıkları,
+- Makale özetleri,
+- Yayın tarihleri,
+- İçeriğin bağlantıları.
+
+**RSS İstemcileri** (RSS okuyucuları veya RSS okuyucu uygulamaları), kullanıcıların RSS beslemelerini takip etmesini sağlayan yazılım veya web hizmetleridir. Bu istemciler, farklı web sitelerinden alınan güncellemeleri tek bir arayüzde toplar ve kolay erişim sağlar. Bulut şekilde çalışan RSS istemcileri, lokal yada bulut şekilde çalışabilir.
+
+- Lokal şekilde çalışan bir RSS istemcisinde, sadece o cihaz üzerinden RSS akışına erişebilirsiniz.
+. Bulut şekilde çalışan bir RSS istemcisinde, farklı cihazlardan aynı RSS akışına erişebilirsiniz.
 
 ## Önerilenler Tablosu
 
