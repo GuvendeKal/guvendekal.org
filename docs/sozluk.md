@@ -71,7 +71,6 @@ Burada siber güvenlik ve mahremiyet konularında kullanılan terimlerin anlamla
 
 - **IPS**: Intrusion Prevention System anlamında gelir. Bir sisteme ya da makineye bir arka kapı ya da açık aracılığı ile sızılmasını engelleyen sistem ve sistemler bütününe verilen addır.
 
-## İ
 ## J
 
 - **JavaScript Injection**: Web uygulamalarına kötü amaçlı JavaScript kodlarının enjekte edilmesiyle gerçekleştirilen bir saldırı türüdür. Bu tür saldırılar, kullanıcı verilerini çalmak veya web sayfası üzerinde zararlı işlemler yapmak için kullanılır.
@@ -146,7 +145,6 @@ Burada siber güvenlik ve mahremiyet konularında kullanılan terimlerin anlamla
   
 - **Uptime** <small>(çalışma süresi)</small>: Bir sistemin veya servisin çalışır durumda olduğu süreyi ifade eder. Yüksek uptime, sistemin güvenilir ve sürekli erişilebilir olduğunu gösterir.
 
-## Ü
 ## V
 
 - **Virtual Dedicated Server** <small>(VDS)</small>: Fiziksel bir sunucunun tamamen ayrılmış sanallaştırma teknolojisiyle bölünmesiyle oluşturulan bir yapıdır. Her bir VDS, diğerlerinden tamamen izole edilmiş ve kendine özel fiziksel kaynaklarla donatılmıştır
