@@ -9,4 +9,6 @@
 
 ## Önerilenler Tablosu
 
-> Eklenecek
+| Platform | Tabanı | Açık Kaynak | Lisans Türü | Website | Kendine Kendine Barındırılabilir |
+|-----------|----------------|-------------|---------------|------------------| -----------------
+| **Lemmy** | Lemmy (Merkeziyetsiz) | ✓ | AGPLv3 | [  join-lemmy.org](https://join-lemmy.org/) | ✓ |
