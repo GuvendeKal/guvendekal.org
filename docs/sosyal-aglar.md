@@ -33,4 +33,5 @@ Lemmy, birbirleriyle iletişim kurabilen ve etkileşimde bulunabilen bağımsız
 - [Lemmy vs Reddit - SourceForge Karşılaştırması](https://sourceforge.net/software/compare/Lemmy-vs-Reddit/)
 - [Lemmy (sosyal ağ) - Wikipedia](https://en.wikipedia.org/wiki/Lemmy_(social_network))
 - [Lemmy Kullanıcı Başlangıç Rehberi](https://join-lemmy.org/docs/users/01-getting-started.html)
+- [Lemmy - Açık Kaynak Reposu](https://github.com/LemmyNet/lemmy)
 
