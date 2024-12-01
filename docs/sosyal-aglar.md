@@ -18,9 +18,9 @@ Bu platformlar, modern iletişim ve bilgi paylaşımının vazgeçilmez araçlar
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/lemmy_icon.png" alt="Lemmy" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> Lemmy
 
-**Lemmy**, Şubat 2019'da GitHub'da "Dessalines" kullanıcısı tarafından oluşturulmuş ve başlangıçta Affero Genel Kamu Lisansı (AGPL) altında lisanslanmıştır. Lemmy, merkeziyetsiz bir yapıya sahip olup, topluluk tarafından yönetilmektedir.
+**Lemmy**, Şubat 2019'da GitHub'da "Dessalines" kullanıcısı tarafından oluşturulmuş ve başlangıçta Affero Genel Kamu Lisansı (AGPL) altında lisanslanmıştır. Lemmy, merkeziyetsiz bir yapıya sahip olup, topluluk tarafından yönetilmektedir. Reddit alternatifi olan Lemmy'i, özellikle sizin mahremiyetinize daha fazla önem verdiği için kullanabilirsiniz
 
-Lemmy, birbirleriyle iletişim kurabilen ve etkileşimde bulunabilen bağımsız Lemmy kurulumlarından oluşan bir ağdır. Bu yapı, diğer sosyal medya platformlarının merkezi ve monolitik yapısından farklı olarak, merkeziyetsiz bir şekilde işler. Lemmy, Reddit'e benzer bir kullanıcı deneyimi sunmakla birlikte, federasyonel yapısı sayesinde farklı kurulumlar arasında bilgi paylaşımına ve etkileşime olanak tanır. Bu sayede, her bir kurulum (veya "sunucu") kendi topluluğunu yönetirken, diğer sunucularla da etkileşimde bulunabilir.
+Lemmy, birbirleriyle iletişim kurabilen ve etkileşimde bulunabilen bağımsız Lemmy kurulumlarından oluşan bir ağdır. Bu yapı, diğer sosyal medya platformlarının merkezi ve monolitik yapısından farklı olarak, merkeziyetsiz bir şekilde işler. Lemmy, Reddit'e benzer bir kullanıcı deneyimi sunmakla birlikte, federasyonel yapısı sayesinde farklı kurulumlar arasında bilgi paylaşımına ve etkileşime olanak tanır. Bu sayede, her bir kurulum (veya "sunucu") kendi topluluğunu yönetirken, diğer sunucularla da etkileşimde bulunabilir. 
 
 | **Lemmy'nin Avantajları**            | **Lemmy'nin Dezavantajları**  |
 |----------------------------------|----------------------------------|
