@@ -6,7 +6,10 @@
 
 # Not Alma
 
-> Eklenecek
+**Not alma** uygulamaları, kullanıcıların fikirlerini, hatırlatmaları, görevleri, projeleri veya çeşitli bilgileri organize etmek ve kaydetmek için kullandığı dijital araçlardır. Bu uygulamalar, yazı yazma, düzenleme, etiketleme ve paylaşım gibi özelliklerle kullanıcılara pratiklik sunar. Not alma uygulamaları lokal yada bulut tabanlı çalışabilir
+
+- Lokal şekilde çalışan bir not alma uygulaması, sadece o cihaz üzerinden notlara erişmeyi sağlar. ([**Senkronizasyon**](https://guvendekal.org/#/senkronizasyon) araçları ile senkronize edilebilir.)
+- Bulut tabanlı çalışan bir not alma uygulaması, farklı cihazlardan aynı notlara erişmeyi ve düzenlemeyi sağlar.
   
 ## Önerilenler Tablosu
 

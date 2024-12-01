@@ -10,11 +10,14 @@ Sosyal ağlar, bireylere içerikle ve diğer kullanıcılarla etkileşime girme 
 Kullanıcıların sosyal ağları kullanma amaçları çeşitlidir. Bunlar arasında ortak hedefler için iş birliği yapmak, bilgi edinmek, öğrenmek, diğer insanlarla ilişkiler kurmak gibi niyetler bulunmaktadır.
 Bu platformlar, modern iletişim ve bilgi paylaşımının vazgeçilmez araçları haline gelmiştir.
 
-## Önerilenler Tablosu
+| Platform | Tabanı             | Açık Kaynak | Lisans Türü | Kendine Kendine Barındırılabilir | Platformlar           |
+|----------|:------------------:|:-----------:|:-----------:|:--------------------------------:|:---------------------:|
+| <img src="docs/images/mastodon_icon.png" alt="Mastodon" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> [Mastodon](https://joinmastodon.org/) </span> | Merkeziyetsiz | <span style="color: green;">✓</span> | AGPLv3      | <span style="color: green;">✓</span> | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> |
+| <img src="docs/images/lemmy_icon.png" alt="Lemmy" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> [Lemmy](https://join-lemmy.org/) </span>  | Merkeziyetsiz | <span style="color: green;">✓</span> | AGPLv3      | <span style="color: green;">✓</span> | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> |
 
-| Platform | Tabanı             | Açık Kaynak | Lisans Türü | Website                         | Kendine Kendine Barındırılabilir | Desteklenen Platformlar           |
-|----------|--------------------|-------------|-------------|---------------------------------|---------------------------------|-----------------------------------|
-| <img src="docs/images/lemmy_icon.png" alt="Lemmy" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> [Lemmy](https://join-lemmy.org/) </span>  | Lemmy (Merkeziyetsiz) | ✓           | AGPLv3      | [join-lemmy.org](https://join-lemmy.org/) | ✓                               | <i class="fa-brands fa-globe"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i>       |
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/mastodon-icon.svg" alt="Mastodon" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> Mastodon
+
+> Eklenecek
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/lemmy_icon.png" alt="Lemmy" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> Lemmy
 
@@ -27,11 +30,9 @@ Lemmy, birbirleriyle iletişim kurabilen ve etkileşimde bulunabilen bağımsız
 | Reklamsız deneyim               | Daha küçük kullanıcı kitlesi    |
 | Merkeziyetsiz yapı              | Daha az çeşitlilik               |
 | Açık Kaynak                     | Teknik bilgi gerektiren kurulum süreci |
-| Kendi Kendine Barındıralabilir  |                                  |
 
 #### Kaynaklar ve Dökümanlar
+- [Açık kaynak depo](https://github.com/LemmyNet/lemmy)
 - [Lemmy vs Reddit - SourceForge Karşılaştırması](https://sourceforge.net/software/compare/Lemmy-vs-Reddit/)
-- [Lemmy (sosyal ağ) - Wikipedia](https://en.wikipedia.org/wiki/Lemmy_(social_network))
-- [Lemmy Kullanıcı Başlangıç Rehberi](https://join-lemmy.org/docs/users/01-getting-started.html)
-- [Lemmy - Açık Kaynak Reposu](https://github.com/LemmyNet/lemmy)
+- [Lemmy kullanıcı başlangıç rehberi](https://join-lemmy.org/docs/users/01-getting-started.html)
 
