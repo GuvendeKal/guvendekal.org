@@ -8,7 +8,7 @@ Güvende Kal projesinin devamlılığı ve sürekliliği, topluluğun katkısın
 
 ?> Bütün katkı yapanlara [buradan](https://github.com/GuvendeKal/guvendekal.org/graphs/contributors) bakabilirsiniz
 
-- [GokturkTalha](https://github.com/GokturkTalha)
+- [Talha Aygün](https://github.com/GokturkTalha)
 - [islemci](https://github.com/islemci)
 - [odest](https://github.com/odest)
 - [2013dogumeymen](https://github.com/2013dogumeymen)
@@ -23,5 +23,6 @@ Güvende Kal projesinin devamlılığı ve sürekliliği, topluluğun katkısın
 - [cosmos-emissary](https://github.com/cosmos-emissary)
 - [56denklemli](https://github.com/56denklemli)
 - [A11Z16](https://github.com/A11Z16)
-- [06ergin06](https://github.com/06ergin06)
+- [İbrahim Hakkı Ergin](https://github.com/06ergin06)
 - [thechief77](https://github.com/thechief77)
+- [kaanboraoz](https://github.com/kaanboraoz)
