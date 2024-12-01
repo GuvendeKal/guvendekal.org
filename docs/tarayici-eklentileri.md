@@ -33,6 +33,29 @@ uBlock Origin eklentisi [açık kaynaktır](https://github.com/gorhill/uBlock) v
     </div>
 </div>
 
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/clearurls.png" alt="ClearURLs" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> ClearURLs
+
+**ClearURLs** eklentisi, internette gezinirken gizliliğinizi korumaya yardımcı olmak için URL'lerden izleme öğelerini otomatik olarak kaldırmaya yarar.
+
+Eklentiyi kurduktan sonra istediğiniz gibi ek ayarlar yapabilir, şu ana kadar ne kadar URL'yi temizlediğini öğrenebilirsiniz.
+
+ClearURLs eklentisi [açık kaynaktır](https://github.com/ClearURLs/Addon) ve GPL-3.0 lisansı <span style="color: green;"><small>(Özgür Yazılım)</small></span> kullanmaktadır.
+
+<div class="web-store-container">
+    <div class="web-store-box">
+        <i class="fab fa-firefox"></i>
+        <div class="title">
+            <a href="https://addons.mozilla.org/firefox/addon/clearurls/" target="_blank" style="color: inherit; text-decoration: none;">Firefox Mağazası</a>
+        </div>
+    </div>
+    <div class="web-store-box">
+        <i class="fab fa-google"></i>
+        <div class="title">
+            <a href="https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk" target="_blank" style="color: inherit; text-decoration: none;">Google Mağazası</a>
+        </div>
+    </div>
+</div>
+
 <!-- ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/sponsorblock.png" alt="Sponsorblock" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> SponsorBlock for Youtube
 
 Youtube içerisinde, içerik üreticilerinin video içerisine yerleştirdiği sponsor bölümlerini atlamaya yarayan SponsorBlock eklentisini zamanınızı koruyacağı ve büyük ihtimalle zaten atlayacağınız yeri otomatik atlayarak sizi yormayacağı için kullanmanızı öneriyoruz.
