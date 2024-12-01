@@ -4,7 +4,7 @@
  - Uygun görseller eklemeyi unutmayın.
  - İçerik kuralları ve ekleme yapmak sayfalarını ziyaret edebilirsiniz -->
 
-# RSS İstemcileri
+# RSS Okuyucuları
 
 **RSS** (Really Simple Syndication veya Rich Site Summary), internet kullanıcılarının güncel içeriklere kolayca ulaşmasını sağlayan bir web besleme teknolojisidir. RSS, genellikle bloglar, haber siteleri, podcastler ve diğer içerik güncellemelerine sahip web siteleri tarafından kullanılır. RSS, kullanıcıların bir web sitesini sürekli ziyaret etmeye gerek kalmadan yeni içeriklerden haberdar olmasını sağlar. RSS beslemeleri, XML formatında yayınlanır ve genellikle şu tür bilgileri içerir:
 
@@ -13,10 +13,10 @@
 - Yayın tarihleri,
 - İçeriğin bağlantıları.
 
-**RSS İstemcileri** (RSS okuyucuları veya RSS okuyucu uygulamaları), kullanıcıların RSS beslemelerini takip etmesini sağlayan yazılım veya web hizmetleridir. Bu istemciler, farklı web sitelerinden alınan güncellemeleri tek bir arayüzde toplar ve kolay erişim sağlar. Bulut şekilde çalışan RSS istemcileri, lokal yada bulut şekilde çalışabilir.
+**RSS okuyucuları**, kullanıcıların RSS beslemelerini takip etmesini sağlayan yazılım veya web hizmetleridir. Bu istemciler, farklı web sitelerinden alınan güncellemeleri tek bir arayüzde toplar ve kolay erişim sağlar. Bulut şekilde çalışan RSS istemcileri, lokal yada bulut şekilde çalışabilir.
 
 - Lokal şekilde çalışan bir RSS istemcisinde, sadece o cihaz üzerinden RSS akışına erişebilirsiniz.
-. Bulut şekilde çalışan bir RSS istemcisinde, farklı cihazlardan aynı RSS akışına erişebilirsiniz.
+- Bulut şekilde çalışan bir RSS istemcisinde, farklı cihazlardan aynı RSS akışına erişebilirsiniz.
 
 ## Önerilenler Tablosu
 
@@ -30,7 +30,7 @@
 
 [**FreshRSS**](https://freshrss.org), 2014 yılında kurulmuş web tabanlı bir RSS istemcisidir. Özgür yazılım ve **Açık Kaynak** kodlu, hem kendi sunucunuza kurabileceğiniz hem de **FreshRSS Cloud** sayesinde bulut servisi biçiminde kullanabileceğiniz bir istemcidir. FreshRSS içerisinde birden fazla tema ile gelir, ama en sevilen özelliği çok geniş bir eklenti desteğine sahiptir, böylece kişiselleştirebilirsiniz.
 
-- [Github](https://github.com/FreshRSS/FreshRSS)
+- [Açık kaynak depo](https://github.com/FreshRSS/FreshRSS)
 
 ## Miniflux
 
