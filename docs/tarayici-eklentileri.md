@@ -32,6 +32,7 @@ uBlock Origin eklentisi [açık kaynaktır](https://github.com/gorhill/uBlock) v
         </div>
     </div>
 </div>
+?>Chrome ve Chromium tarayıcılarda(Brave hariç) Manifest V2 desteği bittiğinden dolayı uBlock Origin kullanılamamaktadır. Alternatif olarak [uBlock Origin Lite](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh) kullanılabilir. 
 
 <!-- ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/sponsorblock.png" alt="Sponsorblock" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> SponsorBlock for Youtube
 
