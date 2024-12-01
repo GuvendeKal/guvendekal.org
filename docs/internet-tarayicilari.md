@@ -24,8 +24,7 @@ Bu gibi sebeplerden ötürü, Chromium'dan sonra en çok kullanılan tarayıcı 
 | <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/librewolf.svg" alt="Librewolf" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> [**LibreWolf**](https://librewolf.net/)                | Firefox  | <span style="color: green;">✓</span> |     MPL      |                                         <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i>                                         |
 | <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/brave-icon.png" alt="Brave" style="width: 30px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> [**Brave Browser**](https://brave.com/download/)          | Chromium | <span style="color: green;">✓</span> |     MPL      | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> |
 | <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/mullvad-icon.png" alt="Mullvad" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> [**Mullvad Browser**](https://mullvad.net/en/browser) | Firefox  | <span style="color: green;">✓</span> |     MPL      |                                         <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i>                                         |
-| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/tor.svg" alt="Tor" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> [**Tor Browser**](https://www.torproject.org)                      | Firefox  | <span style="color: green;">✓</span> |     MPL      |                      <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i>                       |
-| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/ug-chromium.png" alt="Ungoogled Chromium" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> [**Ungoogled Chromium**](https://github.com/ungoogled-software/ungoogled-chromium)              | Chromium  | <span style="color: green;">✓</span> | BSD 3-Clause |                                         <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i>                                         |
+
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/firefox.png" alt="Firefox" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Mozilla Firefox
 
@@ -60,18 +59,6 @@ Brave içinde aynı zamanda kripto cüzdan olarak kullanabileceğiniz [**Brave W
 **Mullvad Browser**, Mullvad VPN ile Tor Project ortaklığı ile ortaya çıkmış bir tarayıcıdır. Geliştirilmesi Tor Project tarafından sağlanırken, dağıtımını Mullvad üstlenir.
 
 Mullvad Browser'in temel amacı Tor ağını kullanmadan, Tor'un sunduğu bütün gizlilik özelliklerinden yararlanmasıdır. Mullvad VPN ile entegre çalışır ancak kullanmak için Mullvad VPN şart değildir.
-
-### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/tor.svg" alt="Tor" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Tor Browser
-
-?> Tor Browser için [**Tor Ağı**](tor-agi.md) sayfasını ziyaret edebilirsiniz.
-
-### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/ug-chromium.png" alt="Ungoogled Chromium" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> Ungoogled Chromium
-
-**Ungoogled Chromium**, gönüllü bir ekip vasıtasıyla geliştirilen ve Chromium tabanlı bir tarayıcıdır. Diğer Chromium tabanlı tarayıcıların aksine arkadaki tüm Google işlemlerini silmeyi ve gizliliğinizi Google'dan korumaya çalışan bir yapıya sahiptir.
-
-Varsayılan olarak Google'a ait bütün internet servislerinden ve veri toplama mekanizmalarından arındırılmış bir şekilde gelmektedir. Her ne kadar son kullanıcıya hitap etmese de gelişmiş kullanıcılar için yepyeni özellikler sunmaktadır.
-
-?> Ungoogled Chromium'da varsayılan olarak tarayıcı eklentilerini içeren Chrome Web Store hizmeti kapalıdır. Kapatılmış bazı özellikleri yeniden açmak için uygulamanın [**resmi GitHub reposunu**](https://github.com/ungoogled-software/ungoogled-chromium) incelemeniz önerilir.
 
 ### Farklı platformlar için tarayıcı önerileri
 

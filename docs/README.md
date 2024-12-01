@@ -187,18 +187,6 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
             <a href="https://guvendekal.org/#/internet-tarayicilari?id=-mullvad-browser" target="_blank" style="color: inherit; text-decoration: none;">Mullvad Browser</a>
         </div>
     </div>
-    <div class="service-box">
-        <img src="docs/images/tor.svg" alt="icon">
-        <div class="title">
-            <a href="https://guvendekal.org/#/tor-agi" target="_blank" style="color: inherit; text-decoration: none;">Tor Browser</a>
-        </div>
-    </div>
-    <div class="service-box">
-        <img src="docs/images/ug-chromium.png" alt="icon">
-        <div class="title">
-            <a href="https://guvendekal.org/#/internet-tarayicilari?id=-ungoogled-chromium" target="_blank" style="color: inherit; text-decoration: none;">Ungoogled Chromium</a>
-        </div>
-    </div>
 </div>
 
 ## Posta Uygulamaları
