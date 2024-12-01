@@ -2,7 +2,7 @@
  - Bu içerik bilgi içerikli makaledir.
  - Sözlüğe eklediğiniz kelimeleri alfabetik sıraya göre yerleştiriniz.
  - Siber güvenlik, mahremiyet gibi konular hakkında kelimeler eklenmelidir.
- - Lütfen aktif bir sözlük pr'ı bulunuyorsa, ona ekleme yapınız! Senkronizasyon hataları çıkmaması için dikkat edilmesi gerekiyor.
+ - Lütfen aktif bir sözlük pr'ı bulunuyorsa, ona ekleme yapınız! [ilgili dal GuvendeKal/guvendekal.org/tree/sozluk-eklemeleri/] Senkronizasyon hataları çıkmaması için dikkat edilmesi gerekiyor.
  - İçerik kuralları ve ekleme yapmak sayfalarını ziyaret edebilirsiniz -->
 
 # Sözlük
