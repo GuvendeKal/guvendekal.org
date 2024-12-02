@@ -33,9 +33,7 @@ Bu nedenlerle sizin verilerinizi işleyip kullanan, aramalarda manipülasyon yap
 - DuckDuckGo, StartPage ve Brave Search'in kullanıcılarına sunduğu reklamlar, kapatılabilmektedir. Aynı zamanda kullanıcıların arama sorgularını ve davranışlarını analiz edip reklam göstermez.
 - Whoogle, açık kaynak ve özgür yazılım olup Google sonuçlarını gösteren, ancak Google'daki gereksiz ve gizliliğe önem vermeyen servisleri çıkartıp size sunan sade ve kullanışlı bir arama motorudur.
 
-## DuckDuckGo
-
-![DuckDuckGo](images/duckduckgo.png)
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/duckduckgo-icon.png" alt="DDG" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> DuckDuckGo
 
 Gizlilik ve mahremiyetinize önem veren [**DuckDuckGo**](https://duckduckgo.com/) 2008 yılında piyasaya sürülmüştür. Arama bazlı reklam modeli sunan DuckDuckGo'da isteğe bağlı reklamlarıda kapatma seçeneğide sunmaktadır.
 
@@ -45,9 +43,7 @@ Yakın bir tarihte çıkarttığı [**Duck AI Chat**](https://duck.ai) ile giri�
 
 DuckDuckGo'nun kullanıcılarının mahremiyetine ve gizliliğine önem verdiği için Google yada Bing gibi alternatifler yerine tercih etmenizi öneririz. Daha fazla bilgi için DuckDuckGo'nun [**Gizlilik Politikasına**](https://duckduckgo.com/privacy) bakabilirsiniz.
 
-## Brave Search
-
-<img src="docs/images/brave.png" alt="Brave Search" width="350">
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/brave-icon.png" alt="Brave" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> Brave Search
 
 [**Brave Search**](https://search.brave.com/), kullanıcı gizliliğine ve mahremiyetine öncelik veren bir arama motorlarından biridir. Brave tarayıcısı tarafından geliştirilen Brave Search, 2021 yılında piyasaya sürülmüştür.
 
@@ -61,7 +57,7 @@ Brave Search kullanıcılarının mahremiyetine ve gizliliğine önem verdiği i
 
 ?> Brave Search'ün arama sonuçları, Türkçe içerikler için yeterli olmayabilir.
 
-## StartPage
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/startpage-icon.png" alt="Startpage" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> StartPage
 
 [**Startpage**](https://www.startpage.com/), gizliliğe önem veren bir başka arama motorudur. Kökleri 1998'e kadar dayanan Startpage, kullanıcı verilerini toplamadan ve izleme yapmadan Google arama sonuçlarını sunmasıyla dikkat çeker.
 
@@ -71,9 +67,7 @@ Kişiselleştirilmiş reklamlar olmadığı için kullanıcının mahremiyetine 
 
 StartPage kullanıcılarının mahremiyetine ve gizliliğine önem verdiği için Google yada Bing gibi alternatifler yerine tercih etmenizi öneririz. Daha fazla bilgi için StartPage'in [**Gizlilik Poltikasına**](https://www.startpage.com/en/privacy-policy) bakabilirsiniz.
 
-## Searx
-
-<img src="docs/images/searx.png" alt="Searx" width="350">
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/searx-icon.png" alt="Searx" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> Searx
 
 **Searx**, gizliliği koruyan ve açık kaynak kodlu bir meta arama motorudur. 2014 yılında geliştirilmeye başlanan Searx, kullanıcıların arama sonuçlarını farklı arama motorlarından toplayarak sunar ve kullanıcı verilerini izlemeyen bir yapı sunar. Searx, reklamsız bir arama deneyimi sunar.
 
@@ -88,21 +82,3 @@ Searx, bağımsız bir arama motoru olduğu için herkes Searx'i kendi sunucusun
 Searx'i kullanıcılarının mahremiyetine ve gizliliğine önem verdiği için Google yada Bing gibi alternatifler yerine tercih etmenizi öneririz. Aynı zamanda Searx'in [**dökümantasyon**](https://docs.searxng.org/) sayfasına ve [**kaynak kodlarına**](https://github.com/searxng/searxng) bakabilirsiniz.
 
 - [**Güvende Kal Searx Sunucusu**](https://searx.guvendekal.org/)
-
-<!-- WHOOGLE son zamanlarda fazla hata alıyor gibi ondan şimdilik not içine alındı.
-
-## Whoogle 
-
-**Whoogle**, gizlilik ve kişiselleştirilebilir olarak anonim bir Google deneyimi sunar. Sonuçların kaynağı Google'dan gelir, ancak Google'daki gereksiz, gizliliği ihlal eden ve arama motorunu yavaşlatan servisleri çıkartır.
-
-Whoogle, açık kaynak ve özgür yazılım olduğu için kendi lokal sunucunuzda veya sisteminizde barındırabilirsiniz, tıpkı **Searx** gibi.
-
-Whoogle, kişiselleştirme konusunda üst düzey bir arama motorudur ve onlarca özelleştirme seçeneği sunar. Bunlardan bazıları şunlardır: Tor'u kullanma, sosyal medya verilerini göstermeme, JavaScript'i kapatma, ülke seçme, arama lokasyonu seçme vb.
-
-Whoogle, daha önce dediğimiz gibi arama sonuçlarını Google'dan aldığı için kaliteli sonuçlar gösterir ve tasarım konusunda ön plana çıkar. Son derece sade ve minimalist bir görünüme sahiptir.
-
-Kısaca, gizlilik ve mahremiyeti önemseyen Whoogle, tercih edilebilecek bir **Açık Kaynak** arama motorudur.
-
-**!> Kullandığınız Whoogle sunucusunun sahibi kayıt tutmayı açmış olabilir. Buna dikkat etmeniz gerekir.**
-
-![Whoogle Github Sayfası](https://github.com/benbusby/whoogle-search) -->

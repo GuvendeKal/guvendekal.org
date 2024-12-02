@@ -218,7 +218,7 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
     <div class="service-box">
         <img src="docs/images/gog.png" alt="icon">
         <div class="title">
-            <a href="https://guvendekal.org/#/uygulama-magazalari?id=-gogcom" target="_blank" style="color: inherit; text-decoration: none;">Gog.com</a>
+            <a href="https://guvendekal.org/#/uygulama-magazalari?id=-gogcom" target="_blank" style="color: inherit; text-decoration: none;">GOG.com</a>
         </div>
     </div>
     <div class="service-box">
@@ -248,12 +248,6 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
         <img src="docs/images/vaultwarden.png" alt="icon">
         <div class="title">
             <a href="https://guvendekal.org/#/sifre-yoneticileri?id=-vaultwarden" target="_blank" style="color: inherit; text-decoration: none;">Vaultwarden</a>
-        </div>
-    </div>
-    <div class="service-box">
-        <img src="docs/images/kwalletmanager.png" alt="icon">
-        <div class="title">
-            <a href="https://guvendekal.org/#/sifre-yoneticileri?id=-kwalletmanager" target="_blank" style="color: inherit; text-decoration: none;">Kwalletmanager</a>
         </div>
     </div>
 </div>
