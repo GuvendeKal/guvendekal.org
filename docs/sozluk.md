@@ -143,6 +143,8 @@ Burada siber güvenlik ve mahremiyet konularında kullanılan terimlerin anlamla
 
 ## T
 
+- **Tails OS** <small>(tehdit avcılığı)</small>: Tails OS, temel olarak güvenlik ve mahremiyet odaklı bir Linux dağıtımıdır. Tails OS, tamamen açık kaynak ve özgür yazılımdır. USB'ye kurulur ve bilgisayardan bilgisayara kolayca geçiş sağlanır. Tails tamamen Tor Ağından geçer ve Tor ağı ile kaplıdır. Tails'da şifreleme bölgesinde kaydettiğiniz her dosya şifrelenir ve bilgisayarı kapattığınızda, Şifreleme Bölgesinde şifrelenmiş dosyalar hariç her dosya, her giriş çıkış, indirme ve silme işlemi silinir. Tails OS işletim sistemini, gazeteciler, maksimum güvenlik isteyenler, kendisini internette güvende hissetmeyenler vb. kişiler kullanır. Gazeteciler, yasal kısıtlamalardan kurtulmak ve güvenli, anonim iletişim için Tails OS'i sıklıkla kullanırlar.
+
 - **Threat Hunting** <small>(tehdit avcılığı)</small>: Bir ağda veya sistemde, mevcut güvenlik araçlarının algılamadığı siber tehditlerin aktif olarak aranması sürecidir. Bu, saldırganların izlerini bulmak, bilinmeyen kötü amaçlı yazılımları tespit etmek veya güvenlik açıklarını belirlemek için yapılır.
 
  - **Time-Based One-Time Password *(TOTP)*** <small>(zamana dayalı tek kullanımlık parola)</small>: Kullanıcıların belirli bir süre *(genellikle 30-60 saniye*) için geçerli olan tek seferlik bir doğrulama kodu kullanmasına olanak tanıyan bir kimlik doğrulama yöntemi. TOTP kodları genellikle bir mobil uygulama *(Google Authenticator, Authy vb.)* tarafından üretilir ve 2FA veya MFA süreçlerinde yaygın olarak kullanılır. Zamana dayalı yapısı, bu kodların tahmin edilmesini veya tekrar kullanılmasını zorlaştırır.
