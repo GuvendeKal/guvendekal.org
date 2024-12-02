@@ -26,3 +26,4 @@ Güvende Kal projesinin devamlılığı ve sürekliliği, topluluğun katkısın
 - [İbrahim Hakkı Ergin](https://github.com/06ergin06)
 - [thechief77](https://github.com/thechief77)
 - [kaanboraoz](https://github.com/kaanboraoz)
+- [trnahuman](https://github.com/trnahuman)
