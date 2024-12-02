@@ -74,7 +74,7 @@ Burada siber güvenlik ve mahremiyet konularında kullanılan terimlerin anlamla
 - **ISO Image**: Bir işletim sisteminin veya yazılımın tam bir kopyasını içeren disk görüntüsü dosyasıdır. ISO dosyaları genellikle işletim sistemi kurulumları için kullanılır.
 
 - **IPv4**: IP adresleme sisteminin eski sürümüdür. 32-bit adres yapısına sahiptir ve 4 rakam grubuyla ifade edilir (örneğin, 192.168.1.1).
-- 
+
 - **IPv6**: Daha geniş adresleme kapasitesine sahip olan ve 128-bit adres yapısını kullanan IP adresleme sisteminin yeni sürümüdür (örneğin, 2001:0db8:85a3:0000:0000:8a2e:0370:7334).
 
 - **IPS**: Intrusion Prevention System anlamında gelir. Bir sisteme ya da makineye bir arka kapı ya da açık aracılığı ile sızılmasını engelleyen sistem ve sistemler bütününe verilen addır.
