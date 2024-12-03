@@ -16,7 +16,7 @@
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/signal.png" alt="Signal" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Signal
 
-[**Signal**](https://signal.org/) 2014 yılında, Signal vakfı(Moxie Marlinspike ve WhatsApp kurucu ortağı Brian Acton) tarafından kurulmuştur. Uçtan uca şifreleme ile gizlilik ve güvenlik odaklı bir mesajlaşma uygulaması olan signal, ücretsizdir ve kar amacı gütmez.
+[**Signal**](https://signal.org/) 2014 yılında, Signal Vakfı (Moxie Marlinspike ve WhatsApp kurucu ortağı Brian Acton) tarafından kurulmuştur. Uçtan uca şifreleme ile gizlilik ve güvenlik odaklı bir mesajlaşma uygulaması olan signal, ücretsizdir ve kar amacı gütmez.
 
 <table>
   <tr>
@@ -70,7 +70,7 @@
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/session.png" alt="Session" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Session
 
-[**Session**](https://getsession.org/) Session 2019 yılında, gizlilik ve anonimlik odaklı bir mesajlaşma uygulaması olarak Loki Foundation tarafından geliştirilmiştir. Ücretsiz ve açık kaynaklıdır.
+[**Session**](https://getsession.org/) Session 2019 yılında, gizlilik ve anonimlik odaklı bir mesajlaşma uygulaması olarak Loki Vakfı tarafından geliştirilmiştir. Ücretsiz ve açık kaynaklıdır.
 
 <table>
   <tr>
