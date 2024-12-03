@@ -329,6 +329,12 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
             <a href="https://guvendekal.org/#/rss-istemcileri?id=-miniflux" target="_blank" style="color: inherit; text-decoration: none;">Miniflux</a>
         </div>
     </div>
+    <div class="service-box">
+        <img src="docs/images/fluentreader.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/rss-istemcileri?id=-fluent-reader" target="_blank" style="color: inherit; text-decoration: none;">Fluent Reader</a>
+        </div>
+    </div>
 </div>
 
 ## Senkronizasyon
