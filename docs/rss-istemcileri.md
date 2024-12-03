@@ -6,12 +6,12 @@
 
 # RSS Okuyucuları
 
-**RSS** (Really Simple Syndication veya Rich Site Summary), internet kullanıcılarının güncel içeriklere kolayca ulaşmasını sağlayan bir web besleme teknolojisidir. RSS, genellikle bloglar, haber siteleri, podcastler ve diğer içerik güncellemelerine sahip web siteleri tarafından kullanılır. RSS, kullanıcıların bir web sitesini sürekli ziyaret etmeye gerek kalmadan yeni içeriklerden haberdar olmasını sağlar. RSS beslemeleri, XML formatında yayınlanır ve genellikle şu tür bilgileri içerir:
+**RSS** (Really Simple Syndication veya Rich Site Summary), internet kullanıcılarının güncel içeriklere kolayca ulaşmasını sağlayan bir web besleme teknolojisidir. RSS, genellikle bloglar, haber siteleri, podcastler ve diğer içerik güncellemelerine sahip web siteleri tarafından kullanılır. RSS, kullanıcıların bir web sitesini sürekli ziyaret etmeye gerek kalmadan yeni içeriklerden haberdar olmasını sağlar, böylece sitelerin kullanıcıları kendilerinde tutmak için kullandıkları manipülatif algoritmalarına mağruz kalınmaz. RSS beslemeleri, XML formatında yayınlanır ve genellikle şu tür bilgileri içerir:
 
 - Yeni makalelerin başlıkları,
 - Makale özetleri,
 - Yayın tarihleri,
-- İçeriğin bağlantıları.
+- İçeriğin bağlantıları,
 
 **RSS okuyucuları**, kullanıcıların RSS beslemelerini takip etmesini sağlayan yazılım veya web hizmetleridir. Bu istemciler, farklı web sitelerinden alınan güncellemeleri tek bir arayüzde toplar ve kolay erişim sağlar. Bulut şekilde çalışan RSS istemcileri, lokal yada bulut şekilde çalışabilir.
 
@@ -24,7 +24,7 @@
 |----------------|:-------------:|:---------------:|:------------:|:--------------:|
 | <img src="docs/images/freshrss.png" alt="FreshRSS" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> [**FreshRSS**](https://freshrss.org)</span> | <span style="color: green;">✓</span> | Bulut ve Self-host | Ücretsiz   | <i class="fa-solid fa-globe"></i> |
 | <img src="docs/images/miniflux.png" alt="Miniflux" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> [**Miniflux**](https://miniflux.app)</span> | <span style="color: green;">✓</span> | Bulut ve Self-host | Ücretsiz/Ücretli | <i class="fa-solid fa-globe"></i> |
-| <img src="docs/images/FluentReader.png" alt="Fluent Reader" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> [**Fluent Reader**](https://hyliu.me/fluent-reader/)</span> | <span style="color: green;">✓</span> | Bulut ve Self-host | Ücretsiz   | <i class="fa-solid fa-globe"></i> |
+| <img src="docs/images/fluentreader.png" alt="Fluent Reader" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> [**Fluent Reader**](https://hyliu.me/fluent-reader/)</span> | <span style="color: green;">✓</span> | Bulut ve Self-host | Ücretsiz   | <i class="fa-solid fa-globe"></i> |
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/freshrss.png" alt="FreshRSS" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> FreshRSS
 
@@ -38,7 +38,7 @@
 
 **- [Açık kaynak depo](https://github.com/miniflux/v2)**
 
-### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/FluentReader.png" alt="Fluent Reader" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Fluent Reader
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/fluentreader.png" alt="Fluent Reader" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Fluent Reader
 
 [**Fluent Reader**](https://hyliu.me/fluent-reader/) Açık Kaynak ve Özgür yazılım olan ücretsiz ve son zamanların en gözde ve popüler RSS istemcilerinden biridir. Fluent Reader, başlangıçta Haoyuan Liu isimli bir yazılımcı tarafından geliştirilmeye başlanmıştır ve diğer açık kaynak yazılımcılarının yoğun ilgisiyle hızla büyümüş ve sonunda **Microsoft** tarafından büyük yatırımlar almıştır. Fluent Reader tamamen ücretsiz olmakla birlikte, açık kaynak olmasından dolayı kendi sunucunuzda da kurabileceğiniz bir RSS istemcisidir. Fluent Reader'in en dikkat çeken özelliği, modern, minimalist, sade ve iyi bir tasarıma sahip olmasıdır. Bunun dışında, detaylı kategorilendirme seçenekleri, okuma modları, kişiselleştirme vb. özelliklere sahiptir.
 
