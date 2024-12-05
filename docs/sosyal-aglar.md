@@ -22,6 +22,16 @@ Bu platformlar, modern iletişim ve bilgi paylaşımının vazgeçilmez araçlar
 
 Mastodon içinde reklam yada izleyici bulunmaz. Mastodon, bir ana şirket veya merkezi otorite tarafından yönetilmez. Bunun yerine, bireyler veya topluluklar kendi sunucularını kurabilir ve bu sunucular federasyon adı verilen bir sistemle birbirine bağlanır.
 
+***Tavsiye Ettiğimiz Mastodon Sunucuları:***
+
+[Mastodon Social](https://mastodon.social/home)
+
+[Fosstodon](https://fosstodon.org/)
+
+[Mastodon.com.tr](https://mastodon.com.tr/about)
+
+
+**Mastodon Açık Kaynak Deposu:**
 
 -[Açık kaynak depo(lar)](https://github.com/mastodon)
 
