@@ -54,9 +54,9 @@ Bluesky'nin temel özellikleri:
 - **Kullanıcı Kontrolü:** Platform, kullanıcıların verilerini yönetmelerine olanak tanır.
 
 
-| Reklam                       | Açık Kaynak                | Lisans Türü | Platformlar                                                                                   | Kullanıcı Sayısı |
+| Reklamsız                       | Açık Kaynak                | Lisans Türü | Platformlar                                                                                   | Kullanıcı Sayısı |
 |------------------------------|----------------------------|-------------|----------------------------------------------------------------------------------------------|------------------|
-| <span style="color: red;">✗</span> | <span style="color: green;">✓</span> | MIT         | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> | 24 Milyon        |
+| <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | MIT         | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> | 24 Milyon        |
 
 
 #### Kaynaklar ve Dökümanlar
