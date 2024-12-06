@@ -18,7 +18,7 @@ Bu platformlar, modern iletişim ve bilgi paylaşımının vazgeçilmez araçlar
 |<img src="https://github.com/bluesky-social/social-app/blob/main/assets/app-icons/android_icon_core_aurora.png?raw=true" alt="Bluesky" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> [Bluesky Social](https://bsky.app/) </span> | Merkeziyetsiz | <span style="color: green;">✓</span> | MIT | <span style="color: green;">✓</span> | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> |
 
 
-### <span style="display: inline-block; vertical-align: middle;"><img src="https://en.m.wikipedia.org/wiki/File:Bluesky_Logo.svg" alt="Mastodon" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> Mastodon
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/mastodon-icon.svg" alt="Mastodon" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> Mastodon
 
 **Mastodon**, merkezi olmayan bir sosyal medya platformudur ve açık kaynak kodlu bir yazılım olarak geliştirilmiştir. Twitter’a benzeyen bir yapıya sahip olsa da, merkezi bir yönetim yerine dağıtık bir sistemle çalışır. Mastodon, kullanıcıların kendi sunucularını (instance) kurmalarına olanak tanır ve bu sunucular arasında etkileşim sağlar. Bu yaklaşım, kullanıcıların daha fazla kontrol sahibi olmasını ve platformun daha özgür ve adil bir şekilde çalışmasını hedefler.
 
