@@ -14,13 +14,8 @@
 
 ---
 
-<div class="custom-box">
-  <img src="https://raw.githubusercontent.com/LinkSheet/LinkSheet/refs/heads/master/app/src/main/res/drawable/app_linksheet.png" alt="LinkSheet Logo">
-  <div>
-    <a class="title">LinkSheet</a>
-    <p class="description">Bağlantılarınız üzerinde tam kontrol sağlayan açık kaynaklı bir bağlantı yönetim aracı.</p>
-  </div>
-</div>
+### <span style="display: inline-block; vertical-align: middle;"> <img src="https://raw.githubusercontent.com/LinkSheet/LinkSheet/refs/heads/master/app/src/main/res/drawable/app_linksheet.png" alt="LinkSheet Logo"> </span> <span style="display: inline-block; vertical-align: middle;"> LinkSheet
+
 
 LinkSheet, Android cihazlarda bağlantı yönetimi ve kullanıcı gizliliği açısından benzersiz bir araçtır. Android 12 ile kaldırılan bağlantı seçici özelliğini geri getirerek, bağlantıların nasıl açılacağını seçme özgürlüğü sunar. ClearURLs ve LibRedirect entegrasyonu ile kullanıcı gizliliğini artırır. 
 
