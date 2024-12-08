@@ -15,6 +15,8 @@ Bu platformlar, modern iletişim ve bilgi paylaşımının vazgeçilmez araçlar
 |----------|:------------------:|:-----------:|:-----------:|:--------------------------------:|:---------------------:|
 | <img src="docs/images/mastodon-icon.svg" alt="Mastodon" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> [Mastodon](https://joinmastodon.org/) </span> | Merkeziyetsiz | <span style="color: green;">✓</span> | AGPLv3      | <span style="color: green;">✓</span> | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> |
 | <img src="docs/images/lemmy_icon.png" alt="Lemmy" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> [Lemmy](https://join-lemmy.org/) </span>  | Merkeziyetsiz | <span style="color: green;">✓</span> | AGPLv3      | <span style="color: green;">✓</span> | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> |
+|<img src="https://github.com/bluesky-social/social-app/blob/main/assets/app-icons/android_icon_core_aurora.png?raw=true" alt="Bluesky" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> [Bluesky Social](https://bsky.app/) </span> | Merkeziyetsiz | <span style="color: green;">✓</span> | MIT | <span style="color: green;">✓</span> | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> |
+
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/mastodon-icon.svg" alt="Mastodon" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> Mastodon
 
@@ -41,4 +43,23 @@ Lemmy, birbirleriyle iletişim kurabilen ve etkileşimde bulunabilen bağımsız
 - [Açık kaynak depo](https://github.com/LemmyNet/lemmy)
 - [Lemmy vs Reddit - SourceForge Karşılaştırması](https://sourceforge.net/software/compare/Lemmy-vs-Reddit/)
 - [Lemmy kullanıcı başlangıç rehberi](https://join-lemmy.org/docs/users/01-getting-started.html)
+ 
+### <span style="display: inline-block; vertical-align: middle;"><img src="https://github.com/bluesky-social/social-app/blob/main/assets/app-icons/android_icon_core_aurora.png?raw=true" alt="Bluesky" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> Bluesky Social
 
+**Bluesky Social**, merkeziyetsiz bir sosyal ağ deneyimi sunmayı amaçlayan, açık kaynak tabanlı bir platformdur. AT Protocol üzerine inşa edilen Bluesky, kullanıcılarına daha fazla özgürlük, veri sahipliği ve içerik taşınabilirliği sunar. Modern bir sosyal ağ vizyonuyla, reklamdan uzak ve kullanıcı odaklı bir deneyim sağlar.
+
+Bluesky'nin temel özellikleri:
+- **Merkeziyetsizlik:** Kullanıcılar, veri sahipliği ve bağımsızlık sağlar.
+- **AT Protocol:** Dağıtık ve merkeziyetsiz sosyal ağ deneyimi sunar.
+- **Kullanıcı Kontrolü:** Platform, kullanıcıların verilerini yönetmelerine olanak tanır.
+
+
+| Reklamsız                       | Açık Kaynak                | Lisans Türü | Platformlar                                                                                   | Kullanıcı Sayısı |
+|------------------------------|----------------------------|-------------|----------------------------------------------------------------------------------------------|------------------|
+| <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | MIT         | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> | 24 Milyon        |
+
+
+#### Kaynaklar ve Dökümanlar
+- [Açık kaynak depo](https://github.com/bluesky-social/social-app)
+- [Bluesky Geliştirici Belgeleri](https://atproto.com/)
+- [Resmi Web Sitesi](https://bsky.app/)
