@@ -6,26 +6,26 @@
 
 # Başlangıç
 
-Güvende Kal, bireylerin internet üzerindeki **mahremiyetlerini**, **gizliliklerini** ve **güvenliklerini** korumalarına yardımcı olmayı hedefleyen bir projedir.
+Güvende Kal, bireylerin internet üzerindeki **mahremiyetlerini** ve **güvenliklerini** korumalarına yardımcı olmayı hedefleyen bir projedir.
 
-Bireylerin internet üzerindeki haklarını ve gizliliklerini koruma konusunda bilinçlenmelerini teşvik ederek, daha güvenli bir dijital ortam yaratmayı hedeflemektedir.
+Bireylerin internet üzerindeki hak ve özgürlüklerini koruma konusunda bilinçlenmelerini teşvik ederek daha güvenli bir dijital ortam yaratmayı hedeflemektedir.
 
 Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlamak amacıyla çeşitli **kaynaklar**, **bilgiler**, **araçlar** ve **yazılımlar** sunar.
 
-> "*Gizleyecek bir şeyiniz olmadığı için mahremiyet hakkını umursamadığınızı iddia etmek, söyleyecek bir şeyiniz olmadığı için ifade özgürlüğünü umursamadığınızı söylemekten farksızdır*"
-> <br> **Edward Snowden**
+> "*Gizleyecek bir şeyiniz olmadığı için mahremiyet hakkını umursamadığınızı iddia etmek, söyleyecek bir şeyiniz olmadığı için ifade özgürlüğünü umursamadığınızı söylemekten farksızdır.*"
+> <br> *— Edward Snowden*
 
-!> Güvende Kal projesi daha geliştirme aşamasındadır. İçerik kalitemizi arttırmaya ve yeni sayfalar oluşturmaya çalışıyoruz. Hâlâ bitmemiş dökümantasyon dosyalarına baktığınızı unutmayın. Herhangi bir hata bildirmek için [**buraya**](https://github.com/GuvendeKal/guvendekal.org/issues) konu açabilirsiniz yada direkt sağ üstteki "Dökümanı Düzenle" diyip herhangi bir hatayı kendiniz düzeltebilirsiniz.  Güvende Kal, topluluk tarafından oluşturulmuştur, gelişmesi ve devamlılığı yine topluluğa bağlıdır. Nasıl katkıda bulunabileceğiniz öğrenmek için [**Ekleme Yapmak**](https://guvendekal.org/#/ekleme) ve [**İçerik Kuralları**](https://guvendekal.org/#/icerik-kurallari) sayfalarını ziyaret edebilirsiniz.
+!> Güvende Kal projesi henüz geliştirilme aşamasındadır. İçerik kalitemizi arttırmaya ve yeni sayfalar oluşturmaya çalışıyoruz. Tamamlanmamış bir dokümantasyona baktığınızı unutmayın. Herhangi bir hata bildirmek için [**buraya**](https://github.com/GuvendeKal/guvendekal.org/issues) konu açabilirsiniz ya da direkt sağ üstteki "Dokümanı Düzenle" düğmesine tıklayarak herhangi bir hatayı kendiniz düzeltebilirsiniz. Güvende Kal topluluk tarafından oluşturulmuştur, gelişmesi ve devamlılığı yine topluluğa bağlıdır. Nasıl katkıda bulunabileceğinizi öğrenmek için [**Ekleme Yap**](https://guvendekal.org/#/ekleme) ve [**İçerik Kuralları**](https://guvendekal.org/#/icerik-kurallari) sayfalarını ziyaret edebilirsiniz.
 
-# Prensip & Misyon ve İşleyiş
+# Prensip, Misyon ve İşleyiş
 
-- Güvende Kal, kamu yararına hizmet eder herhangi bir şekilde kâr amacı gütmez.
+- Güvende Kal, kamu yararına hizmet eder ve herhangi bir şekilde kâr amacı gütmez.
 
 - Proje herkese açıktır, isteyen kişiler katkıda bulunabilir.
 
-- Güvende Kal, topluluk tarafından oluşturulmuştur, gelişmesi ve devamlılığı yine topluluğa bağlıdır. Nasıl katkıda bulunabileceğiniz öğrenmek için [**Ekleme Yapmak**](https://guvendekal.org/#/ekleme) ve [**İçerik Kuralları**](https://guvendekal.org/#/icerik-kurallari) sayfalarını ziyaret edebilirsiniz.
+- Güvende Kal topluluk tarafından oluşturulmuştur, gelişmesi ve devamlılığı yine topluluğa bağlıdır. Nasıl katkıda bulunabileceğinizi öğrenmek için [**Ekleme Yap**](https://guvendekal.org/#/ekleme) ve [**İçerik Kuralları**](https://guvendekal.org/#/icerik-kurallari) sayfalarını ziyaret edebilirsiniz.
 
-- İçeriklerin denetimini yapmakla sorumlu olan kişiler, projenin ana ekibidir (maintainer'lar). Bu grubun görevi içeriklerin kullanıcı yararına olmasını sağlamak, adil ve özgür bir bakış açısı ile yazıldığından emin olmak ve projenin sayfasında bulunan bilgilerin güncelliğini kontrol etmektir.
+- İçeriklerin denetimini yapmakla sorumlu olan kişiler (maintainer'lar) projenin ana ekibidir. Bu grubun görevi içeriklerin kullanıcı yararına olmasını sağlamak, adil ve özgür bir bakış açısı ile yazıldığından emin olmak ve projenin sayfasında bulunan bilgilerin güncelliğini kontrol etmektir.
 
 ?> Güvende Kal içinde bulunan yazılar **[Creative Commons Zero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/)** lisansına sahiptir.
 
@@ -35,7 +35,7 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
     <img src="docs/images/librewolf.svg" alt="Logo">
     <div style="flex: 1;">
         <a href="https://guvendekal.org/#/internet-tarayicilari?id=-librewolf" class="title">Mahremiyet ve güvenlik odaklı: Librewolf </a>
-        <p class="description">Firefox tabanlı Librewolf kullanıcı mahremiyetini ve gizliliğini önemseyen en iyi tarayıcılardan biridir. Firefox'un varsayılan ayarlarının en güvenlikli olacak şekilde ayarlanmıştır.</p>
+        <p class="description">Firefox tabanlı Librewolf kullanıcı mahremiyetini ve güvenliğini önemseyen en iyi tarayıcılardan biridir. Firefox'un aksine varsayılan ayarları tamamen mahremiyet ve güvenlik odaklıdır.</p>
         <div class="icon-group">
             <span><i class="fa-brands fa-windows"></i> Windows</span>
             <span><i class="fas fa-apple-alt"></i> Mac</span>
@@ -48,7 +48,7 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
     <img src="docs/images/ublock.png" alt="Logo">
     <div style="flex: 1;">
         <a href="https://guvendekal.org/#/tarayici-eklentileri?id=-ublock-origin" class="title">En iyi reklam ve izleyici engelleyici: uBlock Origin</a>
-        <p class="description">En güçlü ve gelişmiş reklam, izleyici engelleme eklentisidir. Diğer reklam engelleme eklentilerine kıyasla daha gelişmiş ve reklam engelleme yeteneği daha iyidir.</p>
+        <p class="description">Sıradan bir reklam engelleyici değil, işlemci ve bellek verimliliğine odaklanan güçlü bir içerik engelleyicidir.</p>
         <div class="icon-group">
             <span><i class="fa-solid fa-globe"></i> Web</span>
         </div>
@@ -58,15 +58,15 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
 <div class="custom-box">
     <img src="docs/images/tutamail.png" alt="Logo">
     <div style="flex: 1;">
-        <a href="https://guvendekal.org/#/posta-servisleri?id=-tutanotamail" class="title">Uçtan uca şifrelemeli posta: Tutanota Mail </a>
-        <p class="description">Tutanota Mail Almanya tabanlı, açık kaynaklı ve uçtan uca şifrelemeli güvenli bir e-posta servisidir. Ücretli ve ücretsiz sürümleri mevcuttur. </p>
+        <a href="https://guvendekal.org/#/posta-servisleri?id=-tutanotamail" class="title">Uçtan uca şifrelemeli posta: Tuta Mail </a>
+        <p class="description">Tuta Mail Almanya tabanlı, açık kaynak ve uçtan uca şifrelemeli güvenli bir e-posta servisidir. Ücretli ve ücretsiz sürümleri mevcuttur.</p>
         <div class="icon-group">
             <span><i class="fa-solid fa-globe"></i> Web</span>
             <span><i class="fa-brands fa-windows"></i> Windows</span>
             <span><i class="fas fa-apple-alt"></i> Mac</span>
             <span><i class="fa-brands fa-linux"></i> Linux</span>
             <span><i class="fa-brands fa-android"></i> Android</span>
-            <span><i class="fa-brands fa-app-store-ios"></i> IOS</span>
+            <span><i class="fa-brands fa-app-store-ios"></i> iOS</span>
         </div>
     </div>
 </div>
@@ -75,13 +75,13 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
     <img src="docs/images/protonvpn-icon.png" alt="Logo">
     <div style="flex: 1;">
         <a href="https://guvendekal.org/#/vpn?id=proton-vpn" class="title">Sıfır kayıt tutma politikası olan VPN: Proton VPN </a>
-        <p class="description">Proton VPN İsviçre merkezli, açık kaynaklı bir VPN servisidir. Sıfır kayıt tutma politikası olan Proton VPN'in ücretli ve ücretsiz sürümleri mevcuttur.</p>
+        <p class="description">Proton VPN İsviçre merkezli, açık kaynak bir VPN servisidir. Sıfır kayıt tutma politikası olan Proton VPN'in ücretli ve ücretsiz sürümleri mevcuttur.</p>
         <div class="icon-group">
             <span><i class="fa-brands fa-windows"></i> Windows</span>
             <span><i class="fas fa-apple-alt"></i> Mac</span>
             <span><i class="fa-brands fa-linux"></i> Linux</span>
             <span><i class="fa-brands fa-android"></i> Android</span>
-            <span><i class="fa-brands fa-app-store-ios"></i> IOS</span>
+            <span><i class="fa-brands fa-app-store-ios"></i> iOS</span>
         </div>
     </div>
 </div>
@@ -90,14 +90,14 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
     <img src="docs/images/bitwarden.png" alt="Logo">
     <div style="flex: 1;">
         <a href="https://guvendekal.org/#/sifre-yoneticileri?id=-bitwarden" class="title">Güçlü şifreler için güçlü bir kasa: Bitwarden</a>
-        <p class="description">Bitwarden bulut tabanlı, açık kaynaklı ve ücretsiz bir şifre yöneticisidir. Güçlü şifreler oluşturup güçlü şekilde saklamak için iyi bir seçenek.</p>
+        <p class="description">Bitwarden bulut tabanlı, açık kaynak bir şifre yöneticisidir. Güçlü şifreler oluşturup saklamak için iyi bir seçenek. Ücretli ve ücretsiz sürümleri mevcuttur.</p>
         <div class="icon-group">
             <span><i class="fa-solid fa-globe"></i> Web</span>
             <span><i class="fa-brands fa-windows"></i> Windows</span>
             <span><i class="fas fa-apple-alt"></i> Mac</span>
             <span><i class="fa-brands fa-linux"></i> Linux</span>
             <span><i class="fa-brands fa-android"></i> Android</span>
-            <span><i class="fa-brands fa-app-store-ios"></i> IOS</span>
+            <span><i class="fa-brands fa-app-store-ios"></i> iOS</span>
         </div>
     </div>
 </div>
@@ -106,8 +106,8 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
 <div class="custom-box">
     <img src="docs/images/f-droid.png" alt="Logo">
     <div style="flex: 1;">
-        <a href="https://guvendekal.org/#/uygulama-magazalari?id=-f-droid" class="title">Özgür yazılımlar için özgür bir mağaza: F-droid</a>
-        <p class="description">F-Droid, açık kaynaklı ve ücretsiz bir uygulama mağazasıdır. Özgür yazılımlar keşfetmek ve güvenilir bir şekilde yüklemek için harika bir seçenek sunar. Reklamsız bir deneyim ve veri gizliliğe önem verir.</p>
+        <a href="https://guvendekal.org/#/uygulama-magazalari?id=-f-droid" class="title">Özgür yazılımlar için özgür bir mağaza: F-Droid</a>
+        <p class="description">F-Droid, açık kaynak ve ücretsiz bir uygulama mağazasıdır. Özgür yazılımlar keşfetmek ve güvenilir bir şekilde yüklemek için harika bir seçenek sunar. Reklamsız bir deneyim sunarak veri mahremiyetine önem verir.</p>
         <div class="icon-group">
             <span><i class="fa-brands fa-android"></i> Android</span>
         </div>
@@ -189,7 +189,7 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
     </div>
 </div>
 
-## Posta Uygulamaları
+## E-Posta Servisleri
 
 <div class="service-container">
     <div class="service-box">
@@ -201,7 +201,7 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
     <div class="service-box">
         <img src="docs/images/tutamail.png" alt="icon">
         <div class="title">
-            <a href="https://guvendekal.org/#/posta-servisleri?id=-tutanotamail" target="_blank" style="color: inherit; text-decoration: none;">Tutanota Mail</a>
+            <a href="https://guvendekal.org/#/posta-servisleri?id=-tutanotamail" target="_blank" style="color: inherit; text-decoration: none;">Tuta Mail</a>
         </div>
     </div>
 </div>
@@ -212,7 +212,7 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
     <div class="service-box">
         <img src="docs/images/f-droid.png" alt="icon">
         <div class="title">
-            <a href="https://guvendekal.org/#/uygulama-magazalari?id=-f-droid" target="_blank" style="color: inherit; text-decoration: none;">F-droid</a>
+            <a href="https://guvendekal.org/#/uygulama-magazalari?id=-f-droid" target="_blank" style="color: inherit; text-decoration: none;">F-Droid</a>
         </div>
     </div>
     <div class="service-box">
@@ -235,7 +235,7 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
     <div class="service-box">
         <img src="docs/images/keepassxc.png" alt="icon">
         <div class="title">
-            <a href="https://guvendekal.org/#/sifre-yoneticileri?id=-keepassxc" target="_blank" style="color: inherit; text-decoration: none;">KeepassXC</a>
+            <a href="https://guvendekal.org/#/sifre-yoneticileri?id=-keepassxc" target="_blank" style="color: inherit; text-decoration: none;">Keepass</a>
         </div>
     </div>
     <div class="service-box">
@@ -252,7 +252,7 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
     </div>
 </div>
 
-## 2 Faktörlü Doğrulama
+## 2 Aşamalı Doğrulama
 
 <div class="service-container">
     <div class="service-box">
@@ -281,12 +281,12 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
     <div class="service-box">
         <img src="docs/images/onlyoffice.png" alt="icon">
         <div class="title">
-            <a href="https://guvendekal.org/#/ofis-uygulamalari?id=-only-office" target="_blank" style="color: inherit; text-decoration: none;">Only Office</a>
+            <a href="https://guvendekal.org/#/ofis-uygulamalari?id=-only-office" target="_blank" style="color: inherit; text-decoration: none;">ONLYOFFICE</a>
         </div>
     </div>
 </div>
 
-## Sosyal Ağlar
+## Sosyal Medya
 
 <div class="service-container">
     <div class="service-box">
@@ -320,7 +320,7 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
     <div class="service-box">
         <img src="docs/images/freshrss.png" alt="icon">
         <div class="title">
-            <a href="https://guvendekal.org/#/rss-istemcileri?id=-freshrss" target="_blank" style="color: inherit; text-decoration: none;">Fresh RSS</a>
+            <a href="https://guvendekal.org/#/rss-istemcileri?id=-freshrss" target="_blank" style="color: inherit; text-decoration: none;">FreshRSS</a>
         </div>
     </div>
     <div class="service-box">
@@ -337,7 +337,7 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
     </div>
 </div>
 
-## Senkronizasyon
+## Dosya Senkronizasyonu
 
 <div class="service-container">
     <div class="service-box">
@@ -367,8 +367,8 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
 
 ## Atıf ve Hukuksal Bilgiler
 
-guvendekal.org tarafından önerilen hiç bir uygulamanın guvendekal.org ile bağlantısı yoktur. guvendekal.org bu önermelerin sorumluluğunu almaz, herhangi bir çıkar yada kâr gözetmez. guvendekal.org tarafından kullanılan logo, marka isimleri ve tescilli isimler tamamen tanıtım amaçlı kullanılmaktadır.
+Güvende Kal tarafından önerilen hiç bir uygulamanın Güvende Kal ile bağlantısı yoktur. Güvende Kal bu önerilerin dikkate alınmasından doğabilecek sonuçların sorumluluğunu almaz, herhangi bir çıkar ya da kâr gözetmez. Güvende Kal tarafından kullanılan logo, marka isimleri ve tescilli isimler tamamen tanıtım amaçlı kullanılmaktadır.
 
 - guvendekal.org sitesinin alt yapısı [**Docsify**](https://docsify.js.org/#/) ile oluşturulmuştur. (**MIT**)
-- guvendekal.org sitesinde kullanılan ikonlar, [**Font Awesome**](https://fontawesome.com/) kütüphanesinden çekilmektedir. (**CC BY**)
-- guvendekal.org sitesinde kullanılan font [**Inter**](https://rsms.me/inter/) font ailesidir. (**OFL**)
+- guvendekal.org sitesinde kullanılan ikonlar [**Font Awesome**](https://fontawesome.com/) kütüphanesinden çekilmektedir. (**CC BY**)
+- guvendekal.org sitesinde kullanılan yazı tipi [**Inter**](https://rsms.me/inter/) font ailesidir. (**OFL**)
