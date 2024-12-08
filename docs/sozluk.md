@@ -2,12 +2,12 @@
  - Bu içerik bilgi içerikli makaledir.
  - Sözlüğe eklediğiniz kelimeleri alfabetik sıraya göre yerleştiriniz.
  - Siber güvenlik, mahremiyet gibi konular hakkında kelimeler eklenmelidir.
- - Lütfen aktif bir sözlük pr'ı bulunuyorsa, ona ekleme yapınız! Senkronizasyon hataları çıkmaması için dikkat edilmesi gerekiyor.
+ - Lütfen aktif bir sözlük pr'ı bulunuyorsa, ona ekleme yapınız! [ilgili dal GuvendeKal/guvendekal.org/tree/sozluk-eklemeleri/] Senkronizasyon hataları çıkmaması için dikkat edilmesi gerekiyor.
  - İçerik kuralları ve ekleme yapmak sayfalarını ziyaret edebilirsiniz -->
 
 # Sözlük
 
-Burada siber güvenlik ve mahremiyet konularında kullanılan terimlerin anlamlarını öğrenebilirsiniz. Şuan sözlükte toplam **53** kelime bulunmaktadır.
+Burada siber güvenlik ve mahremiyet konularında kullanılan terimlerin anlamlarını öğrenebilirsiniz. Şuan sözlükte toplam **60** kelime bulunmaktadır.
 
 ## A
 
@@ -20,6 +20,8 @@ Burada siber güvenlik ve mahremiyet konularında kullanılan terimlerin anlamla
 ## B
 
 - **Backdoor** <small>(arka kapı)</small>: Bir bilgisayara veya ağa izinsiz erişim sağlamak için gizlice yerleştirilen bir güvenlik açığı veya yazılımdır. Saldırganlar backdoor kullanarak sisteme arka plandan erişim sağlar, böylece dosyalara erişebilir, bilgileri çalabilir veya sistemi uzaktan kontrol edebilirler. Backdoor, çoğu zaman kullanıcı fark etmeden sisteme gizlice yerleştirilir ve güvenlik önlemlerini atlayarak saldırganın giriş yapmasına olanak tanır.
+
+- **Beyaz Şapka** <small>(white hat)</small>: Güvenlik alanında etik hackerlar olarak da bilinir. Beyaz şapka uzmanları, sistemlerdeki güvenlik açıklarını bulup rapor ederek işletmelere veya bireylere zarar gelmesini önlemeye çalışırlar. Genellikle şirketler veya devletler için çalışır ve amaçları siber güvenliği artırmaktır.
   
 - **Biometric Authentication** <small>(biyometrik kimlik doğrulama)</small>: Kullanıcı kimliğini doğrulamak için bireye özgü fiziksel veya davranışsal özelliklerin *(parmak izi, yüz tanıma, iris tarama, ses tanıma vb.)* kullanıldığı bir kimlik doğrulama yöntemidir. 2FA'nın ikinci faktörü olarak sıklıkla kullanılan biyometrik doğrulama, özellikle kolaylık ve güvenlik açısından avantaj sağlar. Ancak biyometrik verilerin güvenliği, mahremiyet ve veri ihlali risklerine karşı kritik öneme sahiptir.
 
@@ -67,11 +69,16 @@ Burada siber güvenlik ve mahremiyet konularında kullanılan terimlerin anlamla
 
 ## I
 
+- **IP Adresi** <small>(internet protocol address)</small>: İnternet üzerindeki cihazların birbirleriyle iletişim kurmasını sağlayan benzersiz bir kimlik numarasıdır.
+
 - **ISO Image**: Bir işletim sisteminin veya yazılımın tam bir kopyasını içeren disk görüntüsü dosyasıdır. ISO dosyaları genellikle işletim sistemi kurulumları için kullanılır.
+
+- **IPv4**: IP adresleme sisteminin eski sürümüdür. 32-bit adres yapısına sahiptir ve 4 rakam grubuyla ifade edilir (örneğin, 192.168.1.1).
+
+- **IPv6**: Daha geniş adresleme kapasitesine sahip olan ve 128-bit adres yapısını kullanan IP adresleme sisteminin yeni sürümüdür (örneğin, 2001:0db8:85a3:0000:0000:8a2e:0370:7334).
 
 - **IPS**: Intrusion Prevention System anlamında gelir. Bir sisteme ya da makineye bir arka kapı ya da açık aracılığı ile sızılmasını engelleyen sistem ve sistemler bütününe verilen addır.
 
-## İ
 ## J
 
 - **JavaScript Injection**: Web uygulamalarına kötü amaçlı JavaScript kodlarının enjekte edilmesiyle gerçekleştirilen bir saldırı türüdür. Bu tür saldırılar, kullanıcı verilerini çalmak veya web sayfası üzerinde zararlı işlemler yapmak için kullanılır.
@@ -79,6 +86,8 @@ Burada siber güvenlik ve mahremiyet konularında kullanılan terimlerin anlamla
 ## K
 
 - **Kali Linux**: Siber güvenlik uzmanları ve etik hacker'lar tarafından yaygın olarak kullanılan, güvenlik testleri ve penetrasyon testleri için tasarlanmış bir Linux dağıtımıdır. İçeriğinde birçok güvenlik aracı bulunur.
+
+- **Keylogger**: Bir kullanıcının yazdığı her tuş vuruşunu kaydeden kötü amaçlı yazılımdır. Keylogger'lar, şifreler, banka bilgileri ve diğer kişisel veriler gibi hassas bilgileri çalmak için kullanılır.
 
 ## L
 
@@ -122,6 +131,8 @@ Burada siber güvenlik ve mahremiyet konularında kullanılan terimlerin anlamla
 
 - **Secure Sockets Layer** <small>(SSL)</small>: SSL, internet üzerindeki veri alışverişini şifreleyerek kullanıcıların bilgilerini güvence altına alan bir güvenlik protokolüdür. Özellikle web siteleri ile kullanıcılar arasında yapılan iletişimde, hassas bilgilerin (örneğin, kredi kartı bilgileri, şifreler veya kişisel veriler) üçüncü taraflarca ele geçirilmesini önlemek için kullanılır.
 
+- **Siyah Şapka** <small>(black hat)</small>: Kötü niyetli hackerlardır. Siyah şapka uzmanları, sistem açıklarını bulup bunlardan yararlanarak yetkisiz erişim sağlar, veri çalar veya sistemlere zarar verir. Bu tür faaliyetler genellikle yasa dışıdır ve etik kuralları ihlal eder.
+
 - **Spyware** <small>(casus yazılım)</small>: Kullanıcıların izinsiz olarak bilgilerini toplayan ve gönderen kötü amaçlı yazılımdır. Spyware, genellikle kullanıcının onayı olmadan arka planda çalışır ve zarar verme amacı gütmeyebilir, ancak gizlilik ihlali ve kişisel bilgilerin çalınması gibi ciddi sonuçlara yol açabilir.
 
 - **SQL Injection** <small>(sql enjeksiyonu)</small>: Bir uygulamanın veri tabanı sorgularını manipüle etmek için kötü niyetli SQL kodlarının bir giriş alanı aracılığıyla enjekte edildiği bir siber saldırı türüdür. Bu saldırılar, saldırganların yetkisiz veri erişimi sağlamasına, veri değiştirmesine veya silmesine yol açabilir. Web uygulamaları ve API'ler, uygun giriş doğrulama kontrolleriyle bu saldırıya karşı korunabilir.
@@ -146,7 +157,6 @@ Burada siber güvenlik ve mahremiyet konularında kullanılan terimlerin anlamla
   
 - **Uptime** <small>(çalışma süresi)</small>: Bir sistemin veya servisin çalışır durumda olduğu süreyi ifade eder. Yüksek uptime, sistemin güvenilir ve sürekli erişilebilir olduğunu gösterir.
 
-## Ü
 ## V
 
 - **Virtual Dedicated Server** <small>(VDS)</small>: Fiziksel bir sunucunun tamamen ayrılmış sanallaştırma teknolojisiyle bölünmesiyle oluşturulan bir yapıdır. Her bir VDS, diğerlerinden tamamen izole edilmiş ve kendine özel fiziksel kaynaklarla donatılmıştır
@@ -164,6 +174,8 @@ Burada siber güvenlik ve mahremiyet konularında kullanılan terimlerin anlamla
 - **War Chalking**: Halka açık alanlarda açık bir Wi-Fi ağına dikkat çekmek için semboller çizme eylemidir. Hobo sembollerinden esinlenen bu işaretler, Haziran 2002'de bir grup arkadaş tarafından tasarlanmış ve Matt Jones tarafından kamuoyuna tanıtılmıştır.
 
 ## Y
+
+- **Yazılım** <small>(software)</small>: Bilgisayarların ve elektronik cihazların çalışmasını sağlayan talimatlar bütünüdür. Yazılım, fiziksel donanımın nasıl çalışacağını belirler ve iki ana kategoriye ayrılır: sistem yazılımları (örneğin, işletim sistemleri) ve uygulama yazılımları (örneğin, web tarayıcıları, oyunlar). Yazılımlar, kullanıcıların belirli bir görev veya işlevi gerçekleştirmesine yardımcı olmak amacıyla geliştirilir ve kodlama dilleri kullanılarak oluşturulur.
 
 - **Yedekleme**: Verilerin bir kopyasını oluşturup güvenli bir ortamda saklama işlemidir. Bu, veri kaybına neden olabilecek durumlar (siber saldırı, donanım arızası, insan hatası veya doğal afetler) karşısında bilgilerin geri yüklenmesini sağlar.
 
