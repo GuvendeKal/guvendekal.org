@@ -36,6 +36,9 @@
 * [<i class="fas fa-wallet"></i> Kripto Cüzdanlar](kripto-cuzdanlari.md)
 * [<i class="fa-solid fa-rotate"></i> Senkronizasyon](senkronizasyon.md)
 * [<i class="fa-solid fa-language"></i> Çeviri Araçları](ceviri-araclari.md)
+* [<i class="fa-solid fa-cloud-arrow-down"></i> İndirme Yöneticileri](indirme-yoneticileri.md)
+* [<i class="fa-solid fa-trash-can"></i> Yazılım Kaldırma](yazilim-kaldirma-araclari.md)
+* [<i class="fa-solid fa-link"></i> URL • QR Kod](url-qr-kod-araclari.md)
 
 **Dosya**
 * [<i class="fa-solid fa-file"></i> Dosya Depolama](dosya-depolama.md)

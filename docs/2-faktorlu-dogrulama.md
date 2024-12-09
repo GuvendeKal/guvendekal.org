@@ -18,7 +18,7 @@ Günümüzde güvenlik amacıyla sıkça kullanılan 2 faktörlü doğrulama sis
 
 ## <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/enteauth.png" alt="Ente" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> Ente Auth
 
-**[Ente Auth](https://ente.io/auth/)**, uçtan uca şifreleme sunan açık kaynaklı bir kimlik doğrulama uygulamasıdır. Ente Auth sunucuları uçtan uca şifrelenmiştir ve harici kaynaklarca test edilmiştir. Çapraz platform desteği sunan Ente Auth, neredeyse bütün platformlarda bulunmaktadır. 
+**[Ente Auth](https://ente.io/auth/)**, uçtan uca şifreleme sunan açık kaynaklı bir kimlik doğrulama uygulamasıdır. Ente Auth sunucuları uçtan uca şifrelenmiştir ve harici kaynaklarca test edilmiştir. Çapraz platform desteği sunan Ente Auth, neredeyse bütün platformlarda bulunmaktadır.
 
 <table>
 <tr>
