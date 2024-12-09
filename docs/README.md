@@ -102,7 +102,6 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
     </div>
 </div>
 
-
 <div class="custom-box">
     <img src="docs/images/f-droid.png" alt="Logo">
     <div style="flex: 1;">
@@ -110,6 +109,20 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
         <p class="description">F-Droid, açık kaynaklı ve ücretsiz bir uygulama mağazasıdır. Özgür yazılımlar keşfetmek ve güvenilir bir şekilde yüklemek için harika bir seçenek sunar. Reklamsız bir deneyim ve veri gizliliğe önem verir.</p>
         <div class="icon-group">
             <span><i class="fa-brands fa-android"></i> Android</span>
+        </div>
+    </div>
+</div>
+
+<div class="custom-box">
+    <img src="docs/images/qBittorrent-icon.png" alt="Logo">
+    <div style="flex: 1;">
+        <a href="https://guvendekal.org/#/torrent-istemcileri?id=-qbittorrent" class="title">Torrent dünyasının sessiz istemci gücü: qBittorrent</a>
+        <p class="description">qBittorrent, web'de torrent araması yapabilir, RSS ile indirmeleri takip edebilir ve kişiselleştirilebilir özellikleriyle fark yaratır. Ücretsiz, reklamsız ve açık kaynak kodlu!</p>
+        <div class="icon-group">
+            <span><i class="fa-brands fa-windows"></i> Windows</span>
+            <span><i class="fas fa-apple-alt"></i> Mac</span>
+            <span><i class="fa-brands fa-linux"></i> Linux</span>
+            <span><i class="fa-brands fa-freebsd"></i> FreeBSD</span>
         </div>
     </div>
 </div>
@@ -307,9 +320,32 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
 
 <div class="service-container">
     <div class="service-box">
-        <img src="docs/images/anytype.png" alt="icon">
+        <img src="docs/images/anytype.png" alt="icon" style="border-radius: 10px;">
         <div class="title">
             <a href="https://guvendekal.org/#/not-alma?id=-anytype" target="_blank" style="color: inherit; text-decoration: none;">Anytype</a>
+        </div>
+    </div>
+    <div class="service-box">
+        <img src="docs/images/logseq-icon.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/not-alma?id=-logseq" target="_blank" style="color: inherit; text-decoration: none;">Logseq</a>
+        </div>
+    </div>
+</div>
+
+## Torrent İstemcileri
+
+<div class="service-container">
+    <div class="service-box">
+        <img src="docs/images/qBittorrent-icon.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/torrent-istemcileri?id=-qbittorrent" target="_blank" style="color: inherit; text-decoration: none;">qBittorrent</a>
+        </div>
+    </div>
+    <div class="service-box">
+        <img src="docs/images/transmission-icon.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/torrent-istemcileri?id=-transmission" target="_blank" style="color: inherit; text-decoration: none;">Transmission</a>
         </div>
     </div>
 </div>
@@ -350,6 +386,39 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
         <img src="docs/images/rclone.png" alt="icon">
         <div class="title">
             <a href="http://guvendekal.org/#/senkronizasyon?id=-rclone" target="_blank" style="color: inherit; text-decoration: none;">Rclone</a>
+        </div>
+    </div>
+</div>
+
+## İndirme Yöneticileri
+
+<div class="service-container">
+    <div class="service-box">
+        <img src="docs/images/filecentipede-icon.png" alt="icon">
+        <div class="title">
+            <a href="http://guvendekal.org/#/indirme-yoneticileri?id=-file-centipede" target="_blank" style="color: inherit; text-decoration: none;">File Centipede</a>
+        </div>
+    </div>
+</div>
+
+## Yazılım Kaldırma Araçları
+
+<div class="service-container">
+    <div class="service-box">
+        <img src="docs/images/bulk-crap-uninstaller-icon.png" alt="icon">
+        <div class="title">
+            <a href="http://guvendekal.org/#/yazilim-kaldirma-araclari?id=-bulk-crap-uninstaller" target="_blank" style="color: inherit; text-decoration: none;">Bulk Crap Uninstaller</a>
+        </div>
+    </div>
+</div>
+
+## URL • QR Kod Araçları
+
+<div class="service-container">
+    <div class="service-box">
+        <img src="docs/images/fliso-icon.png" alt="icon" style="border-radius: 10px;">
+        <div class="title">
+            <a href="http://guvendekal.org/#/url-qr-kod-araclari?id=-fliso" target="_blank" style="color: inherit; text-decoration: none;">Fli.so</a>
         </div>
     </div>
 </div>

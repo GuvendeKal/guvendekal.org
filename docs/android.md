@@ -10,14 +10,13 @@
 
 | Uygulama | Açık Kaynak | Lisans Türü | Özellik |
 |----------|:-----------:|:-----------:|:-----------:|
-| <img src="https://raw.githubusercontent.com/LinkSheet/LinkSheet/refs/heads/master/app/src/main/res/drawable/app_linksheet.png" alt="Linksheet" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> **LinkSheet** </span> |<span style="color: green;">✓</span>| GNU GPLv3       | Bağlantı Yönetimi |
+| <img src="https://raw.githubusercontent.com/LinkSheet/LinkSheet/refs/heads/master/app/src/main/res/drawable/app_linksheet.png" alt="Linksheet" style="width: 30px; height: 30px; border-radius: 10px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> **LinkSheet** </span> |<span style="color: green;">✓</span>| GNU GPLv3       | Bağlantı Yönetimi |
 
 ---
 
-### <span style="display: inline-block; vertical-align: middle;"> <img src="https://raw.githubusercontent.com/LinkSheet/LinkSheet/refs/heads/master/app/src/main/res/drawable/app_linksheet.png" alt="LinkSheet Logo"> </span> <span style="display: inline-block; vertical-align: middle;"> LinkSheet
+## <span style="display: inline-block; vertical-align: middle;"><img src="https://raw.githubusercontent.com/LinkSheet/LinkSheet/refs/heads/master/app/src/main/res/drawable/app_linksheet.png" alt="linksheet" style="width: 50px; height: auto; border-radius: 10px;"> </span> <span style="display: inline-block; vertical-align: middle;"> LinkSheet
 
-
-LinkSheet, Android cihazlarda bağlantı yönetimi ve kullanıcı gizliliği açısından benzersiz bir araçtır. Android 12 ile kaldırılan bağlantı seçici özelliğini geri getirerek, bağlantıların nasıl açılacağını seçme özgürlüğü sunar. ClearURLs ve LibRedirect entegrasyonu ile kullanıcı gizliliğini artırır. 
+LinkSheet, Android cihazlarda bağlantı yönetimi ve kullanıcı gizliliği açısından benzersiz bir araçtır. Android 12 ile kaldırılan bağlantı seçici özelliğini geri getirerek, bağlantıların nasıl açılacağını seçme özgürlüğü sunar. ClearURLs ve LibRedirect entegrasyonu ile kullanıcı gizliliğini artırır.
 
 **[GNU GPL-3](https://guvendekal.org/#/acik-kaynak?id=baz%c4%b1-pop%c3%bcler-a%c3%a7%c4%b1k-kaynak-lisanslar-ve-%c3%b6zellikleri)** lisansı altında sunulan LinkSheet, <span style="color:green;">**özgür yazılım**</span> ve aynı zamanda **açık kaynaklıdır**, böylece herkes kodu inceleyebilir, paylaşabilir ve geliştirmeye katkıda bulunabilir.
 
@@ -51,6 +50,7 @@ LinkSheet, Android cihazlarda bağlantı yönetimi ve kullanıcı gizliliği aç
 - **Açık Kaynak:** Şeffaflık sağlar ve kullanıcı topluluğu tarafından desteklenir.
 
 ---
+
 ## İlgili Bağlantılar
 
 - [Linksheet Github](https://github.com/LinkSheet/LinkSheet)
