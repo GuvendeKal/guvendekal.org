@@ -15,3 +15,4 @@ Hesaplarınızın yada kart bilgilerinizin çalınması, cihazınıza virüs bul
 
 * [Şifre Yöneticileri](https://guvendekal.org/#/sifre-yoneticileri)
 * [have i been pwned?](https://haveibeenpwned.com/)
+* [2 Faktörlü Doğrulama](https://guvendekal.org/#/2-faktorlu-dogrulama)
