@@ -1,3 +1,11 @@
+:root {
+  --content-max-width: 85em;
+  --sidebar-nav-link-color--hover: #0b87da;
+  --sidebar-nav-link-text-decoration--hover: none;
+  --selection-color: rgba(11, 135, 218, 0.3);
+  --link-text-decoration-color--hover: #0b87da;
+}
+
 /* Gece/gündüz modu  */
 .switch {
   display: block;
