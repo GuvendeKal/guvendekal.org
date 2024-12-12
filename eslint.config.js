@@ -1,15 +1,21 @@
-module.exports = {
-  extends: ['eslint:recommended'],
-  env: {
-    browser: true,
-    node: true,
-    es2022: true,
+import eslint from 'eslint';
+
+const config = [
+  {
+    files: ['**/*.js'],
+    languageOptions: {
+      ecmaVersion: 'latest',
+      sourceType: 'module',
+      env: {
+        browser: true,
+        node: true,
+        es2022: true,
+      },
+    },
+    rules: {
+      // Özel kurallar burada yer alır
+    },
   },
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-  },
-  rules: {
-    // Burada özel kurallar ekleyebilirsiniz
-  },
-};
+];
+
+export default config;
