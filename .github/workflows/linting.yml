@@ -1,46 +1,44 @@
 name: Lint and Fix Code
 
 on:
-  push:
+  pull_request:
     branches:
       - main
-  pull_request:
+  push:
     branches:
       - main
   workflow_dispatch:
 
 jobs:
-  lint:
+  fix:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Run Super-Linter
+      - name: Install Prettier and ESLint
+        run: |
+          npm install --global prettier eslint
+
+      - name: Run Prettier
+        run: prettier --write "**/*.{js,css,html,md}"
+
+      - name: Run ESLint
+        run: eslint "**/*.js" --fix
+
+  lint:
+    runs-on: ubuntu-latest
+    needs: fix
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Run Super-Linter with detailed output
         uses: super-linter/super-linter/slim@latest
         env:
           VALIDATE_MARKDOWN: true
           VALIDATE_HTML: true
           VALIDATE_CSS: true
           VALIDATE_JAVASCRIPT: true
-          VALIDATE_ALL_CODEBASE: false
-          LINTER_RULES_PATH: ""
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  fix:
-    runs-on: ubuntu-latest
-    needs: lint
-    if: ${{ always() }} # Bu, lint işi başarısız olsa bile fix işlemini çalıştırır
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
-
-      - name: Install dependencies
-        run: npm install
-
-      - name: Run Prettier
-        run: npx prettier --write "**/*.{js,css,html,md}"
-
-      - name: Run ESLint
-        run: npx eslint "**/*.js" --fix
+          DISPLAY_ERRORS: true
