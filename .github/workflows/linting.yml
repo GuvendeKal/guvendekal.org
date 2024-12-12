@@ -13,18 +13,11 @@ jobs:
   fix:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v4
+      - name: Checkout code
+        uses: actions/checkout@v4
 
-    - name: Install ESLint locally
-      run: |
-        npm install eslint --save-dev
-
-    - name: Run Prettier
-      run: npx prettier --write "**/*.{js,css,html,md}"
-
-    - name: Run ESLint
-      run: npx eslint "**/*.js" --fix
+      - name: Run Prettier
+        run: npx prettier --write "**/*.{js,css,html,md}"
 
   lint:
     runs-on: ubuntu-latest
