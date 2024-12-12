@@ -22,6 +22,7 @@ jobs:
           VALIDATE_ALL_CODEBASE: false
           VALIDATE_MARKDOWN: true
           FIX_MARKDOWN: true
+          MARKDOWN_LINTER_RULES: .markdownlint.json
           VALIDATE_HTML: true
           VALIDATE_CSS: true
           FIX_CSS: true
