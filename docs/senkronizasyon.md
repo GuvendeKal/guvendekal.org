@@ -1,5 +1,5 @@
-<!-- NOTLAR 
- - Tablo eklemeyi unutmayın 
+<!-- NOTLAR
+ - Tablo eklemeyi unutmayın
  - Uygun görseller eklemeyi unutmayın.
  - İçerik kuralları ve ekleme yapmak sayfalarını ziyaret edebilirsiniz -->
 
@@ -13,13 +13,12 @@ Senkronizasyon uygulamaları genellikle, lokalde çalışan uygulamaların bulut
 
 !> Yinede senkronizasyon uygulamaları kullanırken, verilerinizi kaybetmeyeceğiniz şekilde yapılandırmak, güvenli uygulamalar ve araçlar kullanmak önemlidir.
 
-
 ## Önerilenler Tablosu
 
-| Uygulama | Açık Kaynak | Uçtan Uca Şifreleme | Fiyat    | Platform                                |
-| -------------------- |:-----------:| :-------------------:| -------- | --------------------------------------- |
-| <span style="display: inline-block; vertical-align: middle;"><img src="/docs/images/syncthing.png" alt="Syncthing" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> [**Syncthing**](https://syncthing.net/)  | <span style="color: green;">✓</span>    | <span style="color: green;">✓</span> | Ücretsiz | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-freebsd"></i> |
-| <span style="display: inline-block; vertical-align: middle;"><img src="/docs/images/rclone.png" alt="Rclone" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> [**Rclone**](https://rclone.org/)  | <span style="color: green;">✓</span>    | <span style="color: green;">✓</span> | Ücretsiz | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-freebsd"></i> |
+| Uygulama | Açık Kaynak | Uçtan Uca Şifreleme | Fiyat | Platform |
+| --- | :---: | :---: | --- | --- |
+| <span style="display: inline-block; vertical-align: middle;"><img src="/docs/images/syncthing.png" alt="Syncthing" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> [**Syncthing**](https://syncthing.net/) | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | Ücretsiz | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-freebsd"></i> |
+| <span style="display: inline-block; vertical-align: middle;"><img src="/docs/images/rclone.png" alt="Rclone" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> [**Rclone**](https://rclone.org/) | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | Ücretsiz | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-freebsd"></i> |
 
 ?> Rclone'un resmî Ios ve Android uygulamaları yok, ancak farklı çatalları vardır. İlgili başlıklar altında bahsedilmiştir.
 

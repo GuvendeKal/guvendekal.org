@@ -1,5 +1,5 @@
-<!-- NOTLAR 
- - Tablo eklemeyi unutmayın 
+<!-- NOTLAR
+ - Tablo eklemeyi unutmayın
  - Uygun görseller eklemeyi unutmayın.
  - İçerik kuralları ve ekleme yapmak sayfalarını ziyaret edebilirsiniz -->
 
@@ -9,11 +9,11 @@
 
 ## Önerilenler Tablosu
 
-| Uygulama Mağazası | Açık Kaynak | Lisans Türü | Platform Desteği       |
-|--------------------|:-----------:|:-----------:|:-------------------------:|
-| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/f-droid.png" alt="F-droid" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> **[F-Droid](https://f-droid.org/)**       | <span style="color: green;">✓</span>           | GPL      | <i class="fa-brands fa-android"></i>               |
-| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/gog.png" alt="GOG" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> **[GOG.com](https://www.gog.com/)**       |   <span style="color: red;">×</span>| Özel Mülkiyet      | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i>               |
-| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/aurorastore.png" alt="Aurora Store" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> **[Aurora Store]([https://aurorastore.org)**       | <span style="color: green;">✓</span>           | GPL      | <i class="fa-brands fa-android"></i>               |
+| Uygulama Mağazası | Açık Kaynak | Lisans Türü | Platform Desteği |
+| --- | :---: | :---: | :---: |
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/f-droid.png" alt="F-droid" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> **[F-Droid](https://f-droid.org/)** | <span style="color: green;">✓</span> | GPL | <i class="fa-brands fa-android"></i> |
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/gog.png" alt="GOG" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> **[GOG.com](https://www.gog.com/)** | <span style="color: red;">×</span> | Özel Mülkiyet | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> |
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/aurorastore.png" alt="Aurora Store" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> **[Aurora Store]([https://aurorastore.org)** | <span style="color: green;">✓</span> | GPL | <i class="fa-brands fa-android"></i> |
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/f-droid.png" alt="F-droid" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> F-droid
 
