@@ -99,7 +99,7 @@
   <tr>
     <tr>
     <td>Lisans Türü</td>
-    <td> 	BSD-3-Clause, MIT, GPL-3.0 <span style="color: green;"><span></td>
+    <td>  BSD-3-Clause, MIT, GPL-3.0 <span style="color: green;"><span></td>
   </tr>
   <tr>
     <td>Kayıtlı Ülke</td>
@@ -118,6 +118,6 @@
     <td>Mevcut</td>
   </tr>
 </table>
-     
-* [**Açık kaynak deposu**](https://github.com/oxen-io/session-android)
-* [**Gizlilik politikası**](https://getsession.org/privacy-policy)
+
+- [**Açık kaynak deposu**](https://github.com/oxen-io/session-android)
+- [**Gizlilik politikası**](https://getsession.org/privacy-policy)

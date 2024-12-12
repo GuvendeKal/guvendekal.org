@@ -33,7 +33,7 @@
 
 .slider:before {
   position: absolute;
-  content: "";
+  content: '';
   height: var(--size-of-icon);
   width: var(--size-of-icon);
   border-radius: 20px;
@@ -56,7 +56,7 @@ input:checked + .slider:before {
 
 /* Font */
 body {
-  font-family: "Inter", sans-serif;
+  font-family: 'Inter', sans-serif;
 }
 
 /* ------ */

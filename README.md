@@ -16,8 +16,6 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
 
 # Atıf
 
-- Dökümantasyon sistemi: https://docsify.js.org/#/
-- İkonlar: https://fontawesome.com/
-- Inter (font): https://rsms.me/inter/
-
-
+- Dökümantasyon sistemi: <https://docsify.js.org/#/>
+- İkonlar: <https://fontawesome.com/>
+- Inter (font): <https://rsms.me/inter/>
