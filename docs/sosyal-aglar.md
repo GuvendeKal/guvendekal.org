@@ -11,11 +11,11 @@ Sosyal ağlar, bireylere içerikle ve diğer kullanıcılarla etkileşime girme 
 Kullanıcıların sosyal ağları kullanma amaçları çeşitlidir. Bunlar arasında ortak hedefler için iş birliği yapmak, bilgi edinmek, öğrenmek, diğer insanlarla ilişkiler kurmak gibi niyetler bulunmaktadır.
 Bu platformlar, modern iletişim ve bilgi paylaşımının vazgeçilmez araçları haline gelmiştir.
 
-| Platform                                                                                                                                                                                                                                                                                                                            |    Tabanı     |             Açık Kaynak              | Lisans Türü |   Kendine Kendine Barındırılabilir   |                                                    Platformlar                                                    |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :----------------------------------: | :---------: | :----------------------------------: | :---------------------------------------------------------------------------------------------------------------: |
-| <img src="docs/images/mastodon-icon.svg" alt="Mastodon" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> [Mastodon](https://joinmastodon.org/) </span>                                                                              | Merkeziyetsiz | <span style="color: green;">✓</span> |   AGPLv3    | <span style="color: green;">✓</span> | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> |
-| <img src="docs/images/lemmy_icon.png" alt="Lemmy" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> [Lemmy](https://join-lemmy.org/) </span>                                                                                         | Merkeziyetsiz | <span style="color: green;">✓</span> |   AGPLv3    | <span style="color: green;">✓</span> | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> |
-| <img src="https://github.com/bluesky-social/social-app/blob/main/assets/app-icons/android_icon_core_aurora.png?raw=true" alt="Bluesky" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> [Bluesky Social](https://bsky.app/) </span> | Merkeziyetsiz | <span style="color: green;">✓</span> |     MIT     | <span style="color: green;">✓</span> | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> |
+| Platform | Tabanı | Açık Kaynak | Lisans Türü | Kendine Kendine Barındırılabilir | Platformlar |
+| --- | :---: | :---: | :---: | :---: | :---: |
+| <img src="docs/images/mastodon-icon.svg" alt="Mastodon" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> [Mastodon](https://joinmastodon.org/) </span> | Merkeziyetsiz | <span style="color: green;">✓</span> | AGPLv3 | <span style="color: green;">✓</span> | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> |
+| <img src="docs/images/lemmy_icon.png" alt="Lemmy" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> [Lemmy](https://join-lemmy.org/) </span> | Merkeziyetsiz | <span style="color: green;">✓</span> | AGPLv3 | <span style="color: green;">✓</span> | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> |
+| <img src="https://github.com/bluesky-social/social-app/blob/main/assets/app-icons/android_icon_core_aurora.png?raw=true" alt="Bluesky" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> [Bluesky Social](https://bsky.app/) </span> | Merkeziyetsiz | <span style="color: green;">✓</span> | MIT | <span style="color: green;">✓</span> | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> |
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/mastodon-icon.svg" alt="Mastodon" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> Mastodon
 
@@ -31,11 +31,11 @@ Mastodon içinde reklam yada izleyici bulunmaz. Mastodon, bir ana şirket veya m
 
 Lemmy, birbirleriyle iletişim kurabilen ve etkileşimde bulunabilen bağımsız Lemmy kurulumlarından oluşan bir ağdır. Bu yapı, diğer sosyal medya platformlarının merkezi ve monolitik yapısından farklı olarak, merkeziyetsiz bir şekilde işler. Lemmy, Reddit'e benzer bir kullanıcı deneyimi sunmakla birlikte, federasyonel yapısı sayesinde farklı kurulumlar arasında bilgi paylaşımına ve etkileşime olanak tanır. Bu sayede, her bir kurulum (veya "sunucu") kendi topluluğunu yönetirken, diğer sunucularla da etkileşimde bulunabilir.
 
-| **Lemmy'nin Avantajları** | **Lemmy'nin Dezavantajları**           |
-| ------------------------- | -------------------------------------- |
-| Reklamsız ve izleyici yok | Daha az kullanıcı kitlesi              |
-| Merkeziyetsiz yapı        | Daha az çeşitlilik                     |
-| Açık Kaynak               | Teknik bilgi gerektiren kurulum süreci |
+| **Lemmy'nin Avantajları** | **Lemmy'nin Dezavantajları** |
+| --- | --- |
+| Reklamsız ve izleyici yok | Daha az kullanıcı kitlesi |
+| Merkeziyetsiz yapı | Daha az çeşitlilik |
+| Açık Kaynak | Teknik bilgi gerektiren kurulum süreci |
 
 #### Kaynaklar ve Dökümanlar
 
@@ -53,9 +53,9 @@ Bluesky'nin temel özellikleri:
 - **AT Protocol:** Dağıtık ve merkeziyetsiz sosyal ağ deneyimi sunar.
 - **Kullanıcı Kontrolü:** Platform, kullanıcıların verilerini yönetmelerine olanak tanır.
 
-| Reklamsız                            | Açık Kaynak                          | Lisans Türü | Platformlar                                                                                                       | Kullanıcı Sayısı |
-| ------------------------------------ | ------------------------------------ | ----------- | ----------------------------------------------------------------------------------------------------------------- | ---------------- |
-| <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | MIT         | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> | 24 Milyon        |
+| Reklamsız | Açık Kaynak | Lisans Türü | Platformlar | Kullanıcı Sayısı |
+| --- | --- | --- | --- | --- |
+| <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | MIT | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> | 24 Milyon |
 
 #### Kaynaklar ve Dökümanlar
 

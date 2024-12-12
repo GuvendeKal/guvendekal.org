@@ -33,20 +33,20 @@
 ### Tablolar
 
 ```text
-| Deneme     | Deneme       |  Deneme     |
-| ---------- |:------------:| -----------:|
-| A1         | A2           | A3          |
-| B1         | B2           | B3          |
-| C1         | C2           | C3          |
+| Deneme | Deneme | Deneme |
+| --- |:---:| ---:|
+| A1 | A2 | A3 |
+| B1 | B2 | B3 |
+| C1 | C2 | C3 |
 ```
 
 <br>
 
 | Deneme | Deneme | Deneme |
-| ------ | :----: | -----: |
-| A1     |   A2   |     A3 |
-| B1     |   B2   |     B3 |
-| C1     |   C2   |     C3 |
+| --- | :---: | ---: |
+| A1 | A2 | A3 |
+| B1 | B2 | B3 |
+| C1 | C2 | C3 |
 
 ---
 

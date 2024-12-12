@@ -11,10 +11,10 @@
 
 ## Önerilenler Tablosu
 
-| Mail servisi                                                                                                                                                                                                                            |           Kayıt Tutuyor mu            |             Açık Kaynak              |              Şifreleme               |  Ülke   |                                                                                                         Platformlar                                                                                                          |   Fiyat    |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------------------------------: | :----------------------------------: | :----------------------------------: | :-----: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------: |
-| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/protonmail.svg" alt="Proton" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Proton Mail   | <span style="color: orange;">?</span> | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | İsviçre | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> | Ücretsiz\* |
-| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/tutamail.png" alt="Tutamail" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Tutanota Mail |                   ✓                   | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | Almanya | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> | Ücretsiz\* |
+| Mail servisi | Kayıt Tutuyor mu | Açık Kaynak | Şifreleme | Ülke | Platformlar | Fiyat |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: |
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/protonmail.svg" alt="Proton" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Proton Mail | <span style="color: orange;">?</span> | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | İsviçre | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> | Ücretsiz\* |
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/tutamail.png" alt="Tutamail" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Tutanota Mail | ✓ | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | Almanya | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> | Ücretsiz\* |
 
 <br>
 
@@ -28,10 +28,10 @@
 
 ## Ücretsiz Sürüm Karşılaştırma
 
-|                                                                                                       Mail Servisi                                                                                                        | Posta Adresleri                                       | Depolama Alanı | Hesap silme           |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ----------------------------------------------------- | :------------: | --------------------- |
-| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/protonmail.svg" alt="Proton" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> | @protonmail.com ve @proton.me                         |      1 GB      | 1 yıl aktif olunmazsa |
-| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/tutamail.png" alt="Tutamail" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> | @tutamail.com, @tuta.io, @tutanota.com ve @keemail.me |      1 GB      | 6 ay aktif olunmazsa  |
+| Mail Servisi | Posta Adresleri | Depolama Alanı | Hesap silme |
+| :---: | --- | :---: | --- |
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/protonmail.svg" alt="Proton" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> | @protonmail.com ve @proton.me | 1 GB | 1 yıl aktif olunmazsa |
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/tutamail.png" alt="Tutamail" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> | @tutamail.com, @tuta.io, @tutanota.com ve @keemail.me | 1 GB | 6 ay aktif olunmazsa |
 
 ---
 
@@ -40,54 +40,54 @@
 [**ProtonMail**](https://proton.me/mail) 2013 yılında, İsviçrede CERN'de çalışan bilim insanları tarafından kurulmuştur. Uçtan uca şifreleme ile gizlilik ve güvenlik odaklı bir posta servisi suan ProtonMail, ücretli ve ücretsiz sürümlere sahiptir.
 
 <table>
-  <tr>
-    <th colspan="2">ProtonMail Detayları</th>
-  </tr>
-  <tr>
-    <td>Kayıt Tutuyor mu?</td>
-    <td><span style="color: orange;">?</span></td>
-  </tr>
-  <tr>
-    <td>Açık Kaynak</td>
-    <td><span style="color: green;">✓</span></td>
-  </tr>
-  <tr>
-    <td>Uçtan Uca Şifreleme</td>
-    <td><span style="color: green;">✓</span></td>
-  </tr>
-  <tr>
-    <td>İki Faktörlü Kimlik Doğrulama</td>
-    <td><span style="color: green;">✓</span></td>
-  </tr>
-  <tr>
-    <td>Gizlilik Odaklı</td>
-    <td><span style="color: green;">✓</span></td>
-  </tr>
-  <tr>
-    <tr>
-    <td>Lisans Türü</td>
-    <td> GPL-3.0 <span style="color: green;"><small>Özgür Yazılım<small><span></td>
-  </tr>
-  <tr>
-    <td>Kayıtlı Ülke</td>
-    <td>İsviçre</td>
-  </tr>
-  <tr>
-    <td>Şifreleme Protokolleri</td>
-    <td>PGP (Pretty Good Privacy)</td>
-  </tr>
-  <tr>
-    <td>Platform Desteği</td>
-    <td><i class="fa-solid fa-globe"></i> <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> </td>
-  </tr>
-  <tr>
-    <td>Ödeme Seçenekleri</td>
-    <td>Kredi Kartı, PayPal, Bitcoin</td>
-  </tr>
-  <tr>
-    <td>Ücretsiz sürüm</td>
-    <td>Mevcut</td>
-  </tr>
+ <tr>
+ <th colspan="2">ProtonMail Detayları</th>
+ </tr>
+ <tr>
+ <td>Kayıt Tutuyor mu?</td>
+ <td><span style="color: orange;">?</span></td>
+ </tr>
+ <tr>
+ <td>Açık Kaynak</td>
+ <td><span style="color: green;">✓</span></td>
+ </tr>
+ <tr>
+ <td>Uçtan Uca Şifreleme</td>
+ <td><span style="color: green;">✓</span></td>
+ </tr>
+ <tr>
+ <td>İki Faktörlü Kimlik Doğrulama</td>
+ <td><span style="color: green;">✓</span></td>
+ </tr>
+ <tr>
+ <td>Gizlilik Odaklı</td>
+ <td><span style="color: green;">✓</span></td>
+ </tr>
+ <tr>
+ <tr>
+ <td>Lisans Türü</td>
+ <td> GPL-3.0 <span style="color: green;"><small>Özgür Yazılım<small><span></td>
+ </tr>
+ <tr>
+ <td>Kayıtlı Ülke</td>
+ <td>İsviçre</td>
+ </tr>
+ <tr>
+ <td>Şifreleme Protokolleri</td>
+ <td>PGP (Pretty Good Privacy)</td>
+ </tr>
+ <tr>
+ <td>Platform Desteği</td>
+ <td><i class="fa-solid fa-globe"></i> <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> </td>
+ </tr>
+ <tr>
+ <td>Ödeme Seçenekleri</td>
+ <td>Kredi Kartı, PayPal, Bitcoin</td>
+ </tr>
+ <tr>
+ <td>Ücretsiz sürüm</td>
+ <td>Mevcut</td>
+ </tr>
 </table>
 
 - [**Açık kaynak deposu**](https://github.com/ProtonMail)
@@ -100,53 +100,53 @@
 TutanotaMail, 2011 yılında Almanya merkezli kurulmuş bir posta servisidir. Gizlilik ve güvenlik odaklı kurulan TutanotaMail'in ücretli ve ücretsiz sürümleri bulunmaktadır.
 
 <table>
-  <tr>
-    <th colspan="2">TutanotaMail Detayları</th>
-  </tr>
-  <tr>
-    <td>Kayıt Tutuyor mu?</td>
-    <td>✓</td>
-  </tr>
-  <tr>
-    <td>Açık Kaynak</td>
-    <td><span style="color: green;">✓</span></td>
-  </tr>
-  <tr>
-    <td>Uçtan Uca Şifreleme</td>
-    <td><span style="color: green;">✓</span></td>
-  </tr>
-  <tr>
-    <td>İki Faktörlü Kimlik Doğrulama</td>
-    <td><span style="color: green;">✓</span></td>
-  </tr>
-  <tr>
-    <td>Gizlilik Odaklı</td>
-    <td><span style="color: green;">✓</span></td>
-  </tr>
-      <tr>
-    <td>Lisans Türü</td>
-    <td> GPL-3.0 <span style="color: green;"><small>Özgür Yazılım<small><span></td>
-  </tr>
-  <tr>
-    <td>Kayıtlı Ülke</td>
-    <td>Almanya</td>
-  </tr>
-  <tr>
-    <td>Şifreleme Protokolleri</td>
-    <td>AES-128, RSA-2048</td>
-  </tr>
-  <tr>
-    <td>Platform Desteği</td>
-    <td><i class="fa-solid fa-globe"></i> <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> </td>
-  </tr>
-  <tr>
-    <td>Ödeme Seçenekleri</td>
-    <td>Kredi Kartı, PayPal</td>
-  </tr>
-  <tr>
-    <td>Ücretsiz sürüm</td>
-    <td>Mevcut</td>
-  </tr>
+ <tr>
+ <th colspan="2">TutanotaMail Detayları</th>
+ </tr>
+ <tr>
+ <td>Kayıt Tutuyor mu?</td>
+ <td>✓</td>
+ </tr>
+ <tr>
+ <td>Açık Kaynak</td>
+ <td><span style="color: green;">✓</span></td>
+ </tr>
+ <tr>
+ <td>Uçtan Uca Şifreleme</td>
+ <td><span style="color: green;">✓</span></td>
+ </tr>
+ <tr>
+ <td>İki Faktörlü Kimlik Doğrulama</td>
+ <td><span style="color: green;">✓</span></td>
+ </tr>
+ <tr>
+ <td>Gizlilik Odaklı</td>
+ <td><span style="color: green;">✓</span></td>
+ </tr>
+ <tr>
+ <td>Lisans Türü</td>
+ <td> GPL-3.0 <span style="color: green;"><small>Özgür Yazılım<small><span></td>
+ </tr>
+ <tr>
+ <td>Kayıtlı Ülke</td>
+ <td>Almanya</td>
+ </tr>
+ <tr>
+ <td>Şifreleme Protokolleri</td>
+ <td>AES-128, RSA-2048</td>
+ </tr>
+ <tr>
+ <td>Platform Desteği</td>
+ <td><i class="fa-solid fa-globe"></i> <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> </td>
+ </tr>
+ <tr>
+ <td>Ödeme Seçenekleri</td>
+ <td>Kredi Kartı, PayPal</td>
+ </tr>
+ <tr>
+ <td>Ücretsiz sürüm</td>
+ <td>Mevcut</td>
+ </tr>
 </table>
 
 - [**Açık kaynak deposu**](https://github.com/tutao)

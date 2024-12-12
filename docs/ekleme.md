@@ -51,7 +51,7 @@ Sol menü, Github deposunda `guvendekal.org/docs/` klasöründe bulunan `_sideba
 # Dokümantasyon # <i class="fa-solid fa-bars"></i> Dokümantasyon * [<i class="fas fa-user"></i>
 Katkıda Bulunanlar](katkida-bulunanlar.md) * [<i class="fas fa-file-alt"></i> İçerik
 Kuralları](icerik-kurallari.md) * [<i class="fas fa-pencil-alt"></i> Ekleme Yapmak](ekleme.md) * [<i
-  class="fas fa-text-width"
+ class="fas fa-text-width"
 ></i>
 Biçimlendirme](bicimlendirme.md)
 ```
@@ -62,7 +62,7 @@ Biçimlendirme](bicimlendirme.md)
 # <i class="fa-solid fa-bars"></i> Dokümantasyon * [<i class="fas fa-user"></i> Katkıda
 Bulunanlar](katkida-bulunanlar.md) * [<i class="fas fa-file-alt"></i> İçerik
 Kuralları](icerik-kurallari.md) * [<i class="fas fa-pencil-alt"></i> Ekleme Yapmak](ekleme.md) * [<i
-  class="fas fa-text-width"
+ class="fas fa-text-width"
 ></i>
 Biçimlendirme](bicimlendirme.md) * [Dosya Oluşturma](ornek-dosya-nasil-olusturulur.md)
 ```

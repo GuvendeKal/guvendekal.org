@@ -15,11 +15,11 @@ Bu noktada **Özgür Yazılım** anlayışına sahip uygulamalar ise, uygulamala
 
 <br>
 
-| Adı                                                                                                                                                                                                                                                                                        |    Türü    |           Yeniden Paylaşma           |              Değiştirme              |           Ticari Kullanım            | Atıf |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :--------: | :----------------------------------: | :----------------------------------: | :----------------------------------: | :--: |
-| <img src="docs/images/gpl.png" alt="GPL" style="width: 50px; height: auto;"> [**GNU/GPL**](https://www.gnu.org/licenses/gpl-3.0.en.html)                                                                                                                                                   |  Copyleft  |                  ✓                   | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> |  ✓   |
-| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/apache.png" alt="Apache" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;">[**Apache**](https://www.apache.org/licenses/LICENSE-2.0.html)</span> | Permissive | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> |  ✓   |
-| <img src="docs/images/mit.png" alt="MIT License" style="width: 50px; height: auto;"> [**MIT**](https://mit-license.org/)                                                                                                                                                                   | Permissive | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> |  ✓   |
+| Adı | Türü | Yeniden Paylaşma | Değiştirme | Ticari Kullanım | Atıf |
+| --- | :---: | :---: | :---: | :---: | :--: |
+| <img src="docs/images/gpl.png" alt="GPL" style="width: 50px; height: auto;"> [**GNU/GPL**](https://www.gnu.org/licenses/gpl-3.0.en.html) | Copyleft | ✓ | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | ✓ |
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/apache.png" alt="Apache" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;">[**Apache**](https://www.apache.org/licenses/LICENSE-2.0.html)</span> | Permissive | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | ✓ |
+| <img src="docs/images/mit.png" alt="MIT License" style="width: 50px; height: auto;"> [**MIT**](https://mit-license.org/) | Permissive | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | ✓ |
 
 <br>
 
@@ -35,14 +35,14 @@ Bu noktada **Özgür Yazılım** anlayışına sahip uygulamalar ise, uygulamala
 
 <br>
 
-| Özellik                                 |               GNU/GPL                |                Apache                |                 MIT                  |
-| --------------------------------------- | :----------------------------------: | :----------------------------------: | :----------------------------------: |
-| Ticari Kullanım                         | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> |
-| Değiştirilmiş Sürüm Paylaşımı           | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> |
-| Türevlerin Açık Kaynak Olma Zorunluluğu | <span style="color: green;">✓</span> |  <span style="color: red;">×</span>  |  <span style="color: red;">×</span>  |
-| Değişikliklerin Belirtilmesi            | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> |  <span style="color: red;">×</span>  |
-| Kullanıcı Hakları                       | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> |
-| Patent Hakkı                            |  <span style="color: red;">×</span>  | <span style="color: green;">✓</span> |  <span style="color: red;">×</span>  |
+| Özellik | GNU/GPL | Apache | MIT |
+| --- | :---: | :---: | :---: |
+| Ticari Kullanım | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> |
+| Değiştirilmiş Sürüm Paylaşımı | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> |
+| Türevlerin Açık Kaynak Olma Zorunluluğu | <span style="color: green;">✓</span> | <span style="color: red;">×</span> | <span style="color: red;">×</span> |
+| Değişikliklerin Belirtilmesi | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | <span style="color: red;">×</span> |
+| Kullanıcı Hakları | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> |
+| Patent Hakkı | <span style="color: red;">×</span> | <span style="color: green;">✓</span> | <span style="color: red;">×</span> |
 
 ## Bazı popüler açık kaynaklı uygulamalar
 

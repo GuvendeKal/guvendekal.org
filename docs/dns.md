@@ -39,15 +39,15 @@ DNS sunucusu değiştirmek genellikle kolay bir işlemdir. Aşağıda kullandı�
 Modem veya router üzerinde DNS sunucusunu değiştirmek, evinizdeki/ofisinizdeki tüm cihazların aynı DNS sunucusunu kullanmasını sağlar. Bu işlemi yapmak için modem veya router'ın yönetim arayüzüne erişmeniz gerekir. İşte adımlar:
 
 1. **Modem/Router Arayüzüne Erişim:**
-   - Modem veya router'ın arayüzüne erişmek için bir web tarayıcısı açın ve cihazınızın IP adresini girin (_genellikle `192.168.1.1` veya `192.168.0.1` IP adresleri kullanılır_).
-   - Kullanıcı adı ve şifre ile giriş yapın (_varsayılan bilgiler cihazın altındaki etikette olabilir veya internet servis sağlayıcınız tarafından verilmiştir_).
+ - Modem veya router'ın arayüzüne erişmek için bir web tarayıcısı açın ve cihazınızın IP adresini girin (_genellikle `192.168.1.1` veya `192.168.0.1` IP adresleri kullanılır_).
+ - Kullanıcı adı ve şifre ile giriş yapın (_varsayılan bilgiler cihazın altındaki etikette olabilir veya internet servis sağlayıcınız tarafından verilmiştir_).
 2. **DNS Ayarlarını Bulun:**
-   - Modem arayüzünde genellikle "Internet", "WAN" veya "Network" gibi seçenekler altında DNS ayarlarına erişebilirsiniz.
-   - DNS ayarları bölümünü bulun (_genelde DHCP Server sekmesi/başlığı altında yer alır_) ve burada mevcut DNS sunucularını değiştirebilirsiniz.
+ - Modem arayüzünde genellikle "Internet", "WAN" veya "Network" gibi seçenekler altında DNS ayarlarına erişebilirsiniz.
+ - DNS ayarları bölümünü bulun (_genelde DHCP Server sekmesi/başlığı altında yer alır_) ve burada mevcut DNS sunucularını değiştirebilirsiniz.
 3. **Yeni DNS Sunucularını Girin:**
-   - Tercih ettiğiniz DNS sunucularını girin.
+ - Tercih ettiğiniz DNS sunucularını girin.
 4. **Değişiklikleri Kaydedin:**
-   - Yaptığınız değişiklikleri kaydedin ve modemi/router'ı yeniden başlatın. Bu işlem, yeni DNS ayarlarının uygulanmasını sağlar.
+ - Yaptığınız değişiklikleri kaydedin ve modemi/router'ı yeniden başlatın. Bu işlem, yeni DNS ayarlarının uygulanmasını sağlar.
 
 Bu şekilde, modem/router üzerinden yapılan DNS değişiklikleri ile ağa bağlı tüm cihazlara uygulayabiliriniz ve tek tek değişiklik yapmak zorunda kalmazsınız.
 
@@ -66,17 +66,17 @@ DNS sunucusu seçerken dikkat edilecek ikinci şey güvenlik ve reklam engelleme
 
 ## Önerilenler tablosu
 
-| DNS Sunucusu |         Kayıt Tutma          | Reklam Engelleme |
-| ------------ | :--------------------------: | ---------------: |
-| Mullvad DNS  |       Kayıt tutulmuyor       |          Sunuyor |
-| Quad9 DNS    |       Kayıt tutulmuyor       |          Sunuyor |
-| NextDNS      |         İsteğe bağlı         |          Sunuyor |
-| Adguard DNS  | Kayıt tutuyor (tanımlanamaz) |          Sunuyor |
+| DNS Sunucusu | Kayıt Tutma | Reklam Engelleme |
+| --- | :---: | ---: |
+| Mullvad DNS | Kayıt tutulmuyor | Sunuyor |
+| Quad9 DNS | Kayıt tutulmuyor | Sunuyor |
+| NextDNS | İsteğe bağlı | Sunuyor |
+| Adguard DNS | Kayıt tutuyor (tanımlanamaz) | Sunuyor |
 
 ## Mullvad DNS
 
-| Dns Adresi                                                                                                                                                                   |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Dns Adresi |
+| --- |
 | Mullvad farklı ihtiyaçlara farklı DNS sunucuları sağlamaktadır. Bunların hepsine [**buradan**](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls) ulaşabilirsiniz. |
 
 Mullvad DNS, sıfır kayıt tutma politikası ile kullanıcılarına reklam engellemede sunmaktadır. Aynı zamanda Mullvad DNS sunucularında sansür uygulanmaz. Mullvad DNS hakkında daha fazla bilgiye ulaşmak için [buraya](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls) bakabilirsiniz.
@@ -85,21 +85,21 @@ Mullvad DNS, sıfır kayıt tutma politikası ile kullanıcılarına reklam enge
 
 <img src="docs/images/quad9.png" alt="Quad9" width="350" />
 
-| Tür  |   DNS Adresi    |
-| ---- | :-------------: |
-| IPv4 |     9.9.9.9     |
+| Tür | DNS Adresi |
+| --- | :---: |
+| IPv4 | 9.9.9.9 |
 | IPv4 | 149.112.112.112 |
-| IPv6 |   2620:fe::fe   |
-| IPv6 |   2620:fe::9    |
+| IPv6 | 2620:fe::fe |
+| IPv6 | 2620:fe::9 |
 
 2017 yılında oluşturulan Quad9 DNS kayıt tutmaz, reklam ve kötü amaçlı phishing sitelerini de engeller. Quad9 Veri ve Gizlilik Politikası için [buraya](https://www.quad9.net/privacy/policy/) bakabilirsiniz.
 
 ## Adguard DNS
 
-| Tür  |   DNS Adresi    |
-| ---- | :-------------: |
-| IPv4 |  94.140.14.14   |
-| IPv4 |  94.140.15.15   |
+| Tür | DNS Adresi |
+| --- | :---: |
+| IPv4 | 94.140.14.14 |
+| IPv4 | 94.140.15.15 |
 | IPv6 | 2a10:50c0::1:ff |
 | IPv6 | 2a10:50c0::2:ff |
 

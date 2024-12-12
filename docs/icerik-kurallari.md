@@ -20,30 +20,30 @@ Güvende Kal, felsefesi gereği **özgür yazılım** ve **açık kaynak** uygul
 
 - İçeriğin yapısı estetik, kullanıcıya hitap edecek şekilde olmalıdır.
 
-  - İçerikte başlık otoriteleri doğru kullanılmalıdır.
+ - İçerikte başlık otoriteleri doğru kullanılmalıdır.
 
-    - `H1` > `H2` > `H3` > .. şeklinde olmalıdır.
+ - `H1` > `H2` > `H3` > .. şeklinde olmalıdır.
 
-  - İçerikte biçimlendirmeler aktif olarak kullanılmalıdır.
+ - İçerikte biçimlendirmeler aktif olarak kullanılmalıdır.
 
-    - **Kalın yazı**, _eğik yazı_ gibi biçimler, tablolar, notlar ve alıntı kullanılmalıdır. [**Biçimlendirme**](https://guvendekal.org/#/bicimlendirme) sayfasına bakabilirsiniz.
+ - **Kalın yazı**, _eğik yazı_ gibi biçimler, tablolar, notlar ve alıntı kullanılmalıdır. [**Biçimlendirme**](https://guvendekal.org/#/bicimlendirme) sayfasına bakabilirsiniz.
 
-  - İçerikte görseller kullanılmalıdır.
+ - İçerikte görseller kullanılmalıdır.
 
-    - Görsellerin daha özgürlükçü lisans yapılarına sahip olması her zaman daha iyidir.
+ - Görsellerin daha özgürlükçü lisans yapılarına sahip olması her zaman daha iyidir.
 
 - Uygulama önerilerinde uygulamanın linki verilmelidir
 
-  - Uygulamanın açık kaynaklı olup olmadığı belirtilmelidir, eğer açık kaynak ise linki verilmelidir.
+ - Uygulamanın açık kaynaklı olup olmadığı belirtilmelidir, eğer açık kaynak ise linki verilmelidir.
 
-  - Uygulamanın desteklediği platformlar belirtilmelidir.
+ - Uygulamanın desteklediği platformlar belirtilmelidir.
 
-  - Uygulamanın gizlilik politikasının linki verilmelidir.
+ - Uygulamanın gizlilik politikasının linki verilmelidir.
 
-    - Uygulamanın veri toplama, işleme, paylaşma hakları hakkında bilgi verilmelidir.
+ - Uygulamanın veri toplama, işleme, paylaşma hakları hakkında bilgi verilmelidir.
 
-  - Uygulamanın geçmişinden bahsedilmelidir.
+ - Uygulamanın geçmişinden bahsedilmelidir.
 
-  - Uygulamanın geliştirildiği ülke belirtilmelidir.
+ - Uygulamanın geliştirildiği ülke belirtilmelidir.
 
 !> Eklenmesi gereken kurallar olduğunu düşünüyorsanız [buraya](https://github.com/GokturkTalha/guvendekal.org/issues) konu açabilirsiniz.
