@@ -1,5 +1,5 @@
-<!-- NOTLAR 
- - Tablo eklemeyi unutmayın 
+<!-- NOTLAR
+ - Tablo eklemeyi unutmayın
  - Uygun görseller eklemeyi unutmayın.
  - İçerik kuralları ve ekleme yapmak sayfalarını ziyaret edebilirsiniz -->
 
@@ -9,10 +9,10 @@
 
 ## Önerilenler Tablosu
 
-| Mesajlaşma uygulaması            | Kayıt Tutuyor mu                         | Açık Kaynak                | Şifreleme                   | Ülke          | Platformlar                                                                         | Fiyat       |
-|-------------------------|:----------------------------------------:|:--------------------------:|:---------------------------:|:-------------:|:----------------------------------------------------------------------------------:|:-----------:|
-| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/session.png" alt="Session" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Session   | <span style="color: green;">×</span>       | <span style="color: green;">✓</span>       | <span style="color: green;">✓</span>       | Avusturalya       | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i>  | Ücretsiz   |
-| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/signal.png" alt="Signal" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Signal    | ×                      | <span style="color: green;">✓</span>       | <span style="color: green;">✓</span>       | ABD       | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i>  | Ücretsiz   |
+| Mesajlaşma uygulaması                                                                                                                                                                                                           |           Kayıt Tutuyor mu           |             Açık Kaynak              |              Şifreleme               |    Ülke     |                                                                                                         Platformlar                                                                                                          |  Fiyat   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------: | :----------------------------------: | :----------------------------------: | :---------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------: |
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/session.png" alt="Session" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Session | <span style="color: green;">×</span> | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | Avusturalya | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> | Ücretsiz |
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/signal.png" alt="Signal" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Signal    |                  ×                   | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> |     ABD     | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> | Ücretsiz |
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/signal.png" alt="Signal" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Signal
 
@@ -65,8 +65,8 @@
   </tr>
 </table>
 
-* [**Açık kaynak deposu**](https://github.com/signalapp/Signal-Server)
-* [**Gizlilik politikası**](https://signal.org/legal/)
+- [**Açık kaynak deposu**](https://github.com/signalapp/Signal-Server)
+- [**Gizlilik politikası**](https://signal.org/legal/)
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/session.png" alt="Session" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Session
 

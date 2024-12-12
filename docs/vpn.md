@@ -1,7 +1,7 @@
-<!-- NOTLAR 
+<!-- NOTLAR
  - Bu içerik halihazırda yazılmıştır. İçerik içinde ekleme yapma yada düzeltme yapma ihtiyacı yoksa değişiklik yapmanız önerilmez. Uygulama önerilerine ekleme yapmak isterseniz, eklenen diğer uygulamaların kalitesinde olmasına özen gösteriniz.
  - Bu içeriğe eklenmesi gereken şeyler olduğu düşünülmektedir. https://github.com/GuvendeKal/guvendekal.org/issues/28 buradan bakabilirsiniz.
- - Tablo eklemeyi unutmayın 
+ - Tablo eklemeyi unutmayın
  - Uygun görseller eklemeyi unutmayın.
  - İçerik kuralları ve ekleme yapmak sayfalarını ziyaret edebilirsiniz -->
 
@@ -17,12 +17,12 @@ VPN kullandığınızda trafiğinizi (ziyaret ettiğiniz siteleri) internet serv
 
 ## Önerilenler Tablosu
 
-| VPN            | Kayıt Tutuyor mu | Açık Kaynak | Ülke        | Sunucu Sayısı | Platformlar                                        | Fiyat         |
-|----------------|:---------------:|:-----------:|:-----------:|:-------------:|:--------------------------------------------------------:|:-------------:|
-| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/mullvadvpn-icon.png" alt="Mullvad" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Mullvad VPN    | <span style="color: green;">×</span>           | <span style="color: green;">✓</span>       | İsveç       | 650+          | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i>                     | Aylık 5 €    |
-| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/protonvpn-icon.png" alt="Proton" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Proton VPN     | <span style="color: green;">×</span>           | <span style="color: green;">✓</span>       | İsviçre     | 6,900+        | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i>                     | Ücretsiz*     |
+| VPN                                                                                                                                                                                                                                         |           Kayıt Tutuyor mu           |             Açık Kaynak              |  Ülke   | Sunucu Sayısı |                                                                                        Platformlar                                                                                         |   Fiyat    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------: | :----------------------------------: | :-----: | :-----------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------: |
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/mullvadvpn-icon.png" alt="Mullvad" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Mullvad VPN | <span style="color: green;">×</span> | <span style="color: green;">✓</span> |  İsveç  |     650+      | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> | Aylık 5 €  |
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/protonvpn-icon.png" alt="Proton" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Proton VPN    | <span style="color: green;">×</span> | <span style="color: green;">✓</span> | İsviçre |    6,900+     | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> | Ücretsiz\* |
 
-* ProtonVPN'in ücretli sürümü aylık 9.99€'dan başlamaktadır. Ücretsiz sürümde sınırlı sayıda ülke ve sunucu sayısı olabilir.
+- ProtonVPN'in ücretli sürümü aylık 9.99€'dan başlamaktadır. Ücretsiz sürümde sınırlı sayıda ülke ve sunucu sayısı olabilir.
 
 ## Mullvad VPN
 
@@ -84,8 +84,8 @@ Bu sayede kullanıcıların herhangi bir bilgisinin kaydıda tutulmaz. Mullvad V
   </tr>
 </table>
 
-* [Açık kaynak depoları](https://github.com/mullvad/mullvadvpn-app)
-* [Gizlilik politikaları](https://mullvad.net/en/help/privacy-policy)
+- [Açık kaynak depoları](https://github.com/mullvad/mullvadvpn-app)
+- [Gizlilik politikaları](https://mullvad.net/en/help/privacy-policy)
 
 ## Proton VPN
 
@@ -145,5 +145,5 @@ Proton firmasının pek çok farklı uygulaması mevcuttur, örn: Proton Mail, P
   </tr>
 </table>
 
-* [Açık kaynak depoları](https://github.com/ProtonVPN)
-* [Gizlilik politikaları](https://protonvpn.com/privacy-policy)
+- [Açık kaynak depoları](https://github.com/ProtonVPN)
+- [Gizlilik politikaları](https://protonvpn.com/privacy-policy)

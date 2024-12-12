@@ -1,4 +1,4 @@
-<!-- NOTLAR 
+<!-- NOTLAR
  - Bu sayfa sitenin ana sayfasıdır.
  - Bu sayfaya ekleme yapmadan önce yetkililere danışmanız önerilir. -->
 
@@ -12,10 +12,10 @@ Bireylerin internet üzerindeki haklarını ve gizliliklerini koruma konusunda b
 
 Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlamak amacıyla çeşitli **kaynaklar**, **bilgiler**, **araçlar** ve **yazılımlar** sunar.
 
-> "*Gizleyecek bir şeyiniz olmadığı için mahremiyet hakkını umursamadığınızı iddia etmek, söyleyecek bir şeyiniz olmadığı için ifade özgürlüğünü umursamadığınızı söylemekten farksızdır*"
+> "_Gizleyecek bir şeyiniz olmadığı için mahremiyet hakkını umursamadığınızı iddia etmek, söyleyecek bir şeyiniz olmadığı için ifade özgürlüğünü umursamadığınızı söylemekten farksızdır_"
 > <br> **Edward Snowden**
 
-!> Güvende Kal projesi daha geliştirme aşamasındadır. İçerik kalitemizi arttırmaya ve yeni sayfalar oluşturmaya çalışıyoruz. Hâlâ bitmemiş dökümantasyon dosyalarına baktığınızı unutmayın. Herhangi bir hata bildirmek için [**buraya**](https://github.com/GuvendeKal/guvendekal.org/issues) konu açabilirsiniz yada direkt sağ üstteki "Dökümanı Düzenle" diyip herhangi bir hatayı kendiniz düzeltebilirsiniz.  Güvende Kal, topluluk tarafından oluşturulmuştur, gelişmesi ve devamlılığı yine topluluğa bağlıdır. Nasıl katkıda bulunabileceğiniz öğrenmek için [**Ekleme Yapmak**](https://guvendekal.org/#/ekleme) ve [**İçerik Kuralları**](https://guvendekal.org/#/icerik-kurallari) sayfalarını ziyaret edebilirsiniz.
+!> Güvende Kal projesi daha geliştirme aşamasındadır. İçerik kalitemizi arttırmaya ve yeni sayfalar oluşturmaya çalışıyoruz. Hâlâ bitmemiş dökümantasyon dosyalarına baktığınızı unutmayın. Herhangi bir hata bildirmek için [**buraya**](https://github.com/GuvendeKal/guvendekal.org/issues) konu açabilirsiniz yada direkt sağ üstteki "Dökümanı Düzenle" diyip herhangi bir hatayı kendiniz düzeltebilirsiniz. Güvende Kal, topluluk tarafından oluşturulmuştur, gelişmesi ve devamlılığı yine topluluğa bağlıdır. Nasıl katkıda bulunabileceğiniz öğrenmek için [**Ekleme Yapmak**](https://guvendekal.org/#/ekleme) ve [**İçerik Kuralları**](https://guvendekal.org/#/icerik-kurallari) sayfalarını ziyaret edebilirsiniz.
 
 # Prensip & Misyon ve İşleyiş
 
@@ -101,7 +101,6 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
         </div>
     </div>
 </div>
-
 
 <div class="custom-box">
     <img src="docs/images/f-droid.png" alt="Logo">

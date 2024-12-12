@@ -1,6 +1,6 @@
-<!-- NOTLAR 
+<!-- NOTLAR
  - Bu içerik bilgi içerikli makale olacaktır.
- - Tablo eklemeyi unutmayın 
+ - Tablo eklemeyi unutmayın
  - Uygun görseller eklemeyi unutmayın.
  - İçerik kuralları ve ekleme yapmak sayfalarını ziyaret edebilirsiniz -->
 
@@ -21,18 +21,21 @@ Tor ağı, kullanıcıların anonim kalmasını sağlamak için veri trafiğini 
 Yönlendirme süreci şu adımlarla işler:
 
 ### **Giriş Düğümü _(Entry Node)_:**
+
 Giriş düğümü, kullanıcının Tor ağına bağlandığı ilk noktadır. Bu düğüm, kullanıcının gerçek IP adresini görebilen tek noktadır. Ancak giriş düğümü, bu bilgiyi Tor ağının geri kalanına veya hedef siteye iletmez. Bunun yerine, veriyi şifreler ve bir sonraki düğüme iletir.
 
-  > Örnek: kullanıcı, Tor kullanarak bir haber sitesine bağlanmak istiyor. kullanıcının bilgisayarı, Tor ağına bağlanırken bir giriş düğümü _(örneğin Almanya’da bulunan bir sunucu)_ seçer. Bu düğüm, kullanıcının gerçek IP adresini bilir, ancak onun bir haber sitesine bağlanmaya çalıştığını bilmez. Trafiği şifreler ve anonim bir şekilde orta düğüme iletir.
+> Örnek: kullanıcı, Tor kullanarak bir haber sitesine bağlanmak istiyor. kullanıcının bilgisayarı, Tor ağına bağlanırken bir giriş düğümü _(örneğin Almanya’da bulunan bir sunucu)_ seçer. Bu düğüm, kullanıcının gerçek IP adresini bilir, ancak onun bir haber sitesine bağlanmaya çalıştığını bilmez. Trafiği şifreler ve anonim bir şekilde orta düğüme iletir.
 
 ### **Orta Düğüm _(Relay Node)_:**
+
 Orta düğüm, veri trafiğini anonimleştiren ve yönlendiren ara bağlantı noktasıdır. Orta düğümler, verinin nereden geldiğini ve nereye gideceğini bilmez. Görevleri, veriyi sadece bir sonraki düğüme iletmektir. Tor ağı genellikle birden fazla orta düğüm kullanır ve bu düğümler trafiğin daha da anonimleşmesini sağlar.
 
-  > Örnek: kullanıcının trafiği Almanya’daki giriş düğümünden çıktıktan sonra, Fransa’da bulunan bir orta düğüme ulaşır. Bu düğüm, verinin Almanya’dan geldiğini bilir ama kullanıcıyı tanımaz. Aynı zamanda, trafiğin nereye yönlendirileceği hakkında sadece çıkış düğümüne gitmesi gerektiğini bilir. Orta düğüm bu bilgileri şifrelenmiş bir şekilde ilettiği için, Ali’nin trafiği anonim kalır.
+> Örnek: kullanıcının trafiği Almanya’daki giriş düğümünden çıktıktan sonra, Fransa’da bulunan bir orta düğüme ulaşır. Bu düğüm, verinin Almanya’dan geldiğini bilir ama kullanıcıyı tanımaz. Aynı zamanda, trafiğin nereye yönlendirileceği hakkında sadece çıkış düğümüne gitmesi gerektiğini bilir. Orta düğüm bu bilgileri şifrelenmiş bir şekilde ilettiği için, Ali’nin trafiği anonim kalır.
 
 ### **Çıkış Düğümü _(Exit Node)_:**
+
 Çıkış düğümü, Tor ağından çıkan trafiğin hedefe ulaştığı son noktadır. Bu düğüm, trafiğin şifrelenmiş son katmanını çözer ve veriyi internet üzerindeki nihai hedefe iletir. Çıkış düğümü, kullanıcının ulaşmak istediği web sitesi veya hizmetle doğrudan bağlantı kurar.
 
-  > Örnek: kullanıcının verisi Fransa’daki orta düğümden çıktıktan sonra, ABD’deki bir çıkış düğümüne ulaşır. Çıkış düğümü, trafiğin hedef web sitesi olan haber sitesine iletilmesini sağlar. Haber sitesi, trafiğin ABD’den geldiğini görür, ancak kullanıcının gerçek IP adresini veya giriş düğümünü bilemez.
+> Örnek: kullanıcının verisi Fransa’daki orta düğümden çıktıktan sonra, ABD’deki bir çıkış düğümüne ulaşır. Çıkış düğümü, trafiğin hedef web sitesi olan haber sitesine iletilmesini sağlar. Haber sitesi, trafiğin ABD’den geldiğini görür, ancak kullanıcının gerçek IP adresini veya giriş düğümünü bilemez.
 
 Bu çok katmanlı yapı, trafiğin izlenmesini ve kaynağın tespit edilmesini son derece zorlaştırır. Ancak çıkış düğümünde, veriler şifrelenmemiş olabilir. Bu nedenle, kullanıcıların HTTPS gibi ek şifreleme yöntemlerini tercih etmeleri önerilir.

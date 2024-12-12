@@ -1,4 +1,4 @@
-<!-- NOTLAR 
+<!-- NOTLAR
  - Bu sayfa bilgi içerikli makaleden oluşmaktadır.
  - İçerik kuralları ve ekleme yapmak sayfalarını ziyaret edebilirsiniz -->
 
@@ -17,7 +17,7 @@ Dijital dünyada güvenliği sağlamak için tehdit modellerini anlamak önemlid
 
 ### Güvenilir Uygulamalar
 
-Güvenlik için en başta kullandığımız uygulamaların **güvenilir** olması gerekir. Örneğin bir not alma uygulamasının, cihazınızın kamera ve mikrofonuna erişmesinin herhangi bir nedeni olamaz. Ya da VPN gibi maliyetli servislerin ücretsiz olması, asıl ürünün siz olduğunu gösterir; çünkü ürüne para ödemiyorsanız, ürün sizsiniz demektir. "*Bedava peynir sadece fare kapanında olur*."
+Güvenlik için en başta kullandığımız uygulamaların **güvenilir** olması gerekir. Örneğin bir not alma uygulamasının, cihazınızın kamera ve mikrofonuna erişmesinin herhangi bir nedeni olamaz. Ya da VPN gibi maliyetli servislerin ücretsiz olması, asıl ürünün siz olduğunu gösterir; çünkü ürüne para ödemiyorsanız, ürün sizsiniz demektir. "_Bedava peynir sadece fare kapanında olur_."
 
 - 2020'de 7 farklı ücretsiz VPN, [**1.2TB boyutunda kullanıcı verisini sızdırdı**](https://www.vpnmentor.com/blog/report-free-vpns-leak/).
 - 2021'de 3 farklı ücretsiz VPN, [**21 milyon kullanıcısının detaylı kimlik bilgilerini sızdırdı**](https://cybernews.com/security/25-million-free-vpn-user-records-exposed/).
@@ -47,12 +47,11 @@ Bugün pek çok insan, şifrelerini basit tutarak ve her platformda aynı şifre
 
 Aynı zamanda, iki faktörlü doğrulama (2FA) yöntemleriyle hesaplarınızı ekstra bir güvenlik katmanıyla korumak mümkündür. 2FA, şifrenizin yanı sıra ikinci bir doğrulama adımı gerektirir. Bu adım genellikle bir mobil cihazınıza gönderilen doğrulama kodu, bir doğrulama uygulaması üzerinden üretilen zaman bazlı bir kod veya fiziksel bir güvenlik anahtarı olabilir. Daha detaylı bilgi için [**2 Faktörlü Doğrulama**](https://guvendekal.org/#/2-faktorlu-dogrulama) sayfasına bakabilirsiniz
 
--  2 faktörlü doğrulama sistemi kullandığınız zaman şifreniz ele geçirilse bile, saldırganlar ikinci doğrulama faktörüne erişemediği sürece hesabınıza giriş yapamaz.
--  SMS kodları kolay erişilebilir ancak en zayıf 2 faktörlü doğrulama yöntemlerinden biridir. Bunun yerine doğrulama uygulamaları kullanılması önerilir.
--  
-Şifre yöneticileri ve 2FA birlikte kullanıldığında, hesap güvenliğinizi katbekat artar. Şifre yöneticileri güçlü ve benzersiz şifreler oluştururken, 2 faktörlü doğrulama ek bir doğrulama adımı sağlar ve böylece potansiyel tehditlere karşı daha kapsamlı bir koruma sunar.
+- 2 faktörlü doğrulama sistemi kullandığınız zaman şifreniz ele geçirilse bile, saldırganlar ikinci doğrulama faktörüne erişemediği sürece hesabınıza giriş yapamaz.
+- SMS kodları kolay erişilebilir ancak en zayıf 2 faktörlü doğrulama yöntemlerinden biridir. Bunun yerine doğrulama uygulamaları kullanılması önerilir.
+- Şifre yöneticileri ve 2FA birlikte kullanıldığında, hesap güvenliğinizi katbekat artar. Şifre yöneticileri güçlü ve benzersiz şifreler oluştururken, 2 faktörlü doğrulama ek bir doğrulama adımı sağlar ve böylece potansiyel tehditlere karşı daha kapsamlı bir koruma sunar.
 
-### Reklam engelleyici 
+### Reklam engelleyici
 
 Reklam engelleyici kullanmak, internette güvenliğinizi artırmanın ve daha iyi bir kullanıcı deneyimi elde etmenin etkili yollarından biridir. Bugün çoğu reklam aslında kötü amaçlı yazılımlar veya kimlik avı (oltalama) gibi saldırıları içerebilir. Sizi zararlı içerikler barındıran sitelere yönlendirebilir.
 
