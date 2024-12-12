@@ -9,7 +9,9 @@ Bireylerin internet üzerindeki haklarını ve gizliliklerini koruma konusunda b
 Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlamak amacıyla çeşitli kaynaklar, bilgiler, araçlar ve yazılımlar sunar.
 
 # Katkı
-[![Super-Linter](https://github.com/wiseweb-works/guvendekal.org/actions/workflows/linting.yml/badge.svg)](https://github.com/marketplace/actions/super-linter)
+
+[![Super-Linter](https://github.com/GuvendeKal/guvendekal.org/actions/workflows/linting.yml/badge.svg)](https://github.com/marketplace/actions/super-linter)
+
 - Ekleme yapmak için [buraya](https://guvendekal.org/#/ekleme) bakabilirsiniz.
 - İçerik kurallarına bakmak için [buraya](https://guvendekal.org/#/icerik-kurallari) bakabilirsiniz
 - Katkıda bulunanlar için [buraya](https://guvendekal.org/#/katkida-bulunanlar) bakabilirsiniz
