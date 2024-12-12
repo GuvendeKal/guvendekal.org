@@ -1,4 +1,7 @@
 MD001: false
+MD013:
+  line_length: 600
+  ignore_code_blocks: true
 MD024: false
 MD033: false
 MD041: false
