@@ -88,6 +88,29 @@ body {
   margin-bottom: 8px;
 }
 
+/* Başlık */
+.service-box .title {
+  font-size: 18px;
+  font-weight: bold;
+  color: #0b87da;
+}
+
+/* Başlık */
+.criteria .title {
+  font-size: 18px;
+  font-weight: bold;
+  color: #0b87da;
+  text-decoration: none;
+  margin: 12px 0;
+}
+
+/* Başlık */
+.web-store-box .title {
+  font-size: 18px;
+  font-weight: bold;
+  color: #0b87da;
+}
+
 .custom-box .title:hover {
   text-decoration: none;
 }
@@ -173,13 +196,6 @@ body {
   height: auto;
 }
 
-/* Başlık */
-.service-box .title {
-  font-size: 18px;
-  font-weight: bold;
-  color: #0b87da;
-}
-
 /* Gece/Gündüz modu */
 .light-mode .service-box {
   background-color: #f9f9f9;
@@ -223,15 +239,6 @@ body {
   color: #0b87da;
   font-size: 56px;
   margin-right: 25px;
-}
-
-/* Başlık */
-.criteria .title {
-  font-size: 18px;
-  font-weight: bold;
-  color: #0b87da;
-  text-decoration: none;
-  margin: 12px 0;
 }
 
 .criteria .title:hover {
@@ -317,13 +324,6 @@ body {
   text-align: center;
   line-height: 50px;
   font-size: 50px;
-  color: #0b87da;
-}
-
-/* Başlık */
-.web-store-box .title {
-  font-size: 18px;
-  font-weight: bold;
   color: #0b87da;
 }
 
