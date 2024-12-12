@@ -1,0 +1,29 @@
+name: Linting Workflow
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Run Super-Linter
+        uses: super-linter/super-linter/slim@latest
+        env:
+          VALIDATE_MARKDOWN: true
+          VALIDATE_HTML: true
+          VALIDATE_CSS: true
+          VALIDATE_JAVASCRIPT: true
+          VALIDATE_ALL_CODEBASE: false
+          LINTER_RULES_PATH: ""
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
