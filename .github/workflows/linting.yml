@@ -19,6 +19,8 @@ jobs:
       - name: Run Super-Linter with detailed output
         uses: super-linter/super-linter/slim@latest
         env:
+          LINTER_RULES_PATH: /
+          MARKDOWN_CONFIG_FILE: .markdown-lint.yml
           VALIDATE_ALL_CODEBASE: false
           VALIDATE_MARKDOWN: true
           FIX_MARKDOWN: true
