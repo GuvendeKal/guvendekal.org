@@ -97,6 +97,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "A11Z16",
+      "name": "TeknoGame",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73792721?v=4",
+      "profile": "https://github.com/A11Z16",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
