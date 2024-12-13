@@ -1,0 +1,26 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "GokturkTalha",
+      "name": "Talha Aygün",
+      "avatar_url": "https://avatars.githubusercontent.com/u/128845803?v=4",
+      "profile": "https://talhaaygun.com/",
+      "contributions": [
+        "design"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "guvendekal.org",
+  "projectOwner": "GuvendeKal"
+}
