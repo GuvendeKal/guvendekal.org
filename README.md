@@ -1,6 +1,6 @@
 ![Logo](./docs/images/logo.svg)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-20-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-21-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # Hakkında
@@ -57,6 +57,7 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
       <td align="center" valign="top" width="14.28%"><a href="https://www.backloggd.com/u/TheChief/"><img src="https://avatars.githubusercontent.com/u/157958642?v=4?s=100" width="100px;" alt="john"/><br /><sub><b>john</b></sub></a><br /><a href="https://github.com/GuvendeKal/guvendekal.org/commits?author=thechief77" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://megafocus.net"><img src="https://avatars.githubusercontent.com/u/114775647?v=4?s=100" width="100px;" alt="Bartu İlik"/><br /><sub><b>Bartu İlik</b></sub></a><br /><a href="https://github.com/GuvendeKal/guvendekal.org/commits?author=MegaFocusDev" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/odk-0160"><img src="https://avatars.githubusercontent.com/u/78966027?v=4?s=100" width="100px;" alt="ODK"/><br /><sub><b>ODK</b></sub></a><br /><a href="https://github.com/GuvendeKal/guvendekal.org/commits?author=odk-0160" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/kaanboraoz"><img src="https://avatars.githubusercontent.com/u/130750373?v=4?s=100" width="100px;" alt="Kaan"/><br /><sub><b>Kaan</b></sub></a><br /><a href="https://github.com/GuvendeKal/guvendekal.org/commits?author=kaanboraoz" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
