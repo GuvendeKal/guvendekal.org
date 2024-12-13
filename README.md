@@ -35,7 +35,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://talhaaygun.com/"><img src="https://avatars.githubusercontent.com/u/128845803?v=4?s=100" width="100px;" alt="Talha Aygün"/><br /><sub><b>Talha Aygün</b></sub></a><br /><a href="#design-GokturkTalha" title="Design">🎨</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://talhaaygun.com/"><img src="https://avatars.githubusercontent.com/u/128845803?v=4?s=100" width="100px;" alt="Talha Aygün"/><br /><sub><b>Talha Aygün</b></sub></a><br /><a href="#design-GokturkTalha" title="Design">🎨</a> <a href="#maintenance-GokturkTalha" title="Maintenance">🚧</a> <a href="https://github.com/GuvendeKal/guvendekal.org/commits?author=GokturkTalha" title="Code">💻</a> <a href="https://github.com/GuvendeKal/guvendekal.org/commits?author=GokturkTalha" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
