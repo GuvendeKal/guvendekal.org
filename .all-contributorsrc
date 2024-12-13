@@ -169,6 +169,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "thechief77",
+      "name": "john",
+      "avatar_url": "https://avatars.githubusercontent.com/u/157958642?v=4",
+      "profile": "https://www.backloggd.com/u/TheChief/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
