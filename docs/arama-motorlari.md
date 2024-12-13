@@ -1,6 +1,6 @@
-<!-- NOTLAR 
+<!-- NOTLAR
  - Bu içerik halihazırda yazılmıştır. İçerik içinde ekleme yapma yada düzeltme yapma ihtiyacı yoksa değişiklik yapmanız önerilmez. Uygulama önerilerine ekleme yapmak isterseniz, eklenen diğer uygulamaların kalitesinde olmasına özen gösteriniz.
- - Tablo eklemeyi unutmayın 
+ - Tablo eklemeyi unutmayın
  - Uygun görseller eklemeyi unutmayın.
  - İçerik kuralları ve ekleme yapmak sayfalarını ziyaret edebilirsiniz -->
 
@@ -14,18 +14,18 @@ Arama motorları kullanıcılarının arama sorgularına, IP adreslerine, konuml
 
 Ana gelir kaynağı "kişiselleştirilmiş reklam" olan arama motorları, sıralamada reklam verenler daha üst sıralara taşımaktadır. Buda kullanıcının doğru ve tarafsız bir arama sonucuna ulaşmasına engel olmaktadır.
 
-Bu nedenlerle sizin verilerinizi işleyip kullanan, aramalarda manipülasyon yapan arama motorlarunu kullanmamanız;  [**güvenlik**](https://guvendekal.org/#/guvenlik) ve [**mahremiyetiniz**](https://guvendekal.org/#/mahremiyet) başta olmak üzere daha doğru arama sonuçlarına ulaşmanız için önemlidir.
+Bu nedenlerle sizin verilerinizi işleyip kullanan, aramalarda manipülasyon yapan arama motorlarunu kullanmamanız; [**güvenlik**](https://guvendekal.org/#/guvenlik) ve [**mahremiyetiniz**](https://guvendekal.org/#/mahremiyet) başta olmak üzere daha doğru arama sonuçlarına ulaşmanız için önemlidir.
 
 ?> Arama motorunuzu seçtikten sonra hangi tarayıcıyı kullanacağınızı seçtiniz mi? Yada eklenti yüklemeyi düşünüyor musunuz? Önerdiğimiz tarayıcılar için [**İnternet Tarayıcıları**](https://guvendekal.org/#/internet-tarayicilari) sayfasını, eklentileri görmek için [**Tarayıcı Eklentileri**](guvendekal.org/#/tarayici-eklentileri) sayfasını ziyaret edebilirsiniz.
 
 ## Önerilenler Tablosu
 
-| Arama Motoru     | Açık Kaynak       |  Kayıt Tutma     | Kayıtlı Ülke | Sonuçların Kaynağı | Reklamlar  |
-| ---------------- |:----------------:| :---------------:| :------------:| :----------------:| :---------:|
-| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/duckduckgo-icon.png" alt="DuckDuckGo" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;">  DuckDuckGo      | × | <span style="color: green;">×</span> | ABD          | Kendi + Bing     | ✓       |
-| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/brave-icon.png" alt="Brave" style="width: 30px; height: ;"> </span> <span style="display: inline-block; vertical-align: middle;"> Brave Search      | <span style="color: red;">×</span> | <span style="color: green;">×</span> | ABD          | Kendi indeksi    | ✓      |
-| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/startpage-icon.png" alt="Startpage" style="width: 40px; height: 40px;"> </span> <span style="display: inline-block; vertical-align: middle;"> StartPage         | <span style="color: red;">×</span> | ✓     | Hollanda     | Google           | ✓      |
-| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/searx-icon.png" alt="Searx" style="width: 40px; height: 40px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Searx             | <span style="color: green;">✓</span> | <span style="color: green;">×</span> | Bağımsız | Meta Arama | <span style="color: green;">×</span>      |
+| Arama Motoru | Açık Kaynak | Kayıt Tutma | Kayıtlı Ülke | Sonuçların Kaynağı | Reklamlar |
+| --- | :---: | :---: | :---: | :---: | :---: |
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/duckduckgo-icon.png" alt="DuckDuckGo" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> DuckDuckGo | × | <span style="color: green;">×</span> | ABD | Kendi + Bing | ✓ |
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/brave-icon.png" alt="Brave" style="width: 30px; height: ;"> </span> <span style="display: inline-block; vertical-align: middle;"> Brave Search | <span style="color: red;">×</span> | <span style="color: green;">×</span> | ABD | Kendi indeksi | ✓ |
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/startpage-icon.png" alt="Startpage" style="width: 40px; height: 40px;"> </span> <span style="display: inline-block; vertical-align: middle;"> StartPage | <span style="color: red;">×</span> | ✓ | Hollanda | Google | ✓ |
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/searx-icon.png" alt="Searx" style="width: 40px; height: 40px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Searx | <span style="color: green;">✓</span> | <span style="color: green;">×</span> | Bağımsız | Meta Arama | <span style="color: green;">×</span> |
 
 - StartPage anonim, tanımlanamaz kayıt tutmaktadır.
 - Searx, meta bir arama motorudur. Farklı arama motorlarının sonuçlarını göstermektedir.

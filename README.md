@@ -10,14 +10,14 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
 
 # Katkı
 
+[![Super-Linter](https://github.com/GuvendeKal/guvendekal.org/actions/workflows/linting.yml/badge.svg)](https://github.com/marketplace/actions/super-linter)
+
 - Ekleme yapmak için [buraya](https://guvendekal.org/#/ekleme) bakabilirsiniz.
 - İçerik kurallarına bakmak için [buraya](https://guvendekal.org/#/icerik-kurallari) bakabilirsiniz
 - Katkıda bulunanlar için [buraya](https://guvendekal.org/#/katkida-bulunanlar) bakabilirsiniz
 
 # Atıf
 
-- Dökümantasyon sistemi: https://docsify.js.org/#/
-- İkonlar: https://fontawesome.com/
-- Inter (font): https://rsms.me/inter/
-
-
+- Dökümantasyon sistemi: <https://docsify.js.org/#/>
+- İkonlar: <https://fontawesome.com/>
+- Inter (font): <https://rsms.me/inter/>

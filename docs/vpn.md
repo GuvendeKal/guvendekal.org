@@ -1,7 +1,7 @@
-<!-- NOTLAR 
+<!-- NOTLAR
  - Bu içerik halihazırda yazılmıştır. İçerik içinde ekleme yapma yada düzeltme yapma ihtiyacı yoksa değişiklik yapmanız önerilmez. Uygulama önerilerine ekleme yapmak isterseniz, eklenen diğer uygulamaların kalitesinde olmasına özen gösteriniz.
  - Bu içeriğe eklenmesi gereken şeyler olduğu düşünülmektedir. https://github.com/GuvendeKal/guvendekal.org/issues/28 buradan bakabilirsiniz.
- - Tablo eklemeyi unutmayın 
+ - Tablo eklemeyi unutmayın
  - Uygun görseller eklemeyi unutmayın.
  - İçerik kuralları ve ekleme yapmak sayfalarını ziyaret edebilirsiniz -->
 
@@ -17,12 +17,12 @@ VPN kullandığınızda trafiğinizi (ziyaret ettiğiniz siteleri) internet serv
 
 ## Önerilenler Tablosu
 
-| VPN            | Kayıt Tutuyor mu | Açık Kaynak | Ülke        | Sunucu Sayısı | Platformlar                                        | Fiyat         |
-|----------------|:---------------:|:-----------:|:-----------:|:-------------:|:--------------------------------------------------------:|:-------------:|
-| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/mullvadvpn-icon.png" alt="Mullvad" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Mullvad VPN    | <span style="color: green;">×</span>           | <span style="color: green;">✓</span>       | İsveç       | 650+          | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i>                     | Aylık 5 €    |
-| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/protonvpn-icon.png" alt="Proton" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Proton VPN     | <span style="color: green;">×</span>           | <span style="color: green;">✓</span>       | İsviçre     | 6,900+        | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i>                     | Ücretsiz*     |
+| VPN | Kayıt Tutuyor mu | Açık Kaynak | Ülke | Sunucu Sayısı | Platformlar | Fiyat |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: |
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/mullvadvpn-icon.png" alt="Mullvad" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Mullvad VPN | <span style="color: green;">×</span> | <span style="color: green;">✓</span> | İsveç | 650+ | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> | Aylık 5 € |
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/protonvpn-icon.png" alt="Proton" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Proton VPN | <span style="color: green;">×</span> | <span style="color: green;">✓</span> | İsviçre | 6,900+ | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> | Ücretsiz\* |
 
-* ProtonVPN'in ücretli sürümü aylık 9.99€'dan başlamaktadır. Ücretsiz sürümde sınırlı sayıda ülke ve sunucu sayısı olabilir.
+- ProtonVPN'in ücretli sürümü aylık 9.99€'dan başlamaktadır. Ücretsiz sürümde sınırlı sayıda ülke ve sunucu sayısı olabilir.
 
 ## Mullvad VPN
 
@@ -35,57 +35,57 @@ Bu sayede kullanıcıların herhangi bir bilgisinin kaydıda tutulmaz. Mullvad V
 > 2023 yılında İsveç polisi tarafından Mullvad VPN sunucularına erişilmeye çalışıldı ancak kayıt tutulmadığı için kullanıcı bilgileri İsveç polisinin eline geçmedi. [Kaynak1](https://www.pcmag.com/news/mullvad-vpn-hit-with-search-warrant-in-attempted-police-raid) [Kaynak2](https://www.theverge.com/2023/4/21/23692580/mullvad-vpn-raid-sweden-police)
 
 <table>
-  <tr>
-    <th colspan="2">Mullvad VPN Detayları</th>
-  </tr>
-  <tr>
-    <td>Kayıt Tutuyor mu?</td>
-    <td><span style="color: green;">×</span></td>
-  <tr>
-    <td>Açık Kaynak</td>
-    <td><span style="color: green;">✓</span></td>
-  </tr>
-    <tr>
-    <td>Kill Switch</td>
-    <td><span style="color: green;">✓</span></td>
-  </tr>
-  <tr>
-    <td>DNS Sızıntı Koruması</td>
-    <td><span style="color: green;">✓</span></td>
-  </tr>
-  <tr>
-    <td>Split Tunneling</td>
-    <td><span style="color: green;">✓</span></td>
-  </tr>
-    </tr>
-  <tr>
-    <td>Kayıtlı Ülke</td>
-    <td>İsveç</td>
-  </tr>
-  <tr>
-    <td>Şifreleme Protokolleri</td>
-    <td>WireGuard, OpenVPN</td>
-  </tr>
-  <tr>
-    <td>Sunucu Sayısı</td>
-    <td>650+ Sunucu</td>
-  </tr>
-  <tr>
-    <td>Platform Desteği</td>
-    <td><i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> </td>
-  </tr>
-  <tr>
-    <td>Ödeme Seçenekleri</td>
-    <td>Kredi Kartı, Bitcoin, Nakit</td>
-  </tr>
-  <tr>
-    <td>Cihaz Sayısı</td>
-    <td>5 Cihaz</td>
-  </tr>
+ <tr>
+ <th colspan="2">Mullvad VPN Detayları</th>
+ </tr>
+ <tr>
+ <td>Kayıt Tutuyor mu?</td>
+ <td><span style="color: green;">×</span></td>
+ <tr>
+ <td>Açık Kaynak</td>
+ <td><span style="color: green;">✓</span></td>
+ </tr>
+ <tr>
+ <td>Kill Switch</td>
+ <td><span style="color: green;">✓</span></td>
+ </tr>
+ <tr>
+ <td>DNS Sızıntı Koruması</td>
+ <td><span style="color: green;">✓</span></td>
+ </tr>
+ <tr>
+ <td>Split Tunneling</td>
+ <td><span style="color: green;">✓</span></td>
+ </tr>
+ </tr>
+ <tr>
+ <td>Kayıtlı Ülke</td>
+ <td>İsveç</td>
+ </tr>
+ <tr>
+ <td>Şifreleme Protokolleri</td>
+ <td>WireGuard, OpenVPN</td>
+ </tr>
+ <tr>
+ <td>Sunucu Sayısı</td>
+ <td>650+ Sunucu</td>
+ </tr>
+ <tr>
+ <td>Platform Desteği</td>
+ <td><i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> </td>
+ </tr>
+ <tr>
+ <td>Ödeme Seçenekleri</td>
+ <td>Kredi Kartı, Bitcoin, Nakit</td>
+ </tr>
+ <tr>
+ <td>Cihaz Sayısı</td>
+ <td>5 Cihaz</td>
+ </tr>
 </table>
 
-* [Açık kaynak depoları](https://github.com/mullvad/mullvadvpn-app)
-* [Gizlilik politikaları](https://mullvad.net/en/help/privacy-policy)
+- [Açık kaynak depoları](https://github.com/mullvad/mullvadvpn-app)
+- [Gizlilik politikaları](https://mullvad.net/en/help/privacy-policy)
 
 ## Proton VPN
 
@@ -96,54 +96,54 @@ Bu sayede kullanıcıların herhangi bir bilgisinin kaydıda tutulmaz. Mullvad V
 Proton firmasının pek çok farklı uygulaması mevcuttur, örn: Proton Mail, Proton Calender, Proton Drive, Proton Pass, Proton Wallet. Proton ekosistemini kullanmak isterseniz, VPN ile ortak alıp kullanabilirsiniz, daha hesaplı olabilir.
 
 <table>
-  <tr>
-    <th colspan="2">Proton VPN Detayları</th>
-  </tr>
-  <tr>
-    <td>Kayıt Tutuyor mu?</td>
-    <td><span style="color: green;">×</span></td>
-  </tr>
-  <tr>
-    <td>Açık Kaynak</td>
-    <td><span style="color: green;">✓</span></td>
-  </tr>
-   <tr>
-    <td>Kill Switch</td>
-    <td><span style="color: green;">✓</span></td>
-  </tr>
-  <tr>
-    <td>DNS Sızıntı Koruması</td>
-    <td><span style="color: green;">✓</span></td>
-  </tr>
-  <tr>
-    <td>Split Tunneling</td>
-    <td><span style="color: green;">✓</span> <small>(Premium sürümde)<small></td>
-  </tr>
-    <tr>
-    <td>Kayıtlı Ülke</td>
-    <td>İsviçre</td>
-  </tr>
-  <tr>
-    <td>Şifreleme Protokolleri</td>
-    <td>OpenVPN, IKEv2, WireGuard</td>
-  </tr>
-  <tr>
-    <td>Sunucu Sayısı</td>
-    <td>6,900+ Sunucu</td>
-  </tr>
-  <tr>
-    <td>Platform Desteği</td>
-    <td><i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> </td>
-  </tr>
-  <tr>
-    <td>Ödeme Seçenekleri</td>
-    <td>Kredi Kartı, Bitcoin, PayPal</td>
-  </tr>
-  <tr>
-    <td>Cihaz Sayısı</td>
-    <td>1 Cihaz (Ücretsiz), 10 Cihaz (Premium)</td>
-  </tr>
+ <tr>
+ <th colspan="2">Proton VPN Detayları</th>
+ </tr>
+ <tr>
+ <td>Kayıt Tutuyor mu?</td>
+ <td><span style="color: green;">×</span></td>
+ </tr>
+ <tr>
+ <td>Açık Kaynak</td>
+ <td><span style="color: green;">✓</span></td>
+ </tr>
+ <tr>
+ <td>Kill Switch</td>
+ <td><span style="color: green;">✓</span></td>
+ </tr>
+ <tr>
+ <td>DNS Sızıntı Koruması</td>
+ <td><span style="color: green;">✓</span></td>
+ </tr>
+ <tr>
+ <td>Split Tunneling</td>
+ <td><span style="color: green;">✓</span> <small>(Premium sürümde)<small></td>
+ </tr>
+ <tr>
+ <td>Kayıtlı Ülke</td>
+ <td>İsviçre</td>
+ </tr>
+ <tr>
+ <td>Şifreleme Protokolleri</td>
+ <td>OpenVPN, IKEv2, WireGuard</td>
+ </tr>
+ <tr>
+ <td>Sunucu Sayısı</td>
+ <td>6,900+ Sunucu</td>
+ </tr>
+ <tr>
+ <td>Platform Desteği</td>
+ <td><i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> </td>
+ </tr>
+ <tr>
+ <td>Ödeme Seçenekleri</td>
+ <td>Kredi Kartı, Bitcoin, PayPal</td>
+ </tr>
+ <tr>
+ <td>Cihaz Sayısı</td>
+ <td>1 Cihaz (Ücretsiz), 10 Cihaz (Premium)</td>
+ </tr>
 </table>
 
-* [Açık kaynak depoları](https://github.com/ProtonVPN)
-* [Gizlilik politikaları](https://protonvpn.com/privacy-policy)
+- [Açık kaynak depoları](https://github.com/ProtonVPN)
+- [Gizlilik politikaları](https://protonvpn.com/privacy-policy)
