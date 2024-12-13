@@ -35,7 +35,7 @@ uBlock Origin eklentisi [açık kaynaktır](https://github.com/gorhill/uBlock) v
 
 **ToS;DR (Terms of Service; Didn't Read)**, web hizmetlerinin kullanım koşullarını ve gizlilik politikalarını daha anlaşılır bir şekilde kullanıcıya sunan bir tarayıcı eklentisidir. Bu eklenti sayesinde ziyaret ettiğiniz web sitelerinin kullanım şartlarının özetine ve derecelendirmelerine hızlıca erişebilirsiniz.Eklenti çubuğundaki ToS;DR ikonu sayfanın veri güvenliğine göre yapılan derecelendirme ile değişiyor.
 
->ToS-DR, [açık kaynaklı](https://github.com/tosdr/browser-extensions) bir projedir ve AGPL-3.0 ile lisanslanmıştır. <span style="color: green;"><small>Özgür Yazılım</small></span> anlayışına dayanarak geliştirilmiş olan bu eklenti, kullanıcıların çevrimiçi gizliliklerini artırmalarına yardımcı olmayı hedefler ve herkesin katkıda bulunabileceği bir yapıya sahiptir.
+?>ToS-DR, [açık kaynaklı](https://github.com/tosdr/browser-extensions) bir projedir ve AGPL-3.0 ile lisanslanmıştır. <span style="color: green;"><small>Özgür Yazılım</small></span> anlayışına dayanarak geliştirilmiş olan bu eklenti, kullanıcıların çevrimiçi gizliliklerini artırmalarına yardımcı olmayı hedefler ve herkesin katkıda bulunabileceği bir yapıya sahiptir.
 
 ![TosDR](https://raw.githubusercontent.com/odk-0160/guvendekal.org/dac1a5adac1fbbf309ce2fee06706a1fb3772675/docs/images/tosdr.png)
 _**“Şartları okudum ve kabul ediyorum” web'deki en büyük yalandır. Birlikte bunu düzeltebiliriz.**_
