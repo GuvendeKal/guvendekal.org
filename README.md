@@ -1,6 +1,6 @@
 ![Logo](./docs/images/logo.svg)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # Hakkında
@@ -44,6 +44,7 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/callisto1232"><img src="https://avatars.githubusercontent.com/u/146484672?v=4?s=100" width="100px;" alt="callisto1232"/><br /><sub><b>callisto1232</b></sub></a><br /><a href="https://github.com/GuvendeKal/guvendekal.org/commits?author=callisto1232" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://rockeymen.site/"><img src="https://avatars.githubusercontent.com/u/95621500?v=4?s=100" width="100px;" alt="RockEymen45"/><br /><sub><b>RockEymen45</b></sub></a><br /><a href="https://github.com/GuvendeKal/guvendekal.org/commits?author=2013dogumeymen" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Unchanged4352"><img src="https://avatars.githubusercontent.com/u/174876122?v=4?s=100" width="100px;" alt="Unchanged4352"/><br /><sub><b>Unchanged4352</b></sub></a><br /><a href="https://github.com/GuvendeKal/guvendekal.org/commits?author=Unchanged4352" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
