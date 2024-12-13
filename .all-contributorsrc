@@ -18,6 +18,17 @@
         "doc",
         "design"
       ]
+    },
+    {
+      "login": "islemci",
+      "name": "musti",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68755582?v=4",
+      "profile": "https://musti.codes",
+      "contributions": [
+        "maintenance",
+        "code",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
