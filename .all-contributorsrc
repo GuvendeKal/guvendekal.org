@@ -70,6 +70,15 @@
         "maintenance",
         "code"
       ]
+    },
+    {
+      "login": "emrekircaa",
+      "name": "Emre KIRCA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79770308?v=4",
+      "profile": "https://github.com/emrekircaa",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
