@@ -12,6 +12,10 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
 
 [![Super-Linter](https://github.com/GuvendeKal/guvendekal.org/actions/workflows/linting.yml/badge.svg)](https://github.com/marketplace/actions/super-linter)
 
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 - Ekleme yapmak için [buraya](https://guvendekal.org/#/ekleme) bakabilirsiniz.
 - İçerik kurallarına bakmak için [buraya](https://guvendekal.org/#/icerik-kurallari) bakabilirsiniz
 - Katkıda bulunanlar için [buraya](https://guvendekal.org/#/katkida-bulunanlar) bakabilirsiniz
@@ -21,3 +25,22 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
 - Dökümantasyon sistemi: <https://docsify.js.org/#/>
 - İkonlar: <https://fontawesome.com/>
 - Inter (font): <https://rsms.me/inter/>
+
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+
+
+
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+
+
+
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
