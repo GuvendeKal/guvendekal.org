@@ -13,7 +13,10 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/128845803?v=4",
       "profile": "https://talhaaygun.com/",
       "contributions": [
-        "design"
+        "design",
+        "maintenance",
+        "code",
+        "doc"
       ]
     }
   ],
