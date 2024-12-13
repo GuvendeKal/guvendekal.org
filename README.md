@@ -1,6 +1,6 @@
 ![Logo](./docs/images/logo.svg)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # Hakkında
@@ -47,6 +47,7 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/A11Z16"><img src="https://avatars.githubusercontent.com/u/73792721?v=4?s=100" width="100px;" alt="TeknoGame"/><br /><sub><b>TeknoGame</b></sub></a><br /><a href="https://github.com/GuvendeKal/guvendekal.org/commits?author=A11Z16" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://cosmos-emissary.github.io/"><img src="https://avatars.githubusercontent.com/u/93875236?v=4?s=100" width="100px;" alt="Cosmos Emissary"/><br /><sub><b>Cosmos Emissary</b></sub></a><br /><a href="https://github.com/GuvendeKal/guvendekal.org/commits?author=cosmos-emissary" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Unchanged4352"><img src="https://avatars.githubusercontent.com/u/174876122?v=4?s=100" width="100px;" alt="Unchanged4352"/><br /><sub><b>Unchanged4352</b></sub></a><br /><a href="https://github.com/GuvendeKal/guvendekal.org/commits?author=Unchanged4352" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/MrBaxren"><img src="https://avatars.githubusercontent.com/u/182433393?v=4?s=100" width="100px;" alt="MrBaxren"/><br /><sub><b>MrBaxren</b></sub></a><br /><a href="https://github.com/GuvendeKal/guvendekal.org/commits?author=MrBaxren" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
