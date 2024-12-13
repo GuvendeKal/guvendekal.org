@@ -1,4 +1,6 @@
 {
+  "projectName": "guvendekal.org",
+  "projectOwner": "GuvendeKal"
   "files": [
     "README.md"
   ],
@@ -24,6 +26,4 @@
   "skipCi": true,
   "repoType": "github",
   "repoHost": "https://github.com",
-  "projectName": "guvendekal.org",
-  "projectOwner": "GuvendeKal"
 }

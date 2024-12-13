@@ -15,6 +15,10 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
 
 [![Super-Linter](https://github.com/GuvendeKal/guvendekal.org/actions/workflows/linting.yml/badge.svg)](https://github.com/marketplace/actions/super-linter)
 
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 - Ekleme yapmak için [buraya](https://guvendekal.org/#/ekleme) bakabilirsiniz.
 - İçerik kurallarına bakmak için [buraya](https://guvendekal.org/#/icerik-kurallari) bakabilirsiniz
 - Katkıda bulunanlar için [buraya](https://guvendekal.org/#/katkida-bulunanlar) bakabilirsiniz
@@ -29,9 +33,12 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
+## Contributors
+
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+
 <table>
   <tbody>
     <tr>
@@ -46,3 +53,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
