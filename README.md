@@ -1,4 +1,7 @@
 ![Logo](./docs/images/logo.svg)
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # Hakkında
 
@@ -26,21 +29,30 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
 - İkonlar: <https://fontawesome.com/>
 - Inter (font): <https://rsms.me/inter/>
 
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 
-
-
-
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://talhaaygun.com/"><img src="https://avatars.githubusercontent.com/u/128845803?v=4?s=100" width="100px;" alt="Talha Aygün"/><br /><sub><b>Talha Aygün</b></sub></a><br /><a href="#design-GokturkTalha" title="Design">🎨</a> <a href="#maintenance-GokturkTalha" title="Maintenance">🚧</a> <a href="https://github.com/GuvendeKal/guvendekal.org/commits?author=GokturkTalha" title="Code">💻</a> <a href="https://github.com/GuvendeKal/guvendekal.org/commits?author=GokturkTalha" title="Documentation">📖</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
-
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
