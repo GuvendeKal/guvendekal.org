@@ -1,6 +1,6 @@
 ![Logo](./docs/images/logo.svg)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # Hakkında
@@ -40,6 +40,9 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
       <td align="center" valign="top" width="14.28%"><a href="http://conmecha.me"><img src="https://avatars.githubusercontent.com/u/78347194?v=4?s=100" width="100px;" alt="conmecha"/><br /><sub><b>conmecha</b></sub></a><br /><a href="#maintenance-conmecha" title="Maintenance">🚧</a> <a href="https://github.com/GuvendeKal/guvendekal.org/commits?author=conmecha" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/wiseweb-works"><img src="https://avatars.githubusercontent.com/u/69072094?v=4?s=100" width="100px;" alt="Wise"/><br /><sub><b>Wise</b></sub></a><br /><a href="#maintenance-wiseweb-works" title="Maintenance">🚧</a> <a href="https://github.com/GuvendeKal/guvendekal.org/commits?author=wiseweb-works" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/emrekircaa"><img src="https://avatars.githubusercontent.com/u/79770308?v=4?s=100" width="100px;" alt="Emre KIRCA"/><br /><sub><b>Emre KIRCA</b></sub></a><br /><a href="https://github.com/GuvendeKal/guvendekal.org/commits?author=emrekircaa" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/callisto1232"><img src="https://avatars.githubusercontent.com/u/146484672?v=4?s=100" width="100px;" alt="callisto1232"/><br /><sub><b>callisto1232</b></sub></a><br /><a href="https://github.com/GuvendeKal/guvendekal.org/commits?author=callisto1232" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
