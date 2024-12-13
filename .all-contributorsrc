@@ -29,6 +29,17 @@
         "code",
         "doc"
       ]
+    },
+    {
+      "login": "odest",
+      "name": "Dest",
+      "avatar_url": "https://avatars.githubusercontent.com/u/102368077?v=4",
+      "profile": "https://odest.github.io/",
+      "contributions": [
+        "maintenance",
+        "code",
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7,
