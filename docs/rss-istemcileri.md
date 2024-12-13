@@ -1,6 +1,6 @@
-<!-- NOTLAR 
- - Bu kategoride lokal ve bulut tabanlı rss uygulamaları ayrı ayrı eklenebilir- tek bir tabloda belirtilebilir ancak lokal ve bulut tabanlı rss uygulamalarının farkı anlatılmalıdır. 
- - Tablo eklemeyi unutmayın 
+<!-- NOTLAR
+ - Bu kategoride lokal ve bulut tabanlı rss uygulamaları ayrı ayrı eklenebilir- tek bir tabloda belirtilebilir ancak lokal ve bulut tabanlı rss uygulamalarının farkı anlatılmalıdır.
+ - Tablo eklemeyi unutmayın
  - Uygun görseller eklemeyi unutmayın.
  - İçerik kuralları ve ekleme yapmak sayfalarını ziyaret edebilirsiniz -->
 
@@ -20,11 +20,11 @@
 
 ## Önerilenler Tablosu
 
-| RSS İstemcisi  | Açık Kaynak | Çalışma Şekli | Fiyat      | Platformlar  |
-|----------------|:-------------:|:---------------:|:------------:|:--------------:|
-| <img src="docs/images/freshrss.png" alt="FreshRSS" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> [**FreshRSS**](https://freshrss.org)</span> | <span style="color: green;">✓</span> | Bulut ve Self-host | Ücretsiz   | <i class="fa-solid fa-globe"></i> |
+| RSS İstemcisi | Açık Kaynak | Çalışma Şekli | Fiyat | Platformlar |
+| --- | :---: | :---: | :---: | :---: |
+| <img src="docs/images/freshrss.png" alt="FreshRSS" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> [**FreshRSS**](https://freshrss.org)</span> | <span style="color: green;">✓</span> | Bulut ve Self-host | Ücretsiz | <i class="fa-solid fa-globe"></i> |
 | <img src="docs/images/miniflux.png" alt="Miniflux" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> [**Miniflux**](https://miniflux.app)</span> | <span style="color: green;">✓</span> | Bulut ve Self-host | Ücretsiz/Ücretli | <i class="fa-solid fa-globe"></i> |
-| <img src="docs/images/fluentreader.png" alt="Fluent Reader" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> [**Fluent Reader**](https://hyliu.me/fluent-reader/)</span> | <span style="color: green;">✓</span> | Bulut ve Self-host | Ücretsiz   | <i class="fa-solid fa-globe"></i> |
+| <img src="docs/images/fluentreader.png" alt="Fluent Reader" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> [**Fluent Reader**](https://hyliu.me/fluent-reader/)</span> | <span style="color: green;">✓</span> | Bulut ve Self-host | Ücretsiz | <i class="fa-solid fa-globe"></i> |
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/freshrss.png" alt="FreshRSS" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> FreshRSS
 
@@ -34,7 +34,7 @@
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/miniflux.png" alt="Miniflux" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Miniflux
 
-[**Miniflux**](https://miniflux.app), ücretsiz ve ücretli versiyonu bulunan ve **Açık Kaynak** bir RSS istemcisidir. Miniflux'u ücretsiz bir şekilde kullanmak istiyorsanız istemcisiyi kendi sunucunuza kurabilirsiniz. Miniflux, çok *sade ve basit* bir arayüzle gelir, ancak eski gözüktüğüne yönelik şikayetler sebebiyle son zamanlarda görünüşü modernleştirildi ve gayet hoş bir tarza sahip oldu. Miniflux, çok fazla dil seçeneği ile ön plana çıkar ve az sayıda mobil arayüz uyumuna sahip istemcilerdendir.
+[**Miniflux**](https://miniflux.app), ücretsiz ve ücretli versiyonu bulunan ve **Açık Kaynak** bir RSS istemcisidir. Miniflux'u ücretsiz bir şekilde kullanmak istiyorsanız istemcisiyi kendi sunucunuza kurabilirsiniz. Miniflux, çok _sade ve basit_ bir arayüzle gelir, ancak eski gözüktüğüne yönelik şikayetler sebebiyle son zamanlarda görünüşü modernleştirildi ve gayet hoş bir tarza sahip oldu. Miniflux, çok fazla dil seçeneği ile ön plana çıkar ve az sayıda mobil arayüz uyumuna sahip istemcilerdendir.
 
 **- [Açık kaynak depo](https://github.com/miniflux/v2)**
 
@@ -43,4 +43,3 @@
 [**Fluent Reader**](https://hyliu.me/fluent-reader/) Açık Kaynak ve Özgür yazılım olan ücretsiz ve son zamanların en gözde ve popüler RSS istemcilerinden biridir. Fluent Reader, başlangıçta Haoyuan Liu isimli bir yazılımcı tarafından geliştirilmeye başlanmıştır ve diğer açık kaynak yazılımcılarının yoğun ilgisiyle hızla büyümüş ve sonunda **Microsoft** tarafından büyük yatırımlar almıştır. Fluent Reader tamamen ücretsiz olmakla birlikte, açık kaynak olmasından dolayı kendi sunucunuzda da kurabileceğiniz bir RSS istemcisidir. Fluent Reader'in en dikkat çeken özelliği, modern, minimalist, sade ve iyi bir tasarıma sahip olmasıdır. Bunun dışında, detaylı kategorilendirme seçenekleri, okuma modları, kişiselleştirme vb. özelliklere sahiptir.
 
 **- [Açık kaynak depo](https://github.com/yang991178/fluent-reader)**
-

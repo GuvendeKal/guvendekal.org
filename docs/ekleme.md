@@ -1,4 +1,4 @@
-<!-- NOTLAR 
+<!-- NOTLAR
  - Bu sayfa bilgi içerikli makaleden oluşmaktadır.
  - Bu sayfaya ekleme yapmadan önce yetkililere danışmanız önerilir. -->
 
@@ -48,23 +48,23 @@ Sol menü, Github deposunda `guvendekal.org/docs/` klasöründe bulunan `_sideba
 - `[Menüde görünecek isim](-.md)` ile menüye sayfanızı ekleyebilirsiniz.
 
 ```html
-# Dokümantasyon
-# <i class="fa-solid fa-bars"></i> Dokümantasyon
-* [<i class="fas fa-user"></i> Katkıda Bulunanlar](katkida-bulunanlar.md)
-* [<i class="fas fa-file-alt"></i> İçerik Kuralları](icerik-kurallari.md)
-* [<i class="fas fa-pencil-alt"></i> Ekleme Yapmak](ekleme.md)
-    * [<i class="fas fa-text-width"></i> Biçimlendirme](bicimlendirme.md)
+# Dokümantasyon # <i class="fa-solid fa-bars"></i> Dokümantasyon * [<i class="fas fa-user"></i>
+Katkıda Bulunanlar](katkida-bulunanlar.md) * [<i class="fas fa-file-alt"></i> İçerik
+Kuralları](icerik-kurallari.md) * [<i class="fas fa-pencil-alt"></i> Ekleme Yapmak](ekleme.md) * [<i
+ class="fas fa-text-width"
+></i>
+Biçimlendirme](bicimlendirme.md)
 ```
 
 Örneğin sizin gördüğünüz sol menü böyle. Buraya açtığınız `ornek-dosya-nasil-olusturulur.md` dosyasını eklemek isterseniz:
 
 ```html
-# <i class="fa-solid fa-bars"></i> Dokümantasyon
-* [<i class="fas fa-user"></i> Katkıda Bulunanlar](katkida-bulunanlar.md)
-* [<i class="fas fa-file-alt"></i> İçerik Kuralları](icerik-kurallari.md)
-* [<i class="fas fa-pencil-alt"></i> Ekleme Yapmak](ekleme.md)
-    * [<i class="fas fa-text-width"></i> Biçimlendirme](bicimlendirme.md)
-* [Dosya Oluşturma](ornek-dosya-nasil-olusturulur.md)
+# <i class="fa-solid fa-bars"></i> Dokümantasyon * [<i class="fas fa-user"></i> Katkıda
+Bulunanlar](katkida-bulunanlar.md) * [<i class="fas fa-file-alt"></i> İçerik
+Kuralları](icerik-kurallari.md) * [<i class="fas fa-pencil-alt"></i> Ekleme Yapmak](ekleme.md) * [<i
+ class="fas fa-text-width"
+></i>
+Biçimlendirme](bicimlendirme.md) * [Dosya Oluşturma](ornek-dosya-nasil-olusturulur.md)
 ```
 
 Şeklinde ekleyebilirsiniz. İkon eklemek için [**Font Awesome**](https://fontawesome.com/icons) sitesinden aldığınız ikonun kodunu [ ] arasına en başa yazabilirsiniz.
@@ -89,7 +89,7 @@ Görseller `guvendekal.org/docs/images/` klasörüne yüklenir. Bu klasöre ekle
 
 ### Docsify sunucusunu yerelde çalıştırma
 
-Makinenizde bu **[docsify](https://docsify.js.org/)** dökümantasyonunu yerel sunucu üzerinden görüntüleyebilirsiniz. Bunun için öncelikle eğer **docsify-cli** kurulu değilse `npm i docsify-cli -g` (*NPM ve NPX komutlarını çalıştırabilmeniz için makinenizde [Node.js](https://nodejs.org/) kurulu olmalıdır*) komutu ile kurun. Daha sonra aşağıdaki komutu çalıştırarak dökümantasyonu yerelde çalıştırabilirsiniz. Çalıştığınız dosyaları kaydettikçe docsify otomatik olarak algılar ve sayfayı yeniler. Böylece anlık olarak markdown içeriklerinizin nasıl derlendiğini görebilirsiniz.
+Makinenizde bu **[docsify](https://docsify.js.org/)** dökümantasyonunu yerel sunucu üzerinden görüntüleyebilirsiniz. Bunun için öncelikle eğer **docsify-cli** kurulu değilse `npm i docsify-cli -g` (_NPM ve NPX komutlarını çalıştırabilmeniz için makinenizde [Node.js](https://nodejs.org/) kurulu olmalıdır_) komutu ile kurun. Daha sonra aşağıdaki komutu çalıştırarak dökümantasyonu yerelde çalıştırabilirsiniz. Çalıştığınız dosyaları kaydettikçe docsify otomatik olarak algılar ve sayfayı yeniler. Böylece anlık olarak markdown içeriklerinizin nasıl derlendiğini görebilirsiniz.
 
 ```bash
 npx docsify serve docs --port 1000

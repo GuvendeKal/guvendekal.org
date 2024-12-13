@@ -1,5 +1,5 @@
-<!-- NOTLAR 
- - Tablo eklemeyi unutmayın 
+<!-- NOTLAR
+ - Tablo eklemeyi unutmayın
  - Uygun görseller eklemeyi unutmayın.
  - İçerik kuralları ve ekleme yapmak sayfalarını ziyaret edebilirsiniz -->
 
@@ -11,14 +11,14 @@ Günümüzde güvenlik amacıyla sıkça kullanılan 2 faktörlü doğrulama sis
 
 ## Önerilenler Tablosu
 
-| Uygulama                                                                                                                          | Açık Kaynak        | Uçtan Uca Şifreleme | Fiyat                       | Platformlar                                                                                                                                                     |
-|-----------------------------------------------------------------------------------------------------------------------------------|:-------------------:|:--------------------:|:---------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| <span style="display: inline-block; vertical-align: middle;"><img src="/docs/images/enteauth.png" alt="Ente Auth" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> [**Ente Auth**](https://ente.io/auth/)         | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | Ücretsiz | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> |
-| <span style="display: inline-block; vertical-align: middle;"><img src="/docs/images/aegis.png" alt="Aegis" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> [**Aegis Authenticator**](https://getaegis.app/)  | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | Ücretsiz                   | <i class="fa-brands fa-android"></i>                                                                                                                                            |
+| Uygulama | Açık Kaynak | Uçtan Uca Şifreleme | Fiyat | Platformlar |
+| --- | :---: | :---: | :---: | :---: |
+| <span style="display: inline-block; vertical-align: middle;"><img src="/docs/images/enteauth.png" alt="Ente Auth" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> [**Ente Auth**](https://ente.io/auth/) | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | Ücretsiz | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> |
+| <span style="display: inline-block; vertical-align: middle;"><img src="/docs/images/aegis.png" alt="Aegis" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> [**Aegis Authenticator**](https://getaegis.app/) | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | Ücretsiz | <i class="fa-brands fa-android"></i> |
 
 ## <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/enteauth.png" alt="Ente" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> Ente Auth
 
-**[Ente Auth](https://ente.io/auth/)**, uçtan uca şifreleme sunan açık kaynaklı bir kimlik doğrulama uygulamasıdır. Ente Auth sunucuları uçtan uca şifrelenmiştir ve harici kaynaklarca test edilmiştir. Çapraz platform desteği sunan Ente Auth, neredeyse bütün platformlarda bulunmaktadır. 
+**[Ente Auth](https://ente.io/auth/)**, uçtan uca şifreleme sunan açık kaynaklı bir kimlik doğrulama uygulamasıdır. Ente Auth sunucuları uçtan uca şifrelenmiştir ve harici kaynaklarca test edilmiştir. Çapraz platform desteği sunan Ente Auth, neredeyse bütün platformlarda bulunmaktadır.
 
 <table>
 <tr>
@@ -40,7 +40,7 @@ Günümüzde güvenlik amacıyla sıkça kullanılan 2 faktörlü doğrulama sis
 
 - [Açık kaynak deposu](https://github.com/ente-io/ente/tree/main/auth#readme)
 - [Gizlilik Politikası](https://ente.io/privacy/)
-  
+
 ## <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/aegis.png" alt="Aegis" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> Aegis Authenticator
 
 [**Aegis Authenticator**](https://getaegis.app/), ücretsiz ve açık kaynaklı bir kimlik doğrulama uygulamasıdır. Android için geliştirilen Aegis, uçtan uca şifreleme sunmaktadır.
