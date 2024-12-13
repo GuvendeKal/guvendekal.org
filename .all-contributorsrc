@@ -60,6 +60,16 @@
         "maintenance",
         "doc"
       ]
+    },
+    {
+      "login": "wiseweb-works",
+      "name": "Wise",
+      "avatar_url": "https://avatars.githubusercontent.com/u/69072094?v=4",
+      "profile": "https://github.com/wiseweb-works",
+      "contributions": [
+        "maintenance",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
