@@ -29,8 +29,6 @@ uBlock Origin eklentisi [açık kaynaktır](https://github.com/gorhill/uBlock) v
  </div>
 </div>
 
----
-
 ### <span style="display: inline-block; vertical-align: middle;"><img src="https://avatars.githubusercontent.com/u/3402969?s=200&v=4" alt="ToS;DR" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> ToS;DR
 
 **ToS;DR (Terms of Service; Didn't Read)**, web hizmetlerinin kullanım koşullarını ve gizlilik politikalarını daha anlaşılır bir şekilde kullanıcıya sunan bir tarayıcı eklentisidir. Bu eklenti sayesinde ziyaret ettiğiniz web sitelerinin kullanım şartlarının özetine ve derecelendirmelerine hızlıca erişebilirsiniz.Eklenti çubuğundaki ToS;DR ikonu sayfanın veri güvenliğine göre yapılan derecelendirme ile değişiyor.
