@@ -106,6 +106,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "cosmos-emissary",
+      "name": "Cosmos Emissary",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93875236?v=4",
+      "profile": "https://cosmos-emissary.github.io/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
