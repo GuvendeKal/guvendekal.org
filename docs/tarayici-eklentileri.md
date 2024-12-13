@@ -37,6 +37,7 @@ uBlock Origin eklentisi [açık kaynaktır](https://github.com/gorhill/uBlock) v
 
 **Dearrow** eklentisi, Youtube üzerindeki clickbate ve aşırı dikkat çekici, aldatıcı başlık ve küçük resimleri değiştiren bir eklentidir.
 
+Kullanıcılar abartılı gelen başlıkları düzenleyip diğer kullanıcılara katkı sağlayabilmektedir. Ayrıca videoya hiçbir kullanıcı küçük resim katkısı yapmamışsa rastgele bir bölümünü küçük resim ile değiştirme özelliği vardır.
 
 Dearrow [açık kaynaktır](https://github.com/ajayyy/DeArrow) ve GPL-3.0 lisansı <span style="color: green;"><small>(Özgür Yazılım)</small></span> kullanmaktadır.
 
