@@ -16,6 +16,7 @@ Bu platformlar, modern iletişim ve bilgi paylaşımının vazgeçilmez araçlar
 | <img src="docs/images/mastodon-icon.svg" alt="Mastodon" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> [Mastodon](https://joinmastodon.org/) </span> | Merkeziyetsiz | <span style="color: green;">✓</span> | AGPLv3 | <span style="color: green;">✓</span> | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> |
 | <img src="docs/images/lemmy_icon.png" alt="Lemmy" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> [Lemmy](https://join-lemmy.org/) </span> | Merkeziyetsiz | <span style="color: green;">✓</span> | AGPLv3 | <span style="color: green;">✓</span> | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> |
 | <img src="https://github.com/bluesky-social/social-app/blob/main/assets/app-icons/android_icon_core_aurora.png?raw=true" alt="Bluesky" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> [Bluesky Social](https://bsky.app/) </span> | Merkeziyetsiz | <span style="color: green;">✓</span> | MIT | <span style="color: green;">✓</span> | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> |
+| <img src="docs/images/odyseelogo.png" alt="Odysee" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> [Odysee](odysee.com) </span> | Merkeziyetsiz | <span style="color: green;">✓</span> | MIT | <span style="color: green;">✓</span> | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> |
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/mastodon-icon.svg" alt="Mastodon" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> Mastodon
 
@@ -62,3 +63,13 @@ Bluesky'nin temel özellikleri:
 - [Açık kaynak depo](https://github.com/bluesky-social/social-app)
 - [Bluesky Geliştirici Belgeleri](https://atproto.com/)
 - [Resmi Web Sitesi](https://bsky.app/)
+
+
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/odyseelogo.png" alt="Odysee" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> Odysee
+
+**Odysee**, blockchain tabanlı bir merkeziyetsiz video paylaşma platformudur. **LBRY** (Library Client) sistemini kullanmaktadır, kullanıcılar videoları Odysee'ye yükler ve bu videolar dağıtık halde depolanır, yani bir merkezde tutulmaz. Odysee, MIT lisansını kullanır, yani Açık Kaynaklı bir platformdur. Videolarda reklam göstermez, Odysee kullanıcıları video izleyerek LBRY coin kazanır ve bu coinleri sevdiği üreticilere verebilir. Bir üretici aldığı Library Coin miktarı kadar platformda önerilir, böylece clickbait vb. durumlarının önüne geçilir. Odysee platformuna **YouTube** kanalları otomatik olarak bağlanılabilir.
+
+#### Kaynaklar
+
+- [Açık kaynak depo](https://github.com/OdyseeTeam/odysee-frontend)
+
