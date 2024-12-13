@@ -50,6 +50,16 @@
         "maintenance",
         "code"
       ]
+    },
+    {
+      "login": "conmecha",
+      "name": "conmecha",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78347194?v=4",
+      "profile": "http://conmecha.me",
+      "contributions": [
+        "maintenance",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
