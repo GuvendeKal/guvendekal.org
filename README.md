@@ -1,6 +1,6 @@
 ![Logo](./docs/images/logo.svg)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-22-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-22-orange.svg?style=flat-square)](#katkıda-bulunanlar-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # Hakkında
