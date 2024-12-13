@@ -1,6 +1,6 @@
 ![Logo](./docs/images/logo.svg)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-16-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-17-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # Hakkında
@@ -53,6 +53,7 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/DeoDorqnt387"><img src="https://avatars.githubusercontent.com/u/37597520?v=4?s=100" width="100px;" alt="Pai1"/><br /><sub><b>Pai1</b></sub></a><br /><a href="https://github.com/GuvendeKal/guvendekal.org/commits?author=DeoDorqnt387" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/56denklemli"><img src="https://avatars.githubusercontent.com/u/154069695?v=4?s=100" width="100px;" alt="56denklemli"/><br /><sub><b>56denklemli</b></sub></a><br /><a href="https://github.com/GuvendeKal/guvendekal.org/commits?author=56denklemli" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/trnahuman"><img src="https://avatars.githubusercontent.com/u/140809345?v=4?s=100" width="100px;" alt="Nahuman"/><br /><sub><b>Nahuman</b></sub></a><br /><a href="https://github.com/GuvendeKal/guvendekal.org/commits?author=trnahuman" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
