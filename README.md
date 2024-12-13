@@ -21,3 +21,22 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
 - Dökümantasyon sistemi: <https://docsify.js.org/#/>
 - İkonlar: <https://fontawesome.com/>
 - Inter (font): <https://rsms.me/inter/>
+
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+
+
+
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+
+
+
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
