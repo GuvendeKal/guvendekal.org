@@ -33,29 +33,7 @@ uBlock Origin eklentisi [açık kaynaktır](https://github.com/gorhill/uBlock) v
     </div>
 </div>
 
-### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/dearrow.png" alt="Dearrow" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> Dearrow
-
-**Dearrow** eklentisi, Youtube üzerindeki clickbate ve aşırı dikkat çekici, aldatıcı başlık ve küçük resimleri değiştiren bir eklentidir.
-
-Kullanıcılar abartılı gelen başlıkları düzenleyip diğer kullanıcılara katkı sağlayabilmektedir. Ayrıca videoya hiçbir kullanıcı küçük resim katkısı yapmamışsa rastgele bir bölümünü küçük resim ile değiştirme özelliği vardır.
-
-Dearrow [açık kaynaktır](https://github.com/ajayyy/DeArrow) ve GPL-3.0 lisansı <span style="color: green;"><small>(Özgür Yazılım)</small></span> kullanmaktadır.
-
-<div class="web-store-container">
-    <div class="web-store-box">
-        <i class="fab fa-firefox"></i>
-        <div class="title">
-            <a href="https://addons.mozilla.org/en-US/firefox/addon/dearrow/" target="_blank" style="color: inherit; text-decoration: none;">Firefox Mağazası</a>
-        </div>
-    </div>
-    <div class="web-store-box">
-        <i class="fab fa-google"></i>
-        <div class="title">
-            <a href="https://chromewebstore.google.com/detail/dearrow-youtube-i%CC%87%C3%A7in-dah/enamippconapkdmgfgjchkhakpfinmaj" target="_blank" style="color: inherit; text-decoration: none;">Google Mağazası</a>
-        </div>
-    </div>
-</div>
-
+,
 <!-- ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/sponsorblock.png" alt="Sponsorblock" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> SponsorBlock for Youtube
 
 Youtube içerisinde, içerik üreticilerinin video içerisine yerleştirdiği sponsor bölümlerini atlamaya yarayan SponsorBlock eklentisini zamanınızı koruyacağı ve büyük ihtimalle zaten atlayacağınız yeri otomatik atlayarak sizi yormayacağı için kullanmanızı öneriyoruz.
@@ -78,7 +56,31 @@ DuckDuckGo Privacy Essential eklentisi [açık kaynaktır](https://github.com/du
 
 [Firefox tabanlı tarayıcılar için](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/)
 
-[Chrome tabanlı tarayıcılar için](https://chromewebstore.google.com/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg) -->
+[Chrome tabanlı tarayıcılar için](https://chromewebstore.google.com/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg)
+
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/dearrow.png" alt="Dearrow" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> Dearrow
+
+**Dearrow** eklentisi, Youtube üzerindeki clickbate ve aşırı dikkat çekici, aldatıcı başlık ve küçük resimleri değiştiren bir eklentidir.
+
+Kullanıcılar abartılı gelen başlıkları düzenleyip diğer kullanıcılara katkı sağlayabilmektedir. Ayrıca videoya hiçbir kullanıcı küçük resim katkısı yapmamışsa rastgele bir bölümünü küçük resim ile değiştirme özelliği vardır.
+
+Dearrow [açık kaynaktır](https://github.com/ajayyy/DeArrow) ve GPL-3.0 lisansı <span style="color: green;"><small>(Özgür Yazılım)</small></span> kullanmaktadır.
+
+<div class="web-store-container">
+    <div class="web-store-box">
+        <i class="fab fa-firefox"></i>
+        <div class="title">
+            <a href="https://addons.mozilla.org/en-US/firefox/addon/dearrow/" target="_blank" style="color: inherit; text-decoration: none;">Firefox Mağazası</a>
+        </div>
+    </div>
+    <div class="web-store-box">
+        <i class="fab fa-google"></i>
+        <div class="title">
+            <a href="https://chromewebstore.google.com/detail/dearrow-youtube-i%CC%87%C3%A7in-dah/enamippconapkdmgfgjchkhakpfinmaj" target="_blank" style="color: inherit; text-decoration: none;">Google Mağazası</a>
+        </div>
+    </div>
+</div>
+-->
 
 
 <!-- ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/noscript.png" alt="NoScript" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> NoScript
