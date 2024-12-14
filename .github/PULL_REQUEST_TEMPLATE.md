@@ -25,6 +25,7 @@ _Uygun olan kutulara `x` işareti koyun._ Bunları PR oluşturduktan sonra da do
 - [ ] Eklediğim uygulamanın açık kaynak deposunu ve gizlilik politikalarını ekledim.
 - [ ] CSS/JS ve diğer kod düzeltmelerimde bir hata yok.
 - [ ] Giderilen hataları test ettim.
+
 ## Diğer yorumlar
 
 Ekleme yapmak istediğiniz diğer konuları buraya yazabilirsiniz..
