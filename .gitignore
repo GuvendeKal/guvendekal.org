@@ -396,3 +396,13 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Dot files
+.prettierrc
+.markdownlint.json
+
+# Vscode extra
+extensions.json
+terminals.json
+package.json
+package-lock.json
