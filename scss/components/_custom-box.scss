@@ -1,0 +1,34 @@
+@use "../utils/mixins";
+
+.custom-box {
+  border: 1px solid;
+  border-radius: 8px;
+  padding: 16px;
+  margin: 16px 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  img {
+    @include mixins.set-size(70px, 70px);
+    margin-right: 16px;
+  }
+  .description {
+    font-size: 14px;
+    color: inherit;
+  }
+  .icon-group {
+    display: flex;
+    gap: 8px;
+    margin-top: 8px;
+  }
+  .title {
+    font-size: 18px;
+    font-weight: bold;
+    color: #0b87da;
+    text-decoration: none;
+    margin-bottom: 8px;
+  }
+  .title:hover {
+    text-decoration: none;
+  }
+}

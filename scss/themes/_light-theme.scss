@@ -1,0 +1,10 @@
+@use "../utils/mixins";
+
+.light-mode {
+  .criteria,
+  .web-store-box,
+  .service-box,
+  .custom-box {
+    @include mixins.change-color(#f9f9f9, #ccc, #000);
+  }
+}
