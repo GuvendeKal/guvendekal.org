@@ -28,18 +28,21 @@
 
 **Uygulamalar**
 
-- [<i class="fa-solid fa-paper-plane"></i> Mesajlaşma Uygulamaları](mesajlasma-uygulamalari.md)
-- [<i class="fa-solid fa-print"></i> Ofis Uygulamaları](ofis-uygulamalari.md)
-- [<i class="fas fa-users"></i> Sosyal Ağlar](sosyal-aglar.md)
-- [<i class="fa-solid fa-brain"></i> Yapay Zeka](yapay-zeka.md)
-- [<i class="fa-solid fa-clipboard"></i> Not Alma](not-alma.md)
-- [<i class="fas fa-download"></i> Torrent İstemcileri](torrent-istemcileri.md)
-- [<i class="fa-solid fa-location-dot"></i> Haritalar](haritalar.md)
-- [<i class="fas fa-calendar-alt"></i> Takvim Uygulamaları](takvim-uygulamalari.md)
-- [<i class="fas fa-rss"></i> RSS Okuyucuları](rss-istemcileri.md)
-- [<i class="fas fa-wallet"></i> Kripto Cüzdanlar](kripto-cuzdanlari.md)
-- [<i class="fa-solid fa-rotate"></i> Senkronizasyon](senkronizasyon.md)
-- [<i class="fa-solid fa-language"></i> Çeviri Araçları](ceviri-araclari.md)
+* [<i class="fa-solid fa-paper-plane"></i> Mesajlaşma Uygulamaları](mesajlasma-uygulamalari.md)
+* [<i class="fa-solid fa-print"></i> Ofis Uygulamaları](ofis-uygulamalari.md)
+* [<i class="fas fa-users"></i> Sosyal Ağlar](sosyal-aglar.md)
+* [<i class="fa-solid fa-brain"></i> Yapay Zeka](yapay-zeka.md)
+* [<i class="fa-solid fa-clipboard"></i> Not Alma](not-alma.md)
+* [<i class="fas fa-download"></i> Torrent İstemcileri](torrent-istemcileri.md)
+* [<i class="fa-solid fa-location-dot"></i> Haritalar](haritalar.md)
+* [<i class="fas fa-calendar-alt"></i> Takvim Uygulamaları](takvim-uygulamalari.md)
+* [<i class="fas fa-rss"></i> RSS Okuyucuları](rss-istemcileri.md)
+* [<i class="fas fa-wallet"></i> Kripto Cüzdanlar](kripto-cuzdanlari.md)
+* [<i class="fa-solid fa-rotate"></i> Senkronizasyon](senkronizasyon.md)
+* [<i class="fa-solid fa-language"></i> Çeviri Araçları](ceviri-araclari.md)
+* [<i class="fa-solid fa-cloud-arrow-down"></i> İndirme Yöneticileri](indirme-yoneticileri.md)
+* [<i class="fa-solid fa-trash-can"></i> Yazılım Kaldırma Araçları](yazilim-kaldirma-araclari.md)
+* [<i class="fa-solid fa-link"></i> QR Kod Araçları](qr-kod-araclari.md)
 
 **Dosya**
 

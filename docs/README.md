@@ -305,6 +305,35 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
 ## Not Alma
 
 <div class="service-container">
+    <div class="service-box">
+        <img src="docs/images/anytype.png" alt="icon" style="border-radius: 10px;">
+        <div class="title">
+            <a href="https://guvendekal.org/#/not-alma?id=-anytype" target="_blank" style="color: inherit; text-decoration: none;">Anytype</a>
+        </div>
+    </div>
+    <div class="service-box">
+        <img src="docs/images/logseq-icon.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/not-alma?id=-logseq" target="_blank" style="color: inherit; text-decoration: none;">Logseq</a>
+        </div>
+    </div>
+</div>
+
+## Torrent İstemcileri
+
+<div class="service-container">
+    <div class="service-box">
+        <img src="docs/images/qBittorrent-icon.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/torrent-istemcileri?id=-qbittorrent" target="_blank" style="color: inherit; text-decoration: none;">qBittorrent</a>
+        </div>
+    </div>
+    <div class="service-box">
+        <img src="docs/images/transmission-icon.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/torrent-istemcileri?id=-transmission" target="_blank" style="color: inherit; text-decoration: none;">Transmission</a>
+        </div>
+    </div>
  <div class="service-box">
  <img src="docs/images/anytype.png" alt="icon">
  <div class="title">
@@ -353,6 +382,39 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
  </div>
 </div>
 
+## İndirme Yöneticileri
+
+<div class="service-container">
+    <div class="service-box">
+        <img src="docs/images/filecentipede-icon.png" alt="icon">
+        <div class="title">
+            <a href="http://guvendekal.org/#/indirme-yoneticileri?id=-file-centipede" target="_blank" style="color: inherit; text-decoration: none;">File Centipede</a>
+        </div>
+    </div>
+</div>
+
+## Yazılım Kaldırma Araçları
+
+<div class="service-container">
+    <div class="service-box">
+        <img src="docs/images/bulk-crap-uninstaller-icon.png" alt="icon">
+        <div class="title">
+            <a href="http://guvendekal.org/#/yazilim-kaldirma-araclari?id=-bulk-crap-uninstaller" target="_blank" style="color: inherit; text-decoration: none;">Bulk Crap Uninstaller</a>
+        </div>
+    </div>
+</div>
+
+## QR Kod Araçları
+
+<div class="service-container">
+    <div class="service-box">
+        <img src="docs/images/fliso-icon.png" alt="icon" style="border-radius: 10px;">
+        <div class="title">
+            <a href="http://guvendekal.org/#/url-qr-kod-araclari?id=-fliso" target="_blank" style="color: inherit; text-decoration: none;">Fli.so</a>
+        </div>
+    </div>
+</div>
+
 ## Yararlı Bağlantılar
 
 - [**Güvende Kal Searx Sunucusu**](https://searx.guvendekal.org/)
@@ -370,4 +432,4 @@ guvendekal.org tarafından önerilen hiç bir uygulamanın guvendekal.org ile ba
 
 - guvendekal.org sitesinin alt yapısı [**Docsify**](https://docsify.js.org/#/) ile oluşturulmuştur. (**MIT**)
 - guvendekal.org sitesinde kullanılan ikonlar, [**Font Awesome**](https://fontawesome.com/) kütüphanesinden çekilmektedir. (**CC BY**)
-- guvendekal.org sitesinde kullanılan font [**Inter**](https://rsms.me/inter/) font ailesidir. (**OFL**)
+- guvendekal.org sitesinde kullanılan yazı tipi [**Inter**](https://rsms.me/inter/) yazı tipi ailesidir. (**OFL**)
