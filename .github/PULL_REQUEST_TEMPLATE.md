@@ -18,9 +18,11 @@ _Uygun olan kutulara `x` işareti koyun._ Bunları PR oluşturduktan sonra da do
 
 - [ ] Yapılan değişiklerin kontrolleri yerel sitede yapıldı.
 - [ ] Eklemelerim markdown ve yazım kurallarına uygun.
-- [ ] Sayfaya tablo ekledim/ tabloyu düzenledim. Tablo düzenli ve markdown kurallarına uygun.
+- [ ] Sayfaya tablo ekledim/ tabloyu düzenledim. (tabloda gereksiz sütunlar yok)
 - [ ] Sayfa düzeni, diğer sayfalardan farklı değil.
 - [ ] Eklediğim uygulama(lar) açık kaynak.
+- [ ] Uygulama logosunu ekledim.
+- [ ] Eklediğim logo transparan.
 - [ ] Eklediğim tarayıcı eklentisi mahremiyet ve güvenlik anlamında tarayıcıya artılar ekliyor.
 - [ ] Eklediğim uygulamanın açık kaynak deposunu ve gizlilik politikalarını ekledim.
 - [ ] CSS/JS ve diğer kod düzeltmelerimde bir hata yok.

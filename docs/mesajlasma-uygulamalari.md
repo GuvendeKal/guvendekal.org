@@ -5,13 +5,16 @@
 
 # Mesajlaşma Uygulamaları
 
+**Mesajlaşma uygulamaları**, kullanıcıların metin, ses, video, dosya paylaşımı ve daha fazlasını gerçekleştirebilmesi için tasarlanmış dijital platformlardır. Bu uygulamalar, internet üzerinden çalışır ve kullanıcıların anlık iletişim kurmasına imkan verir. Bu nedenle, özellikle uçtan uca şifrelemeli şekilde mesajlaşma sağlayan uygulamalar kullanmanız, mesajlarınızın güvenliği için önemlidir.
+
 ## Önerilenler Tablosu
 
-| Mesajlaşma uygulaması            | Kayıt Tutuyor mu                         | Açık Kaynak                | Şifreleme                   | Ülke          | Platformlar                                                                         | Fiyat       |
-|-------------------------|:----------------------------------------:|:--------------------------:|:---------------------------:|:-------------:|:----------------------------------------------------------------------------------:|:-----------:|
-| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/session.png" alt="Session" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Session   | <span style="color: green;">×</span>       | <span style="color: green;">✓</span>       | <span style="color: green;">✓</span>       | Avusturalya       | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i>  | Ücretsiz   |
-| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/signal.png" alt="Signal" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Signal    | ×                      | <span style="color: green;">✓</span>       | <span style="color: green;">✓</span>       | ABD       | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i>  | Ücretsiz   |
-| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/threema.png" alt="Threema" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Threema    | ×                      | <span style="color: green;">✓</span>       | <span style="color: green;">✓</span>       | İsviçre       | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i>  | € 4,99   |
+| Mesajlaşma uygulaması | Fiyat | Kayıt Tutma | Açık Kaynak | Şifreleme | Ülke | Platformlar |
+|-----------------------|:-------:|:------------------:|:-------------:|:-----------:|:------:|:-------------:|
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/signal.png" alt="Signal" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Signal | Ücretsiz | × | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | ABD | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> |
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/session.png" alt="Session" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Session | Ücretsiz | <span style="color: green;">×</span> | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | Avusturalya | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> |
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/threema.png" alt="Threema" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Threema | € 4,99 | × | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | İsviçre | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> |
+
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/signal.png" alt="Signal" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Signal
 
@@ -117,9 +120,9 @@
  <td>Mevcut</td>
  </tr>
 </table>
- 
-* [**Açık kaynak deposu**](https://github.com/oxen-io/session-android)
-* [**Gizlilik politikası**](https://getsession.org/privacy-policy)
+
+- [**Açık kaynak deposu**](https://github.com/oxen-io/session-android)
+- [**Gizlilik politikası**](https://getsession.org/privacy-policy)
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/threema.png" alt="Threema" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Threema
 [**Threema**](https://threema.ch/en) 2012 Yılında İsviçrede bir ekip tarafından geliştirilmiştir, Uçtan uca şifreleme sunar ve gizlilik odaklıdır.
@@ -180,6 +183,6 @@
         <td>€ 4,99</td>
     </tr>
 </table>
-     
-* [**Açık kaynak deposu**](https://github.com/threema-ch)
-* [**Gizlilik politikası**](https://threema.ch/privacy_policy/)
+
+- [**Açık kaynak deposu**](https://github.com/threema-ch)
+- [**Gizlilik politikası**](https://threema.ch/privacy_policy/)

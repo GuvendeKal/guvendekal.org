@@ -24,9 +24,7 @@ VPN kullandığınızda trafiğinizi (ziyaret ettiğiniz siteleri) internet serv
 
 - ProtonVPN'in ücretli sürümü aylık 9.99€'dan başlamaktadır. Ücretsiz sürümde sınırlı sayıda ülke ve sunucu sayısı olabilir.
 
-## Mullvad VPN
-
-![mullvad](images/mullvad.png)
+## <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/mullvadvpn-icon.png" alt="Mullvad" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Mullvad VPN
 
 [**Mullvad VPN**](https://mullvad.net/en), gizliliği ile ön plana çıkaran bir VPN hizmetidir. Hesap oluşturmak için e-posta yada kullanıcı adı gerekmez. Hesap oluşturulduğu an 16 haneli bir hesap numarası verilir ve hesaba bu numara ile giriş yapılır.
 
@@ -87,9 +85,7 @@ Bu sayede kullanıcıların herhangi bir bilgisinin kaydıda tutulmaz. Mullvad V
 - [Açık kaynak depoları](https://github.com/mullvad/mullvadvpn-app)
 - [Gizlilik politikaları](https://mullvad.net/en/help/privacy-policy)
 
-## Proton VPN
-
-![proton](images/proton.png)
+## <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/protonvpn-icon.png" alt="Proton" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Proton VPN
 
 [**ProtonVPN**](https://protonvpn.com/), kullanıcı gizliliğini ön planda tutan bir VPN hizmetidir. İsviçre merkezli olan ProtonVPN, güçlü şifreleme yöntemleri ve sıkı bir sıfır kayıt politikası ile kullanıcı verilerini korur.
 
