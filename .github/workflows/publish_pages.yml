@@ -1,0 +1,52 @@
+name: Deploy to Pages for Multiple Branches
+
+on:
+  push:
+    branches:
+      - main
+      - develop
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      # Farklı dallar için dizin belirleme
+      - name: Set target directory
+        id: set-dir
+        run: |
+          if [[ "${{ github.ref }}" == "refs/heads/main" ]]; then
+            echo "TARGET_DIR=main" >> $GITHUB_ENV
+          elif [[ "${{ github.ref }}" == "refs/heads/develop" ]]; then
+            echo "TARGET_DIR=develop" >> $GITHUB_ENV
+          fi
+
+      # Hedef dizin içine dosyaları taşı
+      - name: Prepare deployment files
+        run: |
+          mkdir -p output/${TARGET_DIR}
+          cp -r * output/${TARGET_DIR}
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: output
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
