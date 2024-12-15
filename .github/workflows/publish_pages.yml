@@ -1,4 +1,4 @@
-name: Deploy to Pages for Multiple Branches
+name: Deploy to GitHub Pages with Dynamic CNAME
 
 on:
   push:
@@ -13,12 +13,15 @@ permissions:
   id-token: write
 
 concurrency:
-  group: "pages"
+  group: 'pages'
   cancel-in-progress: false
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -26,26 +29,19 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
-      # Farklı dallar için dizin belirleme
-      - name: Set target directory
-        id: set-dir
+      # Dal bazında CNAME dosyasını oluştur
+      - name: Create CNAME file
         run: |
           if [[ "${{ github.ref }}" == "refs/heads/main" ]]; then
-            echo "TARGET_DIR=main" >> $GITHUB_ENV
+            echo "guvendekal.org" > CNAME
           elif [[ "${{ github.ref }}" == "refs/heads/develop" ]]; then
-            echo "TARGET_DIR=develop" >> $GITHUB_ENV
+            echo "dev.guvendekal.org" > CNAME
           fi
-
-      # Hedef dizin içine dosyaları taşı
-      - name: Prepare deployment files
-        run: |
-          mkdir -p output/${TARGET_DIR}
-          rsync -av --exclude="output" ./ output/${TARGET_DIR}
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: output
+          path: .
 
       - name: Deploy to GitHub Pages
         id: deployment
