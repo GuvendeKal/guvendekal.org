@@ -40,7 +40,7 @@ jobs:
       - name: Prepare deployment files
         run: |
           mkdir -p output/${TARGET_DIR}
-          cp -r * output/${TARGET_DIR}
+          rsync -av --exclude="output" ./ output/${TARGET_DIR}
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
