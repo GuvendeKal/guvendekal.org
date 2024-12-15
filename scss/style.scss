@@ -1,0 +1,26 @@
+/*  Don't change the CSS manually. SCSS automatically generates style.css and *map files. SCSS is a CSS pre-processor */
+
+// Utils
+// @import 'utils/variables';
+@use 'utils/mixins';
+
+// Vendors
+@use 'vendors/font-awesome';
+
+// Base
+@use 'base/typography';
+@use 'base/reset';
+
+// Components
+@use 'components/switch';
+@use 'components/custom-box';
+@use 'components/service';
+@use 'components/criteria';
+@use 'components/web-store';
+
+// Themes
+@use 'themes/light-theme';
+@use 'themes/dark-theme';
+
+// Responsive
+@use 'layout/media-queries';

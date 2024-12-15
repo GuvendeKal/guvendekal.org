@@ -1,0 +1,274 @@
+/*  Don't change the CSS manually. SCSS automatically generates style.css and *map files. SCSS is a CSS pre-processor */
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css");
+@import url("https://fonts.cdnfonts.com/css/inter");
+body {
+  font-family: "Inter", sans-serif;
+}
+
+p {
+  text-align: justify;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.switch {
+  display: block;
+  --width-of-switch: 3.5em;
+  --height-of-switch: 2em;
+  --size-of-icon: 1.4em;
+  --slider-offset: 0.3em;
+  width: var(--width-of-switch);
+  height: var(--height-of-switch);
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 999;
+}
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  inset: 0;
+  background-color: #f4f4f5;
+  transition: 0.4s;
+  border-radius: 30px;
+}
+.slider:before {
+  position: absolute;
+  content: "";
+  width: var(--size-of-icon);
+  height: var(--size-of-icon);
+  border-radius: 20px;
+  left: var(--slider-offset);
+  top: 50%;
+  transform: translateY(-50%);
+  background: linear-gradient(40deg, #ff0080, #ff8c00 70%);
+  transition: 0.4s;
+}
+
+input:checked + .slider {
+  background-color: #303136;
+}
+input:checked + .slider:before {
+  left: calc(100% - (var(--size-of-icon) + var(--slider-offset)));
+  background: #303136;
+  box-shadow: inset -3px -2px 5px -2px #8983f7, inset -10px -4px 0 0 #a3dafb;
+}
+
+.custom-box {
+  border: 1px solid;
+  border-radius: 8px;
+  padding: 16px;
+  margin: 16px 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.custom-box img {
+  width: 70px;
+  height: 70px;
+  margin-right: 16px;
+}
+.custom-box .description {
+  font-size: 14px;
+  color: inherit;
+}
+.custom-box .icon-group {
+  display: flex;
+  gap: 8px;
+  margin-top: 8px;
+}
+.custom-box .title {
+  font-size: 18px;
+  font-weight: bold;
+  color: #0b87da;
+  text-decoration: none;
+  margin-bottom: 8px;
+}
+.custom-box .title:hover {
+  text-decoration: none;
+}
+
+.service-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+.service-box {
+  border: 1px solid;
+  border-radius: 8px;
+  padding: 16px;
+  width: calc(50% - 16px);
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  transition: background-color 0.3s, border-color 0.3s, color 0.3s;
+}
+.service-box img {
+  width: 50px;
+  height: auto;
+}
+.service-box .title {
+  font-size: 18px;
+  font-weight: bold;
+  color: #0b87da;
+}
+
+.criteria {
+  border: 1px solid;
+  border-radius: 8px;
+  padding: 16px;
+  margin: 16px 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.criteria i {
+  color: #0b87da;
+  font-size: 56px;
+  margin-right: 25px;
+}
+.criteria .description {
+  font-size: 14px;
+  color: inherit;
+  margin-top: 8px;
+}
+.criteria .title {
+  font-size: 18px;
+  font-weight: bold;
+  color: #0b87da;
+  text-decoration: none;
+  margin: 12px 0;
+}
+.criteria .title:hover {
+  text-decoration: none;
+}
+
+.web-store-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+.web-store-box {
+  border: 1px solid;
+  border-radius: 8px;
+  padding: 16px;
+  width: calc(50% - 16px);
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  transition: background-color 0.3s, border-color 0.3s, color 0.3s;
+}
+.web-store-box i {
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+  text-align: center;
+  line-height: 50px;
+  font-size: 50px;
+  color: #0b87da;
+}
+.web-store-box .title {
+  font-size: 18px;
+  font-weight: bold;
+  color: #0b87da;
+}
+
+.light-mode .criteria,
+.light-mode .web-store-box,
+.light-mode .service-box,
+.light-mode .custom-box {
+  background-color: #f9f9f9;
+  border-color: #ccc;
+  color: #000;
+}
+
+.dark-mode .web-store-box,
+.dark-mode .service-box,
+.dark-mode .custom-box {
+  background-color: #1a1a1a;
+  border-color: #444;
+  color: #fff;
+}
+
+@media (max-width: 768px) {
+  .custom-box {
+    flex-direction: column;
+    text-align: center;
+    padding: 12px;
+  }
+  .custom-box img {
+    max-width: 100px;
+    height: auto;
+    margin: 0 auto 12px auto;
+  }
+  .custom-box .title {
+    font-size: 16px;
+  }
+  .custom-box .description {
+    font-size: 13px;
+  }
+  .custom-box .icon-group {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 8px;
+    margin-top: 12px;
+  }
+  .service-box {
+    width: 100%;
+    flex-direction: column;
+    text-align: center;
+  }
+  .service-box img {
+    margin-bottom: 8px;
+  }
+  .criteria {
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 12px;
+  }
+  .criteria i {
+    margin-right: 25px;
+  }
+  .criteria .title {
+    font-size: 16px;
+    margin: 0;
+  }
+  .criteria .description {
+    font-size: 13px;
+  }
+  .criteria img {
+    max-width: 100px;
+    height: auto;
+    margin: 0 auto 12px auto;
+  }
+  .criteria .icon-group {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 8px;
+    margin-top: 12px;
+  }
+  .web-store-box {
+    width: 100%;
+    flex-direction: column;
+    text-align: center;
+  }
+  .web-store-box i {
+    margin-bottom: 8px;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */

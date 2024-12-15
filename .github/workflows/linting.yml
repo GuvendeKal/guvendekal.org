@@ -1,0 +1,38 @@
+name: Lint
+
+on:
+  pull_request:
+    branches:
+      - main
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: read
+      statuses: write
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Run Super-Linter with detailed output
+        uses: super-linter/super-linter/slim@latest
+        env:
+          LINTER_RULES_PATH: /linting-rules
+          MARKDOWN_CONFIG_FILE: .markdown-lint.yml
+          CSS_FILE_NAME: .stylelintrc.yml
+          VALIDATE_ALL_CODEBASE: false
+          VALIDATE_MARKDOWN: true
+          FIX_MARKDOWN: true
+          VALIDATE_HTML: true
+          VALIDATE_CSS: true
+          FIX_CSS: true
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          DISPLAY_ERRORS: true

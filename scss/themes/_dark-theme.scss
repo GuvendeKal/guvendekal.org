@@ -1,0 +1,9 @@
+@use "../utils/mixins";
+
+.dark-mode {
+  .web-store-box,
+  .service-box,
+  .custom-box {
+    @include mixins.change-color(#1a1a1a, #444, #fff);
+  }
+}

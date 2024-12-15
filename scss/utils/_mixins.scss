@@ -1,0 +1,20 @@
+@mixin box-style($padding: 16px, $border-radius: 8px) {
+  border: 1px solid;
+  border-radius: $border-radius;
+  padding: $padding;
+}
+
+@mixin change-color(
+  $bg-color: #f4f4f5,
+  $border-color: #ccc,
+  $text-color: #000
+) {
+  background-color: $bg-color;
+  border-color: $border-color;
+  color: $text-color;
+}
+
+@mixin set-size($width, $height) {
+  width: $width;
+  height: $height;
+}
