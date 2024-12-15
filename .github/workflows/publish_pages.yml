@@ -1,4 +1,4 @@
-name: Deploy to GitHub Pages with Dynamic CNAME
+name: Deploy to GitHub Pages with Static CNAME
 
 on:
   push:
@@ -29,14 +29,9 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
-      # Dal bazında CNAME dosyasını oluştur
-      - name: Create CNAME file
-        run: |
-          if [[ "${{ github.ref }}" == "refs/heads/main" ]]; then
-            echo "guvendekal.org" > CNAME
-          elif [[ "${{ github.ref }}" == "refs/heads/develop" ]]; then
-            echo "dev.guvendekal.org" > CNAME
-          fi
+      # Sabit CNAME dosyasını doğrudan kullan
+      - name: Use CNAME file
+        run: cp CNAME . # CNAME dosyasını ana dizine kopyalar
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

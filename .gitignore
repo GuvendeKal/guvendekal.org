@@ -406,3 +406,5 @@ extensions.json
 terminals.json
 package.json
 package-lock.json
+
+CNAME
