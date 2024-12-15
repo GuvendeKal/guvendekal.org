@@ -10,8 +10,8 @@
 Android, kullanıcıların farklı uygulamalar arasında gezinmelerine, sosyal ağlarla etkileşimde bulunmalarına ve internet üzerindeki bilgileri hızlıca erişmelerine olanak tanır. Kullanıcılar, anlık mesajlaşma, e-posta, sosyal medya uygulamaları, görüntülü konuşma ve daha fazlası gibi çeşitli dijital hizmetlere kolayca erişebilir. Android, açık kaynaklı olduğu için kullanıcılar, cihazlarına özelleştirme yapabilir ve çeşitli kaynaklardan uygulamalar yükleyebilirler. Bu platform, modern mobil cihazların vazgeçilmez bir bileşeni haline gelmiştir.
 
 | Uygulama | Açık Kaynak | Lisans Türü | Özellik |
-|----------|:-----------:|:-----------:|:-----------:|
-| <img src="https://raw.githubusercontent.com/LinkSheet/LinkSheet/refs/heads/master/app/src/main/res/drawable/app_linksheet.png" alt="Linksheet" style="width: 30px; height: 30px; border-radius: 10px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> **LinkSheet** </span> |<span style="color: green;">✓</span>| GNU GPLv3       | Bağlantı Yönetimi |
+|---|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/LinkSheet/LinkSheet/refs/heads/master/app/src/main/res/drawable/app_linksheet.png" alt="Linksheet" style="width: 30px; height: 30px; border-radius: 10px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> **LinkSheet** </span> |<span style="color: green;">✓</span>| GNU GPLv3 | Bağlantı Yönetimi |
 
 ---
 
