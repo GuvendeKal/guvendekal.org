@@ -29,10 +29,6 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
-      # Sabit CNAME dosyasını doğrudan kullan
-      - name: Use CNAME file
-        run: cp CNAME . # CNAME dosyasını ana dizine kopyalar
-
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
