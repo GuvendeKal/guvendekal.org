@@ -13,9 +13,9 @@
 
 ## Önerilenler Tablosu
 
-| İndirme Yöneticisi | Veri Gizliliği | Açık Kaynak | Reklam | Lisans Türü | Platform Desteği | Uzantı Desteği |
-|--------------------|:--------------:|:-----------:|:------:|:-----------:|:----------------:|:--------------:|
-| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/filecentipede-icon.png" alt="filecentipede" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> File Centipede   | <span style="color: orange;">?</span>  | <span style="color: green;">✓</span>         | <span style="color: red;">×</span>     | Proprietary | <i class="fa-brands fa-windows"> <i class="fa-brands fa-linux"></i>            | <i class="fa-brands fa-firefox"></i> <i class="fa-brands fa-chrome"></i> <i class="fa-brands fa-edge"></i> |
+| İndirme Yöneticisi | Açık Kaynak | Reklam | Lisans Türü | Platform Desteği |
+|--------------------|-------------|--------|-------------|-------------------|
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/filecentipede-icon.png" alt="filecentipede" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> File Centipede | <span style="color: green;">✓</span> | <span style="color: red;">×</span> | Proprietary | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-linux"></i> |
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/filecentipede-icon.png" alt="filecentipede" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> File Centipede <a href="https://filecxx.com/tr_TR/index.html" target="_blank" style="text-decoration: none; color: inherit; margin-left: 5px;"> <i class="fa-solid fa-globe"></i></a>  <a href="https://github.com/filecxx/FileCentipede" target="_blank" style="text-decoration: none; color: inherit; margin-left: 5px"> <i class="fa-brands fa-github"></i></a>
 
