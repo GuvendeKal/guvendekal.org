@@ -113,20 +113,6 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
  </div>
 </div>
 
-<div class="custom-box">
-    <img src="docs/images/qBittorrent-icon.png" alt="Logo">
-    <div style="flex: 1;">
-        <a href="https://guvendekal.org/#/torrent-istemcileri?id=-qbittorrent" class="title">Torrent dünyasının sessiz istemci gücü: qBittorrent</a>
-        <p class="description">qBittorrent, web'de torrent araması yapabilir, RSS ile indirmeleri takip edebilir ve kişiselleştirilebilir özellikleriyle fark yaratır. Ücretsiz, reklamsız ve açık kaynak kodlu!</p>
-        <div class="icon-group">
-            <span><i class="fa-brands fa-windows"></i> Windows</span>
-            <span><i class="fas fa-apple-alt"></i> Mac</span>
-            <span><i class="fa-brands fa-linux"></i> Linux</span>
-            <span><i class="fa-brands fa-freebsd"></i> FreeBSD</span>
-        </div>
-    </div>
-</div>
-
 ## VPN Uygulamaları
 
 <div class="service-container">
@@ -418,7 +404,7 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
     </div>
 </div>
 
-## URL • QR Kod Araçları
+## QR Kod Araçları
 
 <div class="service-container">
     <div class="service-box">
@@ -446,4 +432,4 @@ guvendekal.org tarafından önerilen hiç bir uygulamanın guvendekal.org ile ba
 
 - guvendekal.org sitesinin alt yapısı [**Docsify**](https://docsify.js.org/#/) ile oluşturulmuştur. (**MIT**)
 - guvendekal.org sitesinde kullanılan ikonlar, [**Font Awesome**](https://fontawesome.com/) kütüphanesinden çekilmektedir. (**CC BY**)
-- guvendekal.org sitesinde kullanılan font [**Inter**](https://rsms.me/inter/) font ailesidir. (**OFL**)
+- guvendekal.org sitesinde kullanılan yazı tipi [**Inter**](https://rsms.me/inter/) yazı tipi ailesidir. (**OFL**)
