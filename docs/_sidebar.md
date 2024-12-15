@@ -5,7 +5,6 @@
 **Nedir**
 
 - [<i class="fa-solid fa-house"></i> Başlangıç](README.md)
-- [<i class="fas fa-code"></i> Açık Kaynak](acik-kaynak.md)
 - [<i class="fas fa-eye-slash"></i> Mahremiyet](mahremiyet.md)
 - [<i class="fa-solid fa-shield"></i> Güvenlik](guvenlik.md)
 - [<i class="fa-solid fa-book"></i> Sözlük](sozluk.md)
