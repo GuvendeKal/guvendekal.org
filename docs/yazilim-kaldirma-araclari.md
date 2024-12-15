@@ -24,9 +24,10 @@ Bu tür araçlar, özellikle sık yazılım yükleme ve kaldırma işlemleri ger
 
 ## Önerilenler Tablosu
 
-| Yazılım Kaldırma Araç Adı | Veri Gizliliği | Açık Kaynak | Reklam | Lisans Türü | Platform Desteği |
-|---------------------------|:--------------:|:-----------:|:------:|:-----------:|:----------------:|
-| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/bulk-crap-uninstaller-icon.png" alt="blukcrap" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Bulk Crap Uninstaller   | <span style="color: green;">✓</span>  | <span style="color: green;">✓</span>         | <span style="color: red;">×</span>     | Apache 2.0  | <i class="fa-brands fa-windows">   |
+| Yazılım Kaldırma Araç Adı | Açık Kaynak | Reklam  | Lisans Türü | Platform Desteği |
+|--------------------------|:-----------:|:-------:|:-----------:|:----------------:|
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/bulk-crap-uninstaller-icon.png" alt="bulkcrap" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Bulk Crap Uninstaller | <span style="color: green;">✓</span> | <span style="color: red;">×</span> | Apache 2.0  | <i class="fa-brands fa-windows"> |
+
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/bulk-crap-uninstaller-icon.png" alt="bulkcrap" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Bulk Crap Uninstaller <a href="https://www.bcuninstaller.com/" target="_blank" style="text-decoration: none; color: inherit; margin-left: 5px;"> <i class="fa-solid fa-globe"></i></a>  <a href="https://github.com/Klocman/Bulk-Crap-Uninstaller" target="_blank" style="text-decoration: none; color: inherit; margin-left: 5px"> <i class="fa-brands fa-github"></i></a>
 
