@@ -3,23 +3,17 @@
  - Uygun görseller eklemeyi unutmayın.
  - İçerik kuralları ve ekleme yapmak sayfalarını ziyaret edebilirsiniz -->
 
-# URL Kısaltıcı ve QR Kod Oluşturma Araçları
+# QR Kod Araçları
 
-**URL kısaltıcı** ve **QR kod oluşturma** araçları, uzun internet adreslerini (URL) daha kısa ve yönetilebilir bağlantılar haline getirir ve bu bağlantıları QR kodlarına dönüştürür.
+**QR kod araçları**, QR kodlarının içindeki veriyi hızlıca okuyup çözen uygulamalardır. Akıllı telefonlarda genellikle kamera aracılığıyla çalışan bu uygulamalar, QR kodu tarar ve içindeki bilgilere erişim sağlar. Ayrıca, bazı **QR kod araçları**, kullanıcıların kendi QR kodlarını oluşturmasına da olanak tanır.
 
-**URL kısaltıcılar**, uzun ve karmaşık internet adreslerini kısa ve kolay hatırlanabilir bağlantılara dönüştürürken, **QR kod oluşturma** araçları bu kısa bağlantıları karekodlara çevirerek mobil cihazlarla hızlı ve kolay erişim sağlar.
-
-Neler Yapabilir:
-- **URL Kısaltma:** Uzun URL'leri kısaltarak paylaşımı ve hafızada tutulması kolaylaştırır.
-- **QR Kod Oluşturma:** Kısaltılmış URL'leri karekod formatına dönüştürerek mobil cihazlarla hızlı erişim sağlar.
-- **İzleme ve Analitik:** Kısaltılmış URL'lerin tıklama istatistiklerini ve kullanıcı davranışlarını izleme imkanı sunar.
-- **Özelleştirme:** QR kodları ve kısaltılmış URL'leri markanıza özel şekilde özelleştirme imkanı.
+?> **QR Kod** (Quick Response Code), iki boyutlu bir barkod türüdür. İçerdiği veriyi hızlı bir şekilde okumak için akıllı telefonlar veya özel okuyucular kullanılır. QR kodları, URL, metin, telefon numarası gibi bilgileri depolayabilir ve kolayca erişilmesini sağlar.
 
 ## Önerilenler Tablosu
 
-| URL • QR Kod Araç Adı | Veri Gizliliği | Açık Kaynak | Reklam | Lisans Türü | Fiyatlandırma | Platform Desteği |
-|-----------------------|:--------------:|:-----------:|:------:|:-----------:|:-------------:|:----------------:|
-| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/fliso-icon.png" alt="fliso" style="width: 30px; height: 30px; border-radius: 10px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Fli.so   | <span style="color: green;">✓</span>  | <span style="color: green;">✓</span>   | <span style="color: red;">×</span>   | AGPL-3.0  | Abonelik*    | <i class="fa-solid fa-globe">   |
+| QR Kod Araçları | Açık Kaynak | Reklam | Lisans Türü | Fiyatlandırma | Platform Desteği |
+|-----------------------|:-----------:|:------:|:-----------:|:-------------:|:----------------:|
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/fliso-icon.png" alt="fliso" style="width: 30px; height: 30px; border-radius: 10px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Fli.so   | <span style="color: green;">✓</span>   | <span style="color: red;">×</span>   | AGPL-3.0  | Abonelik*    | <i class="fa-solid fa-globe">
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/fliso-icon.png" alt="fliso" style="width: 50px; height: 50px; border-radius: 10px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Fli.so <a href="https://fli.so/" target="_blank" style="text-decoration: none; color: inherit; margin-left: 5px;"> <i class="fa-solid fa-globe"></i></a>  <a href="https://github.com/thisuxhq/fli.so" target="_blank" style="text-decoration: none; color: inherit; margin-left: 5px"> <i class="fa-brands fa-github"></i></a>
 
