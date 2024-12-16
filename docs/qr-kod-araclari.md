@@ -13,9 +13,8 @@
 
 | QR Kod Araçları | Açık Kaynak | Reklam | Lisans Türü | Fiyatlandırma | Platform Desteği |
 |-----------------------|:-----------:|:------:|:-----------:|:-------------:|:----------------:|
-| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/fliso-icon.png" alt="fliso" style="width: 30px; height: 30px; border-radius: 10px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Fli.so   | <span style="color: green;">✓</span>   | <span style="color: red;">×</span>   | AGPL-3.0  | Abonelik*    | <i class="fa-solid fa-globe"> |
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/fliso-icon.png" alt="fliso" style="width: 30px; height: 30px; border-radius: 10px;"> </span> <span style="display: inline-block; vertical-align: middle;"> [Fli.so](https://fli.so/)  | <span style="color: green;">✓</span>   | <span style="color: red;">×</span>   | AGPL-3.0  | Abonelik*    | <i class="fa-solid fa-globe"> |
 
-### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/fliso-icon.png" alt="fliso" style="width: 50px; height: 50px; border-radius: 10px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Fli.so <a href="https://fli.so/" target="_blank" style="text-decoration: none; color: inherit; margin-left: 5px;">
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/fliso-icon.png" alt="fliso" style="width: 50px; height: 50px; border-radius: 10px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Fli.so
 
 **Fli.so**, ücretsiz, ancak bazı ek özellikler için ücretli bir abonelik sunan, reklam içermeyen ve **AGPL-3.0** lisansı altında **açık kaynak kodlu** bir araçtır. Kullanıcılar, bağlantılarını kısa ve kolay paylaşabilir, özelleştirebilir, tıklama analizleri yapabilir ve takip edebilir. Bağlantılarınızın hepsini tek bir platfordan yönetebilirsiniz.
-  

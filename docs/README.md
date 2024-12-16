@@ -404,7 +404,7 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
     <div class="service-box">
         <img src="docs/images/fliso-icon.png" alt="icon" style="border-radius: 10px;">
         <div class="title">
-            <a href="http://guvendekal.org/#/url-qr-kod-araclari?id=-fliso" target="_blank" style="color: inherit; text-decoration: none;">Fli.so</a>
+            <a href="http://guvendekal.org/#/qr-kod-araclari?id=-fliso" target="_blank" style="color: inherit; text-decoration: none;">Fli.so</a>
         </div>
     </div>
 </div>
