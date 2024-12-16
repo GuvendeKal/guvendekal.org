@@ -12,8 +12,14 @@ Bu araçlar, standart kaldırma işlemi sırasında geride bırakılan dosyalar�
 
 | Yazılım Kaldırma Araç Adı | Açık Kaynak | Reklam  | Lisans Türü | Platform Desteği |
 |--------------------------|:-----------:|:-------:|:-----------:|:----------------:|
-| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/bulk-crap-uninstaller-icon.png" alt="bulkcrap" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Bulk Crap Uninstaller | <span style="color: green;">✓</span> | <span style="color: red;">×</span> | Apache 2.0  | <i class="fa-brands fa-windows"> |
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/bulk-crap-uninstaller-icon.png" alt="bulkcrap" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) | <span style="color: green;">✓</span> | <span style="color: red;">×</span> | Apache 2.0  | <i class="fa-brands fa-windows"> |
 
-### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/bulk-crap-uninstaller-icon.png" alt="bulkcrap" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Bulk Crap Uninstaller <a href="https://www.bcuninstaller.com/" target="_blank" style="text-decoration: none; color: inherit; margin-left: 5px;">
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/bulk-crap-uninstaller-icon.png" alt="bulkcrap" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Bulk Crap Uninstaller
 
-**Bulk Crap Uninstaller (BCUninstaller)**, ücretsiz, reklam içermeyen ve **Apache 2.0 açık kaynak kodlu** lisansı altında sunulan, gereksiz yazılımları etkili bir şekilde kaldırmasına olanak tanıyan bir yazılım kaldırma aracıdır. Windows 7 ve sonrası işletim sistemlerinde çalışır. **Türkçe** dahil birçok dil desteği mevcuttur.
+**Bulk Crap Uninstaller (BCUninstaller)**, bilgisayarınızdaki gereksiz veya istenmeyen yazılımları kaldırmanızı sağlayan **açık kaynak kodlu** ve ücretsiz bir özgür yazılımdır.
+
+BCUninstaller, kaldırılan programların geride bıraktığı kalıntıları temizleme ve yetim dosya tespiti özellikleriyle öne çıkar. Otomatik toplu kaldırma işlemleriyle, birden fazla yazılımı aynı anda hızla kaldırabilirsiniz. Ayrıca birden fazla dil seçeneği sunan BCUninstaller, Türkçe dil desteği de sağlamaktadır.
+
+BCUninstaller, reklam içermeyen, basit ve etkili bir navigasyon sunar, gereksiz detaylardan kaçınarak kolaylık sağlayan bir arayüze sahiptir. Eski veya artık kullanmadığınız yazılımları temizlemek, sisteminizi hızlandırmak ve düzenlemek için Bulk Crap Uninstaller, pratik bir çözüm sunar.
+
+- [Açık kaynak depo](https://github.com/Klocman/Bulk-Crap-Uninstaller)
