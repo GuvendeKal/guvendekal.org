@@ -7,7 +7,7 @@
 
 # Sözlük
 
-Burada siber güvenlik ve mahremiyet konularında kullanılan terimlerin anlamlarını öğrenebilirsiniz. Şuan sözlükte toplam **53** kelime bulunmaktadır.
+Burada siber güvenlik ve mahremiyet konularında kullanılan terimlerin anlamlarını öğrenebilirsiniz. Şuan sözlükte toplam **55** kelime bulunmaktadır.
 
 ## A
 - **Adware** <small>(reklam yazılımı)</small>: Bir kullanıcının izni olmadan cihazına yüklenir ve reklam göstermek, kullanıcı alışkanlıklarını izlemek için tasarlanmıştır. Amacı, kullanıcıya hedeflenmiş reklamlar sunarak gelir elde etmektir. Adware, kullanıcı deneyimini olumsuz etkiler ve gizlilik/güvenlik problemlerine yol açar.
