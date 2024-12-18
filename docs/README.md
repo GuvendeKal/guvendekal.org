@@ -409,6 +409,17 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
     </div>
 </div>
 
+## Dosya Aktarım Uygulamaları
+
+<div class="service-container">
+    <div class="service-box">
+        <img src="docs/images/localsend.png" alt="icon" style="border-radius: 10px;">
+        <div class="title">
+            <a href="http://guvendekal.org/#/dosya-aktarma?id=-localsend" target="_blank" style="color: inherit; text-decoration: none;">LocalSend</a>
+        </div>
+    </div>
+</div>
+
 ## Atıf ve Hukuksal Bilgiler
 
 guvendekal.org tarafından önerilen hiç bir uygulamanın guvendekal.org ile bağlantısı yoktur. guvendekal.org bu önermelerin sorumluluğunu almaz, herhangi bir çıkar yada kâr gözetmez. guvendekal.org tarafından kullanılan logo, marka isimleri ve tescilli isimler tamamen tanıtım amaçlı kullanılmaktadır.
