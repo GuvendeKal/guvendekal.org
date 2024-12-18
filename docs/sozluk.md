@@ -7,14 +7,16 @@
 
 # Sözlük
 
-Burada siber güvenlik ve mahremiyet konularında kullanılan terimlerin anlamlarını öğrenebilirsiniz. Şuan sözlükte toplam **53** kelime bulunmaktadır.
+Burada siber güvenlik ve mahremiyet konularında kullanılan terimlerin anlamlarını öğrenebilirsiniz. Şuan sözlükte toplam **55** kelime bulunmaktadır.
 
 ## A
+- **Adware** <small>(reklam yazılımı)</small>: Bir kullanıcının izni olmadan cihazına yüklenir ve reklam göstermek, kullanıcı alışkanlıklarını izlemek için tasarlanmıştır. Amacı, kullanıcıya hedeflenmiş reklamlar sunarak gelir elde etmektir. Adware, kullanıcı deneyimini olumsuz etkiler ve gizlilik/güvenlik problemlerine yol açar.
 
-- **Authentication** <small>(kimlik doğrulama)</small>: Bir kullanıcının, cihazın veya sistemin kimliğini doğrulama sürecidir. Bu, bir şifre, biyometrik veri (parmak izi, yüz tanıma) gibi yöntemlerle yapılır. Amaç, erişim izni olan kişileri doğrulamak ve yetkisiz erişimi engellemektir.
+- **Ağ** <small>(network)</small>: Birden fazla cihazın (bilgisayar, telefon, sunucu, vs.) birbirine bağlanarak veri paylaşımı yapabileceği bir yapıdır. Bu cihazlar, kablolu (ethernet) veya kablosuz (Wi-Fi) bağlantılarla birbirine bağlanabilir. Ağlar, cihazların birbirleriyle iletişim kurmasını, veri ve kaynakları paylaşmasını sağlar. En yaygın ağ türleri yerel ağ (LAN) ve geniş alan ağı (WAN) dır.
 
 - **Anonimlik**: Kişinin kimliğinin veya kişisel bilgilerinin tespit edilemez ve izlenemez durumda olmasıdır. Anonimlik, bir bireyin dijital dünyada gizliliğini korumak için kimliğini gizlemesini ifade eder.
-- **Ağ** <small>(network)</small>: Birden fazla cihazın (bilgisayar, telefon, sunucu, vs.) birbirine bağlanarak veri paylaşımı yapabileceği bir yapıdır. Bu cihazlar, kablolu (ethernet) veya kablosuz (Wi-Fi) bağlantılarla birbirine bağlanabilir. Ağlar, cihazların birbirleriyle iletişim kurmasını, veri ve kaynakları paylaşmasını sağlar. En yaygın ağ türleri yerel ağ (LAN) ve geniş alan ağı (WAN) dır.
+
+- **Authentication** <small>(kimlik doğrulama)</small>: Bir kullanıcının, cihazın veya sistemin kimliğini doğrulama sürecidir. Bu, bir şifre, biyometrik veri (parmak izi, yüz tanıma) gibi yöntemlerle yapılır. Amaç, erişim izni olan kişileri doğrulamak ve yetkisiz erişimi engellemektir.
 
 ## B
 
@@ -77,6 +79,8 @@ Burada siber güvenlik ve mahremiyet konularında kullanılan terimlerin anlamla
 ## K
 
 - **Kali Linux**: Siber güvenlik uzmanları ve etik hacker'lar tarafından yaygın olarak kullanılan, güvenlik testleri ve penetrasyon testleri için tasarlanmış bir Linux dağıtımıdır. İçeriğinde birçok güvenlik aracı bulunur.
+
+- **KVM** <small>(kernel tabanlı sanal makine)</small>: Linux çekirdeği üzerinde çalışan bir sanallaştırma teknolojisidir. Fiziksel bir sunucunun kaynaklarını birden fazla sanal sunucuya bölmek için kullanılır. Her bir sanal sunucu , kendi işletim sistemiyle bağımsız olarak çalışabilir. KVM sunucular, performans ve güvenilirlik açısından oldukça güçlüdür ve genellikle web barındırma, test ortamları vb. uygulamalar için tercih edilirler.
 
 ## L
 
