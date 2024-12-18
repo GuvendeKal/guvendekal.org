@@ -420,6 +420,23 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
     </div>
 </div>
 
+## Dosya Dönüştürme Uygulamaları
+
+<div class="service-container">
+    <div class="service-box">
+        <img src="docs/images/fileconverter-icon.png" alt="icon">
+        <div class="title">
+            <a href="http://guvendekal.org/#/dosya-donusturme?id=-file-converter" target="_blank" style="color: inherit; text-decoration: none;">File Converter</a>
+        </div>
+    </div>
+    <div class="service-box">
+        <img src="docs/images/handbrake-icon.png" alt="icon">
+        <div class="title">
+            <a href="http://guvendekal.org/#/dosya-donusturme?id=-handbrake" target="_blank" style="color: inherit; text-decoration: none;">HandBrake</a>
+        </div>
+    </div>
+</div>
+
 ## Atıf ve Hukuksal Bilgiler
 
 guvendekal.org tarafından önerilen hiç bir uygulamanın guvendekal.org ile bağlantısı yoktur. guvendekal.org bu önermelerin sorumluluğunu almaz, herhangi bir çıkar yada kâr gözetmez. guvendekal.org tarafından kullanılan logo, marka isimleri ve tescilli isimler tamamen tanıtım amaçlı kullanılmaktadır.
