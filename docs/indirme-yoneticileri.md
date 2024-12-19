@@ -15,7 +15,7 @@
 
 | İndirme Yöneticisi | Açık Kaynak | Reklam | Lisans Türü | Platform Desteği |
 |--------------------|:-----------:|:------:|:-----------:|:----------------:|
-| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/filecentipede-icon.png" alt="filecentipede" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> [File Centipede](https://filecxx.com/tr_TR/index.html) | <span style="color: green;">✓</span> | <span style="color: red;">×</span> | Proprietary | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-linux"></i> |
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/filecentipede-icon.png" alt="filecentipede" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> File Centipede </span> | <span style="color: green;">✓</span> | <span style="color: red;">×</span> | Proprietary | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-linux"></i> |
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/filecentipede-icon.png" alt="filecentipede" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> File Centipede
 

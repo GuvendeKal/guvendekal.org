@@ -11,8 +11,8 @@ Android, kullanıcıların farklı uygulamalar arasında gezinmelerine, sosyal a
 
 | Uygulama | Açık Kaynak | Lisans Türü | Özellik |
 |----------|:-----------:|:-----------:|:-----------:|
-| <img src="https://raw.githubusercontent.com/LinkSheet/LinkSheet/refs/heads/master/app/src/main/res/drawable/app_linksheet.png" alt="Linksheet" style="width: 30px; height: 30px; border-radius: 10px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> **LinkSheet** </span> |<span style="color: green;">✓</span>| GNU GPLv3       | Bağlantı Yönetimi |
-| <img src="https://raw.githubusercontent.com/samolego/Canta/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="Canta" style="width: 30px; height: 30px; border-radius: 10px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> **Canta** </span> |<span style="color: green;">✓</span>|  LGPL       | Uygulama Yönetimi |
+| <img src="https://raw.githubusercontent.com/LinkSheet/LinkSheet/refs/heads/master/app/src/main/res/drawable/app_linksheet.png" alt="Linksheet" style="width: 30px; height: 30px; border-radius: 10px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> LinkSheet </span> |<span style="color: green;">✓</span>| GNU GPLv3       | Bağlantı Yönetimi |
+| <img src="https://raw.githubusercontent.com/samolego/Canta/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="Canta" style="width: 30px; height: 30px; border-radius: 10px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> Canta </span> |<span style="color: green;">✓</span>|  LGPL       | Uygulama Yönetimi |
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="https://raw.githubusercontent.com/LinkSheet/LinkSheet/refs/heads/master/app/src/main/res/drawable/app_linksheet.png" alt="LinkSheet" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> LinkSheet
 

@@ -24,10 +24,9 @@ Lokal şekilde çalışan şifre yöneticilerinde [**senkronizasyon araçları**
 
 | Şifre Yöneticisi | Açık Kaynak | Çalışma Şekli | Platform Desteği |
 | --- | :---: | :---: | :---: |
-| <img src="docs/images/keepassxc.png" alt="KeePassXC" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> [KeePassXC](https://keepassxc.org/) </span> | <span style="color: green;">✓</span> | Lokal | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> |
-| <img src="docs/images/bitwarden.png" alt="Bitwarden" style="width: 30px; height: auto; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> [Bitwarden](https://bitwarden.com/) </span> | <span style="color: green;">✓</span> | Bulut | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> |
-| <img src="docs/images/vaultwarden.png" alt="Vaultwarden" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> [Vaultwarden](https://github.com/dani-garcia/vaultwarden) </span> | <span style="color: green;">✓</span> | Self-host | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> |
-| <img src="docs/images/proton-pass.png" alt="ProtonPass" style="width: 30px; height: auto; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> [Proton Pass](https://proton.me/pass) </span> | <span style="color: green;">✓</span>| Bulut | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> |
+| <img src="docs/images/keepassxc.png" alt="KeePassXC" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> KeePassXC </span> | <span style="color: green;">✓</span> | Lokal | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> |
+| <img src="docs/images/bitwarden.png" alt="Bitwarden" style="width: 30px; height: auto; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> Bitwarden </span> | <span style="color: green;">✓</span> | Bulut | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> |
+| <img src="docs/images/proton-pass.png" alt="ProtonPass" style="width: 30px; height: auto; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> Proton Pass </span> | <span style="color: green;">✓</span>| Bulut | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> |
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/keepassxc.png" alt="KeePassXC" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> KeePassXC
 
@@ -40,16 +39,6 @@ KeePassXC tarafından Android'de kullanmak için [**KeePassDX**](https://play.go
 Bulut tabanlı çalışan [**Bitwarden**](https://bitwarden.com/) açık kaynaklı ve ücretsiz bir şifre yönetici uygulamasıdır. Neredeyse bütün platformlarda uygulamaları ve bütün tarayıcılarda eklentileri bulunur ve senkronize şekilde çalışmaktadır.
 
 Bitwarden'da tüm veriler kullanıcı cihazında şifrelenir ve şifre çözümlenir; bu da herhangi bir veri ihlali yada çalınma durumlarında, hırsızların eline sadece şifrenin hash değerlinin geçeceği anlamına gelir. Bitwarden'in ücretli ve ücretsiz sürümleri bulunur. Bitwarden'in ücretli sürümü TOTP, gelişmiş 2FA seçenekleri, 1 GB şifreli dosya saklama gibi ek özellikler sunar.
-
-### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/vaultwarden.png" alt="Vaultwarden" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> Vaultwarden
-
-Kullanıcıların, Bitwarden'in sunucuları yerine kendi sunucularında şifrelerini barındırmaya yarayan [**Vaultwarden**](https://github.com/dani-garcia/vaultwarden) Rust ile yazılmıştır- ki bu da sunucu tarafında daha az açık anlamına gelir-.
-
-Vaultwarden'in kendi sunucunda barındırılabilmesi nedeniyle verilerin tamamen kullanıcı tarafından kontrol edilmesini sağlar. Parola ve hassas bilgiler üçüncü taraf bir hizmet sağlayıcıya emanet edilmez.
-
-?> Bitwarden tarafında herhangi bir veri ihlali yaşanırsa, çalınacak veriler zaten şifrelenmiş veriler olacaktır.
-
-Vaultwarden, internet bağlantısı olmadan da kullanılabilir. Sunucuya lokal ağ üzerinden erişilebilir ve çevrimdışı çalışmaya devam edebilir.
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/proton-pass.png" alt="ProtonPass" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> Proton Pass
 
