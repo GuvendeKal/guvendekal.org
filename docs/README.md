@@ -226,9 +226,9 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
         </div>
     </div>
     <div class="service-box">
-        <img src="docs/images/vaultwarden.png" alt="icon">
+        <img src="docs/images/proton-pass.png" alt="icon">
         <div class="title">
-            <a href="https://guvendekal.org/#/sifre-yoneticileri?id=-vaultwarden" target="_blank" style="color: inherit; text-decoration: none;">Vaultwarden</a>
+            <a href="https://guvendekal.org/#/sifre-yoneticileri?id=-proton-pass" target="_blank" style="color: inherit; text-decoration: none;">Proton Pass</a>
         </div>
     </div>
 </div>
@@ -249,6 +249,30 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
         </div>
     </div>
 </div>
+
+## Mesajlaşma Uygulamaları
+
+<div class="service-container">
+    <div class="service-box">
+        <img src="docs/images/signal.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/mesajlasma-uygulamalari?id=-signal" target="_blank" style="color: inherit; text-decoration: none;">Signal</a>
+        </div>
+    </div>
+    <div class="service-box">
+        <img src="docs/images/session.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/mesajlasma-uygulamalari?id=-session" target="_blank" style="color: inherit; text-decoration: none;">Session</a>
+        </div>
+    </div>
+    <div class="service-box">
+        <img src="docs/images/threema.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/mesajlasma-uygulamalari?id=-threema" target="_blank" style="color: inherit; text-decoration: none;">Threema</a>
+        </div>
+    </div>
+</div>
+
 
 ## Ofis Uygulamaları
 
@@ -289,7 +313,7 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
         </div>
     </div>
     <div class="service-box">
-        <img src="https://github.com/bluesky-social/social-app/blob/main/assets/app-icons/android_icon_core_aurora.png?raw=true" alt="icon">
+        <img src="docs/images/bluesky.png" alt="icon">
         <div class="title">
             <a href="https://guvendekal.org/#/sosyal-aglar?id=-bluesky-social" target="_blank" style="color: inherit; text-decoration: none;">BlueSky Social</a>
         </div>

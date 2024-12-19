@@ -22,9 +22,9 @@
 
 | RSS İstemcisi | Açık Kaynak | Çalışma Şekli | Fiyat | Platformlar |
 | --- | :---: | :---: | :---: | :---: |
-| <img src="docs/images/freshrss.png" alt="FreshRSS" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> [**FreshRSS**](https://freshrss.org)</span> | <span style="color: green;">✓</span> | Bulut ve Self-host | Ücretsiz | <i class="fa-solid fa-globe"></i> |
-| <img src="docs/images/miniflux.png" alt="Miniflux" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> [**Miniflux**](https://miniflux.app)</span> | <span style="color: green;">✓</span> | Bulut ve Self-host | Ücretsiz/Ücretli | <i class="fa-solid fa-globe"></i> |
-| <img src="docs/images/fluentreader.png" alt="Fluent Reader" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> [**Fluent Reader**](https://hyliu.me/fluent-reader/)</span> | <span style="color: green;">✓</span> | Bulut ve Self-host | Ücretsiz | <i class="fa-solid fa-globe"></i> |
+| <img src="docs/images/freshrss.png" alt="FreshRSS" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> FreshRSS </span> | <span style="color: green;">✓</span> | Bulut ve Self-host | Ücretsiz | <i class="fa-solid fa-globe"></i> |
+| <img src="docs/images/miniflux.png" alt="Miniflux" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> Miniflux </span> | <span style="color: green;">✓</span> | Bulut ve Self-host | Ücretsiz/Ücretli | <i class="fa-solid fa-globe"></i> |
+| <img src="docs/images/fluentreader.png" alt="Fluent Reader" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> Fluent Reader </span> | <span style="color: green;">✓</span> | Bulut ve Self-host | Ücretsiz | <i class="fa-solid fa-globe"></i> |
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/freshrss.png" alt="FreshRSS" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> FreshRSS
 

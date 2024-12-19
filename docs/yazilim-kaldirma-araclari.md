@@ -12,7 +12,7 @@ Bu araçlar, standart kaldırma işlemi sırasında geride bırakılan dosyalar�
 
 | Yazılım Kaldırma Araç Adı | Açık Kaynak | Reklam  | Lisans Türü | Platform Desteği |
 |--------------------------|:-----------:|:-------:|:-----------:|:----------------:|
-| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/bulk-crap-uninstaller-icon.png" alt="bulkcrap" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) | <span style="color: green;">✓</span> | <span style="color: red;">×</span> | Apache 2.0  | <i class="fa-brands fa-windows"> |
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/bulk-crap-uninstaller-icon.png" alt="bulkcrap" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Bulk Crap Uninstaller </span> | <span style="color: green;">✓</span> | <span style="color: red;">×</span> | Apache 2.0  | <i class="fa-brands fa-windows"> |
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/bulk-crap-uninstaller-icon.png" alt="bulkcrap" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Bulk Crap Uninstaller
 
