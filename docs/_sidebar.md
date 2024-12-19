@@ -16,7 +16,6 @@
 - [<i class="fa-solid fa-network-wired"></i> DNS Servisleri](dns.md)
 - [<i class="fas fa-search"></i> Arama Motorları](arama-motorlari.md)
 - [<i class="fa-solid fa-globe"></i> İnternet Tarayıcıları](internet-tarayicilari.md)
-- [<i class="fa-solid fa-plus"></i> Tarayıcı Eklentileri](tarayici-eklentileri.md)
 - [<i class="fas fa-envelope"></i> E-posta Servisleri](posta-servisleri.md)
 - [<i class="fa-solid fa-shop"></i> Uygulama Mağazaları](uygulama-magazalari.md)
 
@@ -24,6 +23,7 @@
 
 - [<i class="fas fa-key"></i> Şifre Yöneticisi](sifre-yoneticileri.md)
 - [<i class="fa-solid fa-lock"></i> 2 Faktörlü Doğrulama](2-faktorlu-dogrulama.md)
+- [<i class="fa-solid fa-plus"></i> Tarayıcı Eklentileri](tarayici-eklentileri.md)
 
 **Uygulamalar**
 
