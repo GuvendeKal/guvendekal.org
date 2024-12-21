@@ -25,7 +25,6 @@ Windows işletim sistemlerinde güvenliği artırmak ve sistem performansını o
 
 ## 🌐 Proje Detayları
 
-| Özellik | Açıklama |
 |---------|----------|
 | **Açık Kaynak** | Evet |
 | **GitHub Linki** | [WinUtil GitHub](https://github.com/ChrisTitusTech/winutil) |
