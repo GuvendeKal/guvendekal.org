@@ -2,9 +2,11 @@
 
 **E-posta maskeleme**, gerçek e-posta adresinizi gizleyerek koruma altına alma yöntemidir. Bu teknik, e-posta adreslerinizin spam, kimlik hırsızlığı ve diğer kötü niyetli faaliyetlerden korunmasına yardımcı olur. E-posta makselemenin bazı yolları şunlardır.
 
-- Bazı hizmetler, e-posta adresinize bağlı bir geçici "maske" adres oluşturur. Maske adrese yollanan postalar kişisel postanıza gelir. <br>Örnek: maske[@]adres.com -> gercek[@]adres.com
+- Bazı hizmetler, ana e-posta adresinize bağlı olarak "maske" adı verilen geçici bir e-posta adresi oluşturur. Bu maske adresine gelen mailler, ana (gerçek) e-posta adresinize yönlendirilir. Yani, maske adresi sadece bir çeşit takma ad gibi çalışır, ancak gerçek mesajınız yine sizin ana e-posta adresinize gelir. Bu yöntemi genellikle e-posta adresinizi daha güvenli tutmak amacıyla kullanabilirsiniz. <br> Örnek: Bir hizmet "maske[@]adres.com" şeklinde bir adres verir. Buradaki "maske" adresine gelen e-postalar doğrudan "gercek@[]]adres.com" adresinize iletilir.
 
-- Bazı hizmetler, kısa vadeli ihtiyaçlar için kullanılan ve belirli bir süre sonra otomatik olarak silinen geçici e-posta adresleri sağlar. Bu adresler, genellikle pek güvenilmeyen internet sitelerine kayıt gibi amaçlarla kullanılır.
+- Bazı hizmetler ise, kısa süreli kullanım için geçici e-posta adresleri sunar. Bu adresler genellikle belirli bir süre sonra otomatik olarak silinir. Bu tür adresler, genellikle güvensiz veya güvenilirliği şüpheli sitelere kayıt olurken, kişisel e-posta adresinizi korumak için kullanılır. Bu tür adresler, genellikle spam e-postalardan korunmak amacıyla tercih edilir.
+
+?> E-posta maskelemenin pek çok farklı yolu olabilir; alan adı uzantısı (takmaisim[@]**alanadi.com**) ya da takma isim (**takmaisim**[@]alanadi.com) değişiklik gösterebilir. Ancak hepsinin temel amacı genel olarak aynıdır.
 
 ## Önerilenler Tablosu
 
@@ -18,7 +20,7 @@
 
 [**Addy.io**](https://addy.io/), mahremiyet ve güvenliği ön planda tutarak, kullanıcıların e-posta adreslerini korumalarını sağlayan bir hizmettir. Kullanıcılar, addy.io üzerinden farklı e-posta adresleri oluşturabilirler. Bu adresler, kişisel e-posta adreslerini gizlemek ve çevrimiçi aktivitelerde güvenliği artırmak amacıyla kullanılır. 
 
-Addy.io, tek kullanımlık e-posta adresleri sağlayarak, kullanıcıların kaydoldukları sitelere geçici ve anonim adreslerle kayıt olmalarını mümkün kılar. Bu sayede, e-posta kutuları gereksiz spam e-postalardan korunur ve çevrimiçi takipten kaçınılmış olur. Addy.io ücretsiz versiyonunda sınırsız takma isim oluşturabilirsiniz. Ayrıca ek özellikler için ücretli sürümüne abone olabilirsiniz.
+Addy.io, tek kullanımlık e-posta adresleri sağlayarak, kullanıcıların kaydoldukları sitelere geçici ve anonim adreslerle kayıt olmalarını mümkün kılar. Bu sayede, e-posta kutuları gereksiz spam e-postalardan korunur ve çevrimiçi takipten kaçınılmış olur. Addy.io ücretsiz versiyonunda sınırsız şekilde tek kullanımlık veya tekrar tekrar üretilebilecek ve süresinin kullanıcı tarafından belirlenebileceği adresler oluşturabilirsiniz. Ayrıca ek özellikler için ücretli sürümüne abone olabilirsiniz.
 
 - [Açık kaynak depo](https://github.com/anonaddy/anonaddy)
 - [Gizlilik politikası](https://addy.io/privacy/)

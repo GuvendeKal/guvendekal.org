@@ -1,10 +1,10 @@
 # İnternet Araçları
 
-**İnternet araçları**, internet deneyimini geliştirir ve daha güvenli hale getirir. İnternet üzerinden kullanılan bu araçlar, kullanıcıların güvenliğini kontrol etmek, test etmek ve korumak için genellikle ücretsiz çevrimiçi araçlardır.
+İnternet üzerinden kullanılan, kullanıcıların güvenliğini kontrol etmek, test etmek ve korumak için çevrimiçi kullanılan bazı araçlar.
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/have-i-been-pwned-logo.png" alt="uBlock Origin" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> have i been pwned?
 
-[**Have I Been Pwned**](https://haveibeenpwned.com/), internet kullanıcılarının e-posta adreslerini ve diğer kişisel bilgilerini, daha önce gerçekleşmiş veri ihlallerine karşı kontrol etmelerini sağlayan ücretsiz bir çevrimiçi araçtır. Bu platform, büyük veri ihlali olaylarını izler ve kullanıcıların, bilgileri sızdırılmışsa bunu öğrenmelerini sağlar. Kullanıcılar, e-posta adreslerini girerek, o adresin çeşitli hackleme ve veri sızıntılarına karışıp karışmadığını öğrenebilir. Have I Been Pwned kişisel güvenliği artırmak ve potansiyel tehditlere karşı önlem almak için önemli bir araçtır.
+[**Have I Been Pwned**](https://haveibeenpwned.com/), internet kullanıcılarının e-posta adreslerini ve diğer kişisel bilgilerini, daha önce gerçekleşmiş veri ihlallerine karşı kontrol etmelerini sağlayan ücretsiz bir çevrimiçi araçtır. Büyük veri ihlali olaylarını izler ve kullanıcıların, bilgileri sızdırılmışsa bunu öğrenmelerini sağlar. Kullanıcılar, e-posta adreslerini site üzerinde sorgulayarak herhangi bir veri ihlaline maruz kalıp kalmadığını sorgulayabilir. Have I Been Pwned kişisel güvenliği artırmak ve potansiyel tehditlere karşı önlem almak için önemli bir araçtır.
 
 !> Have I Been Pwned, her veri ihlalini bilemeyebilir!
 
