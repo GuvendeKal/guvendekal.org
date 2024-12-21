@@ -23,7 +23,9 @@
 
 - [<i class="fas fa-key"></i> Şifre Yöneticisi](sifre-yoneticileri.md)
 - [<i class="fa-solid fa-lock"></i> 2 Faktörlü Doğrulama](2-faktorlu-dogrulama.md)
+- [<i class="fa-solid fa-reply-all"></i> E-posta Maskeleme](posta-maskeleme.md)
 - [<i class="fa-solid fa-plus"></i> Tarayıcı Eklentileri](tarayici-eklentileri.md)
+- [<i class="fa-solid fa-globe"></i> İnternet Araçları](internet-araclari.md)
 
 **Uygulamalar**
 
@@ -39,7 +41,7 @@
 * [<i class="fas fa-wallet"></i> Kripto Cüzdanlar](kripto-cuzdanlari.md)
 * [<i class="fa-solid fa-rotate"></i> Senkronizasyon](senkronizasyon.md)
 * [<i class="fa-solid fa-language"></i> Çeviri Araçları](ceviri-araclari.md)
-* [<i class="fa-solid fa-cloud-arrow-down"></i> İndirme Yöneticileri](indirme-yoneticileri.md)
+* [<i class="fa-solid fa-download"></i> İndirme Yöneticileri](indirme-yoneticileri.md)
 * [<i class="fa-solid fa-trash-can"></i> Yazılım Kaldırma Araçları](yazilim-kaldirma-araclari.md)
 * [<i class="fa-solid fa-link"></i> QR Kod Araçları](qr-kod-araclari.md)
 

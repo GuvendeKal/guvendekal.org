@@ -5,16 +5,16 @@ Lütfen yaptığınız değişikleri önizleme olması açısından kısaca aç�
 ## Değişiklik Türü
 
 Katkınız proje üzerinde ne tür bir değişikliğe eşit geliyor?
-_Uygun olan kutulara `x` işareti koyun._
+Uygun olan kutulara `x` işareti koyun.
 
 - [ ] Dökümantasyon eklemeleri yapıldı (yeni sayfalar, yeni uygulamalar)
 - [ ] Dökümantasyon düzeltmeleri yapıldı (sayfa iyileştirmeleri, yazım hatalarının giderilmesi)
-- [ ] Koda katkı yapıldı (CSS/JS yada diğer unsurlar)
+- [ ] Koda katkı yapıldı (CSS/JS ya da diğer unsurlar)
 - [ ] Hatalar giderildi (kod ve diğerleri)
 
 ## Kontrol Listesi
 
-_Uygun olan kutulara `x` işareti koyun._ Bunları PR oluşturduktan sonra da doldurabilirsiniz. Bunlardan herhangi biri hakkında emin değilseniz, sormaktan çekinmeyin. Yardım etmek için buradayız! Bu sadece kodunuzu birleştirmeden önce nelere bakacağımıza dair bir hatırlatmadır._
+Uygun olan kutulara `x` işareti koyun. Bunları PR oluşturduktan sonra da doldurabilirsiniz. Bunlardan herhangi biri hakkında emin değilseniz, sormaktan çekinmeyin. Yardım etmek için buradayız! Bu sadece kodunuzu birleştirmeden önce nelere bakacağımıza dair bir hatırlatmadır.
 
 - [ ] Yapılan değişiklerin kontrolleri yerel sitede yapıldı.
 - [ ] Eklemelerim markdown ve yazım kurallarına uygun.

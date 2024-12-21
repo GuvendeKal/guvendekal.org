@@ -250,6 +250,63 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
     </div>
 </div>
 
+## E-posta Maskeleme
+
+<div class="service-container">
+    <div class="service-box">
+        <img src="docs/images/addyio-logo.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/posta-maskeleme?id=-addyio" target="_blank" style="color: inherit; text-decoration: none;">Addy.io</a>
+        </div>
+    </div>
+    <div class="service-box">
+        <img src="docs/images/simplelogin-logo.svg" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/posta-maskeleme?id=-simplelogin" target="_blank" style="color: inherit; text-decoration: none;">SimpleLogin</a>
+        </div>
+    </div>
+    <div class="service-box">
+        <img src="docs/images/duckduckgo-icon.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/posta-maskeleme?id=-duck-adresses" target="_blank" style="color: inherit; text-decoration: none;">Duck Addresses</a>
+        </div>
+    </div>
+</div>
+
+## Tarayıcı Eklentileri
+
+<div class="service-container">
+    <div class="service-box">
+        <img src="docs/images/ublock.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/tarayici-eklentileri?id=-ublock-origin" target="_blank" style="color: inherit; text-decoration: none;">uBlockOrigin</a>
+        </div>
+    </div>
+    <div class="service-box">
+        <img src="https://avatars.githubusercontent.com/u/3402969?s=200&v=4" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/tarayici-eklentileri?id=-tosdr" target="_blank" style="color: inherit; text-decoration: none;">ToS;DR</a>
+        </div>
+    </div>
+</div>
+
+## İnternet Araçları
+
+<div class="service-container">
+    <div class="service-box">
+        <img src="docs/images/have-i-been-pwned-logo.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/internet-araclari?id=-have-i-been-pwned" target="_blank" style="color: inherit; text-decoration: none;">Have i been pwned?</a>
+        </div>
+    </div>
+    <div class="service-box">
+        <img src="docs/images/virustotal-logo.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/internet-araclari?id=-virustotal" target="_blank" style="color: inherit; text-decoration: none;">VirusTotal</a>
+        </div>
+    </div>
+</div>
+
 ## Mesajlaşma Uygulamaları
 
 <div class="service-container">
@@ -272,7 +329,6 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
         </div>
     </div>
 </div>
-
 
 ## Ofis Uygulamaları
 
