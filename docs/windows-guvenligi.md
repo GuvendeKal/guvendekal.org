@@ -8,11 +8,6 @@
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/win-util.png" alt="winutil" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> WinUtil <a href="https://christitustech.github.io/winutil/" target="_blank" style="text-decoration: none; color: inherit; margin-left: 5px;"> <i class="fa-solid fa-globe"></i></a>  <a href="https://github.com/ChrisTitusTech/winutil" target="_blank" style="text-decoration: none; color: inherit; margin-left: 5px"> <i class="fa-brands fa-github"></i></a>
 
-
-
-
-## 📦 WinUtil Nedir?
-
 **WinUtil**, Windows sistemlerin güvenliğini ve performansını geliştirmeye yönelik açık kaynaklı bir yazılımdır.
 - Sistem güvenlik ayarlarını optimize etme
 - Gereksiz servisleri kapatma
