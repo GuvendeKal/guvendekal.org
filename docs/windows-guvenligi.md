@@ -14,15 +14,11 @@
 ## 📦 WinUtil Nedir?
 
 **WinUtil**, Windows sistemlerin güvenliğini ve performansını geliştirmeye yönelik açık kaynaklı bir yazılımdır.
-
-### Temel Özellikleri
-
 - Sistem güvenlik ayarlarını optimize etme
 - Gereksiz servisleri kapatma
 - Performans artırma
 - Gizlilik ayarlarını düzenleme
 
-## 🌐 Proje Detayları
 
 | Özellik | Açıklama |
 |---------|----------|
@@ -34,20 +30,10 @@
 
 ## 🚀 Kullanım
 
-Winutil, sistem genelinde ince ayarlar yaptığı için Yönetici modunda çalıştırılmalıdır. Bunun için PowerShell'i yönetici olarak çalıştırın. Bunu 2 yöntemle yapabilirsiniz:
+Winutil, sistem genelinde ince ayarlar yaptığı için Yönetici modunda çalıştırılmalıdır.
 
-1. **Başlat menüsü ile:**
    - Başlat menüsüne sağ tıklayın.
    - “Windows PowerShell (Yönetici)” (Windows 10 için) veya “Terminal (Yönetici)” (Windows 11 için) seçin.
-
-2. **Arama ve Başlatma ile:**
-   - Windows tuşuna basın.
-   - “PowerShell” veya “Terminal” (Windows 11 için) yazın.
-   - Yönetici ayrıcalıklarıyla başlatmak için `Ctrl + Shift + Enter` tuşlarına basın veya Sağ tıklayın ve “Yönetici olarak çalıştır ”ı seçin.
-
-### Başlatma Komutu
-
-#### Kararlı Version
 
 ```ps1
 irm “https://christitus.com/win” | iex
