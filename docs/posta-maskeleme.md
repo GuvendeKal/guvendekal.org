@@ -2,11 +2,13 @@
 
 **E-posta maskeleme**, gerçek e-posta adresinizi gizleyerek koruma altına alma yöntemidir. Bu teknik, e-posta adreslerinizin spam, kimlik hırsızlığı ve diğer kötü niyetli faaliyetlerden korunmasına yardımcı olur. E-posta makselemenin bazı yolları şunlardır.
 
-- Bazı hizmetler, ana e-posta adresinize bağlı olarak "maske" adı verilen geçici bir e-posta adresi oluşturur. Bu maske adresine gelen mailler, ana (gerçek) e-posta adresinize yönlendirilir. Yani, maske adresi sadece bir çeşit takma ad gibi çalışır, ancak gerçek mesajınız yine sizin ana e-posta adresinize gelir. Bu yöntemi genellikle e-posta adresinizi daha güvenli tutmak amacıyla kullanabilirsiniz. <br> Örnek: Bir hizmet "maske[@]adres.com" şeklinde bir adres verir. Buradaki "maske" adresine gelen e-postalar doğrudan "gercek@[]]adres.com" adresinize iletilir.
+- Bazı hizmetler, ana e-posta adresinize bağlı olarak "maske" adı verilen geçici bir e-posta adresi oluşturur. Bu maske adresine gelen mailler, ana (gerçek) e-posta adresinize yönlendirilir. Yani, maske adresi sadece bir çeşit takma ad gibi çalışır, ancak gerçek mesajınız yine sizin ana e-posta adresinize gelir. Bu yöntemi genellikle e-posta adresinizi daha güvenli tutmak amacıyla kullanabilirsiniz. <br> Örnek: Bir hizmet "maske[@]adres.com" şeklinde bir adres verir. Buradaki "maske" adresine gelen e-postalar doğrudan "gercek[@]adres.com" adresinize iletilir.
 
 - Bazı hizmetler ise, kısa süreli kullanım için geçici e-posta adresleri sunar. Bu adresler genellikle belirli bir süre sonra otomatik olarak silinir. Bu tür adresler, genellikle güvensiz veya güvenilirliği şüpheli sitelere kayıt olurken, kişisel e-posta adresinizi korumak için kullanılır. Bu tür adresler, genellikle spam e-postalardan korunmak amacıyla tercih edilir.
 
 ?> E-posta maskelemenin pek çok farklı yolu olabilir; alan adı uzantısı (takmaisim[@]**alanadi.com**) ya da takma isim (**takmaisim**[@]alanadi.com) değişiklik gösterebilir. Ancak hepsinin temel amacı genel olarak aynıdır.
+
+E-posta maskeleme neden önemlidir? Çünkü ifşa olan bir e-posta adresiyle sizin bağlantınızı kurarlarsa, diğer hesaplarınız da tehlikeye girebilir. Özellikle aynı şifre veya benzer bilgileri kullanıyorsanız, bu risk daha da artar. Ancak e-posta maskeleme sayesinde, hesaplarınız, e-postalarınız ve sizin aranızda bir bağlantı kurulamıyor. Kullanımınıza bağlı olarak her üyelik veya e-posta kendine özgü hale geliyor. Örneğin, asd124zxy[@]alanadi.com gibi maske bir e-posta adresiyle kullaniciadi[@]alanadi.com gibi bir adres arasında (siz açıkça belirtmedikçe) herhangi bir bağlantı kurulamaz. Bu durum da kullanıcı güvenliğini büyük ölçüde artırır.
 
 ## Önerilenler Tablosu
 
