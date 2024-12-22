@@ -11,7 +11,7 @@
 
 ## Önerilenler Tablosu
 
-| Mail servisi | Kayıt Tutuyor mu | Açık Kaynak | Şifreleme | Ülke | Platformlar | Fiyat |
+| Posta Servisi | Kayıt Tutma | Açık Kaynak | Şifreleme | Ülke | Platformlar | Fiyat |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: |
 | <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/protonmail.svg" alt="Proton" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Proton Mail | <span style="color: orange;">?</span> | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | İsviçre | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> | Ücretsiz\* |
 | <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/tutamail.png" alt="Tutamail" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Tutanota Mail | ✓ | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | Almanya | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> | Ücretsiz\* |
