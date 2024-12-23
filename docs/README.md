@@ -75,6 +75,7 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
         <a href="https://guvendekal.org/#/vpn?id=proton-vpn" class="title">Sıfır kayıt tutma politikası olan VPN: Proton VPN</a>
         <p class="description">Proton VPN İsviçre merkezli, açık kaynaklı bir VPN servisidir. Sıfır kayıt tutma politikası olan Proton VPN'in ücretli ve ücretsiz sürümleri mevcuttur.</p>
         <div class="icon-group">
+            <span><i class="fa-solid fa-globe"></i> Web</span>
             <span><i class="fa-brands fa-windows"></i> Windows</span>
             <span><i class="fas fa-apple-alt"></i> Mac</span>
             <span><i class="fa-brands fa-linux"></i> Linux</span>
@@ -100,6 +101,20 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
     </div>
 </div>
 
+<div class="custom-box">
+    <img src="docs/images/session.png" alt="Logo">
+    <div style="flex: 1;">
+        <a href="https://guvendekal.org/#/mesajlasma-uygulamalari?id=-session" class="title">Güvenli ve anonim mesajlaşma: Session</a>
+        <p class="description">Session, güçlü uçtan uca şifreleme ile anonimlik sunan merkeziyetsiz bir mesajlaşma uygulamasıdır. Gizliliği ön planda tutan kullanıcılar için güvenli ve modern bir çözüm.</p>
+        <div class="icon-group">
+            <span><i class="fa-brands fa-windows"></i> Windows</span>
+            <span><i class="fas fa-apple-alt"></i> Mac</span>
+            <span><i class="fa-brands fa-linux"></i> Linux</span>
+            <span><i class="fa-brands fa-android"></i> Android</span>
+            <span><i class="fa-brands fa-app-store-ios"></i> IOS</span>
+        </div>
+    </div>
+</div>
 
 ## VPN Uygulamaları
 
@@ -260,7 +275,7 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
         </div>
     </div>
     <div class="service-box">
-        <img src="docs/images/simplelogin-logo.svg" alt="icon">
+        <img src="docs/images/simplelogin-logo.png" alt="icon">
         <div class="title">
             <a href="https://guvendekal.org/#/posta-maskeleme?id=-simplelogin" target="_blank" style="color: inherit; text-decoration: none;">SimpleLogin</a>
         </div>

@@ -24,8 +24,8 @@
 - [<i class="fas fa-key"></i> Şifre Yöneticisi](sifre-yoneticileri.md)
 - [<i class="fa-solid fa-lock"></i> 2 Faktörlü Doğrulama](2-faktorlu-dogrulama.md)
 - [<i class="fa-solid fa-reply-all"></i> E-posta Maskeleme](posta-maskeleme.md)
+- [<i class="fa-solid fa-wrench"></i> İnternet Araçları](internet-araclari.md)
 - [<i class="fa-solid fa-plus"></i> Tarayıcı Eklentileri](tarayici-eklentileri.md)
-- [<i class="fa-solid fa-globe"></i> İnternet Araçları](internet-araclari.md)
 
 **Uygulamalar**
 

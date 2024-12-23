@@ -150,6 +150,8 @@ TutanotaMail, 2011 yılında Almanya merkezli kurulmuş bir posta servisidir. Gi
 - [Açık kaynak depo](https://github.com/tutao)
 - [Gizlilik politikası](https://tuta.com/privacy-policy)
 
+<!-- Bu bölüm daha sonra farklı bir sayfa olarak açılacaktır. -->
+
 ## E-Posta İstemcileri
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/thunderbird-icon.png" alt="thunderbird" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Thunderbird
@@ -158,3 +160,5 @@ TutanotaMail, 2011 yılında Almanya merkezli kurulmuş bir posta servisidir. Gi
 
 - [Açık kaynak depo](https://github.com/thunderbird)
 - [Gizlilik politikası](https://www.thunderbird.net/en-US/privacy/)
+
+<!-- Bu bölüm daha sonra farklı bir sayfa olarak açılacaktır. -->
