@@ -17,14 +17,14 @@
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/fileconverter-icon.png" alt="fileconverter" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> File Converter
 
-**File Converter**, windows bağlam menüsünü kullanarak dosyaları dönüştürmenize ve sıkıştırmanıza olanak tanıyan ücretsiz, açık kaynak kodlu bir araçtır. PDF, DOCX, JPEG, MP3, MP4 gibi belge, görsel, ses ve video formatlarını hızlı bir şekilde dönüştürme imkanı sunar. Dosyalarınızı internet ortamına yükleyerek işleyen bulut tabanlı dönüştürücülerden farklı olarak, File Converter internet bağlantısına veya üçüncü taraf hesaplara ihtiyaç duymadan dönüşüm yapmanızı sağlar.
+[**File Converter**](https://file-converter.io/), windows bağlam menüsünü kullanarak dosyaları dönüştürmenize ve sıkıştırmanıza olanak tanıyan ücretsiz, açık kaynak kodlu bir araçtır. PDF, DOCX, JPEG, MP3, MP4 gibi belge, görsel, ses ve video formatlarını hızlı bir şekilde dönüştürme imkanı sunar. Dosyalarınızı internet ortamına yükleyerek işleyen bulut tabanlı dönüştürücülerden farklı olarak, File Converter internet bağlantısına veya üçüncü taraf hesaplara ihtiyaç duymadan dönüşüm yapmanızı sağlar.
 
 - [Açık kaynak depo](https://github.com/Tichau/FileConverter)
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/handbrake-icon.png" alt="handbrake" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> HandBrake
 
-**HandBrake**, hemen hemen her video formatını, yaygın olarak kullanılan video formatlarına dönüştürmek için kullanılan ücretsiz, açık kaynak kodlu bir araçtır. MP4, MKV gibi video formatlarını destekler. Ayrıca, DVD ve Blu-ray disklerinden video çıkarabilir ve farklı video codec'leri ile sıkıştırma işlemi yapabilir. Dosyalarınızı internet ortamına yükleyerek işleyen, büyük boyutlu dosyalarla işlem yaparken zaman kaybına ve internet kullanımına neden olan bulut tabanlı dönüştürücülerden farklı olarak, HandBrake internet bağlantısına ihtiyaç duymaz ve dosyalarınızı dışarıya yüklemeden, hem hız hem de gizlilik açısından dönüşüm yapmanızı sağlar.
+[**HandBrake**](https://handbrake.fr/), hemen hemen her video formatını, yaygın olarak kullanılan video formatlarına dönüştürmek için kullanılan ücretsiz, açık kaynak kodlu bir araçtır. MP4, MKV gibi video formatlarını destekler. Ayrıca, DVD ve Blu-ray disklerinden video çıkarabilir ve farklı video codec'leri ile sıkıştırma işlemi yapabilir. Dosyalarınızı internet ortamına yükleyerek işleyen, büyük boyutlu dosyalarla işlem yaparken zaman kaybına ve internet kullanımına neden olan bulut tabanlı dönüştürücülerden farklı olarak, HandBrake internet bağlantısına ihtiyaç duymaz ve dosyalarınızı dışarıya yüklemeden, hem hız hem de gizlilik açısından dönüşüm yapmanızı sağlar.
 
 - [Açık kaynak depo](https://github.com/HandBrake/HandBrake)
-- [Güvenlik Politikası](https://github.com/HandBrake/HandBrake/blob/master/SECURITY.md)
+- [Gizlilik politikası](https://handbrake.fr/privacy.php)
   

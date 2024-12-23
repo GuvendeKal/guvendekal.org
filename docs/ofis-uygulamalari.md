@@ -17,15 +17,17 @@
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/libreOfficeLogo.png" alt="LibreOffice" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> LibreOffice
 
-**LibreOffice** The Document Foundation tarafından geliştirilen bir ofis yazılımıdır. Açık kaynaklı ve özgür bir ofis yazılımı olan LibreOffice içerisinde kelime işlemci(Word), Tablo Oluşturucu/Okuyucu (Excel), Slayt Oluşturucu/Okuyucu (PowerPoint),Çizim,Veri tabanı ve matematiksel formül oluşturma programlarını bulundurur. Ayrıca bir çok dil bulunduran LibreOffice yazılımında Türkçe dil seçeneği de bulunmaktadır.
+[**LibreOffice**](https://www.libreoffice.org/), The Document Foundation tarafından geliştirilen bir ofis yazılımıdır. Açık kaynaklı ve özgür bir ofis yazılımı olan LibreOffice içerisinde kelime işlemci(Word), Tablo Oluşturucu/Okuyucu (Excel), Slayt Oluşturucu/Okuyucu (PowerPoint),Çizim,Veri tabanı ve matematiksel formül oluşturma programlarını bulundurur. Ayrıca bir çok dil bulunduran LibreOffice yazılımında Türkçe dil seçeneği de bulunmaktadır.
 
 - [Açık kaynak depo](https://github.com/LibreOffice/core)
+- [Gizlilik politikası](https://www.libreoffice.org/privacy)
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/onlyoffice.png" alt="Only Office" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> ONLYOFFICE
 
-**ONLYOFFICE** Ascensio System SIA tarafından geliştirilen bir ofis yazılımıdır.Açık kaynaklı ve özgür bir ofis yazılımı olan Only Office içerisinde kelime işlemci(Word), Tablo Oluşturucu/Okuyucu (Excel), Slayt Oluşturucu/Okuyucu (PowerPoint) Pdf ve Pdf Form okuyucu ve editörü programlarını bulundurur. Only Office tasarımı açısından Microsoft Office yazılımlarına benzemesiyle dikkat çeker ve alışkanlıklarınız açısından sorun yaşamamanızı sağlar. Ayrıca bir çok dil bulunduran Only Office yazılımında Türkçe dil seçeneği de bulunmaktadır.
+[**ONLYOFFICE**](https://www.onlyoffice.com/), Ascensio System SIA tarafından geliştirilen bir ofis yazılımıdır.Açık kaynaklı ve özgür bir ofis yazılımı olan Only Office içerisinde kelime işlemci(Word), Tablo Oluşturucu/Okuyucu (Excel), Slayt Oluşturucu/Okuyucu (PowerPoint) Pdf ve Pdf Form okuyucu ve editörü programlarını bulundurur. Only Office tasarımı açısından Microsoft Office yazılımlarına benzemesiyle dikkat çeker ve alışkanlıklarınız açısından sorun yaşamamanızı sağlar. Ayrıca bir çok dil bulunduran Only Office yazılımında Türkçe dil seçeneği de bulunmaktadır.
 
 - [Açık kaynak depo](https://github.com/ONLYOFFICE)
+- [Gizlilik politikası](https://www.onlyoffice.com/Privacy.aspx)
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/orb.png" alt="OpenOffice" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> OpenOffice
 
@@ -33,3 +35,4 @@
 LibreOffice yazılımlarla da benzer yönleri vardır, yani ortada, ancak **Microsoft Office** yazılımlarına daha yakın diyebiliriz. OpenOffice, uzun zamandır resmi devlet kurumları, hükümetler, okullar ve çeşitli büyük şirketler tarafından kullanılmasıyla popülerlik ve destek kazanmıştır. **Türkçe** başta olmak üzere birçok dili desteklemektedir.
 
 - [Açık kaynak depo](https://github.com/apache/openoffice)
+- [Gizlilik politikası](https://privacy.apache.org/policies/privacy-policy-public.html)

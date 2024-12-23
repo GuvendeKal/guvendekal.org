@@ -27,7 +27,7 @@ Bu gibi sebeplerden ötürü, Chromium'dan sonra en çok kullanılan tarayıcı 
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/firefox.png" alt="Firefox" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Mozilla Firefox
 
-**Firefox**, Mozilla tarafından 2004 yılında piyasaya sürülen tarayıcıdır. Tarayıcı piyasasında Chromium'un tek alternatifi olan Firefox hızlı ve özelleştirilebilir bir tarayıcıdır.
+[**Firefox**](https://www.mozilla.org/tr/firefox/new/), Mozilla tarafından 2004 yılında piyasaya sürülen tarayıcıdır. Tarayıcı piyasasında Chromium'un tek alternatifi olan Firefox hızlı ve özelleştirilebilir bir tarayıcıdır.
 
 Ancak Firefox'u kullanmak istiyorsanız, indirdikten sonra [**arama motoruda**](https://guvendekal.org/#/arama-motorlari) dahil olmak üzere birkaç ayar değişikliği yapmanız gerekmektedir (Varsayılan arama motoru Google olarak gelmektedir). Diğer ayarları düzeltmek için [**bu rehbere**](https://restoreprivacy.com/firefox-privacy/) bakabilirsiniz.
 
@@ -37,7 +37,7 @@ Firefox'un varsayılan olarak gelen ayarlarını, kullanıcı gizliliği açıs�
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/librewolf.svg" alt="LibreWolf" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> LibreWolf
 
-**LibreWolf**, gönüllü bir ekip tarafından geliştirilen ve 2020 yılında piyasaya sürülmüş Firefox tabanlı tarayıcıdır. Firefox'un varsayılan ayarlarının en güvenlikli olacak şekilde ayarlanmıştır.
+[**LibreWolf**](https://librewolf.net/), gönüllü bir ekip tarafından geliştirilen ve 2020 yılında piyasaya sürülmüş Firefox tabanlı tarayıcıdır. Firefox'un varsayılan ayarlarının en güvenlikli olacak şekilde ayarlanmıştır.
 
 ?> Librewolf'u günlük kullanım için kullanacak kullanıcıların "Gizlilik ve Güvenlik > Çerezler ve site verileri > LibreWolf kapatıldığında çerezleri ve site verilerini sil" ayarını kapatması daha sağlıklı olabilir.
 
@@ -45,7 +45,7 @@ Varsayılan olarak **uBlockOrigin** eklentisi yüklü gelir, varsayılan arama m
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/brave-icon.png" alt="Brave" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> Brave Browser
 
-**Brave**, 2016 yılında piyasaya sürülmüş kullanıcı gizliliğine odaklanan bir tarayıcıdır.
+[**Brave**](https://brave.com/tr/), 2016 yılında piyasaya sürülmüş kullanıcı gizliliğine odaklanan bir tarayıcıdır.
 
 Brave içinde gömülü reklam engelleyici ve izleme engelleyici ile gelmektedir. Brave Rewards sistemi ile hem Brave tarayıcısını destekleyen hem de kullanıcılara [**BAT**](https://basicattentiontoken.org/) (Basic Attention Token) kazandıran reklamları açabilirsiniz. Ancak tercihe göre kapatabilirsiniz.
 
@@ -55,7 +55,7 @@ Brave içinde aynı zamanda kripto cüzdan olarak kullanabileceğiniz [**Brave W
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/mullvad-icon.png" alt="mullvad" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Mullvad Browser
 
-**Mullvad Browser**, Mullvad VPN ile Tor Project ortaklığı ile ortaya çıkmış bir tarayıcıdır. Geliştirilmesi Tor Project tarafından sağlanırken, dağıtımını Mullvad üstlenir.
+[**Mullvad Browser**](https://mullvad.net/tr/browser), Mullvad VPN ile Tor Project ortaklığı ile ortaya çıkmış bir tarayıcıdır. Geliştirilmesi Tor Project tarafından sağlanırken, dağıtımını Mullvad üstlenir.
 
 Mullvad Browser'in temel amacı Tor ağını kullanmadan, Tor'un sunduğu bütün gizlilik özelliklerinden yararlanmasıdır. Mullvad VPN ile entegre çalışır ancak kullanmak için Mullvad VPN şart değildir.
 

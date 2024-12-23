@@ -67,8 +67,8 @@
  </tr>
 </table>
 
-- [**Açık kaynak deposu**](https://github.com/signalapp/Signal-Server)
-- [**Gizlilik politikası**](https://signal.org/legal/)
+- [Açık kaynak depo](https://github.com/signalapp/Signal-Server)
+- [Gizlilik politikası](https://signal.org/legal/)
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/session.png" alt="Session" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Session
 
@@ -121,8 +121,8 @@
  </tr>
 </table>
 
-- [**Açık kaynak deposu**](https://github.com/oxen-io/session-android)
-- [**Gizlilik politikası**](https://getsession.org/privacy-policy)
+- [Açık kaynak depo](https://github.com/oxen-io/session-android)
+- [Gizlilik politikası](https://getsession.org/privacy-policy)
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/threema.png" alt="Threema" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Threema
 [**Threema**](https://threema.ch/en) 2012 Yılında İsviçrede bir ekip tarafından geliştirilmiştir, Uçtan uca şifreleme sunar ve gizlilik odaklıdır.
@@ -184,5 +184,5 @@
     </tr>
 </table>
 
-- [**Açık kaynak deposu**](https://github.com/threema-ch)
-- [**Gizlilik politikası**](https://threema.ch/privacy_policy/)
+- [Açık kaynak depo](https://github.com/threema-ch)
+- [Gizlilik politikası](https://threema.ch/privacy_policy/)
