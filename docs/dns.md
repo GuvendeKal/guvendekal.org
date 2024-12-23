@@ -69,9 +69,9 @@ DNS sunucusu seçerken dikkat edilecek ikinci şey güvenlik ve reklam engelleme
 | DNS Sunucusu | Kayıt Tutma | Reklam Engelleme |
 |--------------|:-----------:|:----------------:|
 | <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/mullvadvpn-icon.png" alt="mullvadDns" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Mullvad DNS </span> | Kayıt tutulmuyor | Sunuyor |
-| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/quad9-icon.png" alt="quad9Dns" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Quad9 DNS | Kayıt tutulmuyor | Sunuyor |
-| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/adguarddns-icon.png" alt="anguardDns" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Adguard DNS | Kayıt tutuyor (tanımlanamaz) | Sunuyor |
-| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/nextdns-icon.png" alt="nextDns" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> NextDNS | İsteğe bağlı | Sunuyor |
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/quad9-icon.png" alt="quad9Dns" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Quad9 DNS </span> | Kayıt tutulmuyor | Sunuyor |
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/adguarddns-icon.png" alt="anguardDns" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Adguard DNS </span> | Kayıt tutuyor (tanımlanamaz) | Sunuyor |
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/nextdns-icon.png" alt="nextDns" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> NextDNS </span> | İsteğe bağlı | Sunuyor |
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/mullvadvpn-icon.png" alt="mullvadDns" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Mullvad DNS
 
