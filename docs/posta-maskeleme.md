@@ -29,7 +29,7 @@ Addy.io, tek kullanımlık e-posta adresleri sağlayarak, kullanıcıların kayd
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/simplelogin-logo.png" alt="uBlock Origin" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> SimpleLogin
 
-[**SimpleLogin**](https://simplelogin.io/), Proton AG firmasına bağlı bir e-psota maskeleme servisidir. çevrimiçi hizmetlerde kişisel e-posta adreslerini gizleyerek, spam ve izlenmeyi engellemeyi amaçlar. Kullanıcılar, gerçek e-posta adreslerini paylaşmadan, basit bir "takma" e-posta adresi oluşturabilirler. 
+[**SimpleLogin**](https://simplelogin.io/), Proton AG firmasına bağlı bir e-posta maskeleme servisidir. Çevrim içi hizmetlerde kişisel e-posta adreslerini gizleyerek, spam ve izlenmeyi engellemeyi amaçlar. Kullanıcılar gerçek e-posta adreslerini paylaşmadan, basit bir "takma" e-posta adresi oluşturabilirler. 
 
 Bu takma e-posta adresleri aracılığıyla gelen iletiler, kullanıcının gerçek e-posta adresine yönlendirilir. SimpleLogin ücretsiz versiyonunda 10 farklı takma isim oluşturmaya izin verir, ücretli sürümü ile sınırsız oluşturup ek özellikler kazanabilirsiniz.
 
