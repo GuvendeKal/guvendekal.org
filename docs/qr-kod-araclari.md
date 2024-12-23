@@ -17,4 +17,6 @@
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/fliso-icon.png" alt="fliso" style="width: 50px; height: 50px; border-radius: 10px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Fli.so
 
-**Fli.so**, ücretsiz, ancak bazı ek özellikler için ücretli bir abonelik sunan, reklam içermeyen ve **AGPL-3.0** lisansı altında **açık kaynak kodlu** bir araçtır. Kullanıcılar, bağlantılarını kısa ve kolay paylaşabilir, özelleştirebilir, tıklama analizleri yapabilir ve takip edebilir. Bağlantılarınızın hepsini tek bir platfordan yönetebilirsiniz.
+[**Fli.so**](https://fli.so/), ücretsiz, ancak bazı ek özellikler için ücretli bir abonelik sunan, reklam içermeyen ve **AGPL-3.0** lisansı altında **açık kaynak kodlu** bir araçtır. Kullanıcılar, bağlantılarını kısa ve kolay paylaşabilir, özelleştirebilir, tıklama analizleri yapabilir ve takip edebilir. Bağlantılarınızın hepsini tek bir platfordan yönetebilirsiniz.
+
+- [Açık kaynak depo](https://github.com/thisuxhq/fli.so)

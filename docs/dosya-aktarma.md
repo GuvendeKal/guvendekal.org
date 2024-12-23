@@ -14,7 +14,7 @@
 | --- | :---: | :---: | :---: | :---: | :---: | :---: |
 | <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/localsend.png" alt="LocalSend" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> LocalSend | <span style="color: green;">✓</span> | <span style="color: green;">×</span> | <span style="color: green;">✓</span> | Local | Ücretsiz | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> |
 
-## <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/localsend.png" alt="LocalSend" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> LocalSend
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/localsend.png" alt="localsend" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> LocalSend
 
 [**LocalSend**](https://localsend.org/), internet bağlantısına ihtiyaç duymadan, yerel ağ üzerinden yakın cihazlarla güvenli bir şekilde dosya ve mesaj paylaşmanıza olanak tanıyan ücretsiz, açık kaynaklı bir uygulamadır.
 
@@ -23,4 +23,4 @@ Bulut depolamaya dayanan veya karmaşık kurulumlar gerektiren birçok dosya akt
 
 - [Açık kaynak deposu](https://github.com/localsend/localsend)
 - [Gizlilik politikası](https://localsend.org/privacy)
-- [Çalışma protokolü ](https://github.com/localsend/protocol)
+- [Çalışma protokolü](https://github.com/localsend/protocol)

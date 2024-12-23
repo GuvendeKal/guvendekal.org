@@ -6,10 +6,20 @@
 
 # Windows Güvenliği
 
-> Eklenecek
+| Uygulama | Açık Kaynak | Lisans Türü | Özellik |
+|----------|:-----------:|:-----------:|:----------------:|
+|<span style="display: inline-block; vertical-align: middle;"><img src="docs/images/win-util.png" alt="winutil" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> WinUtil </span>| <span style="color: green;">✓</span> | MIT | Sistem Yapılandırma |
 
-<!-- Şimdilik not içinde kalması daha iyi.
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/win-util.png" alt="winutil" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Chris Titus Tech's WinUtil
 
-### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/win-util.png" alt="winutil" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> WinUtil <a href="https://christitustech.github.io/winutil/" target="_blank" style="text-decoration: none; color: inherit; margin-left: 5px;"> <i class="fa-solid fa-globe"></i></a>  <a href="https://github.com/ChrisTitusTech/winutil" target="_blank" style="text-decoration: none; color: inherit; margin-left: 5px"> <i class="fa-brands fa-github"></i></a>
+[**WinUtil**](https://christitustech.github.io/winutil/), açık kaynak kodlu ve windows işletim sisteminde çeşitli ayarları yapılandırmanıza yardımcı olan. Windows kullanıcılarının sistem performansını optimize etmelerine, gereksiz dosyaları temizlemelerine, gizlilik ayarlarını iyileştirmelerine ve daha verimli bir çalışma ortamı oluşturmalarına olanak sağlayan bir yönetim aracıdır.
 
-**WinUtil**,  ücretsiz, açık kaynak kodlu ve windows işletim sisteminde çeşitli ayarları yapılandırmanıza yardımcı olan. Windows kullanıcılarının sistem performansını optimize etmelerine, gereksiz dosyaları temizlemelerine, gizlilik ayarlarını iyileştirmelerine ve daha verimli bir çalışma ortamı oluşturmalarına olanak sağlayan bir yönetim aracıdır.-->
+- **Kullanımı**
+  - Başlat menüsüne sağ tıklayın.
+  - “Windows PowerShell (Yönetici)” (Windows 10 için) veya “Terminal (Yönetici)” (Windows 11 için) seçin ve aşağıdaki komutu çalıştırın:
+
+```ps1
+irm “https://christitus.com/win” | iex
+```
+
+- [Açık kaynak depo](https://github.com/ChrisTitusTech/winutil)

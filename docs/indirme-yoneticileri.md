@@ -19,7 +19,7 @@
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/filecentipede-icon.png" alt="filecentipede" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> File Centipede
 
-**File Centipede**, farklı protokolleri ve platformları destekleyen, güçlü bir indirme yöneticisidir. İster dosya, ister torrent, isterse internetten video indiriyor olun, tüm indirme ihtiyaçlarınızı hızlı ve etkili bir şekilde karşılamak için tasarlanmıştır.
+[**File Centipede**](https://filecxx.com/tr_TR/index.html), farklı protokolleri ve platformları destekleyen, güçlü bir indirme yöneticisidir. İster dosya, ister torrent, isterse internetten video indiriyor olun, tüm indirme ihtiyaçlarınızı hızlı ve etkili bir şekilde karşılamak için tasarlanmıştır.
 
 Basit ve kullanıcı dostu arayüzü, her seviyeden kullanıcının kolayca erişmesini sağlar. File Centipede, yüksek hız, protokol çeşitliliği, tarayıcı eklenti desteği ve gelişmiş işlevsellik sunan çok yönlü bir çözüm arayanlar için idealdir. Ayrıca birden fazla dil seçeneği sunan File Centipede, Türkçe dil desteği de sağlamaktadır.
 
