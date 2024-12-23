@@ -72,7 +72,7 @@
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/session.png" alt="Session" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Session
 
-[**Session**](https://getsession.org/) Session 2019 yılında, gizlilik ve anonimlik odaklı bir mesajlaşma uygulaması olarak Loki Vakfı tarafından geliştirilmiştir. Ücretsiz ve açık kaynaklıdır.
+[**Session**](https://getsession.org/) 2019 yılında, gizlilik ve anonimlik odaklı bir mesajlaşma uygulaması olarak Loki Vakfı tarafından geliştirilmiştir. Ücretsiz ve açık kaynaklıdır.
 
 <table>
  <tr>
