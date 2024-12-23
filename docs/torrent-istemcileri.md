@@ -22,12 +22,12 @@
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/qBittorrent-icon.png" alt="qbittorrent" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> qBittorrent
 
-**qBittorrent**, ücretsiz, reklam içermeyen ve **açık kaynak kodlu** bir torrent istemcisidir. µTorrent’e benzer bir arayüze sahiptir ve kişiselleştirilebilir seçenekleri ile kullanım kolaylığı sağlar. Entegre bir arama motoru, uzaktan erişim ve RSS istemcisi gibi birçok özellik sunar. Bu özellikler, kullanıcıların kolayca torrent araması yapmalarını, dosyalarını uzaktan yönetmelerini ve en son içeriklere anında erişmelerini sağlar. Ayrıca birden fazla dil seçeneği sunan qBittorrent, Türkçe dil desteği de sağlamaktadır.
+[**qBittorrent**](https://www.qbittorrent.org/), ücretsiz, reklam içermeyen ve **açık kaynak kodlu** bir torrent istemcisidir. µTorrent’e benzer bir arayüze sahiptir ve kişiselleştirilebilir seçenekleri ile kullanım kolaylığı sağlar. Entegre bir arama motoru, uzaktan erişim ve RSS istemcisi gibi birçok özellik sunar. Bu özellikler, kullanıcıların kolayca torrent araması yapmalarını, dosyalarını uzaktan yönetmelerini ve en son içeriklere anında erişmelerini sağlar. Ayrıca birden fazla dil seçeneği sunan qBittorrent, Türkçe dil desteği de sağlamaktadır.
 
 - [Açık kaynak depo](https://github.com/qbittorrent/qBittorrent)
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/transmission-icon.png" alt="transmission" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Transmission
 
-**Transmission**, ücretsiz, reklam içermeyen ve **açık kaynak kodlu** olarak sunulan minimalist bir torrent istemcisidir. Gereksiz detaylarla kullanıcıyı yormaz ve tüm temel ihtiyaçlara hitap eder. Temel torrent indirme ve paylaşma işlevlerine odaklanmıştır. Hafif bir istemcidir ve düşük sistem belleği kullanarak iyi performans sunar. Ayrıca birden fazla dil seçeneği sunan Transmission, Türkçe dil desteği de sağlamaktadır.
+[**Transmission**](https://transmissionbt.com/), ücretsiz, reklam içermeyen ve **açık kaynak kodlu** olarak sunulan minimalist bir torrent istemcisidir. Gereksiz detaylarla kullanıcıyı yormaz ve tüm temel ihtiyaçlara hitap eder. Temel torrent indirme ve paylaşma işlevlerine odaklanmıştır. Hafif bir istemcidir ve düşük sistem belleği kullanarak iyi performans sunar. Ayrıca birden fazla dil seçeneği sunan Transmission, Türkçe dil desteği de sağlamaktadır.
 
 - [Açık kaynak depo](https://github.com/transmission/transmission)

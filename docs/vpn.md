@@ -82,8 +82,8 @@ Bu sayede kullanıcıların herhangi bir bilgisinin kaydıda tutulmaz. Mullvad V
  </tr>
 </table>
 
-- [Açık kaynak depoları](https://github.com/mullvad/mullvadvpn-app)
-- [Gizlilik politikaları](https://mullvad.net/en/help/privacy-policy)
+- [Açık kaynak depo](https://github.com/mullvad/mullvadvpn-app)
+- [Gizlilik politikası](https://mullvad.net/en/help/privacy-policy)
 
 ## <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/protonvpn-icon.png" alt="Proton" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Proton VPN
 
@@ -141,5 +141,5 @@ Proton firmasının pek çok farklı uygulaması mevcuttur, örn: Proton Mail, P
  </tr>
 </table>
 
-- [Açık kaynak depoları](https://github.com/ProtonVPN)
-- [Gizlilik politikaları](https://protonvpn.com/privacy-policy)
+- [Açık kaynak depo](https://github.com/ProtonVPN)
+- [Gizlilik politikası](https://protonvpn.com/privacy-policy)

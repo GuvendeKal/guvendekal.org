@@ -67,48 +67,59 @@ DNS sunucusu seçerken dikkat edilecek ikinci şey güvenlik ve reklam engelleme
 ## Önerilenler tablosu
 
 | DNS Sunucusu | Kayıt Tutma | Reklam Engelleme |
-| --- | :---: | ---: |
-| Mullvad DNS | Kayıt tutulmuyor | Sunuyor |
-| Quad9 DNS | Kayıt tutulmuyor | Sunuyor |
-| NextDNS | İsteğe bağlı | Sunuyor |
-| Adguard DNS | Kayıt tutuyor (tanımlanamaz) | Sunuyor |
+|--------------|:-----------:|:----------------:|
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/mullvadvpn-icon.png" alt="mullvadDns" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Mullvad DNS </span> | Kayıt tutulmuyor | Sunuyor |
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/quad9-icon.png" alt="quad9Dns" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Quad9 DNS </span> | Kayıt tutulmuyor | Sunuyor |
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/adguarddns-icon.png" alt="anguardDns" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Adguard DNS </span> | Kayıt tutuyor (tanımlanamaz) | Sunuyor |
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/nextdns-icon.png" alt="nextDns" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> NextDNS </span> | İsteğe bağlı | Sunuyor |
 
-## Mullvad DNS
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/mullvadvpn-icon.png" alt="mullvadDns" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Mullvad DNS
 
-| Dns Adresi |
+| DNS Adresi |
 | --- |
 | Mullvad farklı ihtiyaçlara farklı DNS sunucuları sağlamaktadır. Bunların hepsine [**buradan**](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls) ulaşabilirsiniz. |
 
-Mullvad DNS, sıfır kayıt tutma politikası ile kullanıcılarına reklam engellemede sunmaktadır. Aynı zamanda Mullvad DNS sunucularında sansür uygulanmaz. Mullvad DNS hakkında daha fazla bilgiye ulaşmak için [buraya](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls) bakabilirsiniz.
+[**Mullvad DNS**](https://mullvad.net/tr/help/dns-over-https-and-dns-over-tls), sıfır kayıt tutma politikası ile kullanıcılarına reklam engellemede sunmaktadır. Aynı zamanda Mullvad DNS sunucularında sansür uygulanmaz.
 
-## Quad9 DNS
+- [Gizlilik politikası](https://mullvad.net/en/help/privacy-policy)
 
-<img src="docs/images/quad9.png" alt="Quad9" width="350" />
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/quad9-icon.png" alt="quad9Dns" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Quad9 DNS
 
 | Tür | DNS Adresi |
-| --- | :---: |
+| --- |:----------:|
 | IPv4 | 9.9.9.9 |
 | IPv4 | 149.112.112.112 |
 | IPv6 | 2620:fe::fe |
 | IPv6 | 2620:fe::9 |
 
-2017 yılında oluşturulan Quad9 DNS kayıt tutmaz, reklam ve kötü amaçlı phishing sitelerini de engeller. Quad9 Veri ve Gizlilik Politikası için [buraya](https://www.quad9.net/privacy/policy/) bakabilirsiniz.
+[**Quad9 DNS**](https://www.quad9.net/), 2017 yılında kurulmuş bir DNS servisidir ve kullanıcı verisi kaydetmez. Ayrıca, reklamları ve kötü amaçlı kimlik avı (phishing) sitelerini engelleyerek güvenli bir internet deneyimi sunar.
 
-## Adguard DNS
+- [Gizlilik politikası](https://www.quad9.net/privacy/policy/)
+
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/adguarddns-icon.png" alt="anguardDns" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Adguard DNS
 
 | Tür | DNS Adresi |
-| --- | :---: |
+| --- |:----------:|
 | IPv4 | 94.140.14.14 |
 | IPv4 | 94.140.15.15 |
 | IPv6 | 2a10:50c0::1:ff |
 | IPv6 | 2a10:50c0::2:ff |
 
-Adguard DNS kullanıcıları için reklamları, izleyicileri, kötü amaçlı siteleri engelleyen bir DNS sunucusudur. Aynı zamanda aile profili gibi kişiselleştirmeler ile çocukların dijital ortamlarda güvende kalmasını sağlar. Adguard DNS gizlilik politikası için [buraya](https://adguard.com/en/privacy/home.html) bakabilirsiniz
+[**Adguard DNS**](https://adguard-dns.io/tr/welcome.html), kullanıcıları için reklamları, izleyicileri, kötü amaçlı siteleri engelleyen bir DNS sunucusudur. Aynı zamanda aile profili gibi kişiselleştirmeler ile çocukların dijital ortamlarda güvende kalmasını sağlar.
 
 Adguard'ın ücretsiz sürümü gibi ücretli sürümü de bulunmaktadır. Ücretli sürüm ile DNS sunucusunu kişiselleştirebilmektesiniz. Kişisel paket aylık 2.24€, Aile paketi ise aylık 5€'dur. Ücretli sürüm için [buraya](https://adguard.com/en/license.html) bakabilirsiniz.
 
-## NextDNS
+- [Gizlilik politikası](https://adguard.com/en/privacy/home.html)
 
-![NextDNS](images/nextdns.png)
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/nextdns-icon.png" alt="nextDns" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> NextDNS
 
-NextDNS ayda 300 bin aratmaya kadar ücretsiz bir DNS servisi sunar. Kullanıcıların kolaylıkla reklam ve tracker engelleyiciler ile birlikte farklı kategorilerdeki engel listelerini kullanmasına olanak tanır. Gizlilik politikalarına [buradan](https://nextdns.io/privacy) bakabilirsiniz. Normal paketi aylık 1.99€'dur.
+| Tür | DNS Adresi |
+| --- |:----------:|
+| IPv4 | 45.90.28.0 |
+| IPv4 | 45.90.30.0 |
+| IPv6 | 2a07:a8c0:: |
+| IPv6 | 2a07:a8c1:: |
+
+[**NextDNS**](https://nextdns.io/), ayda 300 bin aratmaya kadar ücretsiz bir DNS servisi sunar. Kullanıcıların kolaylıkla reklam ve tracker engelleyiciler ile birlikte farklı kategorilerdeki engel listelerini kullanmasına olanak tanır. Normal paketi aylık 1.99€'dur. Ücretli sürüm için [buraya](https://nextdns.io/pricing) bakabilirsiniz.
+
+- [Gizlilik politikası](https://nextdns.io/privacy)

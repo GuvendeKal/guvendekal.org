@@ -90,10 +90,8 @@
  </tr>
 </table>
 
-- [**Açık kaynak deposu**](https://github.com/ProtonMail)
-- [**Gizlilik politikası**](https://proton.me/legal/privacy)
-
----
+- [Açık kaynak depo](https://github.com/ProtonMail)
+- [Gizlilik politikası](https://proton.me/legal/privacy)
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/tutamail.png" alt="Tutanota" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> TutanotaMail
 
@@ -149,20 +147,14 @@ TutanotaMail, 2011 yılında Almanya merkezli kurulmuş bir posta servisidir. Gi
  </tr>
 </table>
 
-- [**Açık kaynak deposu**](https://github.com/tutao)
-- [**Gizlilik politikası**](https://tuta.com/privacy-policy)
-
-## Tek Seferlik Posta Servisleri
-
-Güvenmediğiniz yada tek seferlik kullanacağınız sitelere kayıt olurken kişisel e-posta adresinizi kullanmanızı önermiyoruz. Onun yerine gizlilik ve güvenliğinizi güçlendiren tek seferlik posta servislerini kullanmanızı öneririz.
-
-- [**Addy.io**](https://addy.io/)
-- [**SimpleLogin**](https://simplelogin.io/)
-
-<!-- BU BÖLÜM DAHA SONRA YENİ BİR SAYFAYA TAŞINACAKTIR -->
+- [Açık kaynak depo](https://github.com/tutao)
+- [Gizlilik politikası](https://tuta.com/privacy-policy)
 
 ## E-Posta İstemcileri
 
-### Thunderbird
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/thunderbird-icon.png" alt="thunderbird" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Thunderbird
 
-[**Thunderbird**](https://www.thunderbird.net/en-US/), Mozilla tarafından geliştirilen ücretsiz ve açık kaynaklı bir e-posta istemcisidir. Kullanıcı dostu arayüzü, güçlü güvenlik özellikleri ve çoklu hesap desteğiyle e-postalarınızı yönetmeyi kolaylaştırır. IMAP, POP3 ve SMTP protokollerini destekleyen Thunderbird, e-posta filtreleme, eklenti desteği ve özelleştirilebilir temalar sunarak kişiselleştirilmiş bir deneyim sağlar.
+[**Thunderbird**](https://www.thunderbird.net/tr/), Mozilla tarafından geliştirilen ücretsiz ve açık kaynaklı bir e-posta istemcisidir. Kullanıcı dostu arayüzü, güçlü güvenlik özellikleri ve çoklu hesap desteğiyle e-postalarınızı yönetmeyi kolaylaştırır. IMAP, POP3 ve SMTP protokollerini destekleyen Thunderbird, e-posta filtreleme, eklenti desteği ve özelleştirilebilir temalar sunarak kişiselleştirilmiş bir deneyim sağlar.
+
+- [Açık kaynak depo](https://github.com/thunderbird)
+- [Gizlilik politikası](https://www.thunderbird.net/en-US/privacy/)
