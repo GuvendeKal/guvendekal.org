@@ -15,7 +15,7 @@ E-posta maskeleme neden önemlidir? Çünkü ifşa olan bir e-posta adresiyle si
 | Maskeleme Servisi | Kayıt Tutma | Açık Kaynak | Şifreleme | Fiyat | Platformlar |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/addyio-logo.png" alt="Addyio" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Addy.io | <span style="color: green;">x</span> | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | Ücretsiz* | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-android"></i> |
-| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/simplelogin-logo.svg" alt="Simplelogin" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> SimpleLogin | <span style="color: green;">x</span> | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | Ücretsiz* | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-android"></i>  |
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/simplelogin-logo.png" alt="Simplelogin" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> SimpleLogin | <span style="color: green;">x</span> | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | Ücretsiz* | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-android"></i>  |
 | <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/duckduckgo-icon.png" alt="Duck Addresses" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Duck Addresses | <span style="color: green;">x</span> | <span style="color: red;">x</span> | ? | Ücretsiz* | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-android"></i>  |
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/addyio-logo.png" alt="uBlock Origin" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> Addy.io
@@ -27,7 +27,7 @@ Addy.io, tek kullanımlık e-posta adresleri sağlayarak, kullanıcıların kayd
 - [Açık kaynak depo](https://github.com/anonaddy/anonaddy)
 - [Gizlilik politikası](https://addy.io/privacy/)
 
-### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/simplelogin-logo.svg" alt="uBlock Origin" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> SimpleLogin
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/simplelogin-logo.png" alt="uBlock Origin" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> SimpleLogin
 
 [**SimpleLogin**](https://simplelogin.io/), Proton AG firmasına bağlı bir e-psota maskeleme servisidir. çevrimiçi hizmetlerde kişisel e-posta adreslerini gizleyerek, spam ve izlenmeyi engellemeyi amaçlar. Kullanıcılar, gerçek e-posta adreslerini paylaşmadan, basit bir "takma" e-posta adresi oluşturabilirler. 
 
