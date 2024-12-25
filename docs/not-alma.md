@@ -17,6 +17,7 @@
 |----------|:-----------:|:------:|:-----------:|:----------------:|
 | <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/anytype.png" alt="Anytype" style="width: 30px; height: 30px; border-radius: 10px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Anytype </span> | <span style="color: green;">✓</span> | Özel Lisans | Lokal | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i>  |
 | <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/logseq-icon.png" alt="logseq" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Logseq </span> | <span style="color: green;">✓</span> | AGPL-3.0 | Lokal | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> |
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/notesnook-icon.png" alt="notesnook" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Notesnook </span> | <span style="color: green;">✓</span> | AGPL-3.0 | Lokal-Bulut | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> |
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/anytype.png" alt="Anytype" style="width: 50px; height: 50px; border-radius: 10px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Anytype
 
@@ -27,7 +28,7 @@
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/logseq-icon.png" alt="logseq" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Logseq
 
-[**Logseq**](https://logseq.com/), ücretsiz ve **açık kaynak kodlu** olarak sunulan temelinde "outliner" (madde işaretli liste yapısı) ve grafik tabanlı bir not alma aracıdır.
+[**Logseq**](https://logseq.com/), ücretsiz olarak sunulan temelinde "outliner" (madde işaretli liste yapısı) ve grafik tabanlı bir not alma uygulamasıdır.
 
 Logseq, kullanıcıların notlarını, görevlerini ve diğer bilgilerini birbirine bağlayarak bir "bilgi grafiği" oluşturmanıza olanak tanır. Markdown ve Org-mode gibi düz metin dosya formatlarını destekler, bu da esnek bir şekilde içerik oluşturmanıza imkan verir. Notlarınızı görsel olarak temsil eden grafiklerle bilgiye daha hızlı ulaşabilir ve bağlantıları rahatça takip edebilirsiniz.
 
@@ -35,3 +36,14 @@ Verilerinizi yerel olarak saklayan Logseq, gizliliğinizi ön planda tutar ve t�
 
 - [Açık kaynak depo](https://github.com/logseq/logseq)
 - [Gizlilik politikası](https://logseq.com/privacy-policy)
+
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/notesnook-icon.png" alt="notesnook" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Notesnook
+
+[**Notesnook**](https://notesnook.com/), uçtan uca şifreli bir not alma deneyimi ve kullanım kolaylığına odaklanan bir platformlar arası not alma uygulamasıdır.
+
+Notesnook, şifreli not senkronizasyonu, uygulama kilidi özelliği, Monographs ile not paylaşma, çift yönlü not bağlantısı ve görev hatırlatma gibi özellikler sunar. Tüm cihazlarınızda ücretsiz olarak kullanılabilir ve hem yerel depolama hem de bulut tabanlı kullanım seçenekleri mevcuttur. Verilerinizi yalnızca kendi cihazınızda tutarak tamamen yerel bir deneyim yaşayabilir veya çoklu cihaz arasında senkronizasyon yaparak bulutun avantajlarından yararlanabilirsiniz.
+
+Evernote ve notion gibi üretkenlik açısından güçlü ancak gizliliğinizden ödün vermenizi gerektiren araçların aksine Notesnook, üretkenlik sağlarken gizliliğinizi tehlikeye atmaz ve bilgilerinizi koruma altına alarak cihazınızdaki her şeyi şifreler ve özgür çalışmanıza olanak tanır.
+
+- [Açık kaynak depo](https://github.com/streetwriters/notesnook)
+- [Gizlilik politikası](https://notesnook.com/privacy/)

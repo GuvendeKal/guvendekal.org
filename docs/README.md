@@ -428,6 +428,12 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
             <a href="https://guvendekal.org/#/not-alma?id=-logseq" target="_blank" style="color: inherit; text-decoration: none;">Logseq</a>
         </div>
     </div>
+    <div class="service-box">
+        <img src="docs/images/notesnook-icon.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/not-alma?id=-notesnook" target="_blank" style="color: inherit; text-decoration: none;">Notesnook</a>
+        </div>
+    </div>
 </div>
 
 ## Torrent İstemcileri
