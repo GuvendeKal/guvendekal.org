@@ -31,14 +31,14 @@
 
 * [<i class="fa-solid fa-paper-plane"></i> Mesajlaşma Uygulamaları](mesajlasma-uygulamalari.md)
 * [<i class="fa-solid fa-print"></i> Ofis Uygulamaları](ofis-uygulamalari.md)
-* [<i class="fas fa-users"></i> Sosyal Ağlar](sosyal-aglar.md)
+* [<i class="fas fa-users"></i> Sosyal Medya](sosyal-medya.md)
 * [<i class="fa-solid fa-brain"></i> Yapay Zeka](yapay-zeka.md)
 * [<i class="fa-solid fa-clipboard"></i> Not Alma](not-alma.md)
+* [<i class="fa-solid fa-inbox"></i> E-posta İstemcileri](posta-istemcileri.md)
 * [<i class="fas fa-download"></i> Torrent İstemcileri](torrent-istemcileri.md)
 * [<i class="fa-solid fa-location-dot"></i> Haritalar](haritalar.md)
 * [<i class="fas fa-calendar-alt"></i> Takvim Uygulamaları](takvim-uygulamalari.md)
 * [<i class="fas fa-rss"></i> RSS Okuyucuları](rss-istemcileri.md)
-* [<i class="fas fa-wallet"></i> Kripto Cüzdanlar](kripto-cuzdanlari.md)
 * [<i class="fa-solid fa-rotate"></i> Senkronizasyon](senkronizasyon.md)
 * [<i class="fa-solid fa-language"></i> Çeviri Araçları](ceviri-araclari.md)
 * [<i class="fa-solid fa-download"></i> İndirme Yöneticileri](indirme-yoneticileri.md)
@@ -53,11 +53,22 @@
 - [<i class="fa-solid fa-file-signature"></i> Dosya Şifreleme](dosya-sifreleme.md)
 - [<i class="fa-solid fa-file-export"></i> Dosya Dönüştürme](dosya-donusturme.md)
 
+**Finans**
+
+- [<i class="fa-brands fa-bitcoin"></i> Kripto Paralar](kripto-paralar.md)
+- [<i class="fas fa-wallet"></i> Kripto Cüzdanlar](kripto-cuzdanlari.md)
+- [<i class="fa-solid fa-coins"></i> Diğer Ödeme Yöntemleri](diger-odeme-yontemleri.md)
+
+
 **İşletim Sistemleri**
 
-- [<i class="fa-brands fa-linux"></i> Masaüstü/Bilgisayar](masaustu-bilgisayar.md)
-- [<i class="fa-brands fa-android"></i> Android](android.md)
+- [<i class="fa-brands fa-linux"></i> İşletim Sistemleri](isletim-sistemleri.md)
+- [<i class="fa-brands fa-android"></i> Android Güvenliği](android-guvenligi.md)
 - [<i class="fa-brands fa-windows"></i> Windows Güvenliği](windows-guvenligi.md)
+
+**Diğerleri**
+
+- [<i class="fa-solid fa-circle-nodes"></i> Alternatif Ağlar](alternatif-aglar.md)
 - [<i class="fa-solid fa-wifi"></i> Modem Yazılımları](modem-yazilimlari.md)
 
 **Dokümantasyon**
