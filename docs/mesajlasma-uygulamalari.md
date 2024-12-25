@@ -59,7 +59,7 @@
  </tr>
  <tr>
  <td>Platform Desteği</td>
- <td><i class="fa-solid fa-globe"></i> <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> </td>
+ <td><i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> </td>
  </tr>
  <tr>
  <td>Ücretsiz sürüm</td>
@@ -113,7 +113,7 @@
  </tr>
  <tr>
  <td>Platform Desteği</td>
- <td><i class="fa-solid fa-globe"></i> <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> </td>
+ <td><i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> </td>
  </tr>
  <tr>
  <td>Ücretsiz sürüm</td>
@@ -165,13 +165,7 @@
     </tr>
     <tr>
         <td>Platform Desteği</td>
-        <td>
-            <i class="fa-solid fa-globe"></i>
-            <i class="fa-brands fa-windows"></i>
-            <i class="fa-brands fa-apple"></i>
-            <i class="fa-brands fa-linux"></i>
-            <i class="fa-brands fa-android"></i>
-            <i class="fa-brands fa-app-store-ios"></i>
+        <td><i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i>
         </td>
     </tr>
     <tr>

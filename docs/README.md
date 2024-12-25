@@ -33,7 +33,7 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
     <img src="docs/images/librewolf.svg" alt="Logo">
     <div style="flex: 1;">
         <a href="https://guvendekal.org/#/internet-tarayicilari?id=-librewolf" class="title">Mahremiyet ve güvenlik odaklı: Librewolf</a>
-        <p class="description">Firefox tabanlı Librewolf kullanıcı mahremiyetini ve gizliliğini önemseyen en iyi tarayıcılardan biridir. Firefox'un varsayılan ayarlarının en güvenlikli olacak şekilde ayarlanmıştır.</p>
+        <p class="description">Librewolf, kullanıcı mahremiyetini ve gizliliğini önemseyen en iyi tarayıcılardan biridir. Varsayılan Firefox ayarları en güvenli olacak şekilde ayarlanmıştır.</p>
         <div class="icon-group">
             <span><i class="fa-brands fa-windows"></i> Windows</span>
             <span><i class="fas fa-apple-alt"></i> Mac</span>
@@ -46,7 +46,7 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
     <img src="docs/images/ublock.png" alt="Logo">
     <div style="flex: 1;">
         <a href="https://guvendekal.org/#/tarayici-eklentileri?id=-ublock-origin" class="title">En iyi reklam ve izleyici engelleyici: uBlock Origin</a>
-        <p class="description">En güçlü ve gelişmiş reklam, izleyici engelleme eklentisidir. Diğer reklam engelleme eklentilerine kıyasla daha gelişmiş ve reklam engelleme yeteneği daha iyidir.</p>
+        <p class="description">uBlock Origin, güçlü ve gelişmiş bir reklam ve izleyici engelleme eklentisidir. Diğer reklam engelleyicilere kıyasla daha üstün özellikler sunar ve reklam engelleme performansı oldukça yüksektir.</p>
         <div class="icon-group">
             <span><i class="fa-solid fa-globe"></i> Web</span>
         </div>
@@ -56,8 +56,8 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
 <div class="custom-box">
     <img src="docs/images/tutamail.png" alt="Logo">
     <div style="flex: 1;">
-        <a href="https://guvendekal.org/#/posta-servisleri?id=-tutanotamail" class="title">Uçtan uca şifrelemeli posta: Tutanota Mail</a>
-        <p class="description">Tutanota Mail Almanya tabanlı, açık kaynaklı ve uçtan uca şifrelemeli güvenli bir e-posta servisidir. Ücretli ve ücretsiz sürümleri mevcuttur.</p>
+        <a href="https://guvendekal.org/#/posta-servisleri?id=-tutamail" class="title">Uçtan uca şifrelemeli posta: Tuta Mail</a>
+        <p class="description">Tuta Mail açık kaynaklı, uçtan uca şifrelemeli ve güvenli bir e-posta servisidir. Ücretli ve ücretsiz sürümleri mevcuttur.</p>
         <div class="icon-group">
             <span><i class="fa-solid fa-globe"></i> Web</span>
             <span><i class="fa-brands fa-windows"></i> Windows</span>
@@ -73,7 +73,7 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
     <img src="docs/images/protonvpn-icon.png" alt="Logo">
     <div style="flex: 1;">
         <a href="https://guvendekal.org/#/vpn?id=proton-vpn" class="title">Sıfır kayıt tutma politikası olan VPN: Proton VPN</a>
-        <p class="description">Proton VPN İsviçre merkezli, açık kaynaklı bir VPN servisidir. Sıfır kayıt tutma politikası olan Proton VPN'in ücretli ve ücretsiz sürümleri mevcuttur.</p>
+        <p class="description">Proton VPN, açık kaynaklı bir VPN servisidir. Sıfır kayıt tutma politikası ile üst düzey gizlilik ve daha güvenli bir internet deneyimi sağlar. Ücretli ve ücretsiz sürümleri mevcuttur.</p>
         <div class="icon-group">
             <span><i class="fa-solid fa-globe"></i> Web</span>
             <span><i class="fa-brands fa-windows"></i> Windows</span>
@@ -107,6 +107,22 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
         <a href="https://guvendekal.org/#/mesajlasma-uygulamalari?id=-session" class="title">Güvenli ve anonim mesajlaşma: Session</a>
         <p class="description">Session, güçlü uçtan uca şifreleme ile anonimlik sunan merkeziyetsiz bir mesajlaşma uygulamasıdır. Gizliliği ön planda tutan kullanıcılar için güvenli ve modern bir çözüm.</p>
         <div class="icon-group">
+            <span><i class="fa-brands fa-windows"></i> Windows</span>
+            <span><i class="fas fa-apple-alt"></i> Mac</span>
+            <span><i class="fa-brands fa-linux"></i> Linux</span>
+            <span><i class="fa-brands fa-android"></i> Android</span>
+            <span><i class="fa-brands fa-app-store-ios"></i> IOS</span>
+        </div>
+    </div>
+</div>
+
+<div class="custom-box">
+    <img src="docs/images/enteauth.png" alt="Logo">
+    <div style="flex: 1;">
+        <a href="https://guvendekal.org/#/guvenlik-uygulamalari?id=-ente-auth" class="title">Güvenli ve kullanıcı dostu kimlik doğrulama: Ente Auth</a>
+        <p class="description">Ente Auth, güçlü güvenlik özellikleri ve kullanıcı dostu tasarımıyla iki faktörlü kimlik doğrulama (2FA) sağlayan modern bir uygulamadır. Gizliliği ön planda tutar ve güvenli girişler için ideal bir çözümdür.</p>
+        <div class="icon-group">
+            <span><i class="fa-solid fa-globe"></i> Web</span>
             <span><i class="fa-brands fa-windows"></i> Windows</span>
             <span><i class="fas fa-apple-alt"></i> Mac</span>
             <span><i class="fa-brands fa-linux"></i> Linux</span>
