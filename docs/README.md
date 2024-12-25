@@ -632,7 +632,7 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
     </div>
 </div>
 
-## Kripto Cüzdanlar
+<!-- ## Kripto Cüzdanlar
 
 <div class="service-container">
     <div class="service-box">
@@ -647,7 +647,7 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
             <a href="http://guvendekal.org/#/kripto-cuzdanlari?id=-trezor" target="_blank" style="color: inherit; text-decoration: none;">Trezor</a>
         </div>
     </div>
-</div>
+</div> -->
 
 ## Diğer Ödeme Yöntemleri
 
