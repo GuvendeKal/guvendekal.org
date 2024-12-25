@@ -597,13 +597,13 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
 
 <div class="service-container">
     <div class="service-box">
-        <img src="https://raw.githubusercontent.com/LinkSheet/LinkSheet/refs/heads/master/app/src/main/res/drawable/app_linksheet.png" alt="icon">
+        <img src="docs/images/linksheet.png" alt="icon">
         <div class="title">
             <a href="https://guvendekal.org/#/android-guvenligi?id=-linksheet" target="_blank" style="color: inherit; text-decoration: none;">LinkSheet</a>
         </div>
     </div>
     <div class="service-box">
-        <img src="https://raw.githubusercontent.com/samolego/Canta/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="icon">
+        <img src="docs/images/canta.png" alt="icon">
         <div class="title">
             <a href="https://guvendekal.org/#/android-guvenligi?id=-canta" target="_blank" style="color: inherit; text-decoration: none;">Canta</a>
         </div>

@@ -11,10 +11,10 @@ Android, kullanıcıların farklı uygulamalar arasında gezinmelerine, sosyal a
 
 | Uygulama | Açık Kaynak | Lisans Türü | Özellik |
 |----------|:-----------:|:-----------:|:-----------:|
-| <img src="https://raw.githubusercontent.com/LinkSheet/LinkSheet/refs/heads/master/app/src/main/res/drawable/app_linksheet.png" alt="Linksheet" style="width: 30px; height: 30px; border-radius: 10px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> LinkSheet </span> |<span style="color: green;">✓</span>| GNU GPLv3       | Bağlantı Yönetimi |
-| <img src="https://raw.githubusercontent.com/samolego/Canta/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="Canta" style="width: 30px; height: 30px; border-radius: 10px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> Canta </span> |<span style="color: green;">✓</span>|  LGPL       | Uygulama Yönetimi |
+| <img src="docs/images/linksheet.png" alt="Linksheet" style="width: 30px; height: 30px; border-radius: 10px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> LinkSheet </span> |<span style="color: green;">✓</span>| GNU GPLv3       | Bağlantı Yönetimi |
+| <img src="docs/images/canta.png" alt="Canta" style="width: 30px; height: 30px; border-radius: 10px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> Canta </span> |<span style="color: green;">✓</span>|  LGPL       | Uygulama Yönetimi |
 
-### <span style="display: inline-block; vertical-align: middle;"><img src="https://raw.githubusercontent.com/LinkSheet/LinkSheet/refs/heads/master/app/src/main/res/drawable/app_linksheet.png" alt="LinkSheet" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> LinkSheet
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/linksheet.png" alt="LinkSheet" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> LinkSheet
 
 
 LinkSheet, Android cihazlarda bağlantı yönetimi ve kullanıcı gizliliği açısından benzersiz bir araçtır. Android 12 ile kaldırılan bağlantı seçici özelliğini geri getirerek, bağlantıların nasıl açılacağını seçme özgürlüğü sunar. ClearURLs ve LibRedirect entegrasyonu ile kullanıcı gizliliğini artırır.
@@ -32,7 +32,7 @@ GNU GPL-3 lisansı altında sunulan LinkSheet, özgür yazılım ve aynı zamand
 
 - [Açık kaynak depo](https://github.com/LinkSheet/LinkSheet)
 
-### <span style="display: inline-block; vertical-align: middle;"><img src="https://raw.githubusercontent.com/samolego/Canta/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="LinkSheet" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> Canta
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/canta.png" alt="LinkSheet" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> Canta
 
 Canta, Android cihazlarda root erişimi gerektirmeden gereksiz uygulamaları kaldırarak güvenlik ve gizliliği artırır. Özellikle gereksiz uygulamalarını (bloatware) kaldırma özelliğiyle, cihazınızda potansiyel olarak gereksiz erişim izinleri veya veri toplama etkinlikleri olan yazılımları kolayca yönetebilirsiniz. Shizuku entegrasyonu sayesinde bu işlemler, sistem izinlerini güvenli bir şekilde kullanarak gerçekleştirilir. Bu uygulama, cihaz üzerinde daha fazla kontrol sağlarken kullanıcı verilerini koruma konusunda da etkili bir çözüm sunar.
 
