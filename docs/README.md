@@ -119,7 +119,7 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
 <div class="custom-box">
     <img src="docs/images/enteauth.png" alt="Logo">
     <div style="flex: 1;">
-        <a href="https://guvendekal.org/#/guvenlik-uygulamalari?id=-ente-auth" class="title">Güvenli ve kullanıcı dostu kimlik doğrulama: Ente Auth</a>
+        <a href="https://guvendekal.org/#/2-faktorlu-dogrulama?id=-ente-auth" class="title">Güvenli ve kullanıcı dostu kimlik doğrulama: Ente Auth</a>
         <p class="description">Ente Auth, güçlü güvenlik özellikleri ve kullanıcı dostu tasarımıyla iki faktörlü kimlik doğrulama (2FA) sağlayan modern bir uygulamadır. Gizliliği ön planda tutar ve güvenli girişler için ideal bir çözümdür.</p>
         <div class="icon-group">
             <span><i class="fa-solid fa-globe"></i> Web</span>
@@ -207,7 +207,7 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
     </div>
 </div>
 
-## Posta Uygulamaları
+## E-posta Servisler
 
 <div class="service-container">
     <div class="service-box">
@@ -384,7 +384,7 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
     </div>
 </div>
 
-## Sosyal Ağlar
+## Sosyal Medya
 
 <div class="service-container">
     <div class="service-box">
@@ -430,6 +430,23 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
     </div>
 </div>
 
+## E-posta İstemcileri
+
+<div class="service-container">
+    <div class="service-box">
+        <img src="docs/images/thunderbird-icon.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/posta-istemcileri?id=-thunderbird" target="_blank" style="color: inherit; text-decoration: none;">Thunderbird</a>
+        </div>
+    </div>
+    <div class="service-box">
+        <img src="docs/images/k9.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/posta-istemcileri?id=-k-9-mail" target="_blank" style="color: inherit; text-decoration: none;">K-9 Mail</a>
+        </div>
+    </div>
+</div>
+
 ## Torrent İstemcileri
 
 <div class="service-container">
@@ -443,6 +460,17 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
         <img src="docs/images/transmission-icon.png" alt="icon">
         <div class="title">
             <a href="https://guvendekal.org/#/torrent-istemcileri?id=-transmission" target="_blank" style="color: inherit; text-decoration: none;">Transmission</a>
+        </div>
+    </div>
+</div>
+
+## Haritalar
+
+<div class="service-container">
+    <div class="service-box">
+        <img src="docs/images/osm.png" alt="icon" style="border-radius: 10px;">
+        <div class="title">
+            <a href="http://guvendekal.org/#/haritalar?id=-openstreetmap" target="_blank" style="color: inherit; text-decoration: none;">OpenStreetMap</a>
         </div>
     </div>
 </div>
@@ -544,6 +572,96 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
         <img src="docs/images/handbrake-icon.png" alt="icon">
         <div class="title">
             <a href="http://guvendekal.org/#/dosya-donusturme?id=-handbrake" target="_blank" style="color: inherit; text-decoration: none;">HandBrake</a>
+        </div>
+    </div>
+</div>
+
+## İşletim Sistemleri
+
+<div class="service-container">
+    <div class="service-box">
+        <img src="docs/images/tails.png" alt="icon">
+        <div class="title">
+            <a href="http://guvendekal.org/#/isletim-sistemleri?id=-tailsos" target="_blank" style="color: inherit; text-decoration: none;">Tails OS</a>
+        </div>
+    </div>
+    <div class="service-box">
+        <img src="docs/images/qubes.png" alt="icon">
+        <div class="title">
+            <a href="http://guvendekal.org/#/isletim-sistemleri?id=-qubesos" target="_blank" style="color: inherit; text-decoration: none;">Qubes OS</a>
+        </div>
+    </div>
+</div>
+
+## Android Güvenliği
+
+<div class="service-container">
+    <div class="service-box">
+        <img src="https://raw.githubusercontent.com/LinkSheet/LinkSheet/refs/heads/master/app/src/main/res/drawable/app_linksheet.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/android-guvenligi?id=-linksheet" target="_blank" style="color: inherit; text-decoration: none;">LinkSheet</a>
+        </div>
+    </div>
+    <div class="service-box">
+        <img src="https://raw.githubusercontent.com/samolego/Canta/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/android-guvenligi?id=-canta" target="_blank" style="color: inherit; text-decoration: none;">Canta</a>
+        </div>
+    </div>
+</div>
+
+## Windows Güvenliği
+
+<div class="service-container">
+    <div class="service-box">
+        <img src="docs/images/win-util.png" alt="icon" style="border-radius: 10px;">
+        <div class="title">
+            <a href="https://guvendekal.org/#/windows-guvenligi?id=-chris-titus-tech39s-winutil" target="_blank" style="color: inherit; text-decoration: none;">WinUtil</a>
+        </div>
+    </div>
+</div>
+
+## Kripto Para
+
+<div class="service-container">
+    <div class="service-box">
+        <img src="docs/images/monero.png" alt="icon" style="border-radius: 10px;">
+        <div class="title">
+            <a href="http://guvendekal.org/#/kripto-paralar?id=-monero" target="_blank" style="color: inherit; text-decoration: none;">Monero</a>
+        </div>
+    </div>
+</div>
+
+## Kripto Cüzdanlar
+
+<div class="service-container">
+    <div class="service-box">
+        <img src="docs/images/electrum.png" alt="icon">
+        <div class="title">
+            <a href="http://guvendekal.org/#/kripto-cuzdanlari?id=-electrum" target="_blank" style="color: inherit; text-decoration: none;">Electrum</a>
+        </div>
+    </div>
+    <div class="service-box">
+        <img src="docs/images/trezor.png" alt="icon">
+        <div class="title">
+            <a href="http://guvendekal.org/#/kripto-cuzdanlari?id=-trezor" target="_blank" style="color: inherit; text-decoration: none;">Trezor</a>
+        </div>
+    </div>
+</div>
+
+## Diğer Ödeme Yöntemleri
+
+<div class="service-container">
+    <div class="service-box">
+        <img src="docs/images/nakit.png" alt="icon">
+        <div class="title">
+            <a href="http://guvendekal.org/#/diger-odeme-yontemleri?id=-nakit-para" target="_blank" style="color: inherit; text-decoration: none;">Nakit Para</a>
+        </div>
+    </div>
+    <div class="service-box">
+        <img src="docs/images/kart.png" alt="icon">
+        <div class="title">
+            <a href="http://guvendekal.org/#/diger-odeme-yontemleri?id=-hediye-kartları-amp-Ön-Ödemeli-kartlar" target="_blank" style="color: inherit; text-decoration: none;">Hediye Kartları & Ön Ödemeli Kartlar</a>
         </div>
     </div>
 </div>

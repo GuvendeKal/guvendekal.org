@@ -53,19 +53,18 @@
 - [<i class="fa-solid fa-file-signature"></i> Dosya Şifreleme](dosya-sifreleme.md)
 - [<i class="fa-solid fa-file-export"></i> Dosya Dönüştürme](dosya-donusturme.md)
 
-**Finans**
-
-- [<i class="fa-brands fa-bitcoin"></i> Kripto Paralar](kripto-paralar.md)
-- [<i class="fas fa-wallet"></i> Kripto Cüzdanlar](kripto-cuzdanlari.md)
-- [<i class="fa-solid fa-coins"></i> Diğer Ödeme Yöntemleri](diger-odeme-yontemleri.md)
-
-
 **İşletim Sistemleri**
 
 - [<i class="fa-brands fa-linux"></i> İşletim Sistemleri](isletim-sistemleri.md)
 - [<i class="fa-brands fa-android"></i> Android Güvenliği](android-guvenligi.md)
 - [<i class="fa-brands fa-windows"></i> Windows Güvenliği](windows-guvenligi.md)
 
+**Finans**
+
+- [<i class="fa-brands fa-bitcoin"></i> Kripto Paralar](kripto-paralar.md)
+- [<i class="fas fa-wallet"></i> Kripto Cüzdanlar](kripto-cuzdanlari.md)
+- [<i class="fa-solid fa-coins"></i> Diğer Ödeme Yöntemleri](diger-odeme-yontemleri.md)
+- 
 **Diğerleri**
 
 - [<i class="fa-solid fa-circle-nodes"></i> Alternatif Ağlar](alternatif-aglar.md)
