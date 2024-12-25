@@ -33,7 +33,7 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
     <img src="docs/images/librewolf.svg" alt="Logo">
     <div style="flex: 1;">
         <a href="https://guvendekal.org/#/internet-tarayicilari?id=-librewolf" class="title">Mahremiyet ve güvenlik odaklı: Librewolf</a>
-        <p class="description">Librewolf, kullanıcı mahremiyetini ve gizliliğini önemseyen en iyi tarayıcılardan biridir. Firefox'un, varsayılan ayarları en güvenli olacak şekilde ayarlanmıştır.</p>
+        <p class="description">Librewolf, kullanıcı mahremiyetini ve gizliliğini önemseyen en iyi tarayıcılardan biridir. Varsayılan Firefox ayarları en güvenli olacak şekilde ayarlanmıştır.</p>
         <div class="icon-group">
             <span><i class="fa-brands fa-windows"></i> Windows</span>
             <span><i class="fas fa-apple-alt"></i> Mac</span>
