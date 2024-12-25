@@ -207,7 +207,7 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
     </div>
 </div>
 
-## E-posta Servisler
+## E-posta Servisleri
 
 <div class="service-container">
     <div class="service-box">
@@ -582,7 +582,7 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
     <div class="service-box">
         <img src="docs/images/tails.png" alt="icon">
         <div class="title">
-            <a href="http://guvendekal.org/#/isletim-sistemleri?id=-tailsos" target="_blank" style="color: inherit; text-decoration: none;">Tails OS</a>
+            <a href="http://guvendekal.org/#/isletim-sistemleri?id=-tails" target="_blank" style="color: inherit; text-decoration: none;">Tails</a>
         </div>
     </div>
     <div class="service-box">
@@ -668,7 +668,7 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
 
 ## Atıf ve Hukuksal Bilgiler
 
-guvendekal.org tarafından önerilen hiç bir uygulamanın guvendekal.org ile bağlantısı yoktur. guvendekal.org bu önermelerin sorumluluğunu almaz, herhangi bir çıkar yada kâr gözetmez. guvendekal.org tarafından kullanılan logo, marka isimleri ve tescilli isimler tamamen tanıtım amaçlı kullanılmaktadır.
+guvendekal.org tarafından önerilen hiçbir uygulama, doğrudan guvendekal.org ile ilişkilendirilmemektedir. guvendekal.org, yapılan önerilerle ilgili herhangi bir sorumluluk üstlenmez ve bu önerilerden herhangi bir çıkar veya kâr elde etmez. guvendekal.org tarafından kullanılan logo, marka isimleri ve tescilli isimler tamamen öneri amaçlı olarak kullanılmaktadır.
 
 - guvendekal.org sitesinin alt yapısı [**Docsify**](https://docsify.js.org/#/) ile oluşturulmuştur. (**MIT**)
 - guvendekal.org sitesinde kullanılan ikonlar, [**Font Awesome**](https://fontawesome.com/) kütüphanesinden çekilmektedir. (**CC BY**)

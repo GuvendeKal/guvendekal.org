@@ -9,7 +9,7 @@
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/osm.png" alt="openstreetmap" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> OpenStreetMap
 
-[**OpenStreetMap**](https://www.openstreetmap.org/), kullanıcılar tarafından oluşturulan, ücretsiz ve açık kaynaklı bir harita projesidir. OSM, dünya çapındaki coğrafi bilgileri toplayarak, harita verilerini herkese açık hale getiren bir platformdur. Kullanıcılar, harita verilerini ücretsiz olarak kullanabilir, düzenleyebilir ve paylaşabilirler. OSM'nin temel amacı, kullanıcıların harita verilerini özgürce erişebilmesi ve paylaşabilmesidir.
+[**OpenStreetMap**](https://www.openstreetmap.org/), kullanıcılar tarafından oluşturulan, ücretsiz ve açık kaynaklı bir harita projesidir. OSM, dünya çapındaki coğrafi bilgileri toplayarak, harita verilerini herkese açık hale getiren bir platformdur. Kullanıcılar, harita verilerini ücretsiz olarak kullanabilir, düzenleyebilir ve paylaşabilirler. OSM'nin temel amacı, kullanıcıların harita verilerine özgürce erişebilmesi ve paylaşabilmesidir.
 
 - [Açık kaynak depo(lar)](https://github.com/openstreetmap)
 - [Gizlilik politikası](https://osmfoundation.org/wiki/Privacy_Policy)
