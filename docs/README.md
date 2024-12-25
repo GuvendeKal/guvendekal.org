@@ -33,7 +33,7 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
     <img src="docs/images/librewolf.svg" alt="Logo">
     <div style="flex: 1;">
         <a href="https://guvendekal.org/#/internet-tarayicilari?id=-librewolf" class="title">Mahremiyet ve güvenlik odaklı: Librewolf</a>
-        <p class="description">Librewolf, kullanıcı mahremiyetini ve gizliliğini önemseyen en iyi tarayıcılardan biridir. Firefox'un varsayılan ayarlarının en güvenli olacak şekilde ayarlanmıştır.</p>
+        <p class="description">Librewolf, kullanıcı mahremiyetini ve gizliliğini önemseyen en iyi tarayıcılardan biridir. Firefox'un, varsayılan ayarları en güvenli olacak şekilde ayarlanmıştır.</p>
         <div class="icon-group">
             <span><i class="fa-brands fa-windows"></i> Windows</span>
             <span><i class="fas fa-apple-alt"></i> Mac</span>
@@ -73,7 +73,7 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
     <img src="docs/images/protonvpn-icon.png" alt="Logo">
     <div style="flex: 1;">
         <a href="https://guvendekal.org/#/vpn?id=proton-vpn" class="title">Sıfır kayıt tutma politikası olan VPN: Proton VPN</a>
-        <p class="description">Proton VPN, açık kaynaklı bir VPN servisidir. Sıfır kayıt tutma politikası ile üst düzey gizli ve güvenli bir internet deneyimi sağlar. Ücretli ve ücretsiz sürümleri mevcuttur.</p>
+        <p class="description">Proton VPN, açık kaynaklı bir VPN servisidir. Sıfır kayıt tutma politikası ile üst düzey gizlilik ve daha güvenli bir internet deneyimi sağlar. Ücretli ve ücretsiz sürümleri mevcuttur.</p>
         <div class="icon-group">
             <span><i class="fa-solid fa-globe"></i> Web</span>
             <span><i class="fa-brands fa-windows"></i> Windows</span>
@@ -122,6 +122,7 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
         <a href="https://guvendekal.org/#/guvenlik-uygulamalari?id=-ente-auth" class="title">Güvenli ve kullanıcı dostu kimlik doğrulama: Ente Auth</a>
         <p class="description">Ente Auth, güçlü güvenlik özellikleri ve kullanıcı dostu tasarımıyla iki faktörlü kimlik doğrulama (2FA) sağlayan modern bir uygulamadır. Gizliliği ön planda tutar ve güvenli girişler için ideal bir çözümdür.</p>
         <div class="icon-group">
+            <span><i class="fa-solid fa-globe"></i> Web</span>
             <span><i class="fa-brands fa-windows"></i> Windows</span>
             <span><i class="fas fa-apple-alt"></i> Mac</span>
             <span><i class="fa-brands fa-linux"></i> Linux</span>
