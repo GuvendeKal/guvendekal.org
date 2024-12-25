@@ -12,7 +12,7 @@ E-posta istemcileri, kullanıcıların e-posta göndermelerini, almalarını ve 
 | Posta Servisi | Kayıt Tutma | Açık Kaynak | Şifreleme | Platformlar |
 | --- | :---: | :---: | :---: | :---: |
 | <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/thunderbird-icon.png" alt="Thunderbird" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Thunderbird | × | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> |
-| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/k9.png" alt="K9" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> K-9 Mail | × | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> <i class="fa-brands fa-android"></i> |
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/k9.png" alt="K9" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> K-9 Mail | × | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | <i class="fa-brands fa-android"></i> |
 
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/thunderbird-icon.png" alt="thunderbird" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Thunderbird
