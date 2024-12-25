@@ -25,9 +25,7 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
 
 - İçeriklerin denetimini yapmakla sorumlu olan yetkililer içeriklerin kullanıcı yararına olmasını sağlamak, adil ve özgür bir bakış açısı ile yazıldığından emin olmaktadır.
 
-?> Güvende Kal içinde bulunan yazılar **[Creative Commons Zero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/)** lisansına sahiptir.
-
-# Önerilen Uygulamalar
+# Uygulamalar
 
 <div class="custom-box">
     <img src="docs/images/librewolf.svg" alt="Logo">
@@ -668,8 +666,12 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
 
 ## Atıf ve Hukuksal Bilgiler
 
-guvendekal.org tarafından önerilen hiçbir uygulama, doğrudan guvendekal.org ile ilişkilendirilmemektedir. guvendekal.org, yapılan önerilerle ilgili herhangi bir sorumluluk üstlenmez ve bu önerilerden herhangi bir çıkar veya kâr elde etmez. guvendekal.org tarafından kullanılan logo, marka isimleri ve tescilli isimler tamamen öneri amaçlı olarak kullanılmaktadır.
+guvendekal.org üzerinde kullanılan logolar, marka isimleri ve tescilli isimler yalnızca tanıtım amaçlı olarak yer almaktadır. Bu unsurların kullanımı, herhangi bir ticari bağ anlamına gelmemektedir.
+
+guvendekal.org, tanıtılan uygulamalar veya hizmetlerin kullanımıyla ilgili herhangi bir sorumluluk kabul etmemektedir. Yapılan tanıtımlar tamamen bilgilendirme amaçlıdır ve bu tanıtımlardan maddi veya manevi bir kazanç sağlanmamaktadır.
 
 - guvendekal.org sitesinin alt yapısı [**Docsify**](https://docsify.js.org/#/) ile oluşturulmuştur. (**MIT**)
 - guvendekal.org sitesinde kullanılan ikonlar, [**Font Awesome**](https://fontawesome.com/) kütüphanesinden çekilmektedir. (**CC BY**)
 - guvendekal.org sitesinde kullanılan yazı tipi [**Inter**](https://rsms.me/inter/) yazı tipi ailesidir. (**OFL**)
+  
+?> Güvende Kal içinde bulunan yazılar **[Creative Commons Zero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/)** lisansına sahiptir.
