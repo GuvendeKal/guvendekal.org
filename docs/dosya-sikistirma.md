@@ -20,6 +20,8 @@ Dosya sıkıştırma, **kayıplı** veya **kayıpsız** yöntemlerle gerçekleş
 | --- | :---: | :---: | :---: | :---: | :---: |
 | <span style="display: inline-block; vertical-align: middle;"><img src="/docs/images/7zip.png" alt="7z" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> 7-Zip </span> | <span style="color: green;">✓</span> | <span style="display: inline-block; vertical-align: middle;"> LZMA, LZMA2, BZip2, PPMD </span> | <span style="display: inline-block; vertical-align: middle;"> AES-256 </span> | <span style="display: inline-block; vertical-align: middle;"> 7Z, ZIP, GZIP, BZIP2, RAR, TAR, XZ, WIM </span> | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-freebsd"></i> |
 | <span style="display: inline-block; vertical-align: middle;"><img src="/docs/images/peazip.png" alt="peazip" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> PeaZip </span> | <span style="color: green;">✓</span> | <span style="display: inline-block; vertical-align: middle;"> LZMA, BZip2, PPMD, Deflate, Zstd </span> | <span style="display: inline-block; vertical-align: middle;"> AES-256, Serpent, Twofish </span> | <span style="display: inline-block; vertical-align: middle;"> 7Z, ZIP, GZIP, BZIP2, RAR, TAR, XZ, WIM, PEA, ARJ, RPM, DEB, Z </span> | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-freebsd"></i> |
+| <span style="display: inline-block; vertical-align: middle;"><img src="/docs/images/freearc.png" alt="freearc" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> FreeArc </span> | <span style="color: green;">✓</span> | <span style="display: inline-block; vertical-align: middle;"> LZMA, PPMD, BWT, Multimedia </span> | <span style="display: inline-block; vertical-align: middle;"> AES-256, Serpent, Twofish, Blowfish </span> | <span style="display: inline-block; vertical-align: middle;"> ARC, 7Z, ZIP, GZIP, BZIP2, RAR, TAR, XZ </span> | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-linux"></i> |
+| <span style="display: inline-block; vertical-align: middle;"><img src="/docs/images/gzip.png" alt="gzip" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> GNU Gzip </span> | <span style="color: green;">✓</span> | <span style="display: inline-block; vertical-align: middle;"> LZ77, Huffman, Deflate </span> |<span style="color: red;">×</span> | <span style="display: inline-block; vertical-align: middle;"> GZ, TGZ </span> | <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-freebsd"></i> |
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/7zip.png" alt="7z" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> 7-Zip
 
@@ -38,3 +40,19 @@ PeaZip açık kaynaklı özgür bir yazılımdır. [LGPLv3](http://www.gnu.org/)
 
 - [Açık kaynak depo](https://github.com/peazip/PeaZip)
 - [Gizlilik politikası](https://peazip.github.io/peazip-tos-privacy.html)
+
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/freearc.png" alt="freearc" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> FreeArc
+
+**[FreeArc](https://sourceforge.net/projects/freearc)**, ücretsiz ve açık kaynaklı yüksek performanslı bir dosya arşivleyicidir. Genellikle geniş bir yelpazede dosya sıkıştırma ve arşivleme işlemleri gerçekleştirmek için kullanılmaktadır. FreeArc, otomatik  LZMA/PPMD/Multimedya sıkıştırma, 1GB sözlük, exe/dict/delta veri filtreleri, güncellenebilir katı arşivler, SFX'ler, kurtarma kaydı, AES, Twofish, Serpent şifreleme ve Linux desteği de dahil olmak üzere en iyi 7-zip ve RAR özelliklerini bir araya getirir.
+
+FreeArc açık kaynaklı özgür bir yazılımdır ve [GNU LGPL](http://www.gnu.org/) lisansı altında yayımlanmaktadır. Program genel olarak, yüksek sıkıştırma oranları, güçlü şifreleme algoritmaları ve esnek kullanım imkanı sunar.
+
+- [Açık kaynak depo](https://sourceforge.net/projects/freearc/)
+
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/gzip.png" alt="gzip" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> GNU Gzip
+
+**[GNU Gzip](https://www.gzip.org/)**, dosya sıkıştırma ve açma için kullanılan bir arşiv yazılımıdır. Gzip, dosya boyutlarını küçülterek depolama ve veri transferini daha verimli hale getirir. Özellikle Linux/Unix tabanlı sistemlerde yaygın olarak kullanılır. Gzip ile sıkıştırılan dosyalar genellikle .gz uzantısına sahiptir. Sıkıştırma işlemi sırasında dosyanın sahibi, erişim modu ve değiştirme zamanı gibi meta veriler korunur. Bu durum, sıkıştırılmış dosyanın orijinal dosya ile aynı özelliklere sahip olmasını sağlar. Gzip, büyük dosyaların daha küçük boyutlarda saklanmasını, veri transferi sırasında dosya boyutlarını küçülterek daha hızlı ve verimli transferler yapılmasını sağlar ve bu sayede depolama alanından ve bant genişliğinden tasarruf edilir. Özellikle büyük veri setlerinin sıkıştırılarak daha az yer kaplamasına yardımcı olur.
+
+Gzip açık kaynaklı özgür bir yazılımdır ve [GNU Genel Kamu Lisansı (GPL)](https://www.gnu.org/licenses/gpl-3.0.en.html) lisansı altında yayımlanmaktadır. Program genel olarak, yüksek sıkıştırma oranları, güçlü şifreleme algoritmaları ve esnek kullanım imkanı sunar.
+
+- [Açık kaynak depo](https://savannah.gnu.org/git/?group=gzip)
