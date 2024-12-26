@@ -40,6 +40,7 @@ Güvende Kal projesinin devamlılığı ve sürekliliği, topluluğun katkısın
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/denisz0"><img src="https://avatars.githubusercontent.com/u/177147630?v=4?s=100" width="100px;" alt="denisz0"/><br /><sub><b>denisz0</b></sub></a><br /><a href="https://github.com/GuvendeKal/guvendekal.org/commits?author=denisz0" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/furkancamyar"><img src="https://avatars.githubusercontent.com/u/101810762?v=4?s=100" width="100px;" alt="Furkan Çamyar"/><br /><sub><b>Furkan Çamyar</b></sub></a><br /><a href="https://github.com/GuvendeKal/guvendekal.org/commits?author=furkancamyar" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/DarkIsTaken"><img src="https://avatars.githubusercontent.com/u/71845088?v=4?s=100" width="100px;" alt="DarkIsTaken"/><br /><sub><b>Dark</b></sub></a><br /><a href="https://github.com/GuvendeKal/guvendekal.org/commits?author=darkistaken" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
