@@ -55,7 +55,7 @@ Notesnook, şifreli not senkronizasyonu, uygulama kilidi özelliği, Monographs 
 
 Joplin ile notlarınızı arayabilir, doğrudan uygulamadan veya tercih ettiğiniz metin düzenleyiciden kopyalayabilir, etiketleyebilir ve düzenleyebilirsiniz. Ayrıca [Web Clipper](https://joplinapp.org/help/apps/clipper/) eklentisiyle web sayfalarını kaydedebilir veya ekran görüntülerini doğrudan notlarınıza ekleyebilirsiniz.
 
-Herhangi bulut servisine bağımlı olan ve tüm özelliklere erişmek için ücretli bir abonelik gerektiren gerektiren araçların aksine Joplin, verilerinizi yerel olarak saklar. İnternet bağlantısına gerek kalmadan notlarınızı düzenleyebilir ve dilediğiniz zaman erişebilirsiniz. Ayrıca, [Joplin Cloud](https://joplinapp.org/plans/) ile uçtan uca şifreleme (EE2E) kullanarak notlarınızı güvenli bir şekilde senkronize edebilir, paylaşabilir, üzerinde ortak çalışmalar yapabilir ve internette yayınlayarak bir URL aracılığıyla başkalarına sunabilirsiniz.
+Herhangi bulut servisine bağımlı olan ve tüm özelliklere erişmek için ücretli bir abonelik gerektiren araçların aksine Joplin, verilerinizi yerel olarak saklar. İnternet bağlantısına gerek kalmadan notlarınızı düzenleyebilir ve dilediğiniz zaman erişebilirsiniz. Ayrıca, [Joplin Cloud](https://joplinapp.org/plans/) ile uçtan uca şifreleme (EE2E) kullanarak notlarınızı güvenli bir şekilde senkronize edebilir, paylaşabilir, üzerinde ortak çalışmalar yapabilir ve internette yayınlayarak bir URL aracılığıyla başkalarına sunabilirsiniz.
 
 - [Açık kaynak depo](https://github.com/laurent22/joplin/)
 - [Gizlilik politikası](https://joplinapp.org/privacy/)
