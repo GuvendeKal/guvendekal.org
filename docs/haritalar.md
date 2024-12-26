@@ -5,11 +5,14 @@
 
 # Haritalar
 
-> Eklenecek
+**Dijital haritalar**, coğrafi bilgilerin dijital ortamda sunulmasıdır. Bu haritalar, geleneksel kağıt haritalara kıyasla daha etkileşimli ve güncellenebilir olma özelliklerine sahiptir. Dijital haritalar, genellikle bilgisayarlar, akıllı telefonlar ve diğer dijital cihazlar üzerinde görüntülenir ve kullanıcıların harita üzerinde gezinmelerine, belirli yerleri aramalarına ve çeşitli analizler yapmalarına olanak tanır.
 
-## Önerilenler Tablosu
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/osm.png" alt="openstreetmap" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> OpenStreetMap
 
-> Eklenecek
+[**OpenStreetMap**](https://www.openstreetmap.org/), kullanıcılar tarafından oluşturulan, ücretsiz ve açık kaynaklı bir harita projesidir. OSM, dünya çapındaki coğrafi bilgileri toplayarak, harita verilerini herkese açık hale getiren bir platformdur. Kullanıcılar, harita verilerini ücretsiz olarak kullanabilir, düzenleyebilir ve paylaşabilirler. OSM'nin temel amacı, kullanıcıların harita verilerine özgürce erişebilmesi ve paylaşabilmesidir.
+
+- [Açık kaynak depo(lar)](https://github.com/openstreetmap)
+- [Gizlilik politikası](https://osmfoundation.org/wiki/Privacy_Policy)
 
 <!-- Yetersiz içerik dolayısıyla not içine alındı.
 
