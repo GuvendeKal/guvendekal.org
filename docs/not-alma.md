@@ -13,10 +13,10 @@
 
 ## Önerilenler Tablosu
 
-| Uygulama | Açık Kaynak | Lisans | Lokal/Bulut | Platform Desteği |
+| Uygulama | Açık Kaynak | Lisans | Yerel/Bulut | Platform Desteği |
 |----------|:-----------:|:------:|:-----------:|:----------------:|
-| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/anytype.png" alt="Anytype" style="width: 30px; height: 30px; border-radius: 10px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Anytype </span> | <span style="color: green;">✓</span> | Özel Lisans | Lokal | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i>  |
-| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/logseq-icon.png" alt="logseq" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Logseq </span> | <span style="color: green;">✓</span> | AGPL-3.0 | Lokal | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> |
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/anytype.png" alt="Anytype" style="width: 30px; height: 30px; border-radius: 10px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Anytype </span> | <span style="color: green;">✓</span> | Özel Lisans | Yerel | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i>  |
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/logseq-icon.png" alt="logseq" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Logseq </span> | <span style="color: green;">✓</span> | AGPL-3.0 | Yerel | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> |
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/anytype.png" alt="Anytype" style="width: 50px; height: 50px; border-radius: 10px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Anytype
 
