@@ -6,7 +6,7 @@
 
 # Dosya Sıkıştırma
 
-**Dosya sıkıştırma**, dijital dosyaların boyutunu azaltmak için kullanılan bir tekniktir. Bu işlem, bir veya birden fazla dosyanın kapladığı alanı daha küçük bir boyuta indirir. Dosya sıkıştırma, dosyaların daha az depolama alanı kaplamasını ve daha hızlı transfer edilmesini sağlar. Sıkıştırma, genel olarak verilerin tekrar eden veya gereksiz parçalarını kaldırarak veya veri yapısını optimize ederek yapılır. Bu işlem genellikle **ZIP**, **GZIP**, **RAR**, **7Z** gibi formatlar tercih edilerek gerçekleştirilir.
+**Dosya sıkıştırma**, dijital dosyaların boyutunu azaltmak için kullanılan bir tekniktir. Bu işlem, bir veya birden fazla dosyanın kapladığı alanı daha küçük bir boyuta indirir. Dosya sıkıştırma, dosyaların daha az depolama alanı kaplamasını sağlar. Sıkıştırma, genel olarak verilerin tekrar eden veya gereksiz parçalarını kaldırarak veya veri yapısını optimize ederek yapılır. Bu işlem genellikle **ZIP**, **GZIP**, **RAR**, **7Z** gibi formatlar tercih edilerek gerçekleştirilir.
 
 Dosya sıkıştırma, **kayıplı** veya **kayıpsız** yöntemlerle gerçekleştirilebilir. 
 
