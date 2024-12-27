@@ -225,6 +225,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "DarkIsTaken",
+      "name": "Dark",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71845088?v=4",
+      "profile": "http://noctus.dev",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
