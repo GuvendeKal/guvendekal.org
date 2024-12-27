@@ -37,9 +37,7 @@ Aegis Authenticator'ın özellikleri arasında biyometrik kilit açma desteği, 
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/freeotp.svg" alt="FreeOTP" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> FreeOTP
 
-**[FreOTP](https://freeotp.github.io/)**, tek seferlik şifre protokollerini kullanan sistemler için süre bazlı tek kullanımlık şifre üreten açık kaynaklı ve sade bir iki faktörlü kimlik doğrulama uygulamasıdır. FreeOTP, [HOTP](https://www.ietf.org/rfc/rfc4226.txt) ve [TOTP](https://www.ietf.org/rfc/rfc6238.txt) açık standartlarını uygular, bu sebeple özel bir sunucu tarafı bileşenine gereksinimi bulumamaktadır. Mobil platform desteği sunan FreeOTP, [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) lisansı altında yayımlanmaktadır.
-
-FreeOTP'nin ekstra özellikleri arasında, QR kod oluşturma ve not ekleme bulunmaktadır.
+**[FreOTP](https://freeotp.github.io/)**, tek seferlik şifre protokollerini kullanan sistemler için süre bazlı tek kullanımlık şifre üreten açık kaynaklı ve sade bir iki faktörlü kimlik doğrulama uygulamasıdır. FreeOTP, [HOTP](https://www.ietf.org/rfc/rfc4226.txt) ve [TOTP](https://www.ietf.org/rfc/rfc6238.txt) açık standartlarını uygular, bu sebeple özel bir sunucu tarafı bileşenine gereksinimi bulumamaktadır. Mobil platform desteği sunan FreeOTP, Apache 2.0 lisansı kapsamında yayımlanmaktadır. FreeOTP'nin ekstra özellikleri arasında, QR kod oluşturma ve not ekleme bulunmaktadır.
 
 - [Açık kaynak depo](https://github.com/freeotp)
 - [Gizlilik politikası](https://freeotp.github.io/privacy.html)
