@@ -47,6 +47,8 @@ PeaZip açık kaynaklı özgür bir yazılımdır. [LGPLv3](http://www.gnu.org/)
 
 FreeArc açık kaynaklı özgür bir yazılımdır ve [GNU LGPL](http://www.gnu.org/) lisansı altında yayımlanmaktadır. Program genel olarak, yüksek sıkıştırma oranları, güçlü şifreleme algoritmaları ve esnek kullanım imkanı sunar.
 
+!> FreeArc, 2013 yılından itibaren geliştirilmeye devam edilmemektedir. Bu nedenle, yazılımın güvenlik ve performans güncellemeleri almadığını göz önünde bulundurarak dikkatli kullanmanız önerilir.
+
 - [Açık kaynak depo](https://sourceforge.net/projects/freearc/)
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/gzip.png" alt="gzip" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> GNU Gzip
