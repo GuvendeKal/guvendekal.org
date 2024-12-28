@@ -12,7 +12,7 @@
 
 | Uygulama | Açık Kaynak | Kayıt Tutma |  Şifreleme | Çalışma Şekli | Fiyat | Platformlar |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: |
-| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/localsend.png" alt="LocalSend" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> LocalSend | <span style="color: green;">✓</span> | <span style="color: green;">×</span> | <span style="color: green;">✓</span> | Local | Ücretsiz | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> |
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/localsend.png" alt="LocalSend" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> LocalSend | <span style="color: green;">✓</span> | <span style="color: green;">×</span> | <span style="color: green;">✓</span> | Yerel | Ücretsiz | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> |
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/localsend.png" alt="localsend" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> LocalSend
 

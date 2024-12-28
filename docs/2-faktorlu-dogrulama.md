@@ -15,6 +15,7 @@ Günümüzde güvenlik amacıyla sıkça kullanılan 2 faktörlü doğrulama sis
 | --- | :---: | :---: | :---: | :---: |
 | <span style="display: inline-block; vertical-align: middle;"><img src="/docs/images/enteauth.png" alt="Ente Auth" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Ente Auth </span> | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | Ücretsiz | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> |
 | <span style="display: inline-block; vertical-align: middle;"><img src="/docs/images/aegis.png" alt="Aegis" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Aegis Authenticator </span> | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | Ücretsiz | <i class="fa-brands fa-android"></i> |
+| <span style="display: inline-block; vertical-align: middle;"><img src="/docs/images/freeotp.svg" alt="FreeOTP" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> FreeOTP </span> | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | Ücretsiz | <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> |
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/enteauth.png" alt="Ente" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> Ente Auth
 
@@ -33,3 +34,10 @@ Aegis Authenticator'ın özellikleri arasında biyometrik kilit açma desteği, 
 
 - [Açık kaynak depo](https://github.com/beemdevelopment/Aegis)
 - [Gizlilik politikası](https://getaegis.app/privacy/)
+
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/freeotp.svg" alt="FreeOTP" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> FreeOTP
+
+**[FreOTP](https://freeotp.github.io/)**, tek seferlik şifre protokollerini kullanan sistemler için süre bazlı tek kullanımlık şifre üreten açık kaynaklı ve sade bir iki faktörlü kimlik doğrulama uygulamasıdır. FreeOTP, [HOTP](https://www.ietf.org/rfc/rfc4226.txt) ve [TOTP](https://www.ietf.org/rfc/rfc6238.txt) açık standartlarını uygular, bu sebeple özel bir sunucu tarafı bileşenine gereksinimi bulumamaktadır. Mobil platform desteği sunan FreeOTP, Apache 2.0 lisansı kapsamında yayımlanmaktadır. FreeOTP'nin ekstra özellikleri arasında, QR kod oluşturma ve not ekleme bulunmaktadır.
+
+- [Açık kaynak depo](https://github.com/freeotp)
+- [Gizlilik politikası](https://freeotp.github.io/privacy.html)

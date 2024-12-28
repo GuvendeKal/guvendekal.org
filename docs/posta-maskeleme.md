@@ -17,8 +17,9 @@ E-posta maskeleme neden önemlidir? Çünkü ifşa olan bir e-posta adresiyle si
 | <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/addyio-logo.png" alt="Addyio" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Addy.io | <span style="color: green;">x</span> | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | Ücretsiz* | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-android"></i> |
 | <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/simplelogin-logo.png" alt="Simplelogin" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> SimpleLogin | <span style="color: green;">x</span> | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | Ücretsiz* | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-android"></i>  |
 | <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/duckduckgo-icon.png" alt="Duck Addresses" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Duck Addresses | <span style="color: green;">x</span> | <span style="color: red;">x</span> | ? | Ücretsiz* | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-android"></i>  |
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/firefox-relay-icon.png" alt="Firefox Relay" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Firefox Relay | <span style="color: green;">x</span> | <span style="color: green;">✓</span> | ? | Ücretsiz* | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-android"></i>  |
 
-### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/addyio-logo.png" alt="uBlock Origin" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> Addy.io
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/addyio-logo.png" alt="Addyio" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> Addy.io
 
 [**Addy.io**](https://addy.io/), mahremiyet ve güvenliği ön planda tutarak, kullanıcıların e-posta adreslerini korumalarını sağlayan bir hizmettir. Kullanıcılar, addy.io üzerinden farklı e-posta adresleri oluşturabilirler. Bu adresler, kişisel e-posta adreslerini gizlemek ve çevrimiçi aktivitelerde güvenliği artırmak amacıyla kullanılır. 
 
@@ -27,7 +28,7 @@ Addy.io, tek kullanımlık e-posta adresleri sağlayarak, kullanıcıların kayd
 - [Açık kaynak depo](https://github.com/anonaddy/anonaddy)
 - [Gizlilik politikası](https://addy.io/privacy/)
 
-### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/simplelogin-logo.png" alt="uBlock Origin" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> SimpleLogin
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/simplelogin-logo.png" alt="SimpleLogin" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> SimpleLogin
 
 [**SimpleLogin**](https://simplelogin.io/), Proton AG firmasına bağlı bir e-posta maskeleme servisidir. Çevrim içi hizmetlerde kişisel e-posta adreslerini gizleyerek, spam ve izlenmeyi engellemeyi amaçlar. Kullanıcılar gerçek e-posta adreslerini paylaşmadan, basit bir "takma" e-posta adresi oluşturabilirler. 
 
@@ -36,11 +37,18 @@ Bu takma e-posta adresleri aracılığıyla gelen iletiler, kullanıcının ger�
 - [Açık kaynak depo](https://github.com/simple-login/app)
 - [Gizlilik politikası](https://simplelogin.io/privacy/)
 
-### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/duckduckgo-icon.png" alt="uBlock Origin" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> Duck Adresses
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/duckduckgo-icon.png" alt="Duck Adresses" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> Duck Adresses
 
 [**DuckDuckGo Mail Protection**](https://duckduckgo.com/email/), DuckDuckGo tarafından 2022 yılında çıkartılan, kullanıcıların güvenliğini amaçlayan bir servistir. Kullanıcıların kişisel e-posta servislerini korumak için maskeleme yapan servis, kullanıcılara @duck.com uzantısı sağlamaktadır. Bunun yanında kullanıcılara tek kullanımlık sınırsız rastgele e-posta adresleride sağlamaktadır.
 
 - [Gizlilik politikası](https://duckduckgo.com/privacy)
 
 
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/firefox-relay-icon.png" alt="Firefox Relay" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> Firefox Relay
 
+[**Firefox Relay**](https://relay.firefox.com/), Mozilla tarafından geliştirilen bir telefon numarası ve e-posta maskeleme servisidir. [Firefox](https://guvendekal.org/#/internet-tarayicilari?id=-mozilla-firefox) tabanlı tarayıcılarda yerleşik olarak bulunur, ayrıca bütün tarayıcı motorlarını destekleyen tarayıcı uzantıları ve mobil uygulaması da mevcuttur. Firefox Relay, kullanıcılara gerçek e-posta adreslerini paylaşmadan ana e-posta adreslerine yönlendirilen takma e-posta adresleri oluşturmalarına olanak sağlar. Özel alan adı ile takma e-posta oluşturmayı destekler, e-posta takip kodlarını ve reklam e-postalarını engeller ve belirli sürümleri için bir telefon numarası maskeleme hizmeti de sunar.
+
+Bu takma e-posta adresleri aracılığıyla gelen iletiler, kullanıcının gerçek e-posta adresine yönlendirilir. Firefox Relay ücretsiz versiyonunda yalnızca 5 farklı e-posta oluşturmaya izin verirken ücretli sürümlerinde sınırsız e-posta adresi oluşturmanın yanı sıra; SMS ve e-postaları anonim olarak yanıtlama, reklam e-postalarını engelleme ve kullanıcıların gerçek telefon numaralarını maskelemeye yarayan özellikleri de barındırır.
+
+- [Açık kaynak depo](https://github.com/mozilla/fx-private-relay)
+- [Gizlilik politikası](https://www.mozilla.org/privacy/firefox-relay/)
