@@ -562,6 +562,12 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
             <a href="http://guvendekal.org/#/qr-kod-araclari?id=-fliso" target="_blank" style="color: inherit; text-decoration: none;">Fli.so</a>
         </div>
     </div>
+    <div class="service-box">
+        <img src="docs/images/dubco-icon.png" alt="icon">
+        <div class="title">
+            <a href="http://guvendekal.org/#/qr-kod-araclari?id=-dubco" target="_blank" style="color: inherit; text-decoration: none;">Dub.co</a>
+        </div>
+    </div>
 </div>
 
 ## Dosya Aktarım Uygulamaları
