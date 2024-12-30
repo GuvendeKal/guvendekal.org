@@ -534,6 +534,12 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
             <a href="http://guvendekal.org/#/indirme-yoneticileri?id=-file-centipede" target="_blank" style="color: inherit; text-decoration: none;">File Centipede</a>
         </div>
     </div>
+    <div class="service-box">
+        <img src="docs/images/ab-download-manager-icon.png" alt="icon">
+        <div class="title">
+            <a href="http://guvendekal.org/#/indirme-yoneticileri?id=-ab-download-manager" target="_blank" style="color: inherit; text-decoration: none;">AB Download Manager</a>
+        </div>
+    </div>
 </div>
 
 ## Yazılım Kaldırma Araçları
