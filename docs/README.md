@@ -483,6 +483,12 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
             <a href="http://guvendekal.org/#/haritalar?id=-openstreetmap" target="_blank" style="color: inherit; text-decoration: none;">OpenStreetMap</a>
         </div>
     </div>
+    <div class="service-box">
+        <img src="docs/images/osmand-icon.png" alt="icon">
+        <div class="title">
+            <a href="http://guvendekal.org/#/haritalar?id=-osmand" target="_blank" style="color: inherit; text-decoration: none;">OsmAnd</a>
+        </div>
+    </div>
 </div>
 
 ## RSS İstemcileri
