@@ -14,6 +14,13 @@
 - [Açık kaynak depo(lar)](https://github.com/openstreetmap)
 - [Gizlilik politikası](https://osmfoundation.org/wiki/Privacy_Policy)
 
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/osmand-icon.png" alt="osmand" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> OsmAnd
+
+[**OsmAnd**](https://osmand.net/), OpenStreetMap verilerini kullanan, açık kaynaklı bir harita ve navigasyon uygulamasıdır. Çevrimdışı haritalar ve navigasyon sunarak internet bağlantısına ihtiyaç duymadan harita verilerine erişim sağlar. Araç, bisiklet ve yaya modlarına göre özelleştirilmiş yönlendirmeler sunar. Temel amacı, kullanıcıların OSM verilerini kullanarak çevrimdışı haritalara erişebilmesini, navigasyon yapabilmesini ve harita verilerini özelleştirebilmesini sağlamaktır.
+
+- [Açık kaynak depo(lar)](https://github.com/osmandapp/)
+- [Gizlilik politikası](https://osmand.net/docs/legal/privacy-policy)
+
 <!-- Yetersiz içerik dolayısıyla not içine alındı.
 
 <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/organicmaps.png" alt="Organic Maps" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Organic Maps

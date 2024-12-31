@@ -16,13 +16,16 @@
 | İndirme Yöneticisi | Açık Kaynak | Reklam | Lisans Türü | Platform Desteği |
 |--------------------|:-----------:|:------:|:-----------:|:----------------:|
 | <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/filecentipede-icon.png" alt="filecentipede" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> File Centipede </span> | <span style="color: green;">✓</span> | <span style="color: red;">×</span> | Proprietary | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-linux"></i> |
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/ab-download-manager-icon.png" alt="abdownloadmanager" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> AB Download Manager </span> | <span style="color: green;">✓</span> | <span style="color: red;">×</span> | Apache-2.0 | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-linux"></i> |
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/filecentipede-icon.png" alt="filecentipede" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> File Centipede
 
-[**File Centipede**](https://filecxx.com/tr_TR/index.html), farklı protokolleri ve platformları destekleyen, güçlü bir indirme yöneticisidir. İster dosya, ister torrent, isterse internetten video indiriyor olun, tüm indirme ihtiyaçlarınızı hızlı ve etkili bir şekilde karşılamak için tasarlanmıştır.
-
-Basit ve kullanıcı dostu arayüzü, her seviyeden kullanıcının kolayca erişmesini sağlar. File Centipede, yüksek hız, protokol çeşitliliği, tarayıcı eklenti desteği ve gelişmiş işlevsellik sunan çok yönlü bir çözüm arayanlar için idealdir. Ayrıca birden fazla dil seçeneği sunan File Centipede, Türkçe dil desteği de sağlamaktadır.
-
-File Centipede, tamamen ücretsiz bir yazılımdır ve tüm temel işlevlerini aktivasyon kodu olmadan da sorunsuz bir şekilde kullanabilirsiniz. Ancak, bir aktivasyon kodu sistemi mevcuttur. Bu kod, resmi web sitesinden ücretsiz olarak alınabilir.
+[**File Centipede**](https://filecxx.com/tr_TR/index.html), farklı protokolleri destekleyen güçlü bir indirme yöneticisidir. Dosya, torrent, ses veya video indiriyor olun, tüm indirme ihtiyaçlarınızı hızlı bir şekilde karşılamak için tasarlanmıştır. Basit ve kullanıcı dostu arayüzü, yüksek hız, protokol çeşitliliği, tarayıcı eklenti desteği ve gelişmiş işlevsellik sunarak, çok yönlü bir çözüm arayanlar için ideal bir tercihtir. Ücretsiz bir yazılımdır; ancak, aktivasyon kodu sistemi mevcuttur ve [bu kod](https://filecxx.com/tr_TR/activation_code.html), resmi web sitesinden ücretsiz olarak alınabilir.
 
 - [Açık kaynak depo](https://github.com/filecxx/FileCentipede)
+
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/ab-download-manager-icon.png" alt="abdownloadmanager" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> AB Download Manager
+
+[**AB Download Manager**](https://abdownloadmanager.com/), indirme işlemlerini hızlandırmak ve kolayca yönetmek için tasarlanmış bir indirme yöneticisidir. Basit ve modern arayüzü sayesinde dosya indirme süreçlerini daha verimli hale getirir. Hızlı, ücretsiz ve tarayıcı uzantılarıyla entegre çalışarak pratik bir indirme deneyimi sağlar.
+
+- [Açık kaynak depo](https://github.com/amir1376/ab-download-manager)
