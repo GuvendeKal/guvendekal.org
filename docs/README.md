@@ -659,23 +659,6 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
     </div>
 </div> -->
 
-## Diğer Ödeme Yöntemleri
-
-<div class="service-container">
-    <div class="service-box">
-        <img src="docs/images/nakit.png" alt="icon">
-        <div class="title">
-            <a href="http://guvendekal.org/#/diger-odeme-yontemleri?id=-nakit-para" target="_blank" style="color: inherit; text-decoration: none;">Nakit Para</a>
-        </div>
-    </div>
-    <div class="service-box">
-        <img src="docs/images/kart.png" alt="icon">
-        <div class="title">
-            <a href="http://guvendekal.org/#/diger-odeme-yontemleri?id=-hediye-kartları-amp-Ön-Ödemeli-kartlar" target="_blank" style="color: inherit; text-decoration: none;">Hediye Kartları & Ön Ödemeli Kartlar</a>
-        </div>
-    </div>
-</div>
-
 ## Atıf ve Hukuksal Bilgiler
 
 guvendekal.org üzerinde kullanılan logolar, marka isimleri ve tescilli isimler yalnızca tanıtım amaçlı olarak yer almaktadır. Bu unsurların kullanımı, herhangi bir ticari bağ anlamına gelmemektedir.
