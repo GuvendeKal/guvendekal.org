@@ -63,8 +63,7 @@
 
 - [<i class="fa-brands fa-bitcoin"></i> Kripto Paralar](kripto-paralar.md)
 - [<i class="fas fa-wallet"></i> Kripto Cüzdanlar](kripto-cuzdanlari.md)
-- [<i class="fa-solid fa-coins"></i> Diğer Ödeme Yöntemleri](diger-odeme-yontemleri.md)
-- 
+
 **Diğerleri**
 
 - [<i class="fa-solid fa-circle-nodes"></i> Alternatif Ağlar](alternatif-aglar.md)
