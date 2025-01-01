@@ -49,3 +49,24 @@ uBlock Origin eklentisi [açık kaynaktır](https://github.com/gorhill/uBlock) v
  </div>
  </div>
 </div>
+
+### <span style="display: inline-block; vertical-align: middle;"><img src="https://sponsor.ajay.app/LogoSponsorBlock256px.png" alt="SponsorBlock" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> SponsorBlock
+
+**SponsorBlock**, YouTube videolarındaki sponsor bölümlerini atlamak için  tarayıcı uzantısı ve açık API'dir. Kullanıcılar uzantıdan bir sponsor olduğunda gönderim yapar ve uzantı, gizliliği koruyan bir sorgu sistemi kullanarak bildiği sponsorları otomatik olarak atlar. Ayrıca, girişler, çıkışlar ve abone olma hatırlatıcıları gibi diğer kategorileri atlamayı ve vurgulama ile noktaya atlamayı destekler. Sponsor Block eklentisi Chrome, Firefox, Edge, Safari, Opera, Android ve iOS için indirilebilir iken, 3. parti olarak da mpv, Kodi, belirli TV'ler, Android TV ve Chromecast'te kullanılabilmektedir.
+
+?>Sponsor Block [açık kaynaktır](https://github.com/ajayyy/SponsorBlock) ve GPL-3.0<span style="color: green;"><small>(Özgür Yazılım)</small></span> ile lisanslanmıştır. Kendilerinin [güvenlik politikası da](https://gist.github.com/ajayyy/aa9f8ded2b573d4f73a3ffa0ef74f796) bulunmaktadır.
+
+<div class="web-store-container">
+ <div class="web-store-box">
+ <i class="fab fa-firefox"></i>
+ <div class="title">
+ <a href="https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/" target="_blank" style="color: inherit; text-decoration: none;">Firefox Mağazası</a>
+ </div>
+ </div>
+ <div class="web-store-box">
+ <i class="fab fa-google"></i>
+ <div class="title">
+ <a href="https://chromewebstore.google.com/detail/youtube-i%C3%A7in-sponsorblock/mnjggcdmjocbbbhaepdhchncahnbgone" target="_blank" style="color: inherit; text-decoration: none;">Google Mağazası</a>
+ </div>
+ </div>
+</div>
