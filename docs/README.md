@@ -512,6 +512,12 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
             <a href="https://guvendekal.org/#/rss-istemcileri?id=-fluent-reader" target="_blank" style="color: inherit; text-decoration: none;">Fluent Reader</a>
         </div>
     </div>
+    <div class="service-box">
+        <img src="docs/images/thunderbird-icon.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/rss-istemcileri?id=-thunderbird" target="_blank" style="color: inherit; text-decoration: none;">Thunderbird</a>
+        </div>
+    </div>
 </div>
 
 ## Senkronizasyon
