@@ -25,6 +25,7 @@
 | <img src="docs/images/freshrss.png" alt="FreshRSS" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> FreshRSS </span> | <span style="color: green;">✓</span> | Bulut ve Self-host | Ücretsiz | <i class="fa-solid fa-globe"></i> |
 | <img src="docs/images/miniflux.png" alt="Miniflux" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> Miniflux </span> | <span style="color: green;">✓</span> | Bulut ve Self-host | Ücretsiz/Ücretli | <i class="fa-solid fa-globe"></i> |
 | <img src="docs/images/fluentreader.png" alt="Fluent Reader" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> Fluent Reader </span> | <span style="color: green;">✓</span> | Bulut ve Self-host | Ücretsiz | <i class="fa-solid fa-globe"></i> |
+| <img src="docs/images/thunderbird-icon.png" alt="Thunderbird" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> Thunderbird </span> | <span style="color: green;">✓</span> | Bulut ve Self-host | Ücretsiz | <i class="fa-solid fa-globe"></i> |
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/freshrss.png" alt="FreshRSS" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> FreshRSS
 
@@ -43,3 +44,9 @@
 [**Fluent Reader**](https://hyliu.me/fluent-reader/) Açık Kaynak ve Özgür yazılım olan ücretsiz ve son zamanların en gözde ve popüler RSS istemcilerinden biridir. Fluent Reader, başlangıçta Haoyuan Liu isimli bir yazılımcı tarafından geliştirilmeye başlanmıştır ve diğer açık kaynak yazılımcılarının yoğun ilgisiyle hızla büyümüş ve sonunda **Microsoft** tarafından büyük yatırımlar almıştır. Fluent Reader tamamen ücretsiz olmakla birlikte, açık kaynak olmasından dolayı kendi sunucunuzda da kurabileceğiniz bir RSS istemcisidir. Fluent Reader'in en dikkat çeken özelliği, modern, minimalist, sade ve iyi bir tasarıma sahip olmasıdır. Bunun dışında, detaylı kategorilendirme seçenekleri, okuma modları, kişiselleştirme vb. özelliklere sahiptir.
 
 - [Açık kaynak depo](https://github.com/yang991178/fluent-reader)
+
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/thunderbird-icon.png" alt="Thunderbird" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Thunderbird
+
+[**Thunderbird**](https://www.thunderbird.net/en-US/) Tam adıyla **Mozilla Thunderbird**, kullanıcı dostu, güvenli ve özelleştirilebilir ancak aslında **açık kaynak e-posta istemcisi**dir. Windows, macOS ve Linux platformlarında çalışır. Thunderbird'den e-posta istemcilerinde hali hazırda bahsetmiş olsak da içinde gayet kolay kullanılabilen bir RSS okuyucu özelliği de bulunuyor. Daha detaylı bilgisi için [Thunderbird - E-posta İstemcisi](https://guvendekal.org/#/posta-servisleri?id=-thunderbird)
+
+- [Açık kaynak depo](https://github.com/thunderbird)
