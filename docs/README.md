@@ -472,6 +472,12 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
             <a href="https://guvendekal.org/#/torrent-istemcileri?id=-transmission" target="_blank" style="color: inherit; text-decoration: none;">Transmission</a>
         </div>
     </div>
+   <div class="service-box">
+        <img src="docs/images/webtorrent-icon.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/torrent-istemcileri?id=-webtorrent" target="_blank" style="color: inherit; text-decoration: none;">WebTorrent</a>
+        </div>
+    </div>
 </div>
 
 ## Haritalar
