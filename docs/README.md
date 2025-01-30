@@ -472,6 +472,12 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
             <a href="https://guvendekal.org/#/torrent-istemcileri?id=-transmission" target="_blank" style="color: inherit; text-decoration: none;">Transmission</a>
         </div>
     </div>
+   <div class="service-box">
+        <img src="docs/images/webtorrent-icon.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/torrent-istemcileri?id=-webtorrent" target="_blank" style="color: inherit; text-decoration: none;">WebTorrent</a>
+        </div>
+    </div>
 </div>
 
 ## Haritalar
@@ -481,6 +487,12 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
         <img src="docs/images/osm.png" alt="icon" style="border-radius: 10px;">
         <div class="title">
             <a href="http://guvendekal.org/#/haritalar?id=-openstreetmap" target="_blank" style="color: inherit; text-decoration: none;">OpenStreetMap</a>
+        </div>
+    </div>
+    <div class="service-box">
+        <img src="docs/images/osmand-icon.png" alt="icon">
+        <div class="title">
+            <a href="http://guvendekal.org/#/haritalar?id=-osmand" target="_blank" style="color: inherit; text-decoration: none;">OsmAnd</a>
         </div>
     </div>
 </div>
@@ -534,6 +546,12 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
             <a href="http://guvendekal.org/#/indirme-yoneticileri?id=-file-centipede" target="_blank" style="color: inherit; text-decoration: none;">File Centipede</a>
         </div>
     </div>
+    <div class="service-box">
+        <img src="docs/images/ab-download-manager-icon.png" alt="icon">
+        <div class="title">
+            <a href="http://guvendekal.org/#/indirme-yoneticileri?id=-ab-download-manager" target="_blank" style="color: inherit; text-decoration: none;">AB Download Manager</a>
+        </div>
+    </div>
 </div>
 
 ## Yazılım Kaldırma Araçları
@@ -554,6 +572,12 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
         <img src="docs/images/fliso-icon.png" alt="icon" style="border-radius: 10px;">
         <div class="title">
             <a href="http://guvendekal.org/#/qr-kod-araclari?id=-fliso" target="_blank" style="color: inherit; text-decoration: none;">Fli.so</a>
+        </div>
+    </div>
+    <div class="service-box">
+        <img src="docs/images/dubco-icon.png" alt="icon">
+        <div class="title">
+            <a href="http://guvendekal.org/#/qr-kod-araclari?id=-dubco" target="_blank" style="color: inherit; text-decoration: none;">Dub.co</a>
         </div>
     </div>
 </div>

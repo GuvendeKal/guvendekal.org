@@ -19,6 +19,7 @@
 |-------------------|:-------------:|:--------:|:-------------:|:-------------------:|
 | <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/qBittorrent-icon.png" alt="qbittorrent" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> qBittorrent </span> | <span style="color: green;">✓</span> | <span style="color: red;">×</span> | GPLv2 | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-freebsd"></i> |
 | <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/transmission-icon.png" alt="transmission" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Transmission </span> | <span style="color: green;">✓</span> | <span style="color: red;">×</span> | GPLv2 | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> |
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/webtorrent-icon.png" alt="webtorrent" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> WebTorrent </span> | <span style="color: green;">✓</span> | <span style="color: red;">×</span> | MIT | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> |
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/qBittorrent-icon.png" alt="qbittorrent" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> qBittorrent
 
@@ -31,3 +32,9 @@
 [**Transmission**](https://transmissionbt.com/), ücretsiz, reklam içermeyen ve **açık kaynak kodlu** olarak sunulan minimalist bir torrent istemcisidir. Gereksiz detaylarla kullanıcıyı yormaz ve tüm temel ihtiyaçlara hitap eder. Temel torrent indirme ve paylaşma işlevlerine odaklanmıştır. Hafif bir istemcidir ve düşük sistem belleği kullanarak iyi performans sunar. Ayrıca birden fazla dil seçeneği sunan Transmission, Türkçe dil desteği de sağlamaktadır.
 
 - [Açık kaynak depo](https://github.com/transmission/transmission)
+
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/webtorrent-icon.png" alt="webtorrent" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> WebTorrent
+
+[**WebTorrent**](https://webtorrent.io/), WebTorrent, ücretsiz, açık kaynak kodlu ve reklam içermeyen bir torrent istemcisidir. Modern ve minimalist arayüzüyle kullanım kolaylığı sunar. Tarayıcı tabanlı çalışabilmesi ve indirme tamamlanmadan anlık medya akışı yapabilme özelliğiyle öne çıkar. WebRTC teknolojisi sayesinde hızlı ve güvenli bağlantılar sunarken, platformlar arası uyumluluğuyla masaüstü (WebTorrent Desktop) ve tarayıcıda sorunsuz çalışır. Türkçe dil desteği de bulunan WebTorrent, özellikle video ve ses akışı için ideal bir çözüm sunar.
+
+- [Açık kaynak depo](https://github.com/webtorrent/webtorrent-desktop)
