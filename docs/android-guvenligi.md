@@ -34,7 +34,7 @@ GNU GPL-3 lisansı altında sunulan LinkSheet, özgür yazılım ve aynı zamand
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/canta.png" alt="LinkSheet" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> Canta
 
-Canta, Android cihazlarda root erişimi gerektirmeden gereksiz uygulamaları kaldırarak güvenlik ve gizliliği artırır. Özellikle gereksiz uygulamalarını (bloatware) kaldırma özelliğiyle, cihazınızda potansiyel olarak gereksiz erişim izinleri veya veri toplama etkinlikleri olan yazılımları kolayca yönetebilirsiniz. Shizuku entegrasyonu sayesinde bu işlemler, sistem izinlerini güvenli bir şekilde kullanarak gerçekleştirilir. Bu uygulama, cihaz üzerinde daha fazla kontrol sağlarken kullanıcı verilerini koruma konusunda da etkili bir çözüm sunar.
+Canta, Android cihazlarda root erişimi gerektirmeden gereksiz uygulamaları kaldırarak güvenlik ve gizliliği artırır. Özellikle gereksiz uygulamaları (bloatware) kaldırma özelliğiyle, cihazınızda potansiyel olarak gereksiz erişim izinleri veya veri toplama etkinlikleri olan yazılımları kolayca yönetebilirsiniz. Shizuku entegrasyonu sayesinde bu işlemler, sistem izinlerini güvenli bir şekilde kullanarak gerçekleştirilir. Bu uygulama, cihaz üzerinde daha fazla kontrol sağlarken kullanıcı verilerini koruma konusunda da etkili bir çözüm sunar.
 
 LGPL 3.0 lisansı ile sunulan Canta, özgür yazılım ve **açık kaynaklıdır**. Bu sayede herkes uygulamanın kaynak kodunu inceleyebilir, paylaşabilir ve geliştirilmesine katkıda bulunabilir.
 
