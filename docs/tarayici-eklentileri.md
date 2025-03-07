@@ -49,3 +49,22 @@ uBlock Origin eklentisi [açık kaynaktır](https://github.com/gorhill/uBlock) v
  </div>
  </div>
 </div>
+
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/temporarycontainers.png" alt="ToS;DR" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> Temporary Containers
+
+**Temporary Containers**, her yeni sekme veya site ziyareti için geçici bir konteyner oluşturan bir eklentidir. Web sitelerinin çerezler ve diğer takip yöntemleriyle sizi takip etmesini zorlaştırır.
+
+?>Temporary Containers eklentisinin [Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/) eklentisi ile birlikte kullanılması önerilir. Ayrıca eklenti [açık kaynaklıdır](https://github.com/stoically/temporary-containers).
+
+!> Temporary Containers eklentisi sadece Firefox tabanlı tarayıcılarda çalışmaktadır.
+
+<div class="web-store-container">
+ <div class="web-store-box">
+ <i class="fab fa-firefox"></i>
+ <div class="title">
+ <a href="https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/" target="_blank" style="color: inherit; text-decoration: none;">Firefox Mağazası</a>
+ </div>
+ </div>
+ </div>
+
+
