@@ -46,6 +46,6 @@ Güvende Kal sitesinde bulunan içerikleri belli kalite standartlarında tutmak 
  <i class="fa-solid fa-check"></i>
  <div style="flex: 1;">
  <span class="title">Uygulama Geçmişi</span>
- <p class="description">Önerdiğimiz yazılımların geçmişini inceliyoruz. Geçmişte veri ihlali yaşamış mı yada kullanıcılarının verilerini 3. taraflara satmış mı? Geçmişte sorun yaşamış uygulamaların ne yaşadığını yine kullanıcılarımıza açıklıyor ve geçmişinde sorun olan uygulamaları minimum şekilde öneriyoruz.</p>
+ <p class="description">Önerdiğimiz yazılımların geçmişini inceliyoruz. Geçmişte veri ihlali yaşamış mı ya da kullanıcılarının verilerini 3. taraflara satmış mı? Geçmişte sorun yaşamış uygulamaların ne yaşadığını yine kullanıcılarımıza açıklıyor ve geçmişinde sorun olan uygulamaları minimum şekilde öneriyoruz.</p>
  </div>
 </div>
