@@ -6,7 +6,7 @@
 
 # Not Alma
 
-**Not alma** uygulamaları, kullanıcıların fikirlerini, hatırlatmaları, görevleri, projeleri veya çeşitli bilgileri organize etmek ve kaydetmek için kullandığı dijital araçlardır. Bu uygulamalar, yazı yazma, düzenleme, etiketleme ve paylaşım gibi özelliklerle kullanıcılara pratiklik sunar. Not alma uygulamaları lokal yada bulut tabanlı çalışabilir
+**Not alma** uygulamaları, kullanıcıların fikirlerini, hatırlatmaları, görevleri, projeleri veya çeşitli bilgileri organize etmek ve kaydetmek için kullandığı dijital araçlardır. Bu uygulamalar, yazı yazma, düzenleme, etiketleme ve paylaşım gibi özelliklerle kullanıcılara pratiklik sunar. Not alma uygulamaları lokal ya da bulut tabanlı çalışabilir
 
 - Lokal şekilde çalışan bir not alma uygulaması, sadece o cihaz üzerinden notlara erişmeyi sağlar. ([**Senkronizasyon**](https://guvendekal.org/#/senkronizasyon) araçları ile senkronize edilebilir.)
 - Bulut tabanlı çalışan bir not alma uygulaması, farklı cihazlardan aynı notlara erişmeyi ve düzenlemeyi sağlar.
@@ -38,7 +38,7 @@ Verilerinizi yerel olarak saklayan Logseq, gizliliğinizi ön planda tutar ve t�
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/notesnook-icon.png" alt="notesnook" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Notesnook
 
-[**Notesnook**](https://notesnook.com/), uçtan uca şifreli (E2EE) bir not alma deneyimi ve kullanım kolaylığına odaklanan bir platformlar arası not alma ve yapılacaklar uygulamasıdır. Notesnook, şifreli not senkronizasyonu, uygulama kilidi özelliği, Monographs ile not paylaşma, çift yönlü not bağlantısı ve görev hatırlatma gibi özellikler sunar. Tüm cihazlarınızda ücretsiz olarak kullanılabilir, yerel depolama ve bulut tabanlı kullanım seçenekleri mevcuttur. Üretkenlik açısından güçlü ancak gizliliğinizden ödün vermenizi gerektiren araçların aksine Notesnook, üretkenlik sağlarken gizliliğinizi tehlikeye atmaz ve bilgilerinizi koruma altına alarak cihazınızdaki her şeyi şifreler ve özgür çalışmanıza olanak tanır.
+[**Notesnook**](https://notesnook.com/), uçtan uca şifreli (E2EE) bir not alma deneyimi ve kullanım kolaylığına odaklanan bir platformlar arası not alma ve yapılacaklar uygulamasıdır. Notesnook; şifreli not senkronizasyonu, uygulama kilidi özelliği, Monographs ile not paylaşma, çift yönlü not bağlantısı ve görev hatırlatma gibi özellikler sunar. Tüm cihazlarınızda ücretsiz olarak kullanılabilir, yerel depolama ve bulut tabanlı kullanım seçenekleri mevcuttur. Üretkenlik açısından güçlü ancak gizliliğinizden ödün vermenizi gerektiren araçların aksine Notesnook, üretkenlik sağlarken gizliliğinizi tehlikeye atmaz ve bilgilerinizi koruma altına alarak cihazınızdaki her şeyi şifreler ve özgür çalışmanıza olanak tanır.
 
 - [Açık kaynak depo](https://github.com/streetwriters/notesnook)
 - [Gizlilik politikası](https://notesnook.com/privacy/)
