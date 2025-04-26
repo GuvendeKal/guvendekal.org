@@ -40,6 +40,8 @@ Bulut tabanlı çalışan [**Bitwarden**](https://bitwarden.com/) açık kaynakl
 
 Bitwarden'da tüm veriler kullanıcı cihazında şifrelenir ve şifre çözümlenir; bu da herhangi bir veri ihlali yada çalınma durumlarında, hırsızların eline sadece şifrenin hash değerlinin geçeceği anlamına gelir. Bitwarden'in ücretli ve ücretsiz sürümleri bulunur. Bitwarden'in ücretli sürümü TOTP, gelişmiş 2FA seçenekleri, 1 GB şifreli dosya saklama gibi ek özellikler sunar.
 
+Bitwarden'ın sunucu tarafı kaynak kodu da özgür yazılımdır. Harici sunucularda çalıştırılma seçeneği sunar. Bu durumda sunucuda çalıştırılan kaynak kodu doğrulanabilir ve ücretli versiyonun özellikleri ücretsiz kullanılabilir.
+
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/proton-pass.png" alt="ProtonPass" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> Proton Pass
 
 Bulut tabanlı çalışan [**Proton Pass**](https://proton.me/pass) açık kaynaklı ve güvenli bir şifre yönetici uygulamasıdır. Proton Mail, Proton VPN ve Proton Drive gibi güvenlik odaklı hizmetleriyle tanınan Proton AG tarafından geliştirilmiştir. Proton Pass, güçlü gizlilik özellikleriyle dikkat çeker ve kullanıcı verilerini koruma konusunda üst düzey bir güven sunar.
@@ -47,3 +49,5 @@ Bulut tabanlı çalışan [**Proton Pass**](https://proton.me/pass) açık kayna
 Proton Pass'ta tüm veriler uçtan uca şifrelenir, şifreleme ve şifre çözme işlemleri yalnızca kullanıcı cihazında gerçekleştirilir. Bu da herhangi bir veri ihlali durumunda kötü niyetli kişilerin yalnızca şifrelenmiş ve okunamaz verilerle karşılaşacağı anlamına gelir.
 
 Proton Pass'in hem ücretsiz hem de ücretli sürümleri mevcuttur. Ücretli sürüm, sınırsız giriş bilgisi saklama, birden fazla cihazda senkronizasyon ve ek güvenlik özellikleri gibi avantajlar sunar. Ayrıca Proton ekosistemindeki diğer hizmetlerle entegre çalışarak kullanıcı deneyimini daha da geliştirir.
+
+!> Proton Pass'in sunucu tarafı kaynak kodu açık kaynak değildir. Bu durum, istemci kaynak kodu incelenebildiği için bir güvenlik riski teşkil etmese de göz önünde bulundurulmalıdır.
