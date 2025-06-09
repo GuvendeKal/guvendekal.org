@@ -371,13 +371,13 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
     <div class="service-box">
         <img src="docs/images/onlyoffice.png" alt="icon">
         <div class="title">
-            <a href="https://guvendekal.org/#/ofis-uygulamalari?id=-onlyoffice" target="_blank" style="color: inherit; text-decoration: none;">ONLYOFFICE</a>
+            <a href="https://guvendekal.org/#/ofis-uygulamalari?id=-onlyoffice" target="_blank" style="color: inherit; text-decoration: none;">OnlyOffice</a>
         </div>
     </div>
     <div class="service-box">
         <img src="docs/images/orb.png" alt="icon">
         <div class="title">
-            <a href="https://guvendekal.org/#/ofis-uygulamalari?id=-openoffice" target="_blank" style="color: inherit; text-decoration: none;">Open Office</a>
+            <a href="https://guvendekal.org/#/ofis-uygulamalari?id=-openoffice" target="_blank" style="color: inherit; text-decoration: none;">OpenOffice</a>
         </div>
     </div>
 </div>
@@ -388,25 +388,25 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
     <div class="service-box">
         <img src="docs/images/mastodon-icon.svg" alt="icon">
         <div class="title">
-            <a href="https://guvendekal.org/#/sosyal-aglar?id=-mastodon" target="_blank" style="color: inherit; text-decoration: none;">Mastodon</a>
+            <a href="https://guvendekal.org/#/sosyal-medya?id=-mastodon" target="_blank" style="color: inherit; text-decoration: none;">Mastodon</a>
         </div>
     </div>
     <div class="service-box">
         <img src="docs/images/lemmy_icon.png" alt="icon">
         <div class="title">
-            <a href="https://guvendekal.org/#/sosyal-aglar?id=-lemmy" target="_blank" style="color: inherit; text-decoration: none;">Lemmy</a>
+            <a href="https://guvendekal.org/#/sosyal-medya?id=-lemmy" target="_blank" style="color: inherit; text-decoration: none;">Lemmy</a>
         </div>
     </div>
     <div class="service-box">
         <img src="docs/images/bluesky.png" alt="icon">
         <div class="title">
-            <a href="https://guvendekal.org/#/sosyal-aglar?id=-bluesky-social" target="_blank" style="color: inherit; text-decoration: none;">BlueSky Social</a>
+            <a href="https://guvendekal.org/#/sosyal-medya?id=-bluesky-social" target="_blank" style="color: inherit; text-decoration: none;">BlueSky Social</a>
         </div>
     </div>
     <div class="service-box">
         <img src="docs/images/odyseelogo.png" alt="icon">
         <div class="title">
-            <a href="https://guvendekal.org/#/sosyal-aglar?id=-odysee" target="_blank" style="color: inherit; text-decoration: none;">Odysee</a>
+            <a href="https://guvendekal.org/#/sosyal-medya?id=-odysee" target="_blank" style="color: inherit; text-decoration: none;">Odysee</a>
         </div>
     </div>
 </div>
@@ -552,6 +552,12 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
             <a href="http://guvendekal.org/#/indirme-yoneticileri?id=-ab-download-manager" target="_blank" style="color: inherit; text-decoration: none;">AB Download Manager</a>
         </div>
     </div>
+    <div class="service-box">
+        <img src="docs/images/varia-icon.png" alt="icon">
+        <div class="title">
+            <a href="http://guvendekal.org/#/indirme-yoneticileri?id=-varia" target="_blank" style="color: inherit; text-decoration: none;">Varia</a>
+        </div>
+    </div>
 </div>
 
 ## Yazılım Kaldırma Araçları
@@ -589,6 +595,35 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
         <img src="docs/images/localsend.png" alt="icon" style="border-radius: 10px;">
         <div class="title">
             <a href="http://guvendekal.org/#/dosya-aktarma?id=-localsend" target="_blank" style="color: inherit; text-decoration: none;">LocalSend</a>
+        </div>
+    </div>
+</div>
+
+## Dosya Sıkıştırma Uygulamaları
+
+<div class="service-container">
+    <div class="service-box">
+        <img src="docs/images/7zip.png" alt="icon" style="border-radius: 10px;">
+        <div class="title">
+            <a href="https://guvendekal.org/#/dosya-sikistirma?id=-7-zip" target="_blank" style="color: inherit; text-decoration: none;">7-Zip</a>
+        </div>
+    </div>
+    <div class="service-box">
+        <img src="docs/images/peazip.png" alt="icon" style="border-radius: 10px;">
+        <div class="title">
+            <a href="https://guvendekal.org/#/dosya-sikistirma?id=-peazip" target="_blank" style="color: inherit; text-decoration: none;">PeaZip</a>
+        </div>
+    </div>
+        <div class="service-box">
+        <img src="docs/images/freearc.png" alt="icon" style="border-radius: 10px;">
+        <div class="title">
+            <a href="https://guvendekal.org/#/dosya-sikistirma?id=-freearc" target="_blank" style="color: inherit; text-decoration: none;">FreeArc</a>
+        </div>dos
+    </div>
+        <div class="service-box">
+        <img src="docs/images/gzip.png" alt="icon" style="border-radius: 10px;">
+        <div class="title">
+            <a href="https://guvendekal.org/#/dosya-sikistirma?id=-gzip" target="_blank" style="color: inherit; text-decoration: none;">GNU G-zip</a>
         </div>
     </div>
 </div>
