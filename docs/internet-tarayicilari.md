@@ -53,7 +53,7 @@ Brave içinde gömülü reklam engelleyici ve izleme engelleyici ile gelmektedir
 
 Brave içinde aynı zamanda kripto cüzdan olarak kullanabileceğiniz [**Brave Wallet**](https://brave.com/wallet/) gibi farklı özellikler de bulunmaktadır. Brave'in aynı zamanda [**Brave Search**](https://guvendekal.org/#/arama-motorlari?id=brave-search) isimli arama motoruna bakabilirsiniz.
 
-### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/mullvad-icon.png" alt="mullvad" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Mullvad Browser
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/mullvad-icon.png" alt="Mullvad" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Mullvad Browser
 
 [**Mullvad Browser**](https://mullvad.net/tr/browser), Mullvad VPN ile Tor Project ortaklığı ile ortaya çıkmış bir tarayıcıdır. Geliştirilmesi Tor Project tarafından sağlanırken, dağıtımını Mullvad üstlenir.
 
