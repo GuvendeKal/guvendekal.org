@@ -3,12 +3,12 @@
  - Uygun görseller eklemeyi unutmayın.
  - İçerik kuralları ve ekleme yapmak sayfalarını ziyaret edebilirsiniz -->
 
-# Sosyal Ağlar
+# Sosyal Medya
 
-**Sosyal ağlar**, ortak ilgi alanları ve amaçları olan kişilerin bilgi paylaşımında bulunabildiği çevrimiçi platformlardır. Bu topluluklar aynı zamanda önemli bir enformasyon desteği olarak da değerlendirilmektedir.
+**Sosyal medya**, ortak ilgi alanları ve amaçları olan kişilerin bilgi paylaşımında bulunabildiği çevrimiçi platformlardır. Bu topluluklar aynı zamanda önemli bir enformasyon desteği olarak da değerlendirilmektedir.
 
 İnternet, zengin ve geniş kapsamlı bilgi yapısıyla sosyal ağların temelini oluşturmaktadır. Paylaşılan bilgiler sağlık, finans, eğitim, ulaşım ve bakım hizmetleri gibi çok çeşitli alanlara yayılmaktadır.
-Sosyal ağlar, bireylere içerikle ve diğer kullanıcılarla etkileşime girme olanağı sağlar. Kullanıcılar anlık mesajlaşma, e-posta, sohbet odaları, görüntülü sohbet ve diğer internet uygulamaları aracılığıyla iletişim kurabilmektedirler.
+Sosyal medya, bireylere içerikle ve diğer kullanıcılarla etkileşime girme olanağı sağlar. Kullanıcılar anlık mesajlaşma, e-posta, sohbet odaları, görüntülü sohbet ve diğer internet uygulamaları aracılığıyla iletişim kurabilmektedirler.
 
 Kullanıcıların sosyal ağları kullanma amaçları çeşitlidir. Bunlar arasında ortak hedefler için iş birliği yapmak, bilgi edinmek, öğrenmek, diğer insanlarla ilişkiler kurmak gibi niyetler bulunmaktadır.
 Bu platformlar, modern iletişim ve bilgi paylaşımının vazgeçilmez araçları haline gelmiştir.
