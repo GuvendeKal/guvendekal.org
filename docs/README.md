@@ -618,7 +618,7 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
         <img src="docs/images/freearc.png" alt="icon" style="border-radius: 10px;">
         <div class="title">
             <a href="https://guvendekal.org/#/dosya-sikistirma?id=-freearc" target="_blank" style="color: inherit; text-decoration: none;">FreeArc</a>
-        </div>dos
+        </div>
     </div>
         <div class="service-box">
         <img src="docs/images/gzip.png" alt="icon" style="border-radius: 10px;">
