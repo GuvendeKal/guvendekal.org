@@ -1,6 +1,6 @@
 ![Logo](./docs/images/logo.svg)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-24-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-25-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # Hakkında
@@ -63,6 +63,7 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/denisz0"><img src="https://avatars.githubusercontent.com/u/177147630?v=4?s=100" width="100px;" alt="denisz0"/><br /><sub><b>denisz0</b></sub></a><br /><a href="https://github.com/GuvendeKal/guvendekal.org/commits?author=denisz0" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/furkancamyar"><img src="https://avatars.githubusercontent.com/u/101810762?v=4?s=100" width="100px;" alt="Furkan Çamyar"/><br /><sub><b>Furkan Çamyar</b></sub></a><br /><a href="https://github.com/GuvendeKal/guvendekal.org/commits?author=furkancamyar" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://noctus.dev"><img src="https://avatars.githubusercontent.com/u/71845088?v=4?s=100" width="100px;" alt="Dark"/><br /><sub><b>Dark</b></sub></a><br /><a href="https://github.com/GuvendeKal/guvendekal.org/commits?author=DarkIsTaken" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/jrbemal"><img src="https://avatars.githubusercontent.com/u/118517839?v=4?s=100" width="100px;" alt="kemal"/><br /><sub><b>kemal</b></sub></a><br /><a href="https://github.com/GuvendeKal/guvendekal.org/commits?author=jrbemal" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
