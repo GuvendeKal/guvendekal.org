@@ -14,6 +14,7 @@
 |----------|:-----------:|:-----------:|:-----------:|:--------------------:|:----------------:|
 | <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/fileconverter-icon.png" alt="fileconverter" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> File Converter </span> | <span style="color: green;">✓</span> | AGPL-3.0 | Yerel | <i class="fa-solid fa-music"></i> <i class="fa-solid fa-video"></i> <i class="fa-solid fa-image"></i> <i class="fa-solid fa-file"></i> | <i class="fa-brands fa-windows"></i> |
 | <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/handbrake-icon.png" alt="handbrake" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> HandBrake </span> | <span style="color: green;">✓</span> | GPL-2.0 | Yerel | <i class="fa-solid fa-video"></i> | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> |
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/ffmpeg-icon.png" alt="FFmpeg" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> FFmpeg </span> | <span style="color: green;">✓</span> | GPL-2.0 | Yerel | <i class="fa-solid fa-music"></i> <i class="fa-solid fa-video"></i> <i class="fa-solid fa-image"></i> <i class="fa-solid fa-file"></i> | <i class="fa-brands fa-windows"></i> |
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/fileconverter-icon.png" alt="fileconverter" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> File Converter
 
@@ -27,4 +28,9 @@
 
 - [Açık kaynak depo](https://github.com/HandBrake/HandBrake)
 - [Gizlilik politikası](https://handbrake.fr/privacy.php)
-  
+
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/ffmpeg-icon.png" alt="FFmpeg" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> FFmpeg
+
+[**FFmpeg**](https://ffmpeg.org/), terminal tabanlı video ve ses dosyalarını işlemek için kullanılan açık kaynaklı ve güçlü bir araçtır. FFmpeg, PNG, JPG/JPEG, BMP, GIF, TIFF/TIF ve WEBP gibi görsel formatlarını dönüştürmek, boyutlandırmak ve işlemek için kullanılır, bunların dışındada bir çok iş yapabilir dosya dönüştürme haricinde. Çok sayıda format ve codec’i desteklediği için hemen her medya iş akışında kullanılabilir. Grafik arayüzü olmasa da terminal üzerinden esnek ve hızlı bir şekilde kontrol edilebilir. Bir çok dosya dönüştürücü programı arka planda FFmpeg'in kendisini kullanır.
+
+- [Açık kaynak depo](https://github.com/FFmpeg/FFmpeg)
