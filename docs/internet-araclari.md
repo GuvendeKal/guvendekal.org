@@ -20,8 +20,12 @@
 
 !> KYCnot.me, tüm hizmetlerin gizlilik politikalarını garanti etmez; her hizmeti kullanmadan önce kendi şartlarını incelemek önemlidir.
 
+- [Açık kaynak depo(lar)](https://codeberg.org/pluja/kycnotme)
+
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/tosdr.png" alt="ToS;DR" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> ToS;DR
 
 [**Terms of Service; Didn’t Read (ToS;DR)**](https://tosdr.org/), popüler internet hizmetlerinin kullanım koşullarını ve gizlilik politikalarını analiz ederek kullanıcılar için anlaşılır bir şekilde özetleyen açık kaynaklı bir projedir. Kullanıcılar, uzun ve karmaşık metinleri okumak zorunda kalmadan, hizmetlerin ne kadar kullanıcı dostu ya da riskli olduğuna dair hızlı bir fikir edinebilir. ToS;DR, her servise bir puan ve kısa özetler sunarak şeffaflığı artırır ve kullanıcıların daha bilinçli tercihler yapmasına yardımcı olur.  
 
 !> ToS;DR özetleri topluluk katkılarıyla hazırlanır; en güncel bilgileri görmek için resmi kaynakları incelemek önemlidir.
+
+- [Açık kaynak depo(lar)](https://github.com/tosdr/tosdr.org)
