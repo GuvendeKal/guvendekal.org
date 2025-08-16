@@ -1,0 +1,29 @@
+.criteria {
+  border: 1px solid;
+  border-radius: 8px;
+  padding: 16px;
+  margin: 16px 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  i {
+    color: #0b87da;
+    font-size: 56px;
+    margin-right: 25px;
+  }
+  .description {
+    font-size: 14px;
+    color: inherit;
+    margin-top: 8px;
+  }
+  .title {
+    font-size: 18px;
+    font-weight: bold;
+    color: #0b87da;
+    text-decoration: none;
+    margin: 12px 0;
+  }
+  .title:hover {
+    text-decoration: none;
+  }
+}

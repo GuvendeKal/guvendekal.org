@@ -1,0 +1,26 @@
+@use "../utils/mixins";
+
+.service {
+  &-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+  }
+  &-box {
+    @include mixins.box-style(16px, 8px);
+    width: calc(50% - 16px);
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    transition: background-color 0.3s, border-color 0.3s, color 0.3s;
+    img {
+      @include mixins.set-size(50px, auto);
+    }
+    .title {
+      font-size: 18px;
+      font-weight: bold;
+      color: #0b87da;
+    }
+  }
+}

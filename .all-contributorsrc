@@ -1,0 +1,254 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "GokturkTalha",
+      "name": "Talha Aygün",
+      "avatar_url": "https://avatars.githubusercontent.com/u/128845803?v=4",
+      "profile": "https://talhaaygun.com/",
+      "contributions": [
+        "maintenance",
+        "code",
+        "doc",
+        "design"
+      ]
+    },
+    {
+      "login": "islemci",
+      "name": "musti",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68755582?v=4",
+      "profile": "https://musti.codes",
+      "contributions": [
+        "maintenance",
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "odest",
+      "name": "Dest",
+      "avatar_url": "https://avatars.githubusercontent.com/u/102368077?v=4",
+      "profile": "https://odest.github.io/",
+      "contributions": [
+        "maintenance",
+        "code",
+        "design",
+        "doc"
+      ]
+    },
+    {
+      "login": "relliv",
+      "name": "Eyüp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17010054?v=4",
+      "profile": "https://github.com/relliv",
+      "contributions": [
+        "maintenance",
+        "code"
+      ]
+    },
+    {
+      "login": "conmecha",
+      "name": "conmecha",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78347194?v=4",
+      "profile": "http://conmecha.me",
+      "contributions": [
+        "maintenance",
+        "doc"
+      ]
+    },
+    {
+      "login": "wiseweb-works",
+      "name": "Wise",
+      "avatar_url": "https://avatars.githubusercontent.com/u/69072094?v=4",
+      "profile": "https://github.com/wiseweb-works",
+      "contributions": [
+        "maintenance",
+        "code",
+        "design"
+      ]
+    },
+    {
+      "login": "emrekircaa",
+      "name": "Emre KIRCA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79770308?v=4",
+      "profile": "https://github.com/emrekircaa",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "callisto1232",
+      "name": "callisto1232",
+      "avatar_url": "https://avatars.githubusercontent.com/u/146484672?v=4",
+      "profile": "https://github.com/callisto1232",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "2013dogumeymen",
+      "name": "RockEymen45",
+      "avatar_url": "https://avatars.githubusercontent.com/u/95621500?v=4",
+      "profile": "https://rockeymen.site/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "A11Z16",
+      "name": "TeknoGame",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73792721?v=4",
+      "profile": "https://github.com/A11Z16",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "cosmos-emissary",
+      "name": "Cosmos Emissary",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93875236?v=4",
+      "profile": "https://cosmos-emissary.github.io/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "Unchanged4352",
+      "name": "Unchanged4352",
+      "avatar_url": "https://avatars.githubusercontent.com/u/174876122?v=4",
+      "profile": "https://github.com/Unchanged4352",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "MrBaxren",
+      "name": "MrBaxren",
+      "avatar_url": "https://avatars.githubusercontent.com/u/182433393?v=4",
+      "profile": "https://github.com/MrBaxren",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "06ergin06",
+      "name": "İbrahim Hakkı Ergin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72016401?v=4",
+      "profile": "https://linktr.ee/web_tas",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "DeoDorqnt387",
+      "name": "Pai1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37597520?v=4",
+      "profile": "https://github.com/DeoDorqnt387",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "56denklemli",
+      "name": "56denklemli",
+      "avatar_url": "https://avatars.githubusercontent.com/u/154069695?v=4",
+      "profile": "https://github.com/56denklemli",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "trnahuman",
+      "name": "Nahuman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/140809345?v=4",
+      "profile": "https://github.com/trnahuman",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "thechief77",
+      "name": "john",
+      "avatar_url": "https://avatars.githubusercontent.com/u/157958642?v=4",
+      "profile": "https://www.backloggd.com/u/TheChief/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "MegaFocusDev",
+      "name": "Bartu İlik",
+      "avatar_url": "https://avatars.githubusercontent.com/u/114775647?v=4",
+      "profile": "https://megafocus.net",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "odk-0160",
+      "name": "ODK",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78966027?v=4",
+      "profile": "https://github.com/odk-0160",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "kaanboraoz",
+      "name": "Kaan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/130750373?v=4",
+      "profile": "https://github.com/kaanboraoz",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "denisz0",
+      "name": "denisz0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/177147630?v=4",
+      "profile": "https://github.com/denisz0",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "furkancamyar",
+      "name": "Furkan Çamyar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/101810762?v=4",
+      "profile": "https://github.com/furkancamyar",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "DarkIsTaken",
+      "name": "Dark",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71845088?v=4",
+      "profile": "http://noctus.dev",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "jrbemal",
+      "name": "kemal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118517839?v=4",
+      "profile": "https://github.com/jrbemal",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "guvendekal.org",
+  "projectOwner": "GuvendeKal"
+}

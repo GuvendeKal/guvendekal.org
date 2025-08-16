@@ -1,6 +1,6 @@
-<!-- NOTLAR 
- - Bu kategoride lokal ve bulut tabanlı şifre yöneticileri ayrı ayrı eklenebilir- tek bir tabloda belirtilebilir ancak lokal ve bulut tabanlı şifre yöneticilerinin farkı anlatılmalıdır. 
- - Tablo eklemeyi unutmayın 
+<!-- NOTLAR
+ - Bu kategoride lokal ve bulut tabanlı şifre yöneticileri ayrı ayrı eklenebilir- tek bir tabloda belirtilebilir ancak lokal ve bulut tabanlı şifre yöneticilerinin farkı anlatılmalıdır.
+ - Tablo eklemeyi unutmayın
  - Uygun görseller eklemeyi unutmayın.
  - İçerik kuralları ve ekleme yapmak sayfalarını ziyaret edebilirsiniz -->
 
@@ -8,8 +8,8 @@
 
 **Şifre yöneticileri** kullanıcıların güvenli bir şekilde şifrelerini saklama, yönetme veya otomatik doldurmalarına yarayan uygulamalardır. Saklanan tüm şifreler, güçlü şifreleme algoritmaları ile korunur. Bu, verilerin yetkisiz erişimlere karşı güvenli olmasını sağlar. Lokal veya bulut tabanlı çalışan şifre yöneticileri vardır.
 
-* Lokal şekilde çalışan şifre yöneticileri, verileri yerel cihazınızda şifreleyerek saklar yine aynı cihazda şifrerelenmiş verileri çözümleyerek kullanır.
-* Bulut tabanlı çalışan şifre yöneticileri yine lokal şekilde verileri şifreler ancak bu şifrelenmiş verileri uzakta bulunan bir sunucuda barındırır.
+- Lokal şekilde çalışan şifre yöneticileri, verileri yerel cihazınızda şifreleyerek saklar yine aynı cihazda şifrerelenmiş verileri çözümleyerek kullanır.
+- Bulut tabanlı çalışan şifre yöneticileri yine lokal şekilde verileri şifreler ancak bu şifrelenmiş verileri uzakta bulunan bir sunucuda barındırır.
 
 Bu durum, lokal şifre yöneticilerinin farklı cihazlarda senkronize bir şekilde çalışmamasına neden olur. Örneğin lokal çalışan bir şifre yöneticisine kaydettiğiniz şifre, telefonunuzda bulunan şifre yöneticisine gelmez. Senkronize çalışan bir şifre yöneticisi için bulut tabanlı çalışan alternatiflere yönelmeniz önerilir.
 
@@ -22,11 +22,11 @@ Lokal şekilde çalışan şifre yöneticilerinde [**senkronizasyon araçları**
 
 ## Önerilenler Tablosu
 
-| Şifre Yöneticisi | Açık Kaynak | Çalışma Şekli         | Platform Desteği         |
-|-------------------|:-------------:|:-----------------------:|:--------------------------:|
-| <img src="docs/images/keepassxc.png" alt="KeePassXC" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> [KeePassXC](https://keepassxc.org/) </span> | <span style="color: green;">✓</span>        | Lokal                 | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> |
-| <img src="docs/images/bitwarden.png" alt="Bitwarden" style="width: 30px; height: auto; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> [Bitwarden](https://bitwarden.com/) </span> | <span style="color: green;">✓</span>        | Bulut                 | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> |
-| <img src="docs/images/vaultwarden.png" alt="Vaultwarden" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> [Vaultwarden](https://github.com/dani-garcia/vaultwarden ) </span> | <span style="color: green;">✓</span>        | Self-host             | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> |
+| Şifre Yöneticisi | Açık Kaynak | Çalışma Şekli | Platform Desteği |
+| --- | :---: | :---: | :---: |
+| <img src="docs/images/keepassxc.png" alt="KeePassXC" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> KeePassXC </span> | <span style="color: green;">✓</span> | Lokal | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> |
+| <img src="docs/images/bitwarden.png" alt="Bitwarden" style="width: 30px; height: auto; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> Bitwarden </span> | <span style="color: green;">✓</span> | Bulut | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> |
+| <img src="docs/images/proton-pass.png" alt="ProtonPass" style="width: 30px; height: auto; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> Proton Pass </span> | <span style="color: green;">✓</span>| Bulut | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> |
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/keepassxc.png" alt="KeePassXC" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> KeePassXC
 
@@ -40,12 +40,14 @@ Bulut tabanlı çalışan [**Bitwarden**](https://bitwarden.com/) açık kaynakl
 
 Bitwarden'da tüm veriler kullanıcı cihazında şifrelenir ve şifre çözümlenir; bu da herhangi bir veri ihlali yada çalınma durumlarında, hırsızların eline sadece şifrenin hash değerlinin geçeceği anlamına gelir. Bitwarden'in ücretli ve ücretsiz sürümleri bulunur. Bitwarden'in ücretli sürümü TOTP, gelişmiş 2FA seçenekleri, 1 GB şifreli dosya saklama gibi ek özellikler sunar.
 
-### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/vaultwarden.png" alt="Vaultwarden" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> Vaultwarden
+Bitwarden'ın sunucu tarafı kaynak kodu da özgür yazılımdır. Harici sunucularda çalıştırılma seçeneği sunar. Bu durumda sunucuda çalıştırılan kaynak kodu doğrulanabilir ve ücretli versiyonun özellikleri ücretsiz kullanılabilir.
 
-Kullanıcıların, Bitwarden'in sunucuları yerine kendi sunucularında şifrelerini barındırmaya yarayan [**Vaultwarden**](https://github.com/dani-garcia/vaultwarden) Rust ile yazılmıştır- ki bu da sunucu tarafında daha az açık anlamına gelir-.
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/proton-pass.png" alt="ProtonPass" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> Proton Pass
 
-Vaultwarden'in kendi sunucunda barındırılabilmesi nedeniyle verilerin tamamen kullanıcı tarafından kontrol edilmesini sağlar. Parola ve hassas bilgiler üçüncü taraf bir hizmet sağlayıcıya emanet edilmez.
+Bulut tabanlı çalışan [**Proton Pass**](https://proton.me/pass) açık kaynaklı ve güvenli bir şifre yönetici uygulamasıdır. Proton Mail, Proton VPN ve Proton Drive gibi güvenlik odaklı hizmetleriyle tanınan Proton AG tarafından geliştirilmiştir. Proton Pass, güçlü gizlilik özellikleriyle dikkat çeker ve kullanıcı verilerini koruma konusunda üst düzey bir güven sunar.
 
-?> Bitwarden tarafında herhangi bir veri ihlali yaşanırsa, çalınacak veriler zaten şifrelenmiş veriler olacaktır.
+Proton Pass'ta tüm veriler uçtan uca şifrelenir, şifreleme ve şifre çözme işlemleri yalnızca kullanıcı cihazında gerçekleştirilir. Bu da herhangi bir veri ihlali durumunda kötü niyetli kişilerin yalnızca şifrelenmiş ve okunamaz verilerle karşılaşacağı anlamına gelir.
 
-Vaultwarden, internet bağlantısı olmadan da kullanılabilir. Sunucuya lokal ağ üzerinden erişilebilir ve çevrimdışı çalışmaya devam edebilir.
+Proton Pass'in hem ücretsiz hem de ücretli sürümleri mevcuttur. Ücretli sürüm, sınırsız giriş bilgisi saklama, birden fazla cihazda senkronizasyon ve ek güvenlik özellikleri gibi avantajlar sunar. Ayrıca Proton ekosistemindeki diğer hizmetlerle entegre çalışarak kullanıcı deneyimini daha da geliştirir.
+
+!> Proton Pass'in sunucu tarafı kaynak kodu açık kaynak değildir. Bu durum, istemci kaynak kodu incelenebildiği için bir güvenlik riski teşkil etmese de göz önünde bulundurulmalıdır.
