@@ -68,3 +68,25 @@ uBlock Origin eklentisi [açık kaynaktır](https://github.com/gorhill/uBlock) v
  </div>
 
 
+
+
+### Get RSS Feed URL ###
+
+Get RSS Feed URL eklentisi, ziyaret ettiğiniz web sitelerindeki RSS beslemelerini hızlı ve kolay bir şekilde bulmanızı sağlayan bir tarayıcı eklentisidir. Eklenti, web sitesinde RSS bağlantısı varsa bunu otomatik olarak algılar ve size tek tıkla besleme URL’sini gösterir. Get RSS Feed URL eklentisi, kullanımı basit ve hafif bir araçtır; web sitelerindeki RSS bağlantılarını aramakla vakit kaybetmenize gerek kalmaz.
+
+Get RSS Feed URL eklentisi [açık kaynaktır](https://github.com/shevabam/get-rss-feed-url-extension) ve MIT lisansı kullanmaktadır yani <span style="color: green;"><small>(Özgür Yazılım)</small></span> standartındadır.
+
+<div class="web-store-container">
+ <div class="web-store-box">
+ <i class="fab fa-firefox"></i>
+ <div class="title">
+ <a href="https://addons.mozilla.org/tr/firefox/addon/get-rss-feed-url/" target="_blank" style="color: inherit; text-decoration: none;">Firefox Mağazası</a>
+ </div>
+ </div>
+ <div class="web-store-box">
+ <i class="fab fa-google"></i>
+ <div class="title">
+ <a href="https://chromewebstore.google.com/detail/get-rss-feed-url/kfghpdldaipanmkhfpdcjglncmilendn" target="_blank" style="color: inherit; text-decoration: none;">Google Mağazası</a>
+ </div>
+ </div>
+</div>
