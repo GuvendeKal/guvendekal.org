@@ -3,12 +3,12 @@
  - Uygun görseller eklemeyi unutmayın.
  - İçerik kuralları ve ekleme yapmak sayfalarını ziyaret edebilirsiniz -->
 
-# Sosyal Ağlar
+# Sosyal Medya
 
-**Sosyal ağlar**, ortak ilgi alanları ve amaçları olan kişilerin bilgi paylaşımında bulunabildiği çevrimiçi platformlardır. Bu topluluklar aynı zamanda önemli bir enformasyon desteği olarak da değerlendirilmektedir.
+**Sosyal medya**, ortak ilgi alanları ve amaçları olan kişilerin bilgi paylaşımında bulunabildiği çevrimiçi platformlardır. Bu topluluklar aynı zamanda önemli bir enformasyon desteği olarak da değerlendirilmektedir.
 
 İnternet, zengin ve geniş kapsamlı bilgi yapısıyla sosyal ağların temelini oluşturmaktadır. Paylaşılan bilgiler sağlık, finans, eğitim, ulaşım ve bakım hizmetleri gibi çok çeşitli alanlara yayılmaktadır.
-Sosyal ağlar, bireylere içerikle ve diğer kullanıcılarla etkileşime girme olanağı sağlar. Kullanıcılar anlık mesajlaşma, e-posta, sohbet odaları, görüntülü sohbet ve diğer internet uygulamaları aracılığıyla iletişim kurabilmektedirler.
+Sosyal medya, bireylere içerikle ve diğer kullanıcılarla etkileşime girme olanağı sağlar. Kullanıcılar anlık mesajlaşma, e-posta, sohbet odaları, görüntülü sohbet ve diğer internet uygulamaları aracılığıyla iletişim kurabilmektedirler.
 
 Kullanıcıların sosyal ağları kullanma amaçları çeşitlidir. Bunlar arasında ortak hedefler için iş birliği yapmak, bilgi edinmek, öğrenmek, diğer insanlarla ilişkiler kurmak gibi niyetler bulunmaktadır.
 Bu platformlar, modern iletişim ve bilgi paylaşımının vazgeçilmez araçları haline gelmiştir.
@@ -17,7 +17,7 @@ Bu platformlar, modern iletişim ve bilgi paylaşımının vazgeçilmez araçlar
 | --- | :---: | :---: | :---: | :---: | :---: |
 | <img src="docs/images/mastodon-icon.svg" alt="Mastodon" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> Mastodon </span> | Merkeziyetsiz | <span style="color: green;">✓</span> | AGPLv3 | <span style="color: green;">✓</span> | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> |
 | <img src="docs/images/lemmy_icon.png" alt="Lemmy" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> Lemmy </span> | Merkeziyetsiz | <span style="color: green;">✓</span> | AGPLv3 | <span style="color: green;">✓</span> | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> |
-| <img src="docs/images/bluesky.png" alt="Lemmy" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> Bluesky Social </span> | Merkeziyetsiz | <span style="color: green;">✓</span> | MIT | <span style="color: green;">✓</span> | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> |
+| <img src="docs/images/bluesky.png" alt="Bluesky" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> Bluesky Social </span> | Merkeziyetsiz | <span style="color: green;">✓</span> | MIT | <span style="color: green;">✓</span> | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> |
 | <img src="docs/images/odyseelogo.png" alt="Odysee" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> Odysee | Merkeziyetsiz | <span style="color: green;">✓</span> | MIT | <span style="color: green;">✓</span> | <i class="fa-solid fa-globe"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> |
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/mastodon-icon.svg" alt="Mastodon" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> Mastodon
@@ -42,7 +42,7 @@ Lemmy, birbirleriyle iletişim kurabilen ve etkileşimde bulunabilen bağımsız
 
 - [Açık kaynak depo](https://github.com/LemmyNet/lemmy)
 
-### <span style="display: inline-block; vertical-align: middle;"><img src="https://github.com/bluesky-social/social-app/blob/main/assets/app-icons/android_icon_core_aurora.png?raw=true" alt="Bluesky" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> Bluesky Social
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/bluesky.png" alt="Bluesky" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> Bluesky Social
 
 [**Bluesky Social**](https://bsky.app/), merkeziyetsiz bir sosyal ağ deneyimi sunmayı amaçlayan, açık kaynak tabanlı bir platformdur. AT Protocol üzerine inşa edilen Bluesky, kullanıcılarına daha fazla özgürlük, veri sahipliği ve içerik taşınabilirliği sunar. Modern bir sosyal ağ vizyonuyla reklamdan uzak ve kullanıcı odaklı bir deneyim sağlar.
 

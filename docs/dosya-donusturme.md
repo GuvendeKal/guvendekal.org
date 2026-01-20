@@ -23,7 +23,7 @@
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/handbrake-icon.png" alt="handbrake" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> HandBrake
 
-[**HandBrake**](https://handbrake.fr/), hemen hemen her video formatını, yaygın olarak kullanılan video formatlarına dönüştürmek için kullanılan ücretsiz, açık kaynak kodlu bir araçtır. MP4, MKV gibi video formatlarını destekler. Ayrıca, DVD ve Blu-ray disklerinden video çıkarabilir ve farklı video codec'leri ile sıkıştırma işlemi yapabilir. Dosyalarınızı internet ortamına yükleyerek işleyen, büyük boyutlu dosyalarla işlem yaparken zaman kaybına ve internet kullanımına neden olan bulut tabanlı dönüştürücülerden farklı olarak, HandBrake internet bağlantısına ihtiyaç duymaz ve dosyalarınızı dışarıya yüklemeden, hem hız hem de gizlilik açısından dönüşüm yapmanızı sağlar.
+[**HandBrake**](https://handbrake.fr/), hemen hemen her video formatını, yaygın olarak kullanılan video formatlarına dönüştürmek için kullanılan ücretsiz, açık kaynak kodlu bir araçtır. MP4, MKV gibi video formatlarını destekler. Ayrıca, DVD ve Blu-ray disklerinden video çıkarabilir ve farklı video codec'leri ile sıkıştırma işlemi yapabilir. Dosyalarınızı internet ortamına yükleyerek işleyen, büyük boyutlu dosyalarla işlem yaparken zaman kaybına ve internet kullanımına neden olan bulut tabanlı dönüştürücülerden farklı olarak HandBrake, internet bağlantısına ihtiyaç duymaz ve dosyalarınızı dışarıya yüklemeden, hem hız hem de gizlilik açısından dönüşüm yapmanızı sağlar.
 
 - [Açık kaynak depo](https://github.com/HandBrake/HandBrake)
 - [Gizlilik politikası](https://handbrake.fr/privacy.php)

@@ -8,13 +8,13 @@
 
 **Tarayıcılar**, kullanıcıların internet sitelerine erişmelerini sağlayan başlıca yazılımlardır. Tarayıcının görevi, bir internet sitesininin HTML ve CSS dosyalarını işleyerek kullanıcılara sitenin içeriğini (metin dosyaları, görseller, ses dosyaları, videolar vs) görsel ve işitsel bir şekilde sunmaktır.
 
-Günümüz dünyasında en çok kullanılan tarayıcılar **Chromium** tabanlıdır. Örneğin Chrome, Opera, Edge yada Brave, Chromium tabanlı tarayıcılardır. Chromium açık kaynaklı bir proje olsada, sahibinin Google olması nedeniyle tercih edilmemesi gerektiğini düşünmekteyiz. (Tercih edilse bile Brave gibi alternatifler kullanılmalıdır.)
+Günümüz dünyasında en çok kullanılan tarayıcılar **Chromium** tabanlıdır. Örneğin Chrome, Opera, Edge yada Brave, Chromium tabanlı tarayıcılardır. Chromium açık kaynaklı bir proje olsa da, sahibinin Google olması nedeniyle tercih edilmemesi gerektiğini düşünmekteyiz. (Tercih edilse bile Brave gibi alternatifler kullanılmalıdır.)
 
 !> Google'ın tekel bir şirket olmasından ve Chromium'un sahibi olduğundan dolayı tarayıcı piyasasında istediğini, diğer tarayıcılar kabul etmese bile yapabilmektedir. Google, haksız rekabet ortamı yarattığı için pek çok kez milyarlarca dolar para cezası ödemek zorunda kalmıştır. Google 2024 yılında, Amerika anayasası tarafından tekel ilan edilmiştir. Google, kullanıcılarına sunduğu arama sonuçlarında yeterli kaliteyi vermese bile, kullanıcılar tarafından tercih edilmeye devam ettiğini kendi içinde verdiği raporlarda belirtmiştir. Google'ın bunun gibi pek çok _etik olmayan_ davranışı ve _haksız rekabet ortamı_ yarattığı kayıtlara geçmiştir.
 
 Bu gibi sebeplerden ötürü, Chromium'dan sonra en çok kullanılan tarayıcı olan **Firefox** ve Firefox tabanlı tarayıcılar kullanılmasının, daha iyi bir internet için gerekli olduğunu düşünüyoruz.
 
-?> Tarayıcınızı seçtikten sonra hangi arama motorunu kullanacağınızı seçtiniz mi? Yada eklenti yüklemeyi düşünüyor musunuz? Önerdiğimiz arama motorları için [**Arama Motorları**](https://guvendekal.org/#/arama-motorlari) sayfasını, eklentileri görmek için [**Tarayıcı Eklentileri**](guvendekal.org/#/tarayici-eklentileri) sayfasını ziyaret edebilirsiniz.
+?> Tarayıcınızı seçtikten sonra hangi arama motorunu kullanacağınızı seçtiniz mi? Ya da eklenti yüklemeyi düşünüyor musunuz? Önerdiğimiz arama motorları için [**Arama Motorları**](https://guvendekal.org/#/arama-motorlari) sayfasını, eklentileri görmek için [**Tarayıcı Eklentileri**](guvendekal.org/#/tarayici-eklentileri) sayfasını ziyaret edebilirsiniz.
 
 ## Önerilen Tarayıcılar Listesi
 
@@ -53,7 +53,7 @@ Brave içinde gömülü reklam engelleyici ve izleme engelleyici ile gelmektedir
 
 Brave içinde aynı zamanda kripto cüzdan olarak kullanabileceğiniz [**Brave Wallet**](https://brave.com/wallet/) gibi farklı özellikler de bulunmaktadır. Brave'in aynı zamanda [**Brave Search**](https://guvendekal.org/#/arama-motorlari?id=brave-search) isimli arama motoruna bakabilirsiniz.
 
-### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/mullvad-icon.png" alt="mullvad" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Mullvad Browser
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/mullvad-icon.png" alt="Mullvad" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Mullvad Browser
 
 [**Mullvad Browser**](https://mullvad.net/tr/browser), Mullvad VPN ile Tor Project ortaklığı ile ortaya çıkmış bir tarayıcıdır. Geliştirilmesi Tor Project tarafından sağlanırken, dağıtımını Mullvad üstlenir.
 

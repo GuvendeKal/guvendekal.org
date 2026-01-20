@@ -28,9 +28,9 @@ DNS sunucusu değiştirmek genellikle kolay bir işlemdir. Aşağıda kullandı�
 
 #### IOS/Android
 
-- **IOS:** Ayarlar menüsüne git > Wi-Fi veya Mobil Ağlar'a tıkla > Bağlı olduğun ağa uzun bas > "Ağ Ayarlarını Düzenle" seçeneğini seç > "Gelişmiş Ayarlar" bölümünü aç > "DNS" kısmını bul ve mevcut DNS'i değiştir > Yeni DNS adreslerini gir > Değişiklikleri kaydet ve çık.
+- **IOS:** Ayarlar menüsüne gidin > Wi-Fi veya Mobil Ağlar'a tıklayın > Bağlı olduğunuz ağa uzun basın > "Ağ Ayarlarını Düzenle" seçeneğini seçin > "Gelişmiş Ayarlar" bölümünü açın > "DNS" kısmını bulun ve mevcut DNS'i değiştirin > Yeni DNS adreslerini girin > Değişiklikleri kaydedin ve çıkın.
 
-- **Android:** Ayarlar menüsüne git > Bağlantı ve paylaşma'ya gir > Özel DNS'e gir > Belirlenen DNS ayarını seçip DNS adreslerini gir. > Kaydedip çık.
+- **Android:** Ayarlar menüsüne gidin > Bağlantı ve paylaşma'ya girin > Özel DNS'e girin > Belirlenen DNS ayarını seçip DNS adreslerini girin > Kaydedip çıkın.
 
 !> Kullandığınız işletim sisteminin sürümüne, kullandığınız cihazın marka ve modeline göre DNS değiştirme işlemleri değişiklik gösterebilir.
 
@@ -79,7 +79,7 @@ DNS sunucusu seçerken dikkat edilecek ikinci şey güvenlik ve reklam engelleme
 | --- |
 | Mullvad farklı ihtiyaçlara farklı DNS sunucuları sağlamaktadır. Bunların hepsine [**buradan**](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls) ulaşabilirsiniz. |
 
-[**Mullvad DNS**](https://mullvad.net/tr/help/dns-over-https-and-dns-over-tls), sıfır kayıt tutma politikası ile kullanıcılarına reklam engellemede sunmaktadır. Aynı zamanda Mullvad DNS sunucularında sansür uygulanmaz.
+[**Mullvad DNS**](https://mullvad.net/tr/help/dns-over-https-and-dns-over-tls), sıfır kayıt tutma politikası ile kullanıcılarına reklam engelleyici de sunmaktadır. Aynı zamanda Mullvad DNS sunucularında sansür uygulanmaz.
 
 - [Gizlilik politikası](https://mullvad.net/en/help/privacy-policy)
 
