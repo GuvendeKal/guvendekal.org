@@ -718,7 +718,7 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
         </div>
     </div>
      <div class="service-box">
-        <img src="docs/images/wintoys-icon.png" alt="wintoys" style="border-radius: 10px;">
+        <img src="docs/images/wintoys-icon.png" alt="icon" style="border-radius: 10px;">
         <div class="title">
             <a href="https://guvendekal.org/#/windows-guvenligi?id=-chris-titus-tech39s-wintoys" target="_blank" style="color: inherit; text-decoration: none;">Wintoys</a>
         </div>
