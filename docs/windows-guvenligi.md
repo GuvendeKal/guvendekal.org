@@ -19,7 +19,7 @@ Bu nedenle Windows üzerinde ek güvenlik ve gizlilik araçları kullanmak bir t
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/win-util.png" alt="winutil" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Chris Titus Tech's WinUtil
 
-[**WinUtil**](https://christitustech.github.io/winutil/), açık kaynak kodlu ve windows işletim sisteminde çeşitli ayarları yapılandırmanıza yardımcı olan. Windows kullanıcılarının sistem performansını optimize etmelerine, gereksiz dosyaları temizlemelerine, gizlilik ayarlarını iyileştirmelerine ve daha verimli bir çalışma ortamı oluşturmalarına olanak sağlayan bir yönetim aracıdır.
+[**WinUtil**](https://christitustech.github.io/winutil/), açık kaynak kodlu ve Windows işletim sisteminde çeşitli ayarları yapılandırmanıza yardımcı olan. Windows kullanıcılarının sistem performansını optimize etmelerine, gereksiz dosyaları temizlemelerine, gizlilik ayarlarını iyileştirmelerine ve daha verimli bir çalışma ortamı oluşturmalarına olanak sağlayan bir yönetim aracıdır.
 
 - **Kullanımı**
   - Başlat menüsüne sağ tıklayın.
