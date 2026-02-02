@@ -573,17 +573,23 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
 
 ## QR Kod Araçları
 
-<div class="service-container">
+<div class="service-container">    
+    <div class="service-box">
+        <img src="docs/images/miniqr-icon.png" alt="icon" style="border-radius: 10px;">
+        <div class="title">
+            <a href="http://guvendekal.org/#/qr-kod-araclari?id=-miniqr" target="_blank" style="color: inherit; text-decoration: none;">MiniQR</a>
+        </div>
+    </div>
+    <div class="service-box">
+        <img src="docs/images/qrcodly-icon.png" alt="icon">
+        <div class="title">
+            <a href="http://guvendekal.org/#/qr-kod-araclari?id=-qrcodly" target="_blank" style="color: inherit; text-decoration: none;">QRcodly</a>
+        </div>
+    </div>
     <div class="service-box">
         <img src="docs/images/fliso-icon.png" alt="icon" style="border-radius: 10px;">
         <div class="title">
             <a href="http://guvendekal.org/#/qr-kod-araclari?id=-fliso" target="_blank" style="color: inherit; text-decoration: none;">Fli.so</a>
-        </div>
-    </div>
-    <div class="service-box">
-        <img src="docs/images/dubco-icon.png" alt="icon">
-        <div class="title">
-            <a href="http://guvendekal.org/#/qr-kod-araclari?id=-dubco" target="_blank" style="color: inherit; text-decoration: none;">Dub.co</a>
         </div>
     </div>
 </div>
@@ -603,7 +609,7 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
 
 <div class="service-container">
     <div class="service-box">
-        <img src="docs/images/7zip.png" alt="icon" style="border-radius: 10px;">
+        <img src="docs/images/7zip.png" alt="icon">
         <div class="title">
             <a href="https://guvendekal.org/#/dosya-sikistirma?id=-7-zip" target="_blank" style="color: inherit; text-decoration: none;">7-Zip</a>
         </div>
@@ -628,6 +634,23 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
     </div>
 </div>
 
+## Dosya Şifreleme Uygulamaları
+
+<div class="service-container">
+    <div class="service-box">
+        <img src="docs/images/cryptomator-icon.png" alt="icon">
+        <div class="title">
+            <a href="http://guvendekal.org/#/dosya-donusturme?id=-cryptomator" target="_blank" style="color: inherit; text-decoration: none;">Cryptomator</a>
+        </div>
+    </div>
+    <div class="service-box">
+        <img src="docs/images/veracrypt-icon.png" alt="icon">
+        <div class="title">
+            <a href="http://guvendekal.org/#/dosya-donusturme?id=-veracrypt" target="_blank" style="color: inherit; text-decoration: none;">VeraCrypt</a>
+        </div>
+    </div>
+</div>
+
 ## Dosya Dönüştürme Uygulamaları
 
 <div class="service-container">
@@ -641,6 +664,12 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
         <img src="docs/images/handbrake-icon.png" alt="icon">
         <div class="title">
             <a href="http://guvendekal.org/#/dosya-donusturme?id=-handbrake" target="_blank" style="color: inherit; text-decoration: none;">HandBrake</a>
+        </div>
+    </div>
+    <div class="service-box">
+        <img src="docs/images/vert-icon.jpg" alt="icon" style="border-radius: 10px;">
+        <div class="title">
+            <a href="http://guvendekal.org/#/dosya-donusturme?id=-vertsh" target="_blank" style="color: inherit; text-decoration: none;">VERT.sh</a>
         </div>
     </div>
 </div>
@@ -686,6 +715,12 @@ Daha fazla bilgi için [**Mahremiyet**](https://guvendekal.org/#/mahremiyet) ve 
         <img src="docs/images/win-util.png" alt="icon" style="border-radius: 10px;">
         <div class="title">
             <a href="https://guvendekal.org/#/windows-guvenligi?id=-chris-titus-tech39s-winutil" target="_blank" style="color: inherit; text-decoration: none;">WinUtil</a>
+        </div>
+    </div>
+     <div class="service-box">
+        <img src="docs/images/wintoys-icon.png" alt="icon" style="border-radius: 10px;">
+        <div class="title">
+            <a href="https://guvendekal.org/#/windows-guvenligi?id=-chris-titus-tech39s-wintoys" target="_blank" style="color: inherit; text-decoration: none;">Wintoys</a>
         </div>
     </div>
 </div>
