@@ -12,9 +12,14 @@
 | Mesajlaşma uygulaması | Fiyat | Kayıt Tutma | Açık Kaynak | Şifreleme | Ülke | Platformlar |
 |-----------------------|:-------:|:------------------:|:-------------:|:-----------:|:------:|:-------------:|
 | <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/signal.png" alt="Signal" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Signal | Ücretsiz | × | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | ABD | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> |
-| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/session.png" alt="Session" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Session | Ücretsiz | <span style="color: green;">×</span> | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | Avusturalya | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> |
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/session.png" alt="Session" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Session | Ücretsiz | × | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | Avusturalya | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> |
 | <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/threema.png" alt="Threema" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Threema | € 4,99 | × | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | İsviçre | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> |
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/simplex-chat.png" alt="SimpleX Chat" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> SimpleX Chat | Ücretsiz | × | <span style="color: green;">✓</span> | <span style="color: green;">✓</span> | AGPL-3.0 | <i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i> |
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/bitchat.png" alt="Bitchat" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Bitchat | Ücretsiz | × | <span style="color: green;">✓</span> | <span style="color: orange;">Sadece özel mesajlar</span> | - | </i> <i class="fa-brands fa-apple"></i><i class="fa-brands fa-android"></i> |
+| <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/fossify-messages.png" alt="Fossify Mesajlar" style="width: 30px; height: 30px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Fossify Messages | Ücretsiz | × | <span style="color: green;">✓</span> | <span style="color: orange;">×</span> | GPL-3.0 | <i class="fa-brands fa-android"></i> |
 
+
+---
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/signal.png" alt="Signal" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Signal
 
@@ -180,3 +185,156 @@
 
 - [Açık kaynak depo](https://github.com/threema-ch)
 - [Gizlilik politikası](https://threema.ch/privacy_policy/)
+
+---
+
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/simplex-chat.png" alt="SimpleX Chat" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> SimpleX Chat
+
+[**SimpleX Chat**](https://github.com/simplex-chat/simplex-chat) kullanıcı kimliği gerektirmeyen, uçtan uca şifreli ve tamamen açık kaynaklı bir mesajlaşma uygulamasıdır. Hem mobil hem de masaüstü platformlarında kullanılabilir.
+
+<table>
+ <tr>
+  <th colspan="2">SimpleX Chat Detayları</th>
+ </tr>
+ <tr>
+  <td>Kayıt Tutuyor mu?</td>
+  <td><span style="color: green;">×</span></td>
+ </tr>
+ <tr>
+  <td>Açık Kaynak</td>
+  <td><span style="color: green;">✓</span></td>
+ </tr>
+ <tr>
+  <td>Uçtan Uca Şifreleme</td>
+  <td><span style="color: green;">✓</span></td>
+ </tr>
+ <tr>
+  <td>İki Faktörlü Kimlik Doğrulama</td>
+  <td><span style="color: green;">✓</span></td>
+ </tr>
+ <tr>
+  <td>Gizlilik Odaklı</td>
+  <td><span style="color: green;">✓</span></td>
+ </tr>
+ <tr>
+  <td>Lisans Türü</td>
+  <td>AGPL-3.0 <span style="color: green;"><small>Özgür Yazılım</small></span></td>
+ </tr>
+ <tr>
+  <td>Şifreleme Protokolleri</td>
+  <td>Double Ratchet</td>
+ </tr>
+ <tr>
+  <td>Platform Desteği</td>
+<td><i class="fa-brands fa-windows"></i> <i class="fa-brands fa-apple"></i> <i class="fa-brands fa-linux"></i> <i class="fa-brands fa-android"></i> <i class="fa-brands fa-app-store-ios"></i></td>
+ <tr>
+  <td>Ücretsiz sürüm</td>
+  <td>Mevcut</td>
+ </tr>
+</table>
+
+- [Açık kaynak depo](https://github.com/simplex-chat/simplex-chat)
+- [Gizlilik politikası](https://simplex.chat/privacy/)
+
+---
+
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/bitchat.png" alt="Bitchat" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Bitchat
+
+[**Bitchat**](https://bitchat.free) merkezi olmayan, eşler arası (peer-to-peer) bir mesajlaşma uygulamasıdır ve Bluetooth mesh ağları üzerinden çalışır. İnternet gerekmez, sunucular yoktur, telefon numarası gerekmez. İletişim sistemlerinin çöktüğü acil durumlar (deprem,fırtına vb.) için kullanılabilir.
+<table>
+    <tr>
+        <th colspan="2">Bitchat Detayları</th>
+    </tr>
+    <tr>
+        <td>Kayıt Tutuyor mu?</td>
+        <td><span style="color: green;">×</span></td>
+    </tr>
+    <tr>
+        <td>Açık Kaynak</td>
+        <td><span style="color: green;">✓</span></td>
+    </tr>
+    <tr>
+        <td>Uçtan Uca Şifreleme</td>
+        <td><span style="color: green;">✓</span></td>
+    </tr>
+    <tr>
+        <td>İki Faktörlü Kimlik Doğrulama</td>
+        <td><span style="color: orange;">×</span></td>
+    </tr>
+    <tr>
+        <td>Gizlilik Odaklı</td>
+        <td><span style="color: green;">✓</span></td>
+    </tr>
+    <tr>
+        <td>Lisans Türü</td>
+        <td>Unlicense <span style="color: green;"><small>Özgür Yazılım</small></span></td>
+    </tr>
+    <tr>
+        <td>Kayıtlı Ülke</td>
+        <td>-</td>
+ <tr>
+ <td>Şifreleme Protokolleri</td>
+ <td>Noise Protokol</td>
+ </tr>
+    </tr>
+    <tr>
+        <td>Platform Desteği</td>
+        <td> <i class="fa-brands fa-apple"></i></i> <i class="fa-brands fa-android"></i></td>
+    </tr>
+    <tr>
+        <td>Ücretsiz</td>
+        <td><span style="color: green;">✓</span></td>
+    </tr>
+</table>
+
+- [Açık kaynak depo](https://github.com/permissionlesstech/bitchat)
+- [Gizlilik politikası](https://github.com/permissionlesstech/bitchat/blob/main/PRIVACY_POLICY.md)
+
+### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/fossify-messages.png" alt="Fossify Messages" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Fossify Mesajlar
+
+[**Fossify Mesajlar**](https://github.com/FossifyOrg/Messages) reklam içermeyen ve gereksiz izinler istemeyen açık kaynaklı bir SMS/MMS uygulamasıdır.
+
+<table>
+ <tr>
+  <th colspan="2">Fossify Mesajlar Detayları</th>
+ </tr>
+ <tr>
+  <td>Kayıt Tutuyor mu?</td>
+  <td><span style="color: green;">×</span></td>
+ </tr>
+ <tr>
+  <td>Açık Kaynak</td>
+  <td><span style="color: green;">✓</span></td>
+ </tr>
+ <tr>
+  <td>Uçtan Uca Şifreleme</td>
+  <td><span style="color: orange;">×</span></td>
+ </tr>
+ <tr>
+  <td>İki Faktörlü Kimlik Doğrulama</td>
+  <td><span style="color: orange;">×</span></td>
+ </tr>
+ <tr>
+  <td>Gizlilik Odaklı</td>
+  <td><span style="color: green;">✓</span></td>
+ </tr>
+ <tr>
+  <td>Lisans Türü</td>
+  <td>GPL-3.0 <span style="color: green;"><small>Özgür Yazılım</small></span></td>
+ </tr>
+ <tr>
+  <td>Şifreleme Protokolleri</td>
+  <td>Yok</td>
+ </tr>
+ <tr>
+  <td>Platform Desteği</td>
+  <td><i class="fa-brands fa-android"></i></td>
+ </tr>
+ <tr>
+  <td>Ücretsiz</td>
+  <td><span style="color: green;">✓</span></td>
+ </tr>
+</table>
+
+- [Açık kaynak depo](https://github.com/FossifyOrg/Messages)
+- [Gizlilik politikası](https://www.fossify.org/policy/messages/)
