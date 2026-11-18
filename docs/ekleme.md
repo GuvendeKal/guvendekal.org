@@ -42,7 +42,7 @@ Zaten ekleme yapmak istediğiniz sayfa var mı? O zaman `guvendekal.org/docs/` k
 
 Sol menü, Github deposunda `guvendekal.org/docs/` klasöründe bulunan `_sidebar.md` adlı dosyadır.
 
-?> Menü dosyasını açmak için [buraya](https://github.com/GokturkTalha/guvendekal.org/edit/main/docs/_sidebar.md) tıklayabilirsiniz.
+?> Menü dosyasını açmak için [buraya](https://github.com/GuvendeKal/guvendekal.org/edit/main/docs/_sidebar.md) tıklayabilirsiniz.
 
 - `#` ile menüde başlıklar oluşturabilirsiniz. Örneğin menüde gördüğünüz "Nedir, Dökümantasyon" birer başlıktır.
 - `[Menüde görünecek isim](-.md)` ile menüye sayfanızı ekleyebilirsiniz.

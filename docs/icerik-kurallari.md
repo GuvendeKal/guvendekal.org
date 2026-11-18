@@ -6,7 +6,7 @@
 
 Güvende Kal, kullanıcılara sunduğu içeriklerin kalitesini artırmak amacıyla belirli **standartlar** sunar. Bu standartlara uymayan içerikler platforma kabul edilmez veya revize edilmek için bekletilir.
 
-?> Sayfa ve menüleri eklemek ve düzeltmeyi öğrenmek için [**buraya**](https://guvendekal.org/#/ekleme) bakabilirisiniz.
+?> Sayfa ve menüleri eklemek ve düzeltmeyi öğrenmek için [**buraya**](https://guvendekal.org/#/ekleme) bakabilirsiniz.
 
 Güvende Kal, felsefesi gereği **özgür yazılım** ve **açık kaynak** uygulama ve araçları; kapalı kaynak ve özel mülkiyet uygulama ve araçlar yerine tercih edecektir.
 
@@ -46,4 +46,4 @@ Güvende Kal, felsefesi gereği **özgür yazılım** ve **açık kaynak** uygul
 
  - Uygulamanın geliştirildiği ülke belirtilmelidir.
 
-!> Eklenmesi gereken kurallar olduğunu düşünüyorsanız [buraya](https://github.com/GokturkTalha/guvendekal.org/issues) konu açabilirsiniz.
+!> Eklenmesi gereken kurallar olduğunu düşünüyorsanız [buraya](https://github.com/GuvendeKal/guvendekal.org/issues) konu açabilirsiniz.

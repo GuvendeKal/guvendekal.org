@@ -1,5 +1,5 @@
 <!-- NOTLAR
- - Bu kategoride lokal ve bulut tabanlı çeviri araçları ayrı ayrı eklenebilir- tek bir tabloda belirtilebilir ancak lokal ve bulut tabanlı çeviri ataçlarının farkı anlatılmalıdır.
+ - Bu kategoride lokal ve bulut tabanlı çeviri araçları ayrı ayrı eklenebilir- tek bir tabloda belirtilebilir ancak lokal ve bulut tabanlı çeviri araçlarının farkı anlatılmalıdır.
  - Tablo eklemeyi unutmayın
  - Uygun görseller eklemeyi unutmayın.
  - İçerik kuralları ve ekleme yapmak sayfalarını ziyaret edebilirsiniz -->

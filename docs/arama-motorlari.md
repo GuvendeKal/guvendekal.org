@@ -31,7 +31,6 @@ Bu nedenlerle sizin verilerinizi işleyip kullanan, aramalarda manipülasyon yap
 - Searx, meta bir arama motorudur. Farklı arama motorlarının sonuçlarını göstermektedir.
 - DuckDuckGo'nun arama motoru kapalı kaynaktır. Ancak bazı istemcileri açık kaynaktır, [**buradan**](https://duckduckgo.com/duckduckgo-help-pages/open-source/opensource-overview/) kontrol edebilirsiniz.
 - DuckDuckGo, StartPage ve Brave Search'in kullanıcılarına sunduğu reklamlar, kapatılabilmektedir. Aynı zamanda kullanıcıların arama sorgularını ve davranışlarını analiz edip reklam göstermez.
-- Whoogle, açık kaynak ve özgür yazılım olup Google sonuçlarını gösteren, ancak Google'daki gereksiz ve gizliliğe önem vermeyen servisleri çıkartıp size sunan sade ve kullanışlı bir arama motorudur.
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/duckduckgo-icon.png" alt="DDG" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> DuckDuckGo
 
@@ -65,7 +64,7 @@ Startpage’in Anonymous View özelliği, kullanıcıların web sitelerini anoni
 
 Kişiselleştirilmiş reklamlar olmadığı için kullanıcının mahremiyetine saygı duyar. Ayrıca, kullanıcılara bu reklamları kapatma seçeneği de sunulur.
 
-StartPage kullanıcılarının mahremiyetine ve gizliliğine önem verdiği için Google yada Bing gibi alternatifler yerine tercih etmenizi öneririz. Daha fazla bilgi için StartPage'in [**Gizlilik Poltikasına**](https://www.startpage.com/en/privacy-policy) bakabilirsiniz.
+StartPage kullanıcılarının mahremiyetine ve gizliliğine önem verdiği için Google yada Bing gibi alternatifler yerine tercih etmenizi öneririz. Daha fazla bilgi için StartPage'in [**Gizlilik Politikasına**](https://www.startpage.com/en/privacy-policy) bakabilirsiniz.
 
 ### <span style="display: inline-block; vertical-align: middle;"><img src="docs/images/searx-icon.png" alt="Searx" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> Searx
 
@@ -81,4 +80,3 @@ Searx, bağımsız bir arama motoru olduğu için herkes Searx'i kendi sunucusun
 
 Searx'i kullanıcılarının mahremiyetine ve gizliliğine önem verdiği için Google yada Bing gibi alternatifler yerine tercih etmenizi öneririz. Aynı zamanda Searx'in [**dökümantasyon**](https://docs.searxng.org/) sayfasına ve [**kaynak kodlarına**](https://github.com/searxng/searxng) bakabilirsiniz.
 
-- [**Güvende Kal Searx Sunucusu**](https://searx.guvendekal.org/)

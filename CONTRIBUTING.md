@@ -14,7 +14,7 @@ Ancak, projenin kalitesinin sağlanması ve karışıklıkların önlenmesi adı
 
 ### İçerik ekleme, değiştirme ve silme
 
-İçerikler tüm genel ağ kullanıcıları tarafından, **toplum yararına** ve **proje ilkelerine** bağlı oluğu sürece değiştirilebilir, ekleme yapılabilir.
+İçerikler tüm genel ağ kullanıcıları tarafından, **toplum yararına** ve **proje ilkelerine** bağlı olduğu sürece değiştirilebilir, ekleme yapılabilir.
 
 #### İçerik ekleme
 
