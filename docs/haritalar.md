@@ -23,7 +23,7 @@
 
 <!-- Yetersiz içerik dolayısıyla not içine alındı.
 
-<span style="display: inline-block; vertical-align: middle;"><img src="docs/images/organicmaps.png" alt="Organic Maps" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Organic Maps
+<span style="display: inline-block; vertical-align: middle;"><img src="docs/images/omaps.png" alt="Organic Maps" style="width: 50px; height: 50px;"> </span> <span style="display: inline-block; vertical-align: middle;"> Organic Maps
 
 Açıkkaynak bir harita uygulaması olan Organic Maps, 2021 Yılında geliştirilmiş olup openstreetmaps kullanmaktadır.
 <table>

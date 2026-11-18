@@ -12,4 +12,4 @@
 
 [**VirusTotal**](https://www.virustotal.com/gui/), kullanıcıların dosya ve bağlantılarını çeşitli antivirüs motorlarıyla tarayarak potansiyel tehditleri tespit etmelerine yardımcı olan ücretsiz bir çevrimiçi araçtır. Bir dosya veya bağlantı, farklı güvenlik yazılımlarıyla analiz edilir ve her birinin verdiği sonuçlar bir arada sunulur. Bu, kullanıcıların şüpheli içerikleri güvenle kontrol etmelerine olanak tanır ve kötü amaçlı yazılımlar hakkında hızlı bir değerlendirme yapmalarını sağlar. VirusTotal, bağlantıları ve internetten indirdiğiniz dosyaların güvenliğini öğrenmenize yarayan önemli bir araçtır.
 
-!> VirusTotal, her tehditi algılayamayabilir!
+!> VirusTotal, her tehdidi algılayamayabilir!
